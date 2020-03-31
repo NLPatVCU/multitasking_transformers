@@ -109,4 +109,5 @@ experiments/
 #datasets
 examples/data/*
 examples/raw_datasets/ner/i2b2_2010/*
+examples/raw_datasets/ner/i2b2_2014/*
 examples/raw_datasets/ner/n2c2_2018/*

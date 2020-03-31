@@ -144,3 +144,131 @@ def load_n2c2_2018(partition='train'):
 
         doc._.id = id
         yield doc, fixed_annotation
+
+def load_i2b2_2014(partition='train'):
+    assert partition in ['train', 'test']
+    language = get_language()
+
+    if partition == 'train':
+        annotation_dir = (os.path.join(base_path, 'ner', 'i2b2_2014', 'training-PHI-Gold-Set1'),
+                          os.path.join(base_path, 'ner', 'i2b2_2014', 'training-PHI-Gold-Set2'))
+        file_list = os.listdir(annotation_dir[0])
+        file_list += os.listdir(annotation_dir[1])
+    else:
+        annotation_dir = os.path.join(base_path, 'ner', 'i2b2_2014', 'testing-PHI-Gold-fixed')
+        file_list = os.listdir(annotation_dir)
+
+
+    file_ids = sorted(set(file[:-4] for file in file_list))  # remove ending to get unique files
+
+    # print(file_ids)
+    # exit()
+    annotations = []
+
+    raw_text_files = []
+
+    unique_entity_labels = set()
+
+
+    for id in file_ids:
+
+        if partition == 'train':
+            if os.path.exists(os.path.join(annotation_dir[0], f'{id}.xml')):
+                root = ET.fromstring(open(os.path.join(annotation_dir[0], f'{id}.xml'), 'r').read().strip())
+            else:
+                root = ET.fromstring(open(os.path.join(annotation_dir[1], f'{id}.xml'), 'r').read().strip())
+        else:
+            root = ET.fromstring(open(os.path.join(annotation_dir, f'{id}.xml'), 'r').read().strip())
+
+        annotation = {
+            'entities': {
+
+            },
+            'relations': []
+        }
+
+        raw_text_files.append(root.findall("./TEXT")[0].text)
+        annotation_xml = root.findall("./TAGS")[0]
+
+        for annotation_dict in annotation_xml:
+            assert isinstance(annotation_dict.attrib, dict)
+            annotation['entities'][annotation_dict.attrib['id']] = []
+            start, end, label = int(annotation_dict.attrib['start']), int(annotation_dict.attrib['end']), annotation_dict.attrib['TYPE']
+            unique_entity_labels.add(label)
+            annotation['entities'][annotation_dict.attrib['id']].append(tuple((start, end, label)))
+
+        annotations.append(annotation)
+
+    raw_text_files = list(language.pipe(raw_text_files, batch_size=50))
+
+    #Assures that the annotated dataset labels align with the tokenization.
+    for idx, (id, doc, annotation) in enumerate(zip(file_ids, raw_text_files, annotations)):
+
+        #doc = language(doc)
+
+        fixed_annotation = {
+            'entities':{
+
+            },
+            'relations': annotation['relations']
+        }
+
+        for idx, key in enumerate(annotation['entities']):
+            instance = annotation['entities'][key]
+            fixed_annotation['entities'][key] = []
+            for span in instance:
+                char_span = doc.char_span(span[0], span[1])
+                if char_span is None:
+                    if doc.char_span(span[0]-1, span[1]) is not None:
+                        char_span = doc.char_span(span[0]-1, span[1])
+                    elif doc.char_span(span[0], span[1]+1) is not None:
+                        char_span = doc.char_span(span[0], span[1]+1)
+                    elif doc.char_span(span[0], span[1]+2) is not None:
+                        char_span = doc.char_span(span[0], span[1]+2)
+                    elif doc.char_span(span[0]-1, span[1]-1) is not None:
+                        char_span = doc.char_span(span[0]-1, span[1]-1)
+                    elif doc.char_span(span[0]-2, span[1]-2) is not None:
+                        char_span = doc.char_span(span[0]-2, span[1]-2)
+                    elif doc.char_span(span[0]-2, span[1]-1) is not None:
+                        char_span = doc.char_span(span[0]-2, span[1]-1)
+                    elif doc.char_span(span[0], span[1]-1) is not None:
+                        char_span = doc.char_span(span[0], span[1]-1)
+                    elif doc.char_span(span[0]-1, span[1]-1) is not None:
+                        char_span = doc.char_span(span[0]-1, span[1]-1)
+                    elif doc.char_span(span[0], span[1]+1) is not None:
+                        char_span = doc.char_span(span[0], span[1]+1)
+                    elif doc.char_span(span[0]+1, span[1]) is not None:
+                        char_span = doc.char_span(span[0]+1, span[1])
+                    elif doc.char_span(span[0], span[1]-3) is not None:
+                        char_span = doc.char_span(span[0], span[1]-3)
+                    elif doc.char_span(span[0]+5, span[1]+5) is not None:
+                        char_span = doc.char_span(span[0]+5, span[1]+5)
+
+                if char_span is None:
+                    # for token in doc:
+                    #     print(token)
+                    print(str(doc)[span[0]- 20:span[1] + 20])
+                    print(id, span, str(doc)[span[0]:span[1]])
+                    continue
+                    # raise RuntimeError(
+                    #     'Could not load mention span from %s as it does not align with tokenization. Add \'%s\' to tokenization exceptions.'
+                    #     % (id, str(doc)[int(span[0]):int(span[1])]))
+
+                #checks if this span overlaps with any other
+                overlapping = False
+                for idx2, key2 in enumerate(annotation['entities']):
+                    for s2 in annotation['entities'][key2]:
+                        if char_span.start_char <= s2[1] and s2[0] <= char_span.end_char:
+                            if idx == idx2:
+                                pass
+                            else:
+                                # overlapping span, ignore the occurence.
+                                overlapping = True
+                if not overlapping:
+                    fixed_annotation['entities'][key].append(tuple((char_span.start_char, char_span.end_char, span[2])))
+
+        fixed_annotation['entity_labels'] = I2B2_2014_NER_LABELS
+        fixed_annotation['relation_labels'] = I2B2_2014_RELATION_LABELS
+
+        doc._.id = id
+        yield doc, fixed_annotation

@@ -89,24 +89,24 @@ if not os.path.isdir(save_dir):
 # #END TAC 2018 NER
 #
 #START I2B2 2010 NER
-from raw_datasets.ner import load_i2b2_2010
-
-save_dir = I2B2_2010_NER_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving I2B2 2010 Train: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2010(partition='train')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
-
-
-save_dir = I2B2_2010_NER_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving I2B2 2010 NER Test: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2010(partition='test')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
+# from raw_datasets.ner import load_i2b2_2010
+#
+# save_dir = I2B2_2010_NER_TRAIN_PATH
+# if not os.path.isdir(save_dir):
+#     print(f"Saving I2B2 2010 Train: {save_dir}")
+#     os.makedirs(save_dir)
+#     inputs = NERDataset.create_ner_dataset(list(load_i2b2_2010(partition='train')),
+#                                                        BertTokenizer.from_pretrained(bert_weight_directory),
+#                                                        save_directory=save_dir)
+#
+#
+# save_dir = I2B2_2010_NER_TEST_PATH
+# if not os.path.isdir(save_dir):
+#     print(f"Saving I2B2 2010 NER Test: {save_dir}")
+#     os.makedirs(save_dir)
+#     inputs = NERDataset.create_ner_dataset(list(load_i2b2_2010(partition='test')),
+#                                                        BertTokenizer.from_pretrained(bert_weight_directory),
+#                                                        save_directory=save_dir)
 
 #END I2B2 2010 NER
 #
@@ -130,25 +130,25 @@ if not os.path.isdir(save_dir):
 #                                            save_directory=save_dir)
 # #END END 2017 NER
 #
-# #START I2b2 2014 NER
-# from clinical_data.ner import load_i2b2_2014
-#
-# save_dir = I2B2_2014_NER_TRAIN_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving I2B2 2014 Train: {save_dir}")
-#     os.makedirs(save_dir)
-#     inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='train')),
-#                                            BertTokenizer.from_pretrained(bert_weight_directory),
-#                                            save_directory=save_dir)
-#
-# save_dir = I2B2_2014_NER_TEST_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving I2B2 2014 NER Test: {save_dir}")
-#     os.makedirs(save_dir)
-#     inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='test')),
-#                                            BertTokenizer.from_pretrained(bert_weight_directory),
-#                                            save_directory=save_dir)
-# #END I2b2 2014 NER
+#START I2b2 2014 NER
+from raw_datasets.ner import load_i2b2_2014
+
+save_dir = I2B2_2014_NER_TRAIN_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving I2B2 2014 Train: {save_dir}")
+    os.makedirs(save_dir)
+    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='train')),
+                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                           save_directory=save_dir)
+
+save_dir = I2B2_2014_NER_TEST_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving I2B2 2014 NER Test: {save_dir}")
+    os.makedirs(save_dir)
+    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='test')),
+                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                           save_directory=save_dir)
+#END I2b2 2014 NER
 #
 # #START I2b2 2012 NER
 # from clinical_data.ner import load_i2b2_2012
