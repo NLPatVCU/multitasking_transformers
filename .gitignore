@@ -107,5 +107,5 @@ venv.bak/
 experiments/
 
 #datasets
-multitasking_transformers/examples/raw_datasets/ner/i2b2_2010/
-multitasking_transformers/examples/raw_datasets/ner/n2c2_2018/
+examples/raw_datasets/ner/i2b2_2010/*
+examples/raw_datasets/ner/n2c2_2018/*
