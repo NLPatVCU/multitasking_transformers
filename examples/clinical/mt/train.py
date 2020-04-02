@@ -5,6 +5,7 @@ from multitasking_transformers.multitaskers import MultiTaskingBert
 from multitasking_transformers.dataloaders import RoundRobinDataLoader
 from torch.utils.data import DataLoader
 import gin, logging, os, torch, socket, time, shutil, mlflow, atexit
+from pprint import pprint
 
 log = logging.getLogger('root')
 
@@ -82,39 +83,42 @@ TASKS = {
 def get_clinical_configured_tasks(preprocessed_directory=os.path.join(os.getcwd(), '..', '..', 'data')):
 
     for dataset in clinical_ner:
-        if dataset not in TASKS['ner']:
-            TASKS['ner'][dataset] = {}
-        TASKS['ner'][dataset].update(
-            {
-            'head': 'subword_classification',
-            'batch_size': 25,
-            'train': f"{preprocessed_directory}/{dataset}/ner/train",
-            'test': f"{preprocessed_directory}/{dataset}/ner/test"
-            }
-        )
+        if os.path.exists(f"{preprocessed_directory}/{dataset}/ner/train"):
+            if dataset not in TASKS['ner']:
+                TASKS['ner'][dataset] = {}
+            TASKS['ner'][dataset].update(
+                {
+                'head': 'subword_classification',
+                'batch_size': 25,
+                'train': f"{preprocessed_directory}/{dataset}/ner/train",
+                'test': f"{preprocessed_directory}/{dataset}/ner/test"
+                }
+            )
 
     for dataset in clinical_sts:
-        if dataset not in TASKS['sts']:
-            TASKS['sts'][dataset] = {}
-        TASKS['sts'][dataset].update(
-            {
-            'head': 'cls_regression',
-            'batch_size': 40,
-            'train': f"{preprocessed_directory}/{dataset}/similarity/train",
-            'test': f"{preprocessed_directory}/{dataset}/similarity/test"
-            }
-        )
+        if os.path.exists(f"{preprocessed_directory}/{dataset}/similarity/train"):
+            if dataset not in TASKS['sts']:
+                TASKS['sts'][dataset] = {}
+            TASKS['sts'][dataset].update(
+                {
+                'head': 'cls_regression',
+                'batch_size': 40,
+                'train': f"{preprocessed_directory}/{dataset}/similarity/train",
+                'test': f"{preprocessed_directory}/{dataset}/similarity/test"
+                }
+            )
     for dataset in clinical_nli:
-        if dataset not in TASKS['nli']:
-            TASKS['nli'][dataset] = {}
-        TASKS['nli'][dataset].update(
-            {
-            'head': 'cls_classification',
-            'batch_size': 40,
-            'train': f"{preprocessed_directory}/{dataset}/nli/train",
-            'test': f"{preprocessed_directory}/{dataset}/nli/test"
-            }
-        )
+        if os.path.exists(f"{preprocessed_directory}/{dataset}/nli/train"):
+            if dataset not in TASKS['nli']:
+                TASKS['nli'][dataset] = {}
+            TASKS['nli'][dataset].update(
+                {
+                'head': 'cls_classification',
+                'batch_size': 40,
+                'train': f"{preprocessed_directory}/{dataset}/nli/train",
+                'test': f"{preprocessed_directory}/{dataset}/nli/test"
+                }
+            )
 
     return TASKS
 
@@ -139,6 +143,8 @@ def train(experiment_name,
           ):
 
     log.info(gin.config_str())
+    print("MT training with the following tasks:")
+    pprint(TASKS)
     torch.random.manual_seed(seed)
     heads_and_datasets = []
 
