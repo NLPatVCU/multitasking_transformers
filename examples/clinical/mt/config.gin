@@ -1,0 +1,20 @@
+# Run Configuration
+multi_tasking_train.model_storage_directory = "/home/aymulyar/results/multitasking_transformers/bert"
+multi_tasking_train.device = "cuda"
+
+multi_tasking_train.ml_flow_directory = "/home/aymulyar/results/multitasking_transformers/mlflow"
+multi_tasking_train.experiment_name = "all_clinical_tasks"
+
+# Training
+multi_tasking_train.seed = 0
+multi_tasking_train.learning_rate = 5e-5
+multi_tasking_train.num_epochs = 20
+multi_tasking_train.evaluation_interval = 1
+multi_tasking_train.checkpoint_interval = 5
+multi_tasking_train.repeat_in_epoch_sampling = True
+multi_tasking_train.transformer_weights = "/home/aymulyar/models/biobert_pretrain_output_all_notes_150000"
+
+# Data Loading
+multi_tasking_train.shuffle = True
+multi_tasking_train.num_workers = 1
+
