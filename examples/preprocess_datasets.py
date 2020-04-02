@@ -60,6 +60,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 
 try:
     save_dir = N2C2_2018_NER_TEST_PATH
@@ -71,6 +72,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 #END N2C2 2018 NER
 
 # #START TAC 2018 NER
@@ -149,6 +151,7 @@ try:
                                                save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 
 try:
     save_dir = I2B2_2014_NER_TEST_PATH
@@ -160,6 +163,7 @@ try:
                                                save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 #END I2b2 2014 NER
 
 # #START I2b2 2012 NER
@@ -175,6 +179,7 @@ try:
                                                save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 
 try:
     save_dir = I2B2_2012_NER_TEST_PATH
@@ -186,6 +191,7 @@ try:
                                                save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 # #END I2b2 2012 NER
 #
 #
@@ -202,6 +208,7 @@ try:
                                                save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 try:
     save_dir = QUAERO_2014_NER_TEST_PATH
     if not os.path.isdir(save_dir):
@@ -212,6 +219,7 @@ try:
                                                save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 # #END French NER
 #
 #
@@ -228,6 +236,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 try:
     save_dir = N2C2_2019_SIMILARITY_TEST_PATH
     if not os.path.isdir(save_dir):
@@ -238,6 +247,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 # #END N2C2 2019 Similarity
 #
 # #START MEDRQE 2016 Entailment
@@ -253,6 +263,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 try:
     save_dir = MEDRQE_2016_ENTAILMENT_TEST_PATH
     if not os.path.isdir(save_dir):
@@ -263,6 +274,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 # #END MEDRQE 2016 Entailment
 
 #START MEDNLI 2018 NLI
@@ -278,6 +290,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 try:
     save_dir = MEDNLI_2018_NLI_TEST_PATH
     if not os.path.isdir(save_dir):
@@ -288,6 +301,7 @@ try:
                                                            save_directory=save_dir)
 except FileNotFoundError as e:
     print(f"Could not find raw files for {save_dir}")
+    os.rmdir(save_dir)
 # #END MEDNLI 2018 NLI
 #
 #
