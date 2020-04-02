@@ -28,7 +28,7 @@ Implementation, development and training in this project were supported by fundi
 
 -------------
 Todo:
-- [ ] Individual model training example.
+- [ ] Individual finetuning training example.
 - [ ] Finish MT replication README.
 - [ ] Uploaded pre-trained models.
 - [ ] Incorporate non-preprocessing prediction code.
