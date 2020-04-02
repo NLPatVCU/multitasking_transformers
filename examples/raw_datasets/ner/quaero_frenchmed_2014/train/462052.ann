@@ -1,0 +1,6 @@
+T1	PROC 11 32	chirugie carotidienne
+#1	AnnotatorNotes T1	C0741984
+T2	PROC 11 19	chirugie
+#2	AnnotatorNotes T2	C0543467
+T3	ANAT 20 32	carotidienne
+#3	AnnotatorNotes T3	C0741968

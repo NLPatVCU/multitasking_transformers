@@ -1,0 +1,10 @@
+T1	CHEM 4 13	protéines
+#1	AnnotatorNotes T1	C0033684
+T2	CHEM 14 20	acides
+#2	AnnotatorNotes T2	C0001128
+T3	ANAT 24 30	stroma
+#3	AnnotatorNotes T3	C0927195
+T4	ANAT 44 49	aorte
+#4	AnnotatorNotes T4	C0003483
+T5	LIVB 53 57	porc
+#5	AnnotatorNotes T5	C0039005

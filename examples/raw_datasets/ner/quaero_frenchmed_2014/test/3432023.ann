@@ -1,0 +1,10 @@
+T1	DISO 0 7	Aplasie
+#1	AnnotatorNotes T1	C0243065
+T2	DISO 11 17	hernie
+#2	AnnotatorNotes T2	C0019270
+T3	ANAT 18 34	diaphragmatiques
+#3	AnnotatorNotes T3	C0011980
+T4	DISO 35 47	congénitales
+#4	AnnotatorNotes T4	C0000768
+T5	PROC 79 91	observations
+#5	AnnotatorNotes T5	C0700325

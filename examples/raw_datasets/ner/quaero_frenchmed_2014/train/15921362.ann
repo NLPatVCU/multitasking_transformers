@@ -1,0 +1,8 @@
+T1	CHEM 4 15	médicaments
+#1	AnnotatorNotes T1	C0013227
+T2	ANAT 19 43	système cardiovasculaire
+#2	AnnotatorNotes T2	C0007226
+T3	CHEM 60 87	antiagrégants plaquettaires
+#3	AnnotatorNotes T3	C0032188
+T4	ANAT 74 87	plaquettaires
+#4	AnnotatorNotes T4	C0005821

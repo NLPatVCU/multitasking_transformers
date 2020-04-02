@@ -1,0 +1,8 @@
+T1	PROC 3 50	contraception par les dispositifs intra utérins
+#1	AnnotatorNotes T1	C0344221
+T2	PROC 3 16	contraception
+#2	AnnotatorNotes T2	C0700589
+T3	DEVI 25 50	dispositifs intra utérins
+#3	AnnotatorNotes T3	C0021900
+T4	ANAT 43 50	utérins
+#4	AnnotatorNotes T4	C0042149

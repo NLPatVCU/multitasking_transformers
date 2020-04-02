@@ -1,0 +1,8 @@
+T1	DISO 4 17	cardiopathies
+#1	AnnotatorNotes T1	C0018799
+T2	LIVB 22 33	hypertendus
+#2	AnnotatorNotes T2	C0030705
+T3	DISO 22 33	hypertendus
+#3	AnnotatorNotes T3	C0020538
+T4	PROC 55 68	chirurgicales
+#4	AnnotatorNotes T4	C0543467

@@ -1,0 +1,6 @@
+T1	PROC 0 13	Thérapeutique
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 32 44	cystopathies
+#2	AnnotatorNotes T2	C0005686
+T3	LIVB 45 54	féminines
+#3	AnnotatorNotes T3	C0015780

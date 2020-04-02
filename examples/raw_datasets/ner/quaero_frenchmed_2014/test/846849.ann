@@ -1,0 +1,10 @@
+T1	DISO 42 55	myélome à IgD
+#1	AnnotatorNotes T1	C0563307
+T2	CHEM 52 55	IgD
+#2	AnnotatorNotes T2	C0020843
+T3	DISO 0 9	Paralysie
+#3	AnnotatorNotes T3	C0522224
+T4	ANAT 20 23	XII
+#4	AnnotatorNotes T4	C0020614
+T5	DISO 0 9;17 23	Paralysie du XII
+#5	AnnotatorNotes T5	C0437522

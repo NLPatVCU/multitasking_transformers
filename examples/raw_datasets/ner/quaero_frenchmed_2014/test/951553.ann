@@ -1,0 +1,10 @@
+T1	PHYS 15 24	évolution
+#1	AnnotatorNotes T1	C0015219
+T2	LIVB 43 50	enfants
+#2	AnnotatorNotes T2	C0008059
+T3	DISO 63 80	maladie chronique
+#3	AnnotatorNotes T3	C0008679
+T4	DISO 63 70	maladie
+#4	AnnotatorNotes T4	C0012634
+T5	PROC 117 127	recherches
+#5	AnnotatorNotes T5	C0035168

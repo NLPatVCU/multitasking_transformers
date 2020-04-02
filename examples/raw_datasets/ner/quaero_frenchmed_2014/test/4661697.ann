@@ -1,0 +1,12 @@
+T1	DISO 3 35	maladie d' hémagglutinine froide
+#1	AnnotatorNotes T1	C0175816
+T2	DISO 3 10	maladie
+#2	AnnotatorNotes T2	C0012634
+T3	CHEM 14 28	hémagglutinine
+#3	AnnotatorNotes T3	C0001804
+T4	PROC 38 49	Observation
+#4	AnnotatorNotes T4	C0302523
+T5	PROC 65 71	études
+#5	AnnotatorNotes T5	C2603343
+T6	PROC 65 86	études immunologiques
+#6	AnnotatorNotes T6	C0021061

@@ -1,0 +1,14 @@
+T1	PROC 14 48	enregistrement du potentiel hisien
+#1	AnnotatorNotes T1	C0199643
+T2	ANAT 42 48	hisien
+#2	AnnotatorNotes T2	C0006382
+T3	DISO 91 126	troubles de la conduction cardiaque
+#3	AnnotatorNotes T3	C0264886
+T4	DISO 91 99	troubles
+#4	AnnotatorNotes T4	C0012634
+T5	PHYS 106 126	conduction cardiaque
+#5	AnnotatorNotes T5	C0232217
+T6	PHEN 106 116	conduction
+#6	AnnotatorNotes T6	C0457405
+T7	ANAT 117 126	cardiaque
+#7	AnnotatorNotes T7	C0018787

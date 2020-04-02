@@ -1,0 +1,14 @@
+T1	DISO 0 10	Prévention
+#1	AnnotatorNotes T1	C0742770
+T2	DISO 17 37	maladie coronarienne
+#2	AnnotatorNotes T2	C0010068
+T3	DISO 17 24	maladie
+#3	AnnotatorNotes T3	C0012634
+T4	ANAT 25 37	coronarienne
+#4	AnnotatorNotes T4	C0018787
+T5	DISO 143 157	athérosclérose
+#5	AnnotatorNotes T5	C0004513
+T6	DISO 164 176	hypertension
+#6	AnnotatorNotes T6	C0020538
+T7	GEOG 111 122	européennes
+#7	AnnotatorNotes T7	C0015176

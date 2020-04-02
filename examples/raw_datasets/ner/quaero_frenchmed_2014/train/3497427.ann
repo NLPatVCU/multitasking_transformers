@@ -1,0 +1,20 @@
+T1	CHEM 0 13	Antigènes HLA
+#1	AnnotatorNotes T1	C0019721
+T2	CHEM 0 9	Antigènes
+#2	AnnotatorNotes T2	C0003320
+T3	CHEM 30 50	facteurs rhumatoïdes
+#3	AnnotatorNotes T3	C0035448
+T4	DISO 39 50	rhumatoïdes
+#4	AnnotatorNotes T4	C0035435
+T5	DISO 59 82	polyarthrite rhumatoïde
+#5	AnnotatorNotes T5	C1405320
+T6	DISO 59 71	polyarthrite
+#6	AnnotatorNotes T6	C0162323
+T7	DISO 72 82	rhumatoïde
+#7	AnnotatorNotes T7	C0035435
+T8	CHEM 107 116	antigènes
+#8	AnnotatorNotes T8	C0003320
+T9	CHEM 107 120	antigènes DR4
+#9	AnnotatorNotes T9	C0019774
+T10	CHEM 107 116;124 127	antigènes DR7
+#10	AnnotatorNotes T10	C0019780

@@ -1,0 +1,8 @@
+T1	PROC 14 25	traitements
+#1	AnnotatorNotes T1	C0087111
+T2	CHEM 47 60	médicamenteux
+#2	AnnotatorNotes T2	C0013227
+T3	LIVB 97 107	nouveau-né
+#3	AnnotatorNotes T3	C0021289
+T4	DISO 148 152	HSV1
+#4	AnnotatorNotes T4	C2981833

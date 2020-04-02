@@ -1,0 +1,14 @@
+T1	PHYS 43 53	age foetal
+#1	AnnotatorNotes T1	C0017504
+T2	PHYS 43 46	age
+#2	AnnotatorNotes T2	C0001779
+T3	ANAT 47 53	foetal
+#3	AnnotatorNotes T3	C0015965
+T4	ANAT 109 132	os de la voute du crane
+#4	AnnotatorNotes T4	C0037303
+T5	ANAT 109 111	os
+#5	AnnotatorNotes T5	C0262950
+T6	ANAT 118 123	voute
+#6	AnnotatorNotes T6	C0741204
+T7	ANAT 127 132	crane
+#7	AnnotatorNotes T7	C0037303

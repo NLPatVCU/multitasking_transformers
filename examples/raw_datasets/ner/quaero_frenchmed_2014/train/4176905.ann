@@ -1,0 +1,18 @@
+T1	CHEM 18 36	protéines sériques
+#1	AnnotatorNotes T1	C0036825
+T2	CHEM 18 27	protéines
+#2	AnnotatorNotes T2	C0033684
+T3	ANAT 28 36	sériques
+#3	AnnotatorNotes T3	C0229671
+T4	ANAT 43 59	liquide synovial
+#4	AnnotatorNotes T4	C0039097
+T5	ANAT 43 50	liquide
+#5	AnnotatorNotes T5	C0005889
+T6	ANAT 51 59	synovial
+#6	AnnotatorNotes T6	C1550315
+T7	DISO 75 98	polyarthrite rhumatoide
+#7	AnnotatorNotes T7	C0003873
+T8	DISO 75 87	polyarthrite
+#8	AnnotatorNotes T8	C0162323
+T9	CHEM 88 98	rhumatoide
+#9	AnnotatorNotes T9	C0035448

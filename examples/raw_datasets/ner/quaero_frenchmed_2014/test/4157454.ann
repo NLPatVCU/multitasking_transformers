@@ -1,0 +1,10 @@
+T1	DISO 10 26	hyper-lactatémie
+#1	AnnotatorNotes T1	C0795692
+T2	DISO 32 39	acidose
+#2	AnnotatorNotes T2	C0001122
+T3	DISO 50 60	diabétique
+#3	AnnotatorNotes T3	C0241863
+T4	CHEM 75 86	phenformine
+#4	AnnotatorNotes T4	C0031404
+T5	PROC 61 67	traité
+#5	AnnotatorNotes T5	C0013216

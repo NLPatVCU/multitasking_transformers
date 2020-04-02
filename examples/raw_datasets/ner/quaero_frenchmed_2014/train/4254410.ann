@@ -1,0 +1,12 @@
+T1	PHEN 19 32	radioactivité
+#1	AnnotatorNotes T1	C0034553
+T2	ANAT 41 47	foetus
+#2	AnnotatorNotes T2	C0015965
+T3	LIVB 51 54	rat
+#3	AnnotatorNotes T3	C0034721
+T4	PROC 61 70	injection
+#4	AnnotatorNotes T4	C1533685
+T5	CHEM 93 112	hormone thyréotrope
+#5	AnnotatorNotes T5	C0040160
+T6	CHEM 93 100	hormone
+#6	AnnotatorNotes T6	C0019932

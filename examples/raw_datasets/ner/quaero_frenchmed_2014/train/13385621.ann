@@ -1,0 +1,8 @@
+T1	DISO 0 12	Anémie grave
+#1	AnnotatorNotes T1	C0238644
+T2	LIVB 21 30	prématuré
+#2	AnnotatorNotes T2	C0021294
+T3	DISO 38 62	infections sous-cutanées
+#3	AnnotatorNotes T3	C2242539
+T4	PROC 86 98	transfusions
+#4	AnnotatorNotes T4	C0005841

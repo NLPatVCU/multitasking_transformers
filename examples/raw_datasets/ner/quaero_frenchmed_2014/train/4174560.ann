@@ -1,0 +1,12 @@
+T1	PROC 0 13	Détermination
+#1	AnnotatorNotes T1	C1148554
+T2	PROC 17 42	taux des gamma-globulines
+#2	AnnotatorNotes T2	C0428539
+T4	CHEM 26 42	gamma-globulines
+#4	AnnotatorNotes T4	C0017007
+T5	ANAT 51 62	mucus nasal
+#5	AnnotatorNotes T5	C0225392
+T6	ANAT 51 56	mucus
+#6	AnnotatorNotes T6	C0026727
+T7	ANAT 57 62	nasal
+#7	AnnotatorNotes T7	C0028429

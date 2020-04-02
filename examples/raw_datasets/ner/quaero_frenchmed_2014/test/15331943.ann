@@ -1,0 +1,8 @@
+T1	DISO 4 25	épilepsies partielles
+#1	AnnotatorNotes T1	C0014547
+T2	DISO 4 14	épilepsies
+#2	AnnotatorNotes T2	C0014544
+T3	PHYS 26 46	pharmaco-résistantes
+#3	AnnotatorNotes T3	C0013203
+T4	PROC 130 140	traitement
+#4	AnnotatorNotes T4	C0087111

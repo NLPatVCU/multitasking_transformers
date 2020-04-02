@@ -1,0 +1,18 @@
+T1	DISO 0 18	Choc hypovolémique
+#1	AnnotatorNotes T1	C0020683
+T2	DISO 0 4	Choc
+#2	AnnotatorNotes T2	C0036974
+T3	PROC 5 18	hypovolémique
+#3	AnnotatorNotes T3	C0752266
+T4	DISO 32 49	embolie pulmonire
+#4	AnnotatorNotes T4	C0034065
+T5	DISO 32 39	embolie
+#5	AnnotatorNotes T5	C0013922
+T6	ANAT 40 49	pulmonire
+#6	AnnotatorNotes T6	C0024109
+T7	PROC 58 63	Etude
+#7	AnnotatorNotes T7	C2603343
+T8	PHYS 64 77	hémodynamique
+#8	AnnotatorNotes T8	C0019010
+T9	PROC 81 103	électrocardiographique
+#9	AnnotatorNotes T9	C1623258

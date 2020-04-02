@@ -1,0 +1,18 @@
+T1	DISO 0 35	Tuberculose ganglionnaire cervicale
+#1	AnnotatorNotes T1	C0036467
+T2	DISO 0 25	Tuberculose ganglionnaire
+#2	AnnotatorNotes T2	C0041316
+T3	DISO 0 11	Tuberculose
+#3	AnnotatorNotes T3	C0041296
+T4	ANAT 12 25	ganglionnaire
+#4	AnnotatorNotes T4	C0024204
+T5	ANAT 26 35	cervicale
+#5	AnnotatorNotes T5	C0027530
+T6	LIVB 44 54	nourrisson
+#6	AnnotatorNotes T6	C0021270
+T7	DISO 57 66	problemes
+#7	AnnotatorNotes T7	C0033213
+T8	LIVB 80 89	B . C . G
+#8	AnnotatorNotes T8	C0085957
+T9	ANAT 92 98	buccal
+#9	AnnotatorNotes T9	C0226896

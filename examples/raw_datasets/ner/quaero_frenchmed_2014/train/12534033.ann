@@ -1,0 +1,6 @@
+T1	DISO 0 20	Mortalité périnatale
+#1	AnnotatorNotes T1	C0701826
+T2	DISO 25 34	éclampsie
+#2	AnnotatorNotes T2	C0013537
+T3	LIVB 79 90	nouveau-nés
+#3	AnnotatorNotes T3	C0021289

@@ -1,0 +1,10 @@
+T1	CHEM 3 34	hormone natriurétique cardiaque
+#1	AnnotatorNotes T1	C0027481
+T2	CHEM 3 24	hormone natriurétique
+#2	AnnotatorNotes T2	C0027479
+T3	CHEM 3 10	hormone
+#3	AnnotatorNotes T3	C0019932
+T4	ANAT 25 34	cardiaque
+#4	AnnotatorNotes T4	C0018787
+T5	CHEM 37 40	ANF
+#5	AnnotatorNotes T5	C0027481

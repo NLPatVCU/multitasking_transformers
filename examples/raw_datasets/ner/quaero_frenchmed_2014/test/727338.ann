@@ -1,0 +1,12 @@
+T1	PROC 0 12	Autocontrôle
+#1	AnnotatorNotes T1	C0588436
+T2	PHYS 17 59	déplacements du centre de gravité du corps
+#2	AnnotatorNotes T2	C2371380
+T3	PHYS 17 29	déplacements
+#3	AnnotatorNotes T3	C0560560
+T4	ANAT 54 59	corps
+#4	AnnotatorNotes T4	C0460148
+T5	ANAT 101 115	labyrinthiques
+#5	AnnotatorNotes T5	C0022889
+T6	PROC 118 131	stabilisation
+#6	AnnotatorNotes T6	C1293130

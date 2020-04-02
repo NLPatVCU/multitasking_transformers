@@ -1,0 +1,8 @@
+T1	DISO 0 12	Tremblements
+#1	AnnotatorNotes T1	C0040822
+T2	DISO 16 41	mouvements anormaux aigus
+#2	AnnotatorNotes T2	C0234992
+T3	DISO 16 35	mouvements anormaux
+#3	AnnotatorNotes T3	C0013384
+T4	CHEM 53 67	médicamenteuse
+#4	AnnotatorNotes T4	C0013227

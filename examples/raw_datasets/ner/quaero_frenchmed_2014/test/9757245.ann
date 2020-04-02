@@ -1,0 +1,6 @@
+T1	DISO 25 32	tumeurs
+#1	AnnotatorNotes T1	C0027651
+T2	ANAT 36 42	vessie
+#2	AnnotatorNotes T2	C0005682
+T3	DISO 25 42	tumeurs de vessie
+#3	AnnotatorNotes T3	C0005695

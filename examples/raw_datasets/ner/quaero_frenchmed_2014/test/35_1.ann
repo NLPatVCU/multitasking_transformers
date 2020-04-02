@@ -1,0 +1,342 @@
+T1	CHEM 21 28	ATRIPLA
+#1	AnnotatorNotes T1	C1724016
+T2	CHEM 69 78	comprimés
+#2	AnnotatorNotes T2	C0039225
+T3	CHEM 82 89	couleur
+#3	AnnotatorNotes T3	C0009393
+T4	CHEM 134 141	Atripla
+#4	AnnotatorNotes T4	C1724016
+T5	CHEM 161 168	Atripla
+#5	AnnotatorNotes T5	C1724016
+T6	CHEM 176 186	médicament
+#6	AnnotatorNotes T6	C0013227
+T7	CHEM 187 196	antiviral
+#7	AnnotatorNotes T7	C0003451
+T8	LIVB 225 232	adultes
+#8	AnnotatorNotes T8	C0001675
+T9	PROC 241 251	traitement
+#9	AnnotatorNotes T9	C0087111
+T10	DISO 259 268	infection
+#10	AnnotatorNotes T10	C0021311
+T11	DISO 293 309	immunodéficience
+#11	AnnotatorNotes T11	C0021051
+T12	LIVB 320 327	VIH - 1
+#12	AnnotatorNotes T12	C0019682
+T13	LIVB 334 339	virus
+#13	AnnotatorNotes T13	C0042776
+T14	DISO 355 363	syndrome
+#14	AnnotatorNotes T14	C0039082
+T15	DISO 371 387	immunodéficience
+#15	AnnotatorNotes T15	C0021051
+T16	LIVB 440 448	patients
+#16	AnnotatorNotes T16	C0030705
+T17	LIVB 466 469	VIH
+#17	AnnotatorNotes T17	C0019682
+T18	ANAT 478 482	sang
+#18	AnnotatorNotes T18	C0005767
+T19	PROC 585 595	traitement
+#19	AnnotatorNotes T19	C0087111
+T20	CHEM 616 624	anti-VIH
+#20	AnnotatorNotes T20	C0019686
+T21	LIVB 675 683	patients
+#21	AnnotatorNotes T21	C0030705
+T22	PROC 701 711	traitement
+#22	AnnotatorNotes T22	C0087111
+T23	CHEM 747 755	anti-VIH
+#23	AnnotatorNotes T23	C0019686
+T24	LIVB 819 827	patients
+#24	AnnotatorNotes T24	C0030705
+T25	LIVB 860 863	VIH
+#25	AnnotatorNotes T25	C0019682
+T26	CHEM 911 927	principes actifs
+#26	AnnotatorNotes T26	C1372955
+T27	CHEM 932 939	Atripla
+#27	AnnotatorNotes T27	C1724016
+T28	PROC 970 980	traitement
+#28	AnnotatorNotes T28	C0087111
+T29	CHEM 989 997	anti-VIH
+#29	AnnotatorNotes T29	C0019686
+T30	CHEM 1019 1026	Atripla
+#30	AnnotatorNotes T30	C1724016
+T31	PROC 1049 1059	traitement
+#31	AnnotatorNotes T31	C0087111
+T32	CHEM 1064 1071	Atripla
+#32	AnnotatorNotes T32	C1724016
+T33	LIVB 1098 1105	médecin
+#33	AnnotatorNotes T33	C0031831
+T34	DISO 1149 1169	infection par le VIH
+#34	AnnotatorNotes T34	C0019693
+T35	LIVB 1166 1169	VIH
+#35	AnnotatorNotes T35	C0019682
+T36	CHEM 1205 1213	comprimé
+#36	AnnotatorNotes T36	C0994475
+T37	CHEM 1256 1259	eau
+#37	AnnotatorNotes T37	C0043047
+T38	CHEM 1293 1300	Atripla
+#38	AnnotatorNotes T38	C1724016
+T39	LIVB 1343 1351	patients
+#39	AnnotatorNotes T39	C0030705
+T40	CHEM 1371 1381	médicament
+#40	AnnotatorNotes T40	C0013227
+T41	CHEM 1432 1439	Atripla
+#41	AnnotatorNotes T41	C1724016
+T42	LIVB 1481 1496	personnes âgées
+#42	AnnotatorNotes T42	 C0001792
+T43	LIVB 1481 1490	personnes
+#43	AnnotatorNotes T43	C0027361
+T44	CHEM 1501 1508	Atripla
+#44	AnnotatorNotes T44	C1724016
+T45	LIVB 1541 1549	patients
+#45	AnnotatorNotes T45	C0030705
+T46	DISO 1565 1579	maladie rénale
+#46	AnnotatorNotes T46	C1565662
+T47	DISO 1565 1572	maladie
+#47	AnnotatorNotes T47	C0012634
+T48	ANAT 1573 1579	rénale
+#48	AnnotatorNotes T48	C0022646
+T49	LIVB 1606 1614	patients
+#49	AnnotatorNotes T49	C0030705
+T50	ANAT 1640 1644	foie
+#50	AnnotatorNotes T50	C0023884
+T51	DISO 1714 1733	effets indésirables
+#51	AnnotatorNotes T51	C0559546
+T52	LIVB 1745 1753	patients
+#52	AnnotatorNotes T52	C0030705
+T53	CHEM 1774 1783	éfavirenz
+#53	AnnotatorNotes T53	C0674428
+T54	CHEM 1790 1803	emtricitabine
+#54	AnnotatorNotes T54	C0909839
+T55	CHEM 1810 1830	ténofovir disoproxil
+#55	AnnotatorNotes T55	C0963398
+T56	CHEM 1906 1917	médicaments
+#56	AnnotatorNotes T56	C0013227
+T57	CHEM 1932 1941	éfavirenz
+#57	AnnotatorNotes T57	C0674428
+T58	CHEM 1948 1961	emtricitabine
+#58	AnnotatorNotes T58	C0909839
+T59	CHEM 1968 1988	ténofovir disoproxil
+#59	AnnotatorNotes T59	C0963398
+T60	CHEM 2004 2011	Atripla
+#60	AnnotatorNotes T60	C1724016
+T61	CHEM 2063 2074	médicaments
+#61	AnnotatorNotes T61	C0013227
+T62	CHEM 2092 2101	éfavirenz
+#62	AnnotatorNotes T62	C0674428
+T63	CHEM 2111 2124	emtricitabine
+#63	AnnotatorNotes T63	C0909839
+T64	CHEM 2131 2151	ténofovir disoproxil
+#64	AnnotatorNotes T64	C0963398
+T65	CHEM 2163 2173	lamivudine
+#65	AnnotatorNotes T65	C0209738
+T66	CHEM 2185 2195	médicament
+#66	AnnotatorNotes T66	C0013227
+T67	CHEM 2196 2205	antiviral
+#67	AnnotatorNotes T67	C0003451
+T68	CHEM 2214 2223	ténofovir
+#68	AnnotatorNotes T68	C0963398
+T69	CHEM 2231 2255	inhibiteur nucléotidique
+#69	AnnotatorNotes T69	C2917432
+T70	CHEM 2262 2283	transcriptase inverse
+#70	AnnotatorNotes T70	C0035379
+T71	PHYS 2292 2364	inhibiteurs nucléosidiques et nucléotidiques de la transcriptase inverse
+#71	AnnotatorNotes T71	C1373111
+T72	CHEM 2292 2303	inhibiteurs
+#72	AnnotatorNotes T72	C0003139
+T73	CHEM 2343 2364	transcriptase inverse
+#73	AnnotatorNotes T73	C0035379
+T74	PHYS 2399 2403	INTI
+#74	AnnotatorNotes T74	C1373111
+T75	CHEM 2418 2434	principes actifs
+#75	AnnotatorNotes T75	C0013161
+T76	CHEM 2463 2484	transcriptase inverse
+#76	AnnotatorNotes T76	C0035379
+T77	CHEM 2491 2497	enzyme
+#77	AnnotatorNotes T77	C0014442
+T78	LIVB 2517 2520	VIH
+#78	AnnotatorNotes T78	C0019682
+T79	DISO 2542 2550	infecter
+#79	AnnotatorNotes T79	C0021311
+T80	ANAT 2555 2563	cellules
+#80	AnnotatorNotes T80	C0007634
+T81	LIVB 2592 2597	virus
+#81	AnnotatorNotes T81	C0042776
+T82	CHEM 2602 2609	Atripla
+#82	AnnotatorNotes T82	C1724016
+T83	LIVB 2635 2638	VIH
+#83	AnnotatorNotes T83	C0019682
+T84	ANAT 2647 2651	sang
+#84	AnnotatorNotes T84	C0005767
+T86	DISO 2696 2727	infection par le VIH ou le SIDA
+#86	AnnotatorNotes T86	C0019693
+T87	LIVB 2713 2716	VIH
+#87	AnnotatorNotes T87	C0019682
+T88	DISO 2723 2727	SIDA
+#88	AnnotatorNotes T88	C0001175
+T90	ANAT 2768 2787	système immunitaire
+#90	AnnotatorNotes T90	C0020962
+T91	DISO 2821 2831	infections
+#91	AnnotatorNotes T91	C0021311
+T92	DISO 2838 2846	maladies
+#92	AnnotatorNotes T92	C0012634
+T93	DISO 2856 2860	SIDA
+#93	AnnotatorNotes T93	C0001175
+T94	CHEM 2884 2904	ténofovir disoproxil
+#94	AnnotatorNotes T94	C0963398
+T95	CHEM 2912 2925	emtricitabine
+#95	AnnotatorNotes T95	C0909839
+T96	CHEM 2961 2968	Truvada
+#96	AnnotatorNotes T96	C1528494
+T97	PROC 2989 2994	étude
+#97	AnnotatorNotes T97	C2603343
+T98	CHEM 3035 3044	comprimés
+#98	AnnotatorNotes T98	C0039225
+T99	CHEM 3049 3056	Atripla
+#99	AnnotatorNotes T99	C1724016
+T101	PROC 3100 3110	traitement
+#101	AnnotatorNotes T101	C0087111
+T102	CHEM 3115 3123	anti-VIH
+#102	AnnotatorNotes T102	C0019686
+T103	LIVB 3231 3239	patients
+#103	AnnotatorNotes T103	C0030705
+T104	PROC 3249 3264	charges virales
+#104	AnnotatorNotes T104	C1261478
+T105	CHEM 3374 3382	comprimé
+#105	AnnotatorNotes T105	C0994475
+T106	ANAT 3412 3417	corps
+#106	AnnotatorNotes T106	C0460148
+T107	CHEM 3448 3459	médicaments
+#107	AnnotatorNotes T107	C0013227
+T108	CHEM 3506 3513	Atripla
+#108	AnnotatorNotes T108	C1724016
+T109	PROC 3527 3533	études
+#109	AnnotatorNotes T109	C2603343
+T110	PROC 3547 3552	étude
+#110	AnnotatorNotes T110	C2603343
+T111	CHEM 3579 3586	Atripla
+#111	AnnotatorNotes T111	C1724016
+T112	PROC 3635 3645	traitement
+#112	AnnotatorNotes T112	C0087111
+T113	CHEM 3660 3670	antiviraux
+#113	AnnotatorNotes T113	C0003451
+T115	LIVB 3713 3721	patients
+#115	AnnotatorNotes T115	C0030705
+T116	CHEM 3727 3734	Atripla
+#116	AnnotatorNotes T116	C1724016
+T117	LIVB 3763 3771	patients
+#117	AnnotatorNotes T117	C0030705
+T118	PROC 3792 3802	traitement
+#118	AnnotatorNotes T118	C0087111
+T119	PROC 3844 3859	charges virales
+#119	AnnotatorNotes T119	C1261478
+T120	CHEM 3897 3905	comprimé
+#120	AnnotatorNotes T120	C0994475
+T121	ANAT 3935 3940	corps
+#121	AnnotatorNotes T121	C0460148
+T122	CHEM 3966 3977	médicaments
+#122	AnnotatorNotes T122	C0013227
+T123	DISO 4027 4033	risque
+#123	AnnotatorNotes T123	C0184544
+T124	CHEM 4064 4071	Atripla
+#124	AnnotatorNotes T124	C1724016
+T125	DISO 4080 4099	effets indésirables
+#125	AnnotatorNotes T125	C0559546
+T126	CHEM 4134 4141	Atripla
+#126	AnnotatorNotes T126	C1724016
+T127	LIVB 4161 4168	patient
+#127	AnnotatorNotes T127	C0030705
+T128	DISO 4187 4195	vertiges
+#128	AnnotatorNotes T128	C0042571
+T129	DISO 4234 4253	effets indésirables
+#129	AnnotatorNotes T129	C0559546
+T130	CHEM 4268 4275	Atripla
+#130	AnnotatorNotes T130	C1724016
+T131	PROC 4286 4292	notice
+#131	AnnotatorNotes T131	C0013191
+T132	CHEM 4297 4304	Atripla
+#132	AnnotatorNotes T132	C1724016
+T133	LIVB 4339 4348	personnes
+#133	AnnotatorNotes T133	C0027361
+T134	DISO 4371 4387	hypersensibilité
+#134	AnnotatorNotes T134	C0020517
+T135	DISO 4390 4398	allergie
+#135	AnnotatorNotes T135	C0020517
+T136	CHEM 4407 4416	éfavirenz
+#136	AnnotatorNotes T136	C0674428
+T137	CHEM 4425 4438	emtricitabine
+#137	AnnotatorNotes T137	C0909839
+T138	CHEM 4444 4464	ténofovir disoproxil
+#138	AnnotatorNotes T138	C0963398
+T139	CHEM 4488 4498	composants
+#139	AnnotatorNotes T139	C1550600
+T140	CHEM 4540 4551	médicaments
+#140	AnnotatorNotes T140	C0013227
+T141	LIVB 4567 4575	patients
+#141	AnnotatorNotes T141	C0030705
+T142	CHEM 4584 4591	Atripla
+#142	AnnotatorNotes T142	C1724016
+T143	DISO 4629 4643	lipodystrophie
+#143	AnnotatorNotes T143	C0023787
+T144	DISO 4646 4673	redistribution des graisses
+#144	AnnotatorNotes T144	C0856151
+T145	DISO 4693 4705	ostéonécrose
+#145	AnnotatorNotes T145	C0029445
+T146	ANAT 4716 4728	tissu osseux
+#146	AnnotatorNotes T146	C0391978
+T147	DISO 4737 4773	syndrome de restauration immunitaire
+#147	AnnotatorNotes T147	C1619738
+T148	DISO 4776 4785	symptômes
+#148	AnnotatorNotes T148	C1457887
+T149	DISO 4790 4799	infection
+#149	AnnotatorNotes T149	C0021311
+T150	ANAT 4825 4844	système immunitaire
+#150	AnnotatorNotes T150	C0020962
+T151	LIVB 4854 4862	patients
+#151	AnnotatorNotes T151	C0030705
+T152	DISO 4873 4890	problèmes de foie
+#152	AnnotatorNotes T152	C0085605
+T153	ANAT 4886 4890	foie
+#153	AnnotatorNotes T153	C0023884
+T154	DISO 4907 4916	infection
+#154	AnnotatorNotes T154	C0021311
+T155	DISO 4907 4947	infection par le virus de l ’ hépatite B
+#155	AnnotatorNotes T155	C0019163
+T156	DISO 4998 5016	atteinte hépatique
+#156	AnnotatorNotes T156	C0023895
+T157	ANAT 5007 5016	hépatique
+#157	AnnotatorNotes T157	C0023884
+T158	CHEM 5051 5058	Atripla
+#158	AnnotatorNotes T158	C1724016
+T159	CHEM 5080 5091	médicaments
+#159	AnnotatorNotes T159	C0013227
+T160	PHYS 5106 5110	INTI
+#160	AnnotatorNotes T160	C1373111
+T161	CHEM 5113 5120	Atripla
+#161	AnnotatorNotes T161	C1724016
+T162	DISO 5150 5166	acidose lactique
+#162	AnnotatorNotes T162	C0001125
+T163	DISO 5169 5205	accumulation d ’ acide lactique dans
+#163	AnnotatorNotes T163	C0001125
+T164	CHEM 5186 5200	acide lactique
+#164	AnnotatorNotes T164	C0064582
+T165	CHEM 5186 5191	acide
+#165	AnnotatorNotes T165	C0001128
+T166	ANAT 5209 5214	corps
+#166	AnnotatorNotes T166	C0460148
+T167	DISO 259 317	infection par le virus - 1 de l ’ immunodéficience humaine
+#167	AnnotatorNotes T167	C2363741
+T100	DISO 4907 4945;4951 4952	infection par le virus de l ’ hépatite C
+#100	AnnotatorNotes T100	C0019196
+T114	LIVB 4924 4947	virus de l ’ hépatite B
+#114	AnnotatorNotes T114	C0019169
+T168	LIVB 4924 4945;4951 4952	virus de l ’ hépatite C
+#168	AnnotatorNotes T168	C0220847
+T169	DISO 355 395	syndrome de l ’ immunodéficience acquise
+#169	AnnotatorNotes T169	C0001175	
+T170	DISO 398 402	SIDA
+#170	AnnotatorNotes T170	C0001175
+T85	DISO 2838 2860	maladies liées au SIDA
+#85	AnnotatorNotes T85	C0740842
+T171	DISO 2821 2831;2847 2860	infections liées au SIDA
+#171	AnnotatorNotes T171	C0162526
+T172	DISO 2756 2787	atteinte du système immunitaire
+#172	AnnotatorNotes T172	C0021053

@@ -1,0 +1,10 @@
+T1	PROC 13 35	électronystagmographie
+#1	AnnotatorNotes T1	C0013853
+T2	PROC 38 47	E . N . G
+#2	AnnotatorNotes T2	C0013853
+T3	DISO 87 108	traumatismes crâniens
+#3	AnnotatorNotes T3	C0018674
+T4	DISO 87 99	traumatismes
+#4	AnnotatorNotes T4	C0043251
+T5	ANAT 100 108	crâniens
+#5	AnnotatorNotes T5	C0037303

@@ -1,0 +1,332 @@
+T1	PROC 32 42	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 77 98	anxiété de séparation
+#2	AnnotatorNotes T2	C1527281
+T3	LIVB 155 161	chiens
+#3	AnnotatorNotes T3	C0012984
+T4	PROC 162 169	traités
+#4	AnnotatorNotes T4	C0087111
+T5	PHEN 185 192	rechute
+#5	AnnotatorNotes T5	C0034897
+T6	PROC 224 234	traitement
+#6	AnnotatorNotes T6	C0087111
+T7	LIVB 270 276	groupe
+#7	AnnotatorNotes T7	C1705429
+T8	CHEM 277 287	fluoxétine
+#8	AnnotatorNotes T8	C0016365
+T9	LIVB 307 313	groupe
+#9	AnnotatorNotes T9	C1705429
+T10	CHEM 314 326	clomipramine
+#10	AnnotatorNotes T10	C0009010
+T11	DISO 342 360	effets secondaires
+#11	AnnotatorNotes T11	C1313864
+T12	CHEM 385 394	Reconcile
+#12	AnnotatorNotes T12	C1960278
+T13	DISO 404 412	anorexie
+#13	AnnotatorNotes T13	C0003123
+T14	DISO 429 457	troubles du système urinaire
+#14	AnnotatorNotes T14	C0042075
+T15	ANAT 441 457	système urinaire
+#15	AnnotatorNotes T15	C1508753
+T16	DISO 473 483	infections
+#16	AnnotatorNotes T16	C0021311
+T17	ANAT 490 496	vessie
+#17	AnnotatorNotes T17	C0005682
+T18	DISO 503 538	évacuation irrégulière de l ’ urine
+#18	AnnotatorNotes T18	C0042075
+T19	ANAT 533 538	urine
+#19	AnnotatorNotes T19	C0042036
+T20	DISO 546 554	douleurs
+#20	AnnotatorNotes T20	C0030193
+T21	PHYS 569 575	uriner
+#21	AnnotatorNotes T21	C0042034
+T22	ANAT 592 607	système nerveux
+#22	AnnotatorNotes T22	C2977944
+T23	DISO 668 686	effets secondaires
+#23	AnnotatorNotes T23	C1313864
+T24	CHEM 712 721	Reconcile
+#24	AnnotatorNotes T24	C1960278
+T25	DISO 786 805	effets indésirables
+#25	AnnotatorNotes T25	C0559546
+T26	CHEM 820 829	Reconcile
+#26	AnnotatorNotes T26	C1960278
+T27	PROC 840 846	notice
+#27	AnnotatorNotes T27	C0013191
+T28	CHEM 851 860	Reconcile
+#28	AnnotatorNotes T28	C1960278
+T29	LIVB 904 910	chiens
+#29	AnnotatorNotes T29	C0012984
+T30	DISO 933 949	hypersensibilité
+#30	AnnotatorNotes T30	C0020517
+T31	DISO 952 960	allergie
+#31	AnnotatorNotes T31	C0020517
+T32	CHEM 968 978	fluoxétine
+#32	AnnotatorNotes T32	C0016365
+T33	CHEM 995 999	ISRS
+#33	AnnotatorNotes T33	C0162758
+T34	CHEM 1004 1013	Reconcile
+#34	AnnotatorNotes T34	C1960278
+T35	LIVB 1047 1055	chiennes
+#35	AnnotatorNotes T35	C0012984
+T36	PHYS 1059 1068	gestation
+#36	AnnotatorNotes T36	C0032961
+T37	PHYS 1072 1083	allaitantes
+#37	AnnotatorNotes T37	C0006147
+T38	PHYS 1137 1146	grossesse
+#38	AnnotatorNotes T38	C0032961
+T39	PHYS 1154 1165	allaitement
+#39	AnnotatorNotes T39	C0006147
+T40	CHEM 1174 1183	comprimés
+#40	AnnotatorNotes T40	C0039225
+T41	CHEM 1187 1196	Reconcile
+#41	AnnotatorNotes T41	C1960278
+T42	CHEM 1263 1274	médicaments
+#42	AnnotatorNotes T42	C0013227
+T43	CHEM 1296 1307	médicaments
+#43	AnnotatorNotes T43	C0013227
+T44	ANAT 1328 1343	système nerveux
+#44	AnnotatorNotes T44	C2977944
+T45	PROC 1393 1399	notice
+#45	AnnotatorNotes T45	C0013191
+T46	CHEM 1407 1417	médicament
+#46	AnnotatorNotes T46	C0013227
+T47	LIVB 1464 1470	chiens
+#47	AnnotatorNotes T47	C0012984
+T48	LIVB 1505 1511	humain
+#48	AnnotatorNotes T48	C0086418
+T49	CHEM 1525 1534	Reconcile
+#49	AnnotatorNotes T49	C1960278
+T50	CHEM 1573 1584	médicaments
+#50	AnnotatorNotes T50	C0013227
+T51	CHEM 1644 1653	Reconcile
+#51	AnnotatorNotes T51	C1960278
+T52	DISO 1676 1683	risques
+#52	AnnotatorNotes T52	C0184544
+T53	PROC 1729 1771	techniques de modification de comportement
+#53	AnnotatorNotes T53	C2065025
+T54	PROC 1793 1803	traitement
+#54	AnnotatorNotes T54	C0087111
+T55	LIVB 1813 1819	chiens
+#55	AnnotatorNotes T55	C0012984
+T56	DISO 1835 1860	problèmes de comportement
+#56	AnnotatorNotes T56	C0004930
+T57	DISO 1835 1881	problèmes de comportement dus à une séparation
+#57	AnnotatorNotes T57	C1527281
+T58	CHEM 1959 1968	Reconcile
+#58	AnnotatorNotes T58	C1960278
+T59	CHEM 2005 2014	Reconcile
+#59	AnnotatorNotes T59	C1960278
+T60	GEOG 2033 2043	européenne
+#60	AnnotatorNotes T60	C0015176
+T61	GEOG 2115 2131	Union européenne
+#61	AnnotatorNotes T61	C0015179
+T62	CHEM 2137 2146	Reconcile
+#62	AnnotatorNotes T62	C1960278
+T63	CHEM 2225 2234	Comprimés
+#63	AnnotatorNotes T63	C0039225
+T64	LIVB 2250 2256	chiens
+#64	AnnotatorNotes T64	C0012984
+T65	CHEM 2257 2266	Reconcile
+#65	AnnotatorNotes T65	C1960278
+T66	CHEM 2272 2281	Comprimés
+#66	AnnotatorNotes T66	C0039225
+T67	LIVB 2297 2303	chiens
+#67	AnnotatorNotes T67	C0012984
+T68	CHEM 2304 2313	Reconcile
+#68	AnnotatorNotes T68	C1960278
+T69	CHEM 2320 2329	Comprimés
+#69	AnnotatorNotes T69	C0039225
+T70	LIVB 2345 2351	chiens
+#70	AnnotatorNotes T70	C0012984
+T71	CHEM 2352 2361	Reconcile
+#71	AnnotatorNotes T71	C1960278
+T72	CHEM 2368 2377	Comprimés
+#72	AnnotatorNotes T72	C0039225
+T73	LIVB 2393 2399	chiens
+#73	AnnotatorNotes T73	C0012984
+T74	CHEM 2400 2409	Reconcile
+#74	AnnotatorNotes T74	C1960278
+T75	CHEM 2418 2427	Reconcile
+#75	AnnotatorNotes T75	C1960278
+T76	CHEM 2430 2439	Comprimés
+#76	AnnotatorNotes T76	C0039225
+T77	PHEN 2468 2475	couleur
+#77	AnnotatorNotes T77	C0009393
+T78	CHEM 2559 2568	Comprimés
+#78	AnnotatorNotes T78	C0039225
+T79	CHEM 2569 2578	Reconcile
+#79	AnnotatorNotes T79	C1960278
+T80	CHEM 2593 2602	Comprimés
+#80	AnnotatorNotes T80	C0039225
+T81	CHEM 2603 2612	Reconcile
+#81	AnnotatorNotes T81	C1960278
+T82	CHEM 2628 2637	Comprimés
+#82	AnnotatorNotes T82	C0039225
+T83	CHEM 2638 2647	Reconcile
+#83	AnnotatorNotes T83	C1960278
+T84	CHEM 2663 2672	Comprimés
+#84	AnnotatorNotes T84	C0039225
+T85	CHEM 2673 2682	Reconcile
+#85	AnnotatorNotes T85	C1960278
+T86	LIVB 2718 2724	chiens
+#86	AnnotatorNotes T86	C0012984
+T87	LIVB 2775 2781	chiens
+#87	AnnotatorNotes T87	C0012984
+T88	DISO 2782 2794	épileptiques
+#88	AnnotatorNotes T88	C0014544
+T89	PHYS 2808 2819	antécédents
+#89	AnnotatorNotes T89	C0262512
+T90	DISO 2823 2834	convulsions
+#90	AnnotatorNotes T90	C0009951
+T91	PROC 2842 2852	traitement
+#91	AnnotatorNotes T91	C0087111
+T92	DISO 2880 2891	convulsions
+#92	AnnotatorNotes T92	C0009951
+T93	ANAT 2896 2904	urinaire
+#93	AnnotatorNotes T93	C1508753
+T94	DISO 2907 2917	strangurie
+#94	AnnotatorNotes T94	C0232858
+T95	DISO 2921 2954	signes du système nerveux central
+#95	AnnotatorNotes T95	C0234614
+T96	ANAT 2931 2954	système nerveux central
+#96	AnnotatorNotes T96	C0927232
+T97	DISO 2957 2971	incoordination
+#97	AnnotatorNotes T97	C0520966
+T98	DISO 2974 2988	désorientation
+#98	AnnotatorNotes T98	C0233407
+T99	PHYS 3013 3035	capacité reproductrice
+#99	AnnotatorNotes T99	C0035150
+T100	LIVB 3040 3044	rats
+#100	AnnotatorNotes T100	C0034721
+T101	DISO 3045 3050	mâles
+#101	AnnotatorNotes T101	C0024554
+T102	DISO 3054 3062	femelles
+#102	AnnotatorNotes T102	C0015780
+T103	CHEM 3077 3087	fluoxétine
+#103	AnnotatorNotes T103	C0016365
+T104	CHEM 3136 3151	enzymatique P45
+#104	AnnotatorNotes T104	C0010762
+T105	CHEM 3170 3180	fluoxétine
+#105	AnnotatorNotes T105	C0016365
+T106	CHEM 3257 3266	comprimés
+#106	AnnotatorNotes T106	C0039225
+T107	CHEM 3267 3276	Reconcile
+#107	AnnotatorNotes T107	C1960278
+T108	PROC 3290 3316	administrés par voie orale
+#108	AnnotatorNotes T108	C0001563
+T109	PHYS 3366 3380	poids corporel
+#109	AnnotatorNotes T109	C0005910
+T110	CHEM 3427 3436	comprimés
+#110	AnnotatorNotes T110	C0039225
+T111	CHEM 3437 3446	Reconcile
+#111	AnnotatorNotes T111	C1960278
+T112	OBJC 3485 3495	nourriture
+#112	AnnotatorNotes T112	C0016452
+T113	DISO 3503 3524	comportement agressif
+#113	AnnotatorNotes T113	C0001807
+T114	CHEM 3555 3565	fluoxétine
+#114	AnnotatorNotes T114	C0016365
+T115	CHEM 3573 3583	métabolite
+#115	AnnotatorNotes T115	C0870883
+T116	CHEM 3595 3608	norfluoxétine
+#116	AnnotatorNotes T116	C0068987
+T117	CHEM 3631 3642	inhibiteurs
+#117	AnnotatorNotes T117	C0243077
+T118	PHYS 3671 3695	capture de la sérotonine
+#118	AnnotatorNotes T118	C1621749
+T119	CHEM 3685 3695	sérotonine
+#119	AnnotatorNotes T119	C0036751
+T120	CHEM 3733 3743	fluoxétine
+#120	AnnotatorNotes T120	C0016365
+T121	CHEM 3782 3792	fluoxétine
+#121	AnnotatorNotes T121	C0016365
+T122	CHEM 3812 3825	norfluoxétine
+#122	AnnotatorNotes T122	C0068987
+T123	CHEM 3831 3835	SSRI
+#123	AnnotatorNotes T123	C0162758
+T124	CHEM 3893 3903	fluoxétine
+#124	AnnotatorNotes T124	C0016365
+T125	ANAT 3935 3941	plasma
+#125	AnnotatorNotes T125	C0032105
+T126	ANAT 4092 4098	plasma
+#126	AnnotatorNotes T126	C0032105
+T127	PROC 4234 4258	niveaux de norfluoxétine
+#127	AnnotatorNotes T127	C2209533
+T128	CHEM 4245 4258	norfluoxétine
+#128	AnnotatorNotes T128	C0068987
+T129	ANAT 4267 4273	plasma
+#129	AnnotatorNotes T129	C0032105
+T130	ANAT 4305 4311	plasma
+#130	AnnotatorNotes T130	C0032105
+T131	CHEM 4448 4461	norfluoxétine
+#131	AnnotatorNotes T131	C0068987
+T132	CHEM 4591 4617	Cellulose microcristalline
+#132	AnnotatorNotes T132	C0669247
+T133	CHEM 4591 4600	Cellulose
+#133	AnnotatorNotes T133	C0007648
+T134	CHEM 4618 4628	Saccharose
+#134	AnnotatorNotes T134	C0038636
+T135	CHEM 4686 4698	Crospovidone
+#135	AnnotatorNotes T135	C0728803
+T136	CHEM 4724 4730	Silice
+#136	AnnotatorNotes T136	C0037098
+T137	CHEM 4739 4749	colloïdale
+#137	AnnotatorNotes T137	C0009361
+T138	CHEM 4750 4772	Dihydrate de phosphate
+#138	AnnotatorNotes T138	C0006716
+T139	CHEM 4763 4772	phosphate
+#139	AnnotatorNotes T139	C0031603
+T140	CHEM 4800 4809	comprimés
+#140	AnnotatorNotes T140	C0039225
+T141	OBJC 4827 4833	flacon
+#141	AnnotatorNotes T141	C0179376
+T142	OBJC 4869 4875	flacon
+#142	AnnotatorNotes T142	C0179376
+T143	OBJC 4985 4991	flacon
+#143	AnnotatorNotes T143	C0179376
+T144	CHEM 5001 5027	polyéthylène haute densité
+#144	AnnotatorNotes T144	C0752345
+T145	CHEM 5044 5053	comprimés
+#145	AnnotatorNotes T145	C0039225
+T146	OBJC 5105 5111	flacon
+#146	AnnotatorNotes T146	C0179376
+T147	CHEM 5115 5119	HDPE
+#147	AnnotatorNotes T147	C0752345
+T148	CHEM 5163 5172	comprimés
+#148	AnnotatorNotes T148	C0039225
+T149	OBJC 5208 5214	flacon
+#149	AnnotatorNotes T149	C0179376
+T150	CHEM 5218 5222	HDPE
+#150	AnnotatorNotes T150	C0752345
+T151	OBJC 5269 5275	flacon
+#151	AnnotatorNotes T151	C0179376
+T152	CHEM 5288 5297	comprimés
+#152	AnnotatorNotes T152	C0039225
+T153	GEOG 5376 5387	Royaume-Uni
+#153	AnnotatorNotes T153	C0041700
+T154	PROC 3873 3887	administration
+#154	AnnotatorNotes T154	C1533734
+T155	PROC 3460 3471	administrés
+#155	AnnotatorNotes T155	C1533734
+T156	PROC 3290 3301	administrés
+#156	AnnotatorNotes T156	C1533734
+T157	PHYS 2725 2731	pesant
+#157	AnnotatorNotes T157	C0005910
+T158	DISO 546 575	douleurs au moment d ’ uriner
+#158	AnnotatorNotes T158	C0013428
+T159	DISO 429 437;589 615	troubles du système nerveux central
+#159	AnnotatorNotes T159	C0007682
+T160	CHEM 1573 1604	médicaments à usage vétérinaire
+#160	AnnotatorNotes T160	C0376438
+T161	CHEM 1407 1429	médicament vétérinaire
+#161	AnnotatorNotes T161	C0376438
+T162	PROC 3706 3714	in vitro
+#162	AnnotatorNotes T162	C0681828
+T163	PROC 3718 3725	in vivo
+#163	AnnotatorNotes T163	C0681829
+T164	CHEM 3767 3774	sédatif
+#164	AnnotatorNotes T164	C0036557
+T165	CHEM 5030 5034	HDPE
+#165	AnnotatorNotes T165	C0752345
+T166	DISO 473 496	infections de la vessie
+#166	AnnotatorNotes T166	C0600041

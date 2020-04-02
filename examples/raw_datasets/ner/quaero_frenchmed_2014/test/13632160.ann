@@ -1,0 +1,8 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	CHEM 11 23	cortisonique
+#2	AnnotatorNotes T2	C0010137
+T3	DISO 46 52	asthme
+#3	AnnotatorNotes T3	C0004096
+T4	DISO 60 81	bronchites chroniques
+#4	AnnotatorNotes T4	C0008677

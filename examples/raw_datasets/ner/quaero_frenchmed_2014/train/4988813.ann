@@ -1,0 +1,22 @@
+T1	OBJC 24 33	substance
+#1	AnnotatorNotes T1	C0439861
+T2	PHEN 34 44	diffusible
+#2	AnnotatorNotes T2	C0012222
+T3	CHEM 63 81	antiérythrocytaire
+#3	AnnotatorNotes T3	C0236506
+T4	ANAT 93 101	embryons
+#4	AnnotatorNotes T4	C0013935
+T5	LIVB 108 117	amphibien
+#5	AnnotatorNotes T5	C0002668
+T6	LIVB 118 137	Pleurodeles waltlii
+#6	AnnotatorNotes T6	C0998988
+T7	LIVB 118 129	Pleurodeles
+#7	AnnotatorNotes T7	C0032235
+T8	PHYS 138 149	homozygotes
+#8	AnnotatorNotes T8	C0019904
+T9	PHEN 171 180	Résultats
+#9	AnnotatorNotes T9	C0849546
+T10	PROC 184 195	expériences
+#10	AnnotatorNotes T10	C0681814
+T11	PROC 199 208	parabiose
+#11	AnnotatorNotes T11	C0030399

@@ -1,0 +1,8 @@
+T1	DISO 0 19	Fibrose myocardique
+#1	AnnotatorNotes T1	C0151654
+T2	DISO 0 7	Fibrose
+#2	AnnotatorNotes T2	C0016059
+T3	ANAT 8 19	myocardique
+#3	AnnotatorNotes T3	C0027061
+T4	DISO 35 48	mucoviscidose
+#4	AnnotatorNotes T4	C0010674

@@ -1,0 +1,12 @@
+T1	PROC 15 34	anesthésie générale
+#1	AnnotatorNotes T1	C0002915
+T2	PROC 15 25	anesthésie
+#2	AnnotatorNotes T2	C0002903
+T3	PROC 43 57	amygdalectomie
+#3	AnnotatorNotes T3	C0040423
+T4	LIVB 66 72	enfant
+#4	AnnotatorNotes T4	C0008059
+T5	LIVB 79 91	adulte jeune
+#5	AnnotatorNotes T5	C0238598
+T6	LIVB 79 85	adulte
+#6	AnnotatorNotes T6	C0001675

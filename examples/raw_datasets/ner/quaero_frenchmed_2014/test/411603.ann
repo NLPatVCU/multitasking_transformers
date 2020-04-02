@@ -1,0 +1,14 @@
+T1	CHEM 58 68	oestradiol
+#1	AnnotatorNotes T1	C0014912
+T2	ANAT 96 113	glandes mammaires
+#2	AnnotatorNotes T2	C0929301
+T3	ANAT 96 103	glandes
+#3	AnnotatorNotes T3	C1285092
+T4	ANAT 104 113	mammaires
+#4	AnnotatorNotes T4	C0006141
+T5	ANAT 117 125	embryons
+#5	AnnotatorNotes T5	C0013935
+T6	LIVB 129 134	lapin
+#6	AnnotatorNotes T6	C0178727
+T7	PROC 43 51	in vitro
+#7	AnnotatorNotes T7	C0681828

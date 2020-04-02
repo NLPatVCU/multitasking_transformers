@@ -1,0 +1,6 @@
+T1	PROC 15 29	examen médical
+#1	AnnotatorNotes T1	C0582103
+T2	PROC 58 72	échotmographie
+#2	AnnotatorNotes T2	C0175676
+T3	PHEN 73 85	ultra-sonore
+#3	AnnotatorNotes T3	C1456803

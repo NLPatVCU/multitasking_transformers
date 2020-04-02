@@ -1,0 +1,18 @@
+T1	DISO 25 32	lésions
+#1	AnnotatorNotes T1	C0221198
+T2	ANAT 33 43	gastriques
+#2	AnnotatorNotes T2	C0038351
+T3	DISO 25 32;47 57	lésions duodénales
+#3	AnnotatorNotes T3	C0013289
+T4	CHEM 75 110	anti-inflammatoires non stéroïdiens
+#4	AnnotatorNotes T4	C0003211
+T5	CHEM 75 94	anti-inflammatoires
+#5	AnnotatorNotes T5	C0003209
+T6	CHEM 95 110	non stéroïdiens
+#6	AnnotatorNotes T6	C2927350
+T7	CHEM 117 125	aspirine
+#7	AnnotatorNotes T7	C0004057
+T8	DISO 25 43	lésions gastriques
+#8	AnnotatorNotes T8	C0038354
+T9	ANAT 47 57	duodénales
+#9	AnnotatorNotes T9	C0013303

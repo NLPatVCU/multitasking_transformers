@@ -1,0 +1,12 @@
+T1	PHEN 10 15	débit
+#1	AnnotatorNotes T1	C0806140
+T2	ANAT 16 27	lymphatique
+#2	AnnotatorNotes T2	C0229889
+T3	ANAT 28 38	intestinal
+#3	AnnotatorNotes T3	C0021853
+T4	LIVB 47 50	rat
+#4	AnnotatorNotes T4	C0034721
+T5	PHYS 51 58	éveillé
+#5	AnnotatorNotes T5	C0234421
+T6	PROC 73 89	apport liquidien
+#6	AnnotatorNotes T6	C0031001

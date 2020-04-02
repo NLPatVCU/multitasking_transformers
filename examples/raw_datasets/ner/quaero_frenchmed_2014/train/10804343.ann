@@ -1,0 +1,18 @@
+T1	PROC 60 69	dépistage
+#1	AnnotatorNotes T1	C0220908
+T2	CHEM 74 83	anticorps
+#2	AnnotatorNotes T2	C0003241
+T3	LIVB 102 124	virus de l' hépatite C
+#3	AnnotatorNotes T3	C0079500
+T4	LIVB 102 107	virus
+#4	AnnotatorNotes T4	C0042776
+T5	LIVB 149 165	donneurs de sang
+#5	AnnotatorNotes T5	C0005795
+T6	ANAT 161 165	sang
+#6	AnnotatorNotes T6	C0005767
+T7	PROC 189 210	transfusion autologue
+#7	AnnotatorNotes T7	C0869036
+T8	DISO 114 124	hépatite C
+#8	AnnotatorNotes T8	C0019196
+T9	CHEM 74 124	anticorps dirigés contre le virus de l' hépatite C
+#9	AnnotatorNotes T9	C0166049

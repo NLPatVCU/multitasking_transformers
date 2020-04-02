@@ -1,0 +1,18 @@
+T1	PHEN 0 9	Migration
+#1	AnnotatorNotes T1	C1881827
+T2	ANAT 10 24	intracardiaque
+#2	AnnotatorNotes T2	C0729936
+T3	DEVI 31 52	cathéter de perfusion
+#3	AnnotatorNotes T3	C1140670
+T4	DEVI 31 39	cathéter
+#4	AnnotatorNotes T4	C0085590
+T5	DEVI 43 52	perfusion
+#5	AnnotatorNotes T5	C0182214
+T6	PROC 83 91	autopsie
+#6	AnnotatorNotes T6	C0004398
+T7	DISO 98 117	traumatisme cranien
+#7	AnnotatorNotes T7	C0018674
+T8	DISO 98 109	traumatisme
+#8	AnnotatorNotes T8	C0043251
+T9	ANAT 110 117	cranien
+#9	AnnotatorNotes T9	C0037303

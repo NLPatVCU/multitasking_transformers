@@ -1,0 +1,12 @@
+T1	ANAT 24 31	cutanés
+#1	AnnotatorNotes T1	C1123023
+T2	LIVB 86 99	Pteronyssinus
+#2	AnnotatorNotes T2	C2295545
+T3	PROC 18 31	tests cutanés
+#3	AnnotatorNotes T3	C0037296
+T4	CHEM 49 68	poussière de maison
+#4	AnnotatorNotes T4	C0524581
+T5	DISO 18 23;32 40	tests positifs
+#5	AnnotatorNotes T5	C1335447
+T6	PHEN 18 31;72 80	tests cutanés négatifs
+#6	AnnotatorNotes T6	C0855856

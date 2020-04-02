@@ -1,0 +1,12 @@
+T1	DISO 16 36	photosensibilisation
+#1	AnnotatorNotes T1	C0031763
+T2	OBJC 40 52	constituants
+#2	AnnotatorNotes T2	C0729650
+T3	CHEM 56 59	DNA
+#3	AnnotatorNotes T3	C0012854
+T4	CHEM 67 77	proflavine
+#4	AnnotatorNotes T4	C0033294
+T5	PROC 84 89	étude
+#5	AnnotatorNotes T5	C2603343
+T6	PROC 94 131	résonance paramagnétique électronique
+#6	AnnotatorNotes T6	C0013845

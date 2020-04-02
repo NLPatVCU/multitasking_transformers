@@ -1,0 +1,12 @@
+T1	OBJC 21 33	constituants
+#1	AnnotatorNotes T1	C0729650
+T2	ANAT 37 55	liquide amniotique
+#2	AnnotatorNotes T2	C0002638
+T3	ANAT 37 44	liquide
+#3	AnnotatorNotes T3	C0005889
+T4	ANAT 45 55	amniotique
+#4	AnnotatorNotes T4	C0002630
+T5	LIVB 62 67	femme
+#5	AnnotatorNotes T5	C0015780
+T6	LIVB 68 77	africaine
+#6	AnnotatorNotes T6	C0027567

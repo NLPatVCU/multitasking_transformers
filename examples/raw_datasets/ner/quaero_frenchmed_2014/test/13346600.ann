@@ -1,0 +1,6 @@
+T1	PROC 10 20	recherches
+#1	AnnotatorNotes T1	C0035168
+T2	CHEM 29 36	lipides
+#2	AnnotatorNotes T2	C0023779
+T3	ANAT 43 61	muqueuse olfactive
+#3	AnnotatorNotes T3	C0028937

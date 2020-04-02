@@ -1,0 +1,10 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0011900
+T2	PROC 14 24	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 31 42	impuissance
+#3	AnnotatorNotes T3	C0242350
+T4	PROC 61 88	injections intracaverneuses
+#4	AnnotatorNotes T4	C0456267
+T5	CHEM 61 71	injections
+#5	AnnotatorNotes T5	C0086466

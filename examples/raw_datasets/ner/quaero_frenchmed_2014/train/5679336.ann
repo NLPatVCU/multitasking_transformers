@@ -1,0 +1,10 @@
+T1	CHEM 44 52	histones
+#1	AnnotatorNotes T1	C0019652
+T2	PHYS 60 80	résistance naturelle
+#2	AnnotatorNotes T2	C1136181
+T3	PHYS 60 70	résistance
+#3	AnnotatorNotes T3	C1514892
+T4	LIVB 85 91	souris
+#4	AnnotatorNotes T4	C0025929
+T5	DISO 97 106	infection
+#5	AnnotatorNotes T5	C0021311

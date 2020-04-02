@@ -1,0 +1,6 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 37 52	corps étrangers
+#2	AnnotatorNotes T2	C0016542
+T3	PROC 84 95	vitrectomie
+#3	AnnotatorNotes T3	C0042903

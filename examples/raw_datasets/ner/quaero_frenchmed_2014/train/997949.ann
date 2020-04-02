@@ -1,0 +1,10 @@
+T1	PROC 23 30	testant
+#1	AnnotatorNotes T1	C0683443
+T2	LIVB 105 111	groupe
+#2	AnnotatorNotes T2	C1257890
+T3	LIVB 115 121	sujets
+#3	AnnotatorNotes T3	C0027361
+T4	PHYS 125 138	sexe masculin
+#4	AnnotatorNotes T4	C0229991
+T5	PHYS 79 91	alimentation
+#5	AnnotatorNotes T5	C0013470

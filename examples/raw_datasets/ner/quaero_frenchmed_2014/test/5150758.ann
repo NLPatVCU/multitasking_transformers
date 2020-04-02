@@ -1,0 +1,10 @@
+T1	PHYS 28 46	croissance osseuse
+#1	AnnotatorNotes T1	C0971859
+T2	PHYS 28 38	croissance
+#2	AnnotatorNotes T2	C0018270
+T3	ANAT 39 46	osseuse
+#3	AnnotatorNotes T3	C0262950
+T4	PHEN 50 65	milieu scolaire
+#4	AnnotatorNotes T4	C0681381
+T5	OBJC 57 65	scolaire
+#5	AnnotatorNotes T5	C0036375

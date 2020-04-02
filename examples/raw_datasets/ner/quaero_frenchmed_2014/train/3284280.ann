@@ -1,0 +1,12 @@
+T1	DISO 3 16	gain de poids
+#1	AnnotatorNotes T1	C0043094
+T2	ANAT 17 25	corporel
+#2	AnnotatorNotes T2	C1268086
+T3	CHEM 69 85	triiodothyronine
+#3	AnnotatorNotes T3	C0041014 C0010826
+T4	ANAT 89 102	serum sanguin
+#4	AnnotatorNotes T4	C0229671
+T5	ANAT 95 102	sanguin
+#5	AnnotatorNotes T5	C0005767
+T6	CHEM 127 135	insuline
+#6	AnnotatorNotes T6	C0021641

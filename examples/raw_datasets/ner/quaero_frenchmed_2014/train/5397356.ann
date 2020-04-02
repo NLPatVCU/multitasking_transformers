@@ -1,0 +1,10 @@
+T1	DISO 0 25	Endocardite maligne lente
+#1	AnnotatorNotes T1	C0014122
+T2	DISO 0 19	Endocardite maligne
+#2	AnnotatorNotes T2	C0264870
+T3	DISO 0 11	Endocardite
+#3	AnnotatorNotes T3	C0014118
+T4	DISO 29 45	maladie d' Osler
+#4	AnnotatorNotes T4	C0267874
+T5	DISO 29 36	maladie
+#5	AnnotatorNotes T5	C0012634

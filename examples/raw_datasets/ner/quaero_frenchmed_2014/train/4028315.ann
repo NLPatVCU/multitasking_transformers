@@ -1,0 +1,14 @@
+T1	DISO 4 37	ostéonécroses de la tête fémorale
+#1	AnnotatorNotes T1	C0015814
+T2	DISO 4 17	ostéonécroses
+#2	AnnotatorNotes T2	C0029445
+T3	ANAT 24 37	tête fémorale
+#3	AnnotatorNotes T3	C0015813
+T4	ANAT 29 37	fémorale
+#4	AnnotatorNotes T4	C0015811
+T5	DISO 49 63	drépanocytaire
+#5	AnnotatorNotes T5	C0002895
+T6	GEOG 67 72	Bénin
+#6	AnnotatorNotes T6	C0005005
+T7	PROC 103 116	radiologiques
+#7	AnnotatorNotes T7	C0043299

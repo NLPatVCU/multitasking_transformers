@@ -1,0 +1,8 @@
+T1	PROC 0 33	Imagerie par résonance magnétique
+#1	AnnotatorNotes T1	C0024485
+T2	DISO 40 79	inflammation du système nerveux central
+#2	AnnotatorNotes T2	C0178264
+T3	DISO 40 52	inflammation
+#3	AnnotatorNotes T3	C0021368
+T4	ANAT 56 71	système nerveux
+#4	AnnotatorNotes T4	C2977944

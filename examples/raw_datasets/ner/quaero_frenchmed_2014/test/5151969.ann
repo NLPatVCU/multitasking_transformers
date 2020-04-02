@@ -1,0 +1,8 @@
+T1	ANAT 0 4	Foie
+#1	AnnotatorNotes T1	C0023884
+T2	CHEM 8 14	alcool
+#2	AnnotatorNotes T2	C0001975
+T3	DISO 17 44	Resultats de nos recherches
+#3	AnnotatorNotes T3	C0683954
+T5	PROC 34 44	recherches
+#5	AnnotatorNotes T5	C0035168

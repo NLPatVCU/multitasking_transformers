@@ -1,0 +1,14 @@
+T1	DISO 0 9	Ergotisme
+#1	AnnotatorNotes T1	C0014714
+T2	CHEM 30 41	association
+#2	AnnotatorNotes T2	C0013162
+T3	CHEM 42 59	dihydroergotamine
+#3	AnnotatorNotes T3	C0012291
+T4	CHEM 62 89	chlorhydrate de doxycycline
+#4	AnnotatorNotes T4	C0771947
+T5	CHEM 62 74	chlorhydrate
+#5	AnnotatorNotes T5	C1512523
+T6	CHEM 78 89	doxycycline
+#6	AnnotatorNotes T6	C0013090
+T7	PROC 92 97	étude
+#7	AnnotatorNotes T7	C0008976

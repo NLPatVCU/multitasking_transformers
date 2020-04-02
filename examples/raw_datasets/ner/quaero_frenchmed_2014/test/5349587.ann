@@ -1,0 +1,12 @@
+T1	PROC 0 9	Pronostic
+#1	AnnotatorNotes T1	C0033325
+T2	PROC 13 23	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 30 54	méningite à pneumocoques
+#3	AnnotatorNotes T3	C0025295
+T4	DISO 30 39	méningite
+#4	AnnotatorNotes T4	C0025289
+T5	LIVB 42 54	pneumocoques
+#5	AnnotatorNotes T5	C0038410
+T6	PROC 88 100	observations
+#6	AnnotatorNotes T6	C0700325

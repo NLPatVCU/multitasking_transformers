@@ -1,0 +1,8 @@
+T1	PROC 0 35	Test de freinage à la dexaméthasone
+#1	AnnotatorNotes T1	C0430115
+T2	PROC 0 16	Test de freinage
+#2	AnnotatorNotes T2	C0201782
+T3	CHEM 22 35	dexaméthasone
+#3	AnnotatorNotes T3	C0011777
+T4	DISO 39 63	pathologie psychiatrique
+#4	AnnotatorNotes T4	C0004936

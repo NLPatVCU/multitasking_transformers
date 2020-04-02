@@ -1,0 +1,8 @@
+T1	CHEM 63 84	hormone de croissance
+#1	AnnotatorNotes T1	C0037663
+T2	CHEM 63 70	hormone
+#2	AnnotatorNotes T2	C0019932
+T3	ANAT 85 97	hypophysaire
+#3	AnnotatorNotes T3	C0032005
+T4	LIVB 98 105	humaine
+#4	AnnotatorNotes T4	C0086418

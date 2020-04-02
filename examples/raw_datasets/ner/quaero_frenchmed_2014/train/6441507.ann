@@ -1,0 +1,12 @@
+T1	CHEM 0 13	Bromocriptine
+#1	AnnotatorNotes T1	C0006230
+T2	CHEM 28 49	hormone de croissance
+#2	AnnotatorNotes T2	C0037663
+T3	CHEM 28 35	hormone
+#3	AnnotatorNotes T3	C0019932
+T4	CHEM 55 68	thyrolibérine
+#4	AnnotatorNotes T4	C2713581
+T5	DISO 77 106	diabétique insulino-dépendant
+#5	AnnotatorNotes T5	C0011854
+T6	DISO 77 87	diabétique
+#6	AnnotatorNotes T6	C0241863

@@ -1,0 +1,6 @@
+T1	PROC 3 20	électromyographie
+#1	AnnotatorNotes T1	C0013839
+T2	ANAT 25 39	cordes vocales
+#2	AnnotatorNotes T2	C0042930
+T3	LIVB 43 48	chien
+#3	AnnotatorNotes T3	C0012984

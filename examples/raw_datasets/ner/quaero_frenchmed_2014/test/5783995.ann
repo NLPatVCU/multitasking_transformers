@@ -1,0 +1,12 @@
+T1	CHEM 27 47	hormone lutéinisante
+#1	AnnotatorNotes T1	C0023607
+T2	CHEM 27 34	hormone
+#2	AnnotatorNotes T2	C0019932
+T3	ANAT 48 56	urinaire
+#3	AnnotatorNotes T3	C0042027
+T4	LIVB 65 70	femme
+#4	AnnotatorNotes T4	C0015780
+T5	LIVB 76 81	homme
+#5	AnnotatorNotes T5	C0024554
+T6	LIVB 88 94	enfant
+#6	AnnotatorNotes T6	C0008059

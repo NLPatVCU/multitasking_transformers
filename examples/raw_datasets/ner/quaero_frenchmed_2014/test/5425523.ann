@@ -1,0 +1,12 @@
+T1	DISO 16 37	carence en vitamine E
+#1	AnnotatorNotes T1	C0042875
+T2	CHEM 27 37	vitamine E
+#2	AnnotatorNotes T2	C0042874
+T3	CHEM 27 35	vitamine
+#3	AnnotatorNotes T3	C0042890
+T4	CHEM 46 64	protéines sériques
+#4	AnnotatorNotes T4	C0036825
+T5	CHEM 46 55	protéines
+#5	AnnotatorNotes T5	C0033684
+T6	ANAT 56 64	sériques
+#6	AnnotatorNotes T6	C0229671

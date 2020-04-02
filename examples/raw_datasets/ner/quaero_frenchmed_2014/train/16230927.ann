@@ -1,0 +1,8 @@
+T1	DISO 0 6	Lésion
+#1	AnnotatorNotes T1	C0221198
+T2	DISO 7 20	inflammatoire
+#2	AnnotatorNotes T2	C0021368
+T3	DISO 24 36	cuir chevelu
+#3	AnnotatorNotes T3	C0036270
+T4	ANAT 24 36	cuir chevelu
+#4	AnnotatorNotes T4	C0036270

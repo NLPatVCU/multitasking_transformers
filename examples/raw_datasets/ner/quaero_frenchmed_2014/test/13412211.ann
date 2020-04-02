@@ -1,0 +1,8 @@
+T1	PROC 18 23	étude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 28 47	protéines du muscle
+#2	AnnotatorNotes T2	C0026832
+T3	ANAT 48 57	cardiaque
+#3	AnnotatorNotes T3	C1123023
+T4	CHEM 87 95	solvants
+#4	AnnotatorNotes T4	C0037638

@@ -1,0 +1,10 @@
+T1	PROC 13 47	tomographie a emission de positons
+#1	AnnotatorNotes T1	C0436224
+T2	PROC 13 24	tomographie
+#2	AnnotatorNotes T2	C0040395
+T3	PHYS 68 88	veille et du sommeil
+#3	AnnotatorNotes T3	C0679010
+T4	PHYS 68 74	veille
+#4	AnnotatorNotes T4	C0043012
+T5	PHYS 81 88	sommeil
+#5	AnnotatorNotes T5	C0037313

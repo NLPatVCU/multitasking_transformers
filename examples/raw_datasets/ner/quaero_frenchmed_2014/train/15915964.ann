@@ -1,0 +1,10 @@
+T1	DISO 0 28	Sensibilité à la pénicilline
+#1	AnnotatorNotes T1	C0747422
+T2	CHEM 17 28	pénicilline
+#2	AnnotatorNotes T2	C0220892
+T3	LIVB 35 47	pneumocoques
+#3	AnnotatorNotes T3	C0038410
+T4	DISO 59 69	méningites
+#4	AnnotatorNotes T4	C0025289
+T5	PROC 85 98	thérapeutique
+#5	AnnotatorNotes T5	C0087111

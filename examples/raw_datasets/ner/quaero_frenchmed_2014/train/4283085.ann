@@ -1,0 +1,8 @@
+T1	CHEM 13 21	pentoses
+#1	AnnotatorNotes T1	C0030894
+T2	LIVB 50 60	coléoptère
+#2	AnnotatorNotes T2	C0009276
+T3	LIVB 61 77	Tenebrio molitor
+#3	AnnotatorNotes T3	C1095860
+T4	LIVB 61 69	Tenebrio
+#4	AnnotatorNotes T4	C0039511

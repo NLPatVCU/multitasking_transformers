@@ -1,0 +1,12 @@
+T1	DISO 0 16	Lésions cutanées
+#1	AnnotatorNotes T1	C0037284
+T2	DISO 0 7	Lésions
+#2	AnnotatorNotes T2	C0221198
+T3	ANAT 8 16	cutanées
+#3	AnnotatorNotes T3	C1123023
+T4	CHEM 20 40	agglutinines froides
+#4	AnnotatorNotes T4	C0056097
+T5	CHEM 20 32	agglutinines
+#5	AnnotatorNotes T5	C0001804
+T6	PHEN 33 40	froides
+#6	AnnotatorNotes T6	C0009264

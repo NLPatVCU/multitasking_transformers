@@ -1,0 +1,14 @@
+T1	ANAT 13 23	valvulaire
+#1	AnnotatorNotes T1	C0003501
+T2	DISO 29 52	sténose aortique isolée
+#2	AnnotatorNotes T2	C0349516
+T3	DISO 29 45	sténose aortique
+#3	AnnotatorNotes T3	C0003507
+T4	DISO 29 36	sténose
+#4	AnnotatorNotes T4	C1261287
+T5	ANAT 37 45	aortique
+#5	AnnotatorNotes T5	C0003483
+T6	DISO 79 94	index cardiaque
+#6	AnnotatorNotes T6	C0428776
+T8	ANAT 85 94	cardiaque
+#8	AnnotatorNotes T8	C0018787

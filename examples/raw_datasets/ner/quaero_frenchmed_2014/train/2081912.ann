@@ -1,0 +1,8 @@
+T1	DISO 0 24	Fibrose rétropéritonéale
+#1	AnnotatorNotes T1	C0035357
+T2	DISO 0 7	Fibrose
+#2	AnnotatorNotes T2	C0016059
+T3	CHEM 28 35	timolol
+#3	AnnotatorNotes T3	C0040233
+T4	CHEM 39 46	collyre
+#4	AnnotatorNotes T4	C0015399

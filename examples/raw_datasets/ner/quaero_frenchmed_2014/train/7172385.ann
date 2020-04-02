@@ -1,0 +1,6 @@
+T1	PROC 14 27	radiothérapie
+#1	AnnotatorNotes T1	C0086572
+T2	DISO 37 46	mélanomes
+#2	AnnotatorNotes T2	C0025202
+T3	ANAT 57 62	limbe
+#3	AnnotatorNotes T3	C0085376

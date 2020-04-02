@@ -1,0 +1,8 @@
+T1	DISO 0 22	Insuffisance surrenale
+#1	AnnotatorNotes T1	C0001623
+T2	ANAT 13 22	surrenale
+#2	AnnotatorNotes T2	C0001625
+T3	DISO 26 39	histoplasmose
+#3	AnnotatorNotes T3	C0019655
+T4	PROC 58 69	observation
+#4	AnnotatorNotes T4	C0302523

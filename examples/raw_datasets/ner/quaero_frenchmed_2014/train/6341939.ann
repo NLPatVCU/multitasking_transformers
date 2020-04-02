@@ -1,0 +1,6 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0430022
+T2	PROC 11 26	microbiologique
+#2	AnnotatorNotes T2	C0025951
+T3	DISO 31 43	épiglottites
+#3	AnnotatorNotes T3	C0014541

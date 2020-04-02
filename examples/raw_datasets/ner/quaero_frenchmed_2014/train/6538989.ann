@@ -1,0 +1,6 @@
+T1	DISO 0 30	Cardiomyopathie hypertrophique
+#1	AnnotatorNotes T1	C0007194
+T2	DISO 0 15	Cardiomyopathie
+#2	AnnotatorNotes T2	C0878544
+T3	DISO 16 30	hypertrophique
+#3	AnnotatorNotes T3	C0020564

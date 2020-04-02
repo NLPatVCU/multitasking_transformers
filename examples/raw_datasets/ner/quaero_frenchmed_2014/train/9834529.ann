@@ -1,0 +1,12 @@
+T1	DISO 24 34	diagnostic
+#1	AnnotatorNotes T1	C0011900
+T2	PROC 40 50	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	PROC 57 62	suivi
+#3	AnnotatorNotes T3	C1522577
+T4	DISO 66 82	cancer de vessie
+#4	AnnotatorNotes T4	C0005684
+T5	DISO 66 72	cancer
+#5	AnnotatorNotes T5	C0027651
+T6	ANAT 76 82	vessie
+#6	AnnotatorNotes T6	C0005682

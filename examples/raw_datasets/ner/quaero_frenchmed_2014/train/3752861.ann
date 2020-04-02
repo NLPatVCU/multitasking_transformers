@@ -1,0 +1,8 @@
+T1	PHYS 0 20	Pigmentation cutanée
+#1	AnnotatorNotes T1	C0037290
+T2	PHYS 0 12	Pigmentation
+#2	AnnotatorNotes T2	C0031911
+T3	ANAT 13 20	cutanée
+#3	AnnotatorNotes T3	C1123023
+T4	CHEM 36 47	minocycline
+#4	AnnotatorNotes T4	C0026187

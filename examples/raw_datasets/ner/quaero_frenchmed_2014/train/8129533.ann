@@ -1,0 +1,8 @@
+T1	PHYS 19 70	réactivité vasculaire rénale endothélium-dépendante
+#1	AnnotatorNotes T1	C1258036
+T2	PHYS 19 29	réactivité
+#2	AnnotatorNotes T2	C1660757
+T3	ANAT 30 47	vasculaire rénale
+#3	AnnotatorNotes T3	C0227622
+T4	CHEM 78 90	ciclosporine
+#4	AnnotatorNotes T4	C0010592

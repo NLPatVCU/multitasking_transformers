@@ -1,0 +1,6 @@
+T1	DISO 0 12	Thrombopénie
+#1	AnnotatorNotes T1	C0040034
+T2	DISO 13 21	mortelle
+#2	AnnotatorNotes T2	C3151529
+T3	CHEM 28 36	héparine
+#3	AnnotatorNotes T3	C0019134

@@ -1,0 +1,12 @@
+T1	ANAT 4 20	forme anatomique
+#1	AnnotatorNotes T1	C1254857
+T2	DISO 29 50	épendymome médullaire
+#2	AnnotatorNotes T2	C0238432
+T3	DISO 29 39	épendymome
+#3	AnnotatorNotes T3	C0014474
+T4	ANAT 40 50	médullaire
+#4	AnnotatorNotes T4	C0037925
+T5	DISO 56 72	épendymoblastome
+#5	AnnotatorNotes T5	C0700367
+T6	DISO 73 85	métastatique
+#6	AnnotatorNotes T6	C0027627

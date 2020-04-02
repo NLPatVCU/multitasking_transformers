@@ -1,0 +1,6 @@
+T1	PROC 0 12	IRM mammaire
+#1	AnnotatorNotes T1	C0344104
+T2	PROC 0 3	IRM
+#2	AnnotatorNotes T2	C0024485
+T3	ANAT 4 12	mammaire
+#3	AnnotatorNotes T3	C0006141

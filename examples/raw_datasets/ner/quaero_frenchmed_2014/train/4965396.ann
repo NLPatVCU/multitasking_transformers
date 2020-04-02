@@ -1,0 +1,12 @@
+T1	PROC 3 15	cardiogramme
+#1	AnnotatorNotes T1	C0849666
+T2	ANAT 16 30	apexien gauche
+#2	AnnotatorNotes T2	C0580781
+T3	ANAT 16 23	apexien
+#3	AnnotatorNotes T3	C0225811
+T4	DISO 46 66	insuffisance mitrale
+#4	AnnotatorNotes T4	C0026266
+T5	ANAT 59 66	mitrale
+#5	AnnotatorNotes T5	C0026264
+T6	PROC 69 74	Etude
+#6	AnnotatorNotes T6	C2603343

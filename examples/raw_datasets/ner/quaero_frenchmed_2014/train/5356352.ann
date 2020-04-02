@@ -1,0 +1,10 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PROC 6 20	sialographique
+#2	AnnotatorNotes T2	C1659593
+T3	DISO 27 39	pseudo-kyste
+#3	AnnotatorNotes T3	C0333161
+T4	DISO 40 51	traumatique
+#4	AnnotatorNotes T4	C0043251
+T5	ANAT 58 66	parotide
+#5	AnnotatorNotes T5	C0030580

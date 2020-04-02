@@ -1,0 +1,6 @@
+T1	PROC 7 19	radiographie
+#1	AnnotatorNotes T1	C0043299
+T2	ANAT 26 34	ethmoïde
+#2	AnnotatorNotes T2	C0015027
+T3	OBJC 107 120	appareillages
+#3	AnnotatorNotes T3	C0014674

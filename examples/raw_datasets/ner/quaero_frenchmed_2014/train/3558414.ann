@@ -1,0 +1,10 @@
+T1	PROC 0 10	Evaluation
+#1	AnnotatorNotes T1	C1261322
+T2	CHEM 14 31	vaccin antiamaril
+#2	AnnotatorNotes T2	C0301508
+T3	CHEM 14 20	vaccin
+#3	AnnotatorNotes T3	C0042210
+T4	DISO 21 31	antiamaril
+#4	AnnotatorNotes T4	C0043395
+T5	LIVB 77 86	voyageurs
+#5	AnnotatorNotes T5	C0687759

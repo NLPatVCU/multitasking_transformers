@@ -1,0 +1,10 @@
+T1	DISO 4 11	tumeurs
+#1	AnnotatorNotes T1	C0027651
+T2	ANAT 27 33	ovaire
+#2	AnnotatorNotes T2	C0029939
+T3	DISO 36 45	malignité
+#3	AnnotatorNotes T3	C0006826
+T4	PROC 55 68	Mise au point
+#4	AnnotatorNotes T4	C0936012
+T5	DISO 21 33;4 11	de l' ovaire tumeurs
+#5	AnnotatorNotes T5	C0919267

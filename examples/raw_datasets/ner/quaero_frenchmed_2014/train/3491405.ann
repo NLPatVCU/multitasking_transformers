@@ -1,0 +1,10 @@
+T1	PHYS 17 30	débit sanguin
+#1	AnnotatorNotes T1	C0232338
+T2	PHEN 17 22	débit
+#2	AnnotatorNotes T2	C0806140
+T3	ANAT 23 30	sanguin
+#3	AnnotatorNotes T3	C0005767
+T4	DISO 48 57	hématomes
+#4	AnnotatorNotes T4	C0018944
+T5	ANAT 58 67	cérébraux
+#5	AnnotatorNotes T5	C0242202

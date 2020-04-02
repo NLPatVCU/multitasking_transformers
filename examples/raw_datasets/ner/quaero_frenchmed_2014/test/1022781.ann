@@ -1,0 +1,12 @@
+T1	DISO 0 21	Pancreatite chronique
+#1	AnnotatorNotes T1	C0149521
+T2	DISO 0 11	Pancreatite
+#2	AnnotatorNotes T2	C0030305
+T3	DISO 26 44	pancreas annulaire
+#3	AnnotatorNotes T3	C0149955
+T4	ANAT 26 34	pancreas
+#4	AnnotatorNotes T4	C0030274
+T5	DISO 52 64	diagnostiqué
+#5	AnnotatorNotes T5	C0011900
+T6	PROC 95 107	endoscopique
+#6	AnnotatorNotes T6	C0014245

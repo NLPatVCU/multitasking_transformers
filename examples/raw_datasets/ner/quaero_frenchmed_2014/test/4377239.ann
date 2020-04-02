@@ -1,0 +1,18 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 19 42	fibrose endomyocardique
+#2	AnnotatorNotes T2	C0553980
+T3	DISO 19 26	fibrose
+#3	AnnotatorNotes T3	C0016059
+T4	ANAT 27 42	endomyocardique
+#4	AnnotatorNotes T4	C1655270
+T5	DISO 48 68	fibrose endocardique
+#5	AnnotatorNotes T5	C0235970
+T6	DISO 48 55	fibrose
+#6	AnnotatorNotes T6	C0016059
+T7	ANAT 56 68	endocardique
+#7	AnnotatorNotes T7	C0014124
+T8	DEVI 100 124	documents hémodynamiques
+#8	AnnotatorNotes T8	C0180290
+T9	PHYS 110 124	hémodynamiques
+#9	AnnotatorNotes T9	C0019010

@@ -1,0 +1,18 @@
+T1	DISO 14 26	accoutumance
+#1	AnnotatorNotes T1	C0013220
+T2	CHEM 31 44	antibiotiques
+#2	AnnotatorNotes T2	C0003232
+T3	PROC 63 74	observation
+#3	AnnotatorNotes T3	C0302523
+T4	DISO 78 101	endocardite infectieuse
+#4	AnnotatorNotes T4	C0014122
+T5	DISO 78 89	endocardite
+#5	AnnotatorNotes T5	C0014118
+T6	DISO 90 101	infectieuse
+#6	AnnotatorNotes T6	C0009450
+T7	LIVB 110 115	sujet
+#7	AnnotatorNotes T7	C0030705
+T8	DISO 116 126	allergique
+#8	AnnotatorNotes T8	C0020517
+T9	CHEM 137 150	antibiotiques
+#9	AnnotatorNotes T9	C0003232

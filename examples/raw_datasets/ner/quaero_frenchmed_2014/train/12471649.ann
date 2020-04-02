@@ -1,0 +1,10 @@
+T1	CHEM 10 37	activateurs du plasminogène
+#1	AnnotatorNotes T1	C0032144
+T2	CHEM 25 37	plasminogène
+#2	AnnotatorNotes T2	C0032140
+T3	PROC 46 56	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 63 90	thrombose veineuse profonde
+#4	AnnotatorNotes T4	C0149871
+T5	ANAT 73 81	veineuse
+#5	AnnotatorNotes T5	C0042449

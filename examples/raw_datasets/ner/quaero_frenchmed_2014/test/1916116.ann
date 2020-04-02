@@ -1,0 +1,22 @@
+T1	DISO 0 15	Endocrinopathie
+#1	AnnotatorNotes T1	C0014130
+T2	ANAT 16 24	fundique
+#2	AnnotatorNotes T2	C0740422
+T3	DISO 31 50	gastrite atrophique
+#3	AnnotatorNotes T3	C0017154
+T4	DISO 31 39	gastrite
+#4	AnnotatorNotes T4	C0017152
+T5	DISO 40 50	atrophique
+#5	AnnotatorNotes T5	C0333641
+T6	ANAT 51 59	fundique
+#6	AnnotatorNotes T6	C0740422
+T7	DISO 65 77	achlorhydrie
+#7	AnnotatorNotes T7	C0001075
+T8	DISO 100 116	hypergastrinémie
+#8	AnnotatorNotes T8	C0232567
+T9	DISO 120 131	hyperplasie
+#9	AnnotatorNotes T9	C0020507
+T10	ANAT 132 141	endocrine
+#10	AnnotatorNotes T10	C0014136
+T11	ANAT 142 150	fundique
+#11	AnnotatorNotes T11	C0740422

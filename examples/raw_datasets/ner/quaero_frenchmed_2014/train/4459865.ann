@@ -1,0 +1,22 @@
+T1	DISO 0 10	Dilatation
+#1	AnnotatorNotes T1	C0012359
+T2	DISO 11 22	anévrysmale
+#2	AnnotatorNotes T2	C0002940
+T3	ANAT 27 45	veines pulmonaires
+#3	AnnotatorNotes T3	C0034090
+T4	ANAT 27 33	veines
+#4	AnnotatorNotes T4	C0042449
+T5	ANAT 34 45	pulmonaires
+#5	AnnotatorNotes T5	C0024109
+T6	DISO 50 70	insuffisance mitrale
+#6	AnnotatorNotes T6	C0026266
+T7	ANAT 63 70	mitrale
+#7	AnnotatorNotes T7	C0026264
+T8	DISO 89 108	tumeur médiastinale
+#8	AnnotatorNotes T8	C0025063
+T9	DISO 89 95	tumeur
+#9	AnnotatorNotes T9	C0027651
+T10	ANAT 96 108	médiastinale
+#10	AnnotatorNotes T10	C0025066
+T11	DISO 81 85	rare
+#11	AnnotatorNotes T11	C0678236

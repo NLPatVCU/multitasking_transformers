@@ -1,0 +1,10 @@
+T1	PROC 18 23	étude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 30 40	pathogénie
+#2	AnnotatorNotes T2	C0699748
+T3	DISO 47 72	exophtalmie endocrinienne
+#3	AnnotatorNotes T3	C0155264
+T4	DISO 47 58	exophtalmie
+#4	AnnotatorNotes T4	C0015300
+T5	ANAT 59 72	endocrinienne
+#5	AnnotatorNotes T5	C0014136

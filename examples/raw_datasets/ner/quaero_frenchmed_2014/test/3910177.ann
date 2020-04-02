@@ -1,0 +1,6 @@
+T1	PROC 3 14	vaccination
+#1	AnnotatorNotes T1	C0042196
+T2	LIVB 35 40	homme
+#2	AnnotatorNotes T2	C0086418
+T3	CHEM 3 40	vaccination antirabique chez l' homme
+#3	AnnotatorNotes T3	C0305066

@@ -1,0 +1,4 @@
+T1	PROC 0 16	Antibiothérapies
+#1	AnnotatorNotes T1	C0013216
+T2	PROC 70 81	traitements
+#2	AnnotatorNotes T2	C0087111

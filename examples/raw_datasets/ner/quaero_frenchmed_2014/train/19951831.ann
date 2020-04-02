@@ -1,0 +1,10 @@
+T1	PROC 81 96	prise en charge
+#1	AnnotatorNotes T1	C0376636
+T2	LIVB 101 109	patients
+#2	AnnotatorNotes T2	C0030705
+T3	DISO 110 118	infectés
+#3	AnnotatorNotes T3	C0021311
+T4	LIVB 126 129	VIH
+#4	AnnotatorNotes T4	C0019682
+T5	GEOG 133 145	Burkina Faso
+#5	AnnotatorNotes T5	C0006409

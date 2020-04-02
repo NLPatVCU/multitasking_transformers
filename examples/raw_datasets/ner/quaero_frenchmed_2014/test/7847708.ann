@@ -1,0 +1,8 @@
+T1	DISO 0 29	Invagination gastro-duodénale
+#1	AnnotatorNotes T1	C0341215
+T2	DISO 0 12	Invagination
+#2	AnnotatorNotes T2	C0021933
+T3	DISO 34 50	tumeur gastrique
+#3	AnnotatorNotes T3	C0038356
+T4	ANAT 41 50	gastrique
+#4	AnnotatorNotes T4	C0017189

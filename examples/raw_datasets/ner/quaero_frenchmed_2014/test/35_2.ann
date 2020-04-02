@@ -1,0 +1,192 @@
+T1	CHEM 11 18	Atripla
+#1	AnnotatorNotes T1	C1724016
+T2	CHEM 57 68	médicaments
+#2	AnnotatorNotes T2	C0013227
+T3	CHEM 105 112	Atripla
+#3	AnnotatorNotes T3	C1724016
+T4	DISO 156 175	effets indésirables
+#4	AnnotatorNotes T4	C0559546
+T5	CHEM 230 239	ténofovir
+#5	AnnotatorNotes T5	C0384228
+T6	ANAT 248 252	sang
+#6	AnnotatorNotes T6	C0005767
+T7	CHEM 298 305	Atripla
+#7	AnnotatorNotes T7	C1724016
+T8	PROC 329 339	traitement
+#8	AnnotatorNotes T8	C0087111
+T9	CHEM 355 363	comprimé
+#9	AnnotatorNotes T9	C0994475
+T10	PROC 419 434	charges virales
+#10	AnnotatorNotes T10	C1261478
+T11	LIVB 460 468	patients
+#11	AnnotatorNotes T11	C0030705
+T12	PROC 485 495	traitement
+#12	AnnotatorNotes T12	C0087111
+T13	CHEM 496 504	anti-VIH
+#13	AnnotatorNotes T13	C0019686
+T14	LIVB 611 619	patients
+#14	AnnotatorNotes T14	C0030705
+T15	PROC 642 652	traitement
+#15	AnnotatorNotes T15	C0087111
+T16	CHEM 714 721	Atripla
+#16	AnnotatorNotes T16	C1724016
+T17	DISO 744 751	risques
+#17	AnnotatorNotes T17	C0184544
+T18	PROC 760 770	traitement
+#18	AnnotatorNotes T18	C0087111
+T19	DISO 778 787	infection
+#19	AnnotatorNotes T19	C0021311
+T20	LIVB 795 802	VIH - 1
+#20	AnnotatorNotes T20	C0019704
+T21	LIVB 812 819	adultes
+#21	AnnotatorNotes T21	C0001675
+T22	CHEM 886 905	acide ribonucléique
+#22	AnnotatorNotes T22	C0035668
+T23	CHEM 908 911	ARN
+#23	AnnotatorNotes T23	C0035668
+T24	LIVB 917 930	virus HIV - 1
+#24	AnnotatorNotes T24	C0019704
+T25	PROC 981 991	traitement
+#25	AnnotatorNotes T25	C0087111
+T26	CHEM 1012 1027	antirétroviraux
+#26	AnnotatorNotes T26	C0599685
+T27	CHEM 1095 1102	Atripla
+#27	AnnotatorNotes T27	C1724016
+T28	PROC 1166 1171	étude
+#28	AnnotatorNotes T28	C2603343
+T29	LIVB 1187 1195	patients
+#29	AnnotatorNotes T29	C0030705
+T30	LIVB 1222 1225	VIH
+#30	AnnotatorNotes T30	C0019682
+T31	PROC 1241 1251	traitement
+#31	AnnotatorNotes T31	C0087111
+T32	CHEM 1271 1291	médicaments anti-VIH
+#32	AnnotatorNotes T32	C0376565
+T33	CHEM 1283 1291	anti-VIH
+#33	AnnotatorNotes T33	C0019686
+T34	CHEM 1323 1330	Atripla
+#34	AnnotatorNotes T34	C1724016
+T35	LIVB 1397 1405	patients
+#35	AnnotatorNotes T35	C0030705
+T36	PROC 1460 1467	traités
+#36	AnnotatorNotes T36	C0087111
+T37	CHEM 1484 1504	médicaments anti-VIH
+#37	AnnotatorNotes T37	C0376565
+T38	CHEM 1496 1504	anti-VIH
+#38	AnnotatorNotes T38	C0019686
+T39	CHEM 1599 1606	Atripla
+#39	AnnotatorNotes T39	C1724016
+T40	CHEM 1638 1658	médicaments anti-VIH
+#40	AnnotatorNotes T40	C0376565
+T41	CHEM 1650 1658	anti-VIH
+#41	AnnotatorNotes T41	C0019686
+T42	CHEM 1745 1752	Atripla
+#42	AnnotatorNotes T42	C1724016
+T43	CHEM 1841 1848	Atripla
+#43	AnnotatorNotes T43	C1724016
+T44	CHEM 1893 1903	médicament
+#44	AnnotatorNotes T44	C0013227
+T45	DISO 1976 1995	effets indésirables
+#45	AnnotatorNotes T45	C0559546
+T46	CHEM 1999 2019	ténofovir disoproxil
+#46	AnnotatorNotes T46	C0963398
+T47	ANAT 2028 2033	reins
+#47	AnnotatorNotes T47	C0022646
+T48	CHEM 2070 2077	Atripla
+#48	AnnotatorNotes T48	C1724016
+T49	CHEM 2109 2116	Atripla
+#49	AnnotatorNotes T49	C1724016
+T50	CHEM 2147 2156	comprimés
+#50	AnnotatorNotes T50	C0039225
+T51	CHEM 2172 2181	éfavirenz
+#51	AnnotatorNotes T51	C0674428
+T52	CHEM 2184 2197	emtricitabine
+#52	AnnotatorNotes T52	C0909839
+T53	CHEM 2200 2220	ténofovir disoproxil
+#53	AnnotatorNotes T53	C0963398
+T54	CHEM 2240 2248	fumarate
+#54	AnnotatorNotes T54	C0016801
+T55	CHEM 2253 2260	Atripla
+#55	AnnotatorNotes T55	C1724016
+T56	CHEM 2286 2295	comprimés
+#56	AnnotatorNotes T56	C0039225
+T57	CHEM 2316 2324	comprimé
+#57	AnnotatorNotes T57	C0994475
+T58	CHEM 2355 2364	éfavirenz
+#58	AnnotatorNotes T58	C0674428
+T59	CHEM 2378 2391	emtricitabine
+#59	AnnotatorNotes T59	C0909839
+T60	CHEM 2405 2425	ténofovir disoproxil
+#60	AnnotatorNotes T60	C0963398
+T61	CHEM 2445 2453	fumarate
+#61	AnnotatorNotes T61	C0016801
+T62	CHEM 2466 2474	comprimé
+#62	AnnotatorNotes T62	C0994475
+T63	CHEM 2518 2524	sodium
+#63	AnnotatorNotes T63	C0037522
+T65	CHEM 2529 2537	Comprimé
+#65	AnnotatorNotes T65	C0994475
+T68	LIVB 2677 2685	patients
+#68	AnnotatorNotes T68	C0030705
+T69	PHYS 2720 2737	échec virologique
+#69	AnnotatorNotes T69	C1699206
+T70	PROC 2746 2756	traitement
+#70	AnnotatorNotes T70	C0087111
+T71	CHEM 2757 2771	antirétroviral
+#71	AnnotatorNotes T71	C0599685
+T72	LIVB 2813 2821	patients
+#72	AnnotatorNotes T72	C0030705
+T73	PROC 2881 2891	traitement
+#73	AnnotatorNotes T73	C0087111
+T74	CHEM 2892 2906	antirétroviral
+#74	AnnotatorNotes T74	C0599685
+T75	CHEM 3010 3017	Atripla
+#75	AnnotatorNotes T75	C1724016
+T76	CHEM 3088 3095	Atripla
+#76	AnnotatorNotes T76	C1724016
+T77	PROC 3159 3164	étude
+#77	AnnotatorNotes T77	C2603343
+T78	LIVB 3192 3200	patients
+#78	AnnotatorNotes T78	C0030705
+T79	PROC 3245 3252	traités
+#79	AnnotatorNotes T79	C0087111
+T80	CHEM 3273 3288	antirétroviraux
+#80	AnnotatorNotes T80	C0599685
+T81	PROC 3307 3317	traitement
+#81	AnnotatorNotes T81	C0087111
+T82	CHEM 3323 3330	Atripla
+#82	AnnotatorNotes T82	C1724016
+T83	PROC 3382 3398	études cliniques
+#83	AnnotatorNotes T83	C0008972
+T84	CHEM 3436 3443	Atripla
+#84	AnnotatorNotes T84	C1724016
+T85	LIVB 3453 3461	patients
+#85	AnnotatorNotes T85	C0030705
+T86	PROC 3476 3486	traitement
+#86	AnnotatorNotes T86	C0087111
+T87	CHEM 3578 3585	Atripla
+#87	AnnotatorNotes T87	C1724016
+T88	CHEM 3602 3624	agents antirétroviraux
+#88	AnnotatorNotes T88	C0599685
+T89	PROC 3632 3642	traitement
+#89	AnnotatorNotes T89	C0087111
+T90	LIVB 3668 3676	médecins
+#90	AnnotatorNotes T90	C0031831
+T91	DISO 3721 3730	infection
+#91	AnnotatorNotes T91	C0021311
+T92	LIVB 3738 3775	virus de l ’ immunodéficience humaine
+#92	AnnotatorNotes T92	C0019682
+T93	DISO 3751 3767	immunodéficience
+#93	AnnotatorNotes T93	C0021051
+T94	LIVB 3778 3781	VIH
+#94	AnnotatorNotes T94	C0019682
+T95	CHEM 3811 3818	Atripla
+#95	AnnotatorNotes T95	C1724016
+T96	CHEM 3830 3838	comprimé
+#96	AnnotatorNotes T96	C0994475
+T97	PROC 3871 3881	voie orale
+#97	AnnotatorNotes T97	C0001563
+T98	DISO 778 802	infection par le VIH - 1
+#98	AnnotatorNotes T98	C2363741
+T66	DISO 3721 3775	infection par le virus de l ’ immunodéficience humaine
+#66	AnnotatorNotes T66	C0019693

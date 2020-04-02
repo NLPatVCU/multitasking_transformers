@@ -1,0 +1,1 @@
+Calcul sur ordinateur de la distribution réelle des doses autour d' une implantation interstitielle de boucles ou épingles d' iridium 192 .

@@ -1,0 +1,16 @@
+T1	CHEM 4 35	immunoglobulines intraveineuses
+#1	AnnotatorNotes T1	C0085297
+T2	CHEM 4 20	immunoglobulines
+#2	AnnotatorNotes T2	C0021027
+T3	PROC 68 78	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 83 93	cytopénies
+#4	AnnotatorNotes T4	C0010828
+T5	PHYS 94 118	sanguines immunologiques
+#5	AnnotatorNotes T5	C0678885
+T6	ANAT 94 103	sanguines
+#6	AnnotatorNotes T6	C0005767
+T7	PHYS 144 155	indications
+#7	AnnotatorNotes T7	C2315323
+T8	DISO 159 168	résultats
+#8	AnnotatorNotes T8	C0456984

@@ -1,0 +1,6 @@
+T1	PROC 0 10	Evaluation
+#1	AnnotatorNotes T1	C1261322
+T2	PROC 29 45	soins infirmiers
+#2	AnnotatorNotes T2	C0028682
+T3	LIVB 35 45	infirmiers
+#3	AnnotatorNotes T3	C0028661

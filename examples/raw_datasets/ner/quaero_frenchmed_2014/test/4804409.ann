@@ -1,0 +1,12 @@
+T1	CHEM 11 22	cyprotérone
+#1	AnnotatorNotes T1	C0010621
+T2	PROC 31 41	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 46 66	cancers prostatiques
+#3	AnnotatorNotes T3	C0376358
+T4	DISO 46 53	cancers
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 54 66	prostatiques
+#5	AnnotatorNotes T5	C0033572
+T6	DISO 72 82	métastases
+#6	AnnotatorNotes T6	C0027627

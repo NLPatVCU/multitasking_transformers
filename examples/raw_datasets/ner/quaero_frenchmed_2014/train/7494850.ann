@@ -1,0 +1,8 @@
+T1	DISO 0 20	Syndrome polyalgique
+#1	AnnotatorNotes T1	C0343211
+T2	DISO 0 8	Syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	ANAT 25 43	membres supérieurs
+#3	AnnotatorNotes T3	C1269078
+T4	OBJC 95 116	clavier d' ordinateur
+#4	AnnotatorNotes T4	C0870768

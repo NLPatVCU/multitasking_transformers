@@ -1,0 +1,14 @@
+T1	PROC 0 12	Observations
+#1	AnnotatorNotes T1	C0302523
+T2	ANAT 13 24	anatomiques
+#2	AnnotatorNotes T2	C0700276
+T3	ANAT 32 41	épididyme
+#3	AnnotatorNotes T3	C0014533
+T4	LIVB 48 70	sarigue Sud-Americaine
+#4	AnnotatorNotes T4	C0999405
+T5	LIVB 48 55	sarigue
+#5	AnnotatorNotes T5	C0029115
+T7	LIVB 73 89	Didelphis azarae
+#7	AnnotatorNotes T7	C0324672
+T8	LIVB 73 82	Didelphis
+#8	AnnotatorNotes T8	C0086150

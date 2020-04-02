@@ -1,0 +1,14 @@
+T1	DISO 0 23	Cystadénome du pancréas
+#1	AnnotatorNotes T1	C0341486
+T2	DISO 0 11	Cystadénome
+#2	AnnotatorNotes T2	C0010633
+T3	ANAT 15 23	pancréas
+#3	AnnotatorNotes T3	C0030274
+T4	PROC 64 70	traité
+#4	AnnotatorNotes T4	C0087111
+T5	PROC 75 90	pancréatectomie
+#5	AnnotatorNotes T5	C0030279
+T6	PROC 113 136	duodéno-pancréatectomie
+#6	AnnotatorNotes T6	C0085162
+T7	ANAT 137 147	céphalique
+#7	AnnotatorNotes T7	C0006104

@@ -1,0 +1,10 @@
+T1	DISO 25 45	neuropathie vésicale
+#1	AnnotatorNotes T1	C1408161
+T2	DISO 25 36	neuropathie
+#2	AnnotatorNotes T2	C0442874
+T3	ANAT 37 45	vésicale
+#3	AnnotatorNotes T3	C0005682
+T4	LIVB 52 57	homme
+#4	AnnotatorNotes T4	C0025266
+T5	DISO 58 68	diabétique
+#5	AnnotatorNotes T5	C0241863

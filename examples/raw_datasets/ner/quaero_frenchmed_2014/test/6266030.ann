@@ -1,0 +1,8 @@
+T1	DISO 19 42	hypertension artérielle
+#1	AnnotatorNotes T1	C0020538
+T2	DISO 19 31	hypertension
+#2	AnnotatorNotes T2	C0020538
+T3	ANAT 32 42	artérielle
+#3	AnnotatorNotes T3	C0003842
+T4	CHEM 50 63	bêta-bloquant
+#4	AnnotatorNotes T4	C0001645

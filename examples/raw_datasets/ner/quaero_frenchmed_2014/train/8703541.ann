@@ -1,0 +1,10 @@
+T1	PROC 15 28	radiothérapie
+#1	AnnotatorNotes T1	C0034619
+T2	PROC 37 47	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 51 67	cancer du rectum
+#3	AnnotatorNotes T3	C0007113
+T4	DISO 51 57	cancer
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 61 67	rectum
+#5	AnnotatorNotes T5	C0034896

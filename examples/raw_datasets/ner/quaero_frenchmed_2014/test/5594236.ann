@@ -1,0 +1,10 @@
+T1	PHEN 0 11	Compression
+#1	AnnotatorNotes T1	C0728907
+T2	DISO 33 69	tuberculose ganglionnaire abdominale
+#2	AnnotatorNotes T2	
+T3	DISO 33 44	tuberculose
+#3	AnnotatorNotes T3	C0041296
+T4	ANAT 45 58	ganglionnaire
+#4	AnnotatorNotes T4	
+T5	ANAT 59 69	abdominale
+#5	AnnotatorNotes T5	C0000726

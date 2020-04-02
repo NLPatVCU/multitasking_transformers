@@ -1,0 +1,14 @@
+T1	PROC 0 11	Échographie
+#1	AnnotatorNotes T1	C0041618
+T2	ANAT 12 20	veineuse
+#2	AnnotatorNotes T2	C0042449
+T3	ANAT 25 43	membres inferieurs
+#3	AnnotatorNotes T3	C0023216
+T4	ANAT 25 32	membres
+#4	AnnotatorNotes T4	C0015385
+T5	DISO 52 62	diagnostic
+#5	AnnotatorNotes T5	C0011900
+T6	DISO 67 77	thromboses
+#6	AnnotatorNotes T6	C0040053
+T7	PHEN 123 132	résultats
+#7	AnnotatorNotes T7	C1254595

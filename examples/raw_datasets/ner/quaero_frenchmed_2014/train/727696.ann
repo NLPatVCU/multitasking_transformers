@@ -1,0 +1,12 @@
+T1	PROC 0 14	Artériographie
+#1	AnnotatorNotes T1	C0003844
+T2	ANAT 21 38	vésicule biliaire
+#2	AnnotatorNotes T2	C0016976
+T3	ANAT 30 38	biliaire
+#3	AnnotatorNotes T3	C0005388
+T4	LIVB 39 46	humaine
+#4	AnnotatorNotes T4	C0086418
+T5	DISO 60 71	lithiasique
+#5	AnnotatorNotes T5	C0023869
+T6	PROC 81 101	microangiographiques
+#6	AnnotatorNotes T6	C0596926

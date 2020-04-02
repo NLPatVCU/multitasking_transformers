@@ -1,0 +1,12 @@
+T1	DISO 0 21	Obstruction duodénale
+#1	AnnotatorNotes T1	C0013292
+T2	DISO 0 11	Obstruction
+#2	AnnotatorNotes T2	C0028778
+T3	ANAT 12 21	duodénale
+#3	AnnotatorNotes T3	C0013303
+T4	ANAT 26 41	calcul biliaire
+#4	AnnotatorNotes T4	C0242216
+T5	ANAT 26 32	calcul
+#5	AnnotatorNotes T5	C0006736
+T6	ANAT 33 41	biliaire
+#6	AnnotatorNotes T6	C0005388

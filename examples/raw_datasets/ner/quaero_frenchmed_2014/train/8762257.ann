@@ -1,0 +1,6 @@
+T1	PROC 0 25	Anesthésie par inhalation
+#1	AnnotatorNotes T1	C0002917
+T2	PROC 0 10	Anesthésie
+#2	AnnotatorNotes T2	C0002903
+T3	DEVI 57 68	respirateur
+#3	AnnotatorNotes T3	C0087153

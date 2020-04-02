@@ -1,0 +1,12 @@
+T1	PROC 3 17	greffe cutanée
+#1	AnnotatorNotes T1	C0037297
+T2	PROC 3 9	greffe
+#2	AnnotatorNotes T2	C0040732
+T3	ANAT 10 17	cutanée
+#3	AnnotatorNotes T3	C1123023
+T4	PROC 26 36	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	DISO 50 59	épistaxis
+#5	AnnotatorNotes T5	C0014591
+T6	PHEN 60 72	récidivantes
+#6	AnnotatorNotes T6	C0034897

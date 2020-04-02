@@ -1,0 +1,18 @@
+T1	DISO 0 21	Gliome hypothalamique
+#1	AnnotatorNotes T1	C2026245
+T2	DISO 0 6	Gliome
+#2	AnnotatorNotes T2	C0017638
+T3	ANAT 7 21	hypothalamique
+#3	AnnotatorNotes T3	C0020663
+T4	DISO 27 45	syndrome amnesique
+#4	AnnotatorNotes T4	C0002625
+T5	DISO 27 35	syndrome
+#5	AnnotatorNotes T5	C0039082
+T6	DISO 36 45	amnesique
+#6	AnnotatorNotes T6	C0002622
+T7	DISO 27 58	syndrome amnesique de Korsakoff
+#7	AnnotatorNotes T7	C0349464
+T8	DISO 64 86	probleme de la memoire
+#8	AnnotatorNotes T8	C0233794
+T10	PHYS 79 86	memoire
+#10	AnnotatorNotes T10	C0025260

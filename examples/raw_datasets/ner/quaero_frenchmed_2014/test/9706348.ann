@@ -1,0 +1,10 @@
+T1	DISO 0 8	Récidive
+#1	AnnotatorNotes T1	C0034897
+T2	DISO 9 23	desmoplastique
+#2	AnnotatorNotes T2	C1511789
+T3	DISO 30 38	mélanome
+#3	AnnotatorNotes T3	C0025202
+T4	ANAT 45 59	urètre féminin
+#4	AnnotatorNotes T4	C0458485
+T5	LIVB 52 59	féminin
+#5	AnnotatorNotes T5	C0015780

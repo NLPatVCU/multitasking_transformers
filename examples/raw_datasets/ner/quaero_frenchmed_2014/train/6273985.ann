@@ -1,0 +1,12 @@
+T1	DISO 46 55	infection
+#1	AnnotatorNotes T1	C0021311
+T2	DISO 56 66	herpétique
+#2	AnnotatorNotes T2	C0019340
+T3	LIVB 75 81	pigeon
+#3	AnnotatorNotes T3	C0325912
+T4	LIVB 98 109	psittacidés
+#4	AnnotatorNotes T4	C0033852
+T5	GEOG 113 121	Belgique
+#5	AnnotatorNotes T5	C0004950
+T6	DISO 16 36	ornithose-psittacose
+#6	AnnotatorNotes T6	C0029291

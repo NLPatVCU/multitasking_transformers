@@ -1,0 +1,10 @@
+T1	DISO 0 10	Hyperergie
+#1	AnnotatorNotes T1	C0043195
+T2	DISO 14 25	diencéphale
+#2	AnnotatorNotes T2	C0342436
+T3	DISO 73 127	manifestations hyperergiques hypothalamo-hypophysaires
+#3	AnnotatorNotes T3	C0853237
+T4	DISO 73 101	manifestations hyperergiques
+#4	AnnotatorNotes T4	C0043195
+T5	ANAT 102 127	hypothalamo-hypophysaires
+#5	AnnotatorNotes T5	C0871776

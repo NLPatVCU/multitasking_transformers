@@ -1,0 +1,18 @@
+T1	PROC 0 6	Calcul
+#1	AnnotatorNotes T1	C1148554
+T2	OBJC 11 21	ordinateur
+#2	AnnotatorNotes T2	C0009622
+T3	DEVI 72 99	implantation interstitielle
+#3	AnnotatorNotes T3	C0454156
+T4	PROC 72 84	implantation
+#4	AnnotatorNotes T4	C0021107
+T5	ANAT 85 99	interstitielle
+#5	AnnotatorNotes T5	C0596790
+T6	DEVI 103 110	boucles
+#6	AnnotatorNotes T6	C0181687
+T7	DEVI 114 122	épingles
+#7	AnnotatorNotes T7	C0175718
+T8	CHEM 126 137	iridium 192
+#8	AnnotatorNotes T8	C0303472
+T9	CHEM 126 133	iridium
+#9	AnnotatorNotes T9	C0022071

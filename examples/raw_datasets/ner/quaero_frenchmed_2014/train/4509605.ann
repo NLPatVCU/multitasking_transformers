@@ -1,0 +1,22 @@
+T1	DISO 41 50	fractures
+#1	AnnotatorNotes T1	C0016658
+T2	ANAT 61 69	incisifs
+#2	AnnotatorNotes T2	C0021156
+T3	PROC 72 89	Etude comparative
+#3	AnnotatorNotes T3	C1579762
+T4	PROC 72 77	Etude
+#4	AnnotatorNotes T4	C2603343
+T5	PHEN 94 100	forces
+#5	AnnotatorNotes T5	C0441722
+T6	CHEM 135 141	resine
+#6	AnnotatorNotes T6	C0035191
+T7	CHEM 142 159	autopolymerisante
+#7	AnnotatorNotes T7	C0440185
+T8	ANAT 166 180	email dentaire
+#8	AnnotatorNotes T8	C0011350
+T9	ANAT 172 180	dentaire
+#9	AnnotatorNotes T9	C0040426
+T10	CHEM 193 217	acide ortho-phosphorique
+#10	AnnotatorNotes T10	C0031700
+T11	CHEM 193 198	acide
+#11	AnnotatorNotes T11	C0001128

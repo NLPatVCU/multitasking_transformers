@@ -1,0 +1,12 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0430022
+T2	DISO 15 33	masses abdominales
+#2	AnnotatorNotes T2	C0000734
+T3	DISO 15 21	masses
+#3	AnnotatorNotes T3	C0577559
+T4	PROC 59 67	ponction
+#4	AnnotatorNotes T4	C0034117
+T6	DEVI 80 93	aiguille fine
+#6	AnnotatorNotes T6	C0441186
+T7	PROC 107 122	échotomographie
+#7	AnnotatorNotes T7	C0041618

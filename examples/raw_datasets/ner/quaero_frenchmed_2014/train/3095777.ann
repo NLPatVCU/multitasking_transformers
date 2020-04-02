@@ -1,0 +1,8 @@
+T1	DISO 0 20	Agranulocytose aiguë
+#1	AnnotatorNotes T1	C1735902
+T2	DISO 0 14	Agranulocytose
+#2	AnnotatorNotes T2	C0001824
+T3	PROC 47 57	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	CHEM 65 76	ceftriaxone
+#4	AnnotatorNotes T4	C0007561

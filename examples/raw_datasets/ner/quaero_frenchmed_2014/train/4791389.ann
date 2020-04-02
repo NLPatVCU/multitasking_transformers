@@ -1,0 +1,12 @@
+T1	DISO 0 16	Colite ulcéreuse
+#1	AnnotatorNotes T1	C0009324
+T2	DISO 0 6	Colite
+#2	AnnotatorNotes T2	C0009319
+T3	DISO 7 16	ulcéreuse
+#3	AnnotatorNotes T3	C0041582
+T4	DISO 20 38	syndrome de Behcet
+#4	AnnotatorNotes T4	C0004943
+T5	DISO 20 28	syndrome
+#5	AnnotatorNotes T5	C0039082
+T6	PROC 55 65	coloscopie
+#6	AnnotatorNotes T6	C0009378

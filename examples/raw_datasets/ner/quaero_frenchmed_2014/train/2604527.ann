@@ -1,0 +1,10 @@
+T1	DISO 0 27	Hypertension intracrânienne
+#1	AnnotatorNotes T1	C0151740
+T2	DISO 0 12	Hypertension
+#2	AnnotatorNotes T2	C0020538
+T3	ANAT 13 27	intracrânienne
+#3	AnnotatorNotes T3	C0524466
+T4	DISO 61 67	tumeur
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 74 90	moelle cervicale
+#5	AnnotatorNotes T5	C0728985

@@ -1,0 +1,18 @@
+T1	CHEM 19 32	antiglobuline
+#1	AnnotatorNotes T1	C0003242
+T2	ANAT 37 49	érythrocytes
+#2	AnnotatorNotes T2	C0014792
+T3	PROC 57 62	Etude
+#3	AnnotatorNotes T3	C2603343
+T4	ANAT 67 75	hématies
+#4	AnnotatorNotes T4	C0014792
+T5	LIVB 79 90	nouveau-nés
+#5	AnnotatorNotes T5	C0021289
+T6	DISO 103 122	maladie hémolytique
+#6	AnnotatorNotes T6	C1263988
+T7	DISO 103 110	maladie
+#7	AnnotatorNotes T7	C0012634
+T8	DISO 111 122	hémolytique
+#8	AnnotatorNotes T8	C0019054
+T9	DEVI 163 170	système
+#9	AnnotatorNotes T9	C1704459

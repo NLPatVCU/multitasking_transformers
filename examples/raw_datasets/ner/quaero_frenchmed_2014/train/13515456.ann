@@ -1,0 +1,12 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 17 24	douleur
+#2	AnnotatorNotes T2	C0030193
+T3	DISO 29 52	pancréatites chroniques
+#3	AnnotatorNotes T3	C0149521
+T4	PROC 60 70	neurotomie
+#4	AnnotatorNotes T4	C0196558
+T5	ANAT 77 93	tête du pancréas
+#5	AnnotatorNotes T5	C0227579
+T6	ANAT 85 93	pancréas
+#6	AnnotatorNotes T6	C0030274

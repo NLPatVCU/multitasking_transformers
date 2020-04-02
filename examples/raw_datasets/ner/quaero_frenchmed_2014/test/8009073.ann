@@ -1,0 +1,10 @@
+T1	CHEM 18 27	anticorps
+#1	AnnotatorNotes T1	C0003241
+T2	CHEM 62 82	anti-DNA double brin
+#2	AnnotatorNotes T2	C0312612
+T3	CHEM 90 103	anti-histones
+#3	AnnotatorNotes T3	C0236515
+T4	DISO 116 121	lupus
+#4	AnnotatorNotes T4	C0024131
+T5	LIVB 122 127	murin
+#5	AnnotatorNotes T5	C0026809

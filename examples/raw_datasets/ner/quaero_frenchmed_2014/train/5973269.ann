@@ -1,0 +1,4 @@
+T1	PROC 0 12	Angiographie
+#1	AnnotatorNotes T1	C0002978
+T2	CHEM 16 23	couleur
+#2	AnnotatorNotes T2	C0009393

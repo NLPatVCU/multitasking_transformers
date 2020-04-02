@@ -1,0 +1,10 @@
+T1	PROC 10 22	diagnostique
+#1	AnnotatorNotes T1	C0011900
+T2	DISO 32 54	contusions abdominales
+#2	AnnotatorNotes T2	C0160926
+T3	DISO 32 42	contusions
+#3	AnnotatorNotes T3	C0009938
+T4	LIVB 61 67	adulte
+#4	AnnotatorNotes T4	C0001765
+T5	ANAT 43 54	abdominales
+#5	AnnotatorNotes T5	C0000726

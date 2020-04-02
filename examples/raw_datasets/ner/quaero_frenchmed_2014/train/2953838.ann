@@ -1,0 +1,14 @@
+T1	PROC 14 46	ultrasonographie en mode Doppler
+#1	AnnotatorNotes T1	C0162481
+T2	PHEN 14 30	ultrasonographie
+#2	AnnotatorNotes T2	C1456803
+T3	PROC 47 50	pré
+#3	AnnotatorNotes T3	C0205908
+T4	PROC 56 71	post-opératoire
+#4	AnnotatorNotes T4	C0205903
+T5	DISO 81 105	coarctations de l' aorte
+#5	AnnotatorNotes T5	C0003492
+T6	DISO 81 93	coarctations
+#6	AnnotatorNotes T6	C0332886
+T7	ANAT 100 105	aorte
+#7	AnnotatorNotes T7	C0003483

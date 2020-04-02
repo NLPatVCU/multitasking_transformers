@@ -1,0 +1,14 @@
+T1	PHEN 0 9	Cinétique
+#1	AnnotatorNotes T1	C0022702
+T2	PHYS 57 66	évolutifs
+#2	AnnotatorNotes T2	C0015219
+T3	LIVB 70 90	Haemonchus contortus
+#3	AnnotatorNotes T3	C0321230
+T4	LIVB 70 80	Haemonchus
+#4	AnnotatorNotes T4	C0018478
+T5	LIVB 120 126	mouton
+#5	AnnotatorNotes T5	C0036945
+T6	DISO 133 144	infestation
+#6	AnnotatorNotes T6	C0021311
+T7	PROC 145 158	expérimentale
+#7	AnnotatorNotes T7	C0678323

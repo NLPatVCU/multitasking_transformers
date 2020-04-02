@@ -1,0 +1,16 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 17 31	hernie hiatale
+#2	AnnotatorNotes T2	C3489393
+T3	DISO 17 23	hernie
+#3	AnnotatorNotes T3	C0019270
+T4	DISO 41 61	oesophagite peptique
+#4	AnnotatorNotes T4	C0014869
+T5	DISO 41 52	oesophagite
+#5	AnnotatorNotes T5	C0014868
+T6	LIVB 68 74	enfant
+#6	AnnotatorNotes T6	C0008059
+T7	PROC 82 94	intervention
+#7	AnnotatorNotes T7	C1948041
+T8	PHYS 140 150	Expérience
+#8	AnnotatorNotes T8	C0596545

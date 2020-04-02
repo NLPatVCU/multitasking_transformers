@@ -1,0 +1,10 @@
+T1	CHEM 22 48	beta bloqueur adrénergique
+#1	AnnotatorNotes T1	C0001645
+T2	CHEM 27 48	bloqueur adrénergique
+#2	AnnotatorNotes T2	C0242889
+T3	CHEM 58 72	ganglioplégiue
+#3	AnnotatorNotes T3	C2267059
+T4	PHEN 80 90	conduction
+#4	AnnotatorNotes T4	C0457405
+T5	LIVB 117 122	lapin
+#5	AnnotatorNotes T5	C0178727

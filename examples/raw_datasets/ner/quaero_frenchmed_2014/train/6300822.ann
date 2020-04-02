@@ -1,0 +1,16 @@
+T1	DISO 0 28	Hyperplasie focale nodulaire
+#1	AnnotatorNotes T1	C0333980
+T2	DISO 0 18	Hyperplasie focale
+#2	AnnotatorNotes T2	C1265932
+T3	DISO 0 11	Hyperplasie
+#3	AnnotatorNotes T3	C0020507
+T4	DISO 19 28	nodulaire
+#4	AnnotatorNotes T4	C0028259
+T5	DISO 31 55	adénome hépatocellulaire
+#5	AnnotatorNotes T5	C0206669
+T6	DISO 31 38	adénome
+#6	AnnotatorNotes T6	C0001430
+T7	CHEM 59 72	contraceptifs
+#7	AnnotatorNotes T7	C0009871
+T8	CHEM 73 82	hormonaux
+#8	AnnotatorNotes T8	C0019932

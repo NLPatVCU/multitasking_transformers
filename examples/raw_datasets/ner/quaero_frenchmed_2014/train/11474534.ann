@@ -1,0 +1,14 @@
+T1	DISO 0 27	Cancers cutanés épithéliaux
+#1	AnnotatorNotes T1	C0345976
+T2	DISO 0 7	Cancers
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 8 15	cutanés
+#3	AnnotatorNotes T3	C1123023
+T4	PROC 30 43	Epidemiologie
+#4	AnnotatorNotes T4	C0699910
+T5	PROC 67 79	pathologique
+#5	AnnotatorNotes T5	C0919386
+T6	PROC 82 92	diagnostic
+#6	AnnotatorNotes T6	C0011900
+T7	PROC 108 118	traitement
+#7	AnnotatorNotes T7	C0087111

@@ -1,0 +1,12 @@
+T1	DISO 0 6	Anémie
+#1	AnnotatorNotes T1	C0002871
+T2	LIVB 31 41	nourrisson
+#2	AnnotatorNotes T2	C0021270
+T3	DISO 47 62	érythroblastose
+#3	AnnotatorNotes T3	C0272138
+T4	DISO 76 99	maladie de Di Guglielmo
+#4	AnnotatorNotes T4	C0023440
+T5	DISO 76 83	maladie
+#5	AnnotatorNotes T5	C0012634
+T6	DISO 114 138	inclusions cytomégalique
+#6	AnnotatorNotes T6	C0010823

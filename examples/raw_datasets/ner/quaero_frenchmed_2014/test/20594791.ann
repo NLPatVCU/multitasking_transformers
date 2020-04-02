@@ -1,0 +1,8 @@
+T1	PROC 68 73	soins
+#1	AnnotatorNotes T1	C0087111
+T2	LIVB 119 127	patients
+#2	AnnotatorNotes T2	C0030705
+T3	LIVB 128 132	âgés
+#3	AnnotatorNotes T3	C0001795
+T4	PROC 99 114	prise en charge
+#4	AnnotatorNotes T4	C0030677

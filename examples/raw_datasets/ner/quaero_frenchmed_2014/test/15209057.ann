@@ -1,0 +1,8 @@
+T1	PROC 0 19	Chirurgie plastique
+#1	AnnotatorNotes T1	C0677616
+T2	PROC 0 9	Chirurgie
+#2	AnnotatorNotes T2	C0543467
+T3	PROC 26 33	exérèse
+#3	AnnotatorNotes T3	C0919588
+T4	DISO 39 45	cancer
+#4	AnnotatorNotes T4	C0027651

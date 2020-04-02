@@ -1,0 +1,10 @@
+T1	CHEM 3 13	nitrazepam
+#1	AnnotatorNotes T1	C0028126
+T2	CHEM 19 31	anxiolytique
+#2	AnnotatorNotes T2	C0040616
+T3	CHEM 42 58	chlordiazepoxide
+#3	AnnotatorNotes T3	C0008188
+T4	CHEM 61 68	Librium
+#4	AnnotatorNotes T4	C0013881
+T5	CHEM 120 133	diazepiniques
+#5	AnnotatorNotes T5	C0596434

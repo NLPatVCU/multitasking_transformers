@@ -1,0 +1,18 @@
+T1	DISO 0 39	Retour veineux pulmonaire anormal total
+#1	AnnotatorNotes T1	C0036400
+T2	DISO 0 14	Retour veineux
+#2	AnnotatorNotes T2	C1388021
+T3	ANAT 7 14	veineux
+#3	AnnotatorNotes T3	C0042449
+T4	ANAT 15 25	pulmonaire
+#4	AnnotatorNotes T4	C0024109
+T5	DISO 26 33	anormal
+#5	AnnotatorNotes T5	C1704258
+T6	ANAT 48 63	sinus coronaire
+#6	AnnotatorNotes T6	C0456944
+T7	ANAT 54 63	coronaire
+#7	AnnotatorNotes T7	C0018787
+T8	PROC 82 93	observation
+#8	AnnotatorNotes T8	C0700325
+T9	LIVB 119 129	nourrisson
+#9	AnnotatorNotes T9	C0021270

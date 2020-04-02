@@ -1,0 +1,12 @@
+T1	PROC 22 31	dépistage
+#1	AnnotatorNotes T1	C0199230
+T3	DISO 44 58	cancer du sein
+#3	AnnotatorNotes T3	C0006142
+T4	DISO 44 50	cancer
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 54 58	sein
+#5	AnnotatorNotes T5	C0006141
+T6	PROC 63 75	mammographie
+#6	AnnotatorNotes T6	C0024671
+T2	PROC 22 40	dépistage de masse
+#2	AnnotatorNotes T2	C0024870

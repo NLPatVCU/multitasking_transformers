@@ -1,0 +1,36 @@
+
+ Le tableau ci-dessous représente les différents messages d ’ erreur qui peuvent survenir , ainsi que l ’ action appropriée à mener : 
+ La diode rouge ne s ’ allume pas 
+ Il faut retirer le dispositif et en appliquer un nouveau sur un emplacement différent de la peau . 
+ Hypersensibilité connue à la substance active ou à l ’ un des excipients . 
+ IONSYS ne doit être activé que par le patient , afin d ’ éviter un éventuel surdosage . 
+ IONSYS est réservé à l ’ usage hospitalier uniquement . 
+ Une ingestion par voie orale du gel contenant le fentanyl peut provoquer une hypoventilation , mettant la vie du malade en danger , ou le décès . 
+ Ne pas toucher le gel et éviter tout contact du gel avec la bouche ou les muqueuses . 
+ Après utilisation , il reste dans le dispositif IONSYS une quantité de fentanyl potentiellement dangereuse . 
+ Voir section 6 . 6 Précautions particulières d ’ élimination . 
+ Le dispositif IONSYS doit être retiré avant toute intervention de type imagerie par résonance magnétique ( IRM ), cardioversion ou défibrillation . 
+ Utilisation détournée et dépendance 
+ Etant donné que IONSYS est indiqué uniquement pour un traitement à court terme , les risques liés au potentiel de dépendance ne sont pas préoccupants . 
+ Il n ’ y a pas eu d ’ utilisation détournée du dispositif dans les essais cliniques . 
+ L ’ utilisation concomitante de médicaments dépresseurs du SNC peut augmenter le risque de dépression respiratoire ( voir section 4 . 5 ). 
+ Bronchite chronique 
+ Chez les patients atteints de bronchite chronique ou les patients ayant des affections qui les prédisposent à l ’ hypoventilation , des effets indésirables plus graves peuvent apparaître . 
+ Chez ces patients , les opioïdes peuvent diminuer la stimulation des centres respiratoires et augmenter la résistance des voies aériennes . 
+ Traumatismes crâniens et augmentation de la pression intracrânienne 
+ Les opioïdes peuvent masquer l ’ évolution clinique des patients atteints d ’ un traumatisme crânien . 
+ IONSYS doit être utilisé avec prudence chez les patients atteints d ’ une tumeur cérébrale . 
+ 5 Le fentanyl peut provoquer une bradycardie ou une hypotension et doit donc être administré avec précaution chez les patients présentant une bradyarythmie ou toute autre pathologie cardiovasculaire importante . 
+ IONSYS doit être utilisé avec précaution chez les patients présentant un iléus paralytique . 
+ Insuffisance hépatique 
+ Le fentanyl est métabolisé en métabolites inactifs au niveau du foie . 
+ Insuffisance rénale 
+ Moins de 10 % du fentanyl administré est excrété par voie rénale sous forme inchangée . 
+ Ceci peut affecter les concentrations sériques . 
+ L ’ efficacité et la sécurité chez des patients dont l ’ indice de masse corporelle est supérieur à 40 n ’ ont pas été établies . 
+ IONSYS doit être utilisé avec précaution chez les patients atteints d ’ hypoacousie qui ne seraient pas capables d ’ entendre les signaux sonores du dispositif . 
+ Chirurgie thoracique et abdominale haute 
+ Peu de données sont disponibles chez des patients ayant subit une chirurgie thoracique et abdominale haute . 
+ Par conséquent IONSYS doit être utilisé avec précautions chez ces patients . 
+ Mucoviscidose 
+

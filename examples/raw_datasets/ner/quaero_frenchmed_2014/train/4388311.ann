@@ -1,0 +1,8 @@
+T1	PROC 0 23	Diagnostic différentiel
+#1	AnnotatorNotes T1	C0011906
+T3	DISO 30 51	vascularite nodulaire
+#3	AnnotatorNotes T3	C0028258
+T4	DISO 30 41	vascularite
+#4	AnnotatorNotes T4	C0042384
+T5	DISO 42 51	nodulaire
+#5	AnnotatorNotes T5	C0028259

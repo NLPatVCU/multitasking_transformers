@@ -1,0 +1,12 @@
+T1	DISO 0 17	Syndrome d' Evans
+#1	AnnotatorNotes T1	C0272126
+T2	DISO 0 8	Syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	CHEM 23 38	D-pénicillamine
+#3	AnnotatorNotes T3	C0030817
+T4	DISO 55 78	polyarthrite rhumatoïde
+#4	AnnotatorNotes T4	C0003873
+T5	DISO 55 67	polyarthrite
+#5	AnnotatorNotes T5	C0003864
+T6	DISO 68 78	rhumatoïde
+#6	AnnotatorNotes T6	C0035435

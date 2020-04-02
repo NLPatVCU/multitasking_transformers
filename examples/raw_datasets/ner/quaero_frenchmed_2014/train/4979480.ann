@@ -1,0 +1,10 @@
+T1	ANAT 12 22	structures
+#1	AnnotatorNotes T1	C0003058
+T2	ANAT 42 52	bronchiole
+#2	AnnotatorNotes T2	C1522170
+T3	LIVB 59 65	souris
+#3	AnnotatorNotes T3	C0025929
+T4	PROC 72 83	stimulation
+#4	AnnotatorNotes T4	C1292856
+T5	CHEM 91 102	pilocarpine
+#5	AnnotatorNotes T5	C0031923

@@ -1,0 +1,16 @@
+T1	PROC 12 22	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 27 51	paralysies obstétricales
+#2	AnnotatorNotes T2	C0030445
+T3	DISO 27 37	paralysies
+#3	AnnotatorNotes T3	C0522224
+T4	PROC 38 51	obstétricales
+#4	AnnotatorNotes T4	C0038906
+T5	ANAT 55 70	plexus brachial
+#5	AnnotatorNotes T5	C0006090
+T6	ANAT 55 61	plexus
+#6	AnnotatorNotes T6	C1184808
+T7	ANAT 62 70	brachial
+#7	AnnotatorNotes T7	C0446516
+T8	PROC 73 85	désinsertion
+#8	AnnotatorNotes T8	C1283282

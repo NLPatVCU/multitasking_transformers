@@ -1,0 +1,8 @@
+T1	CHEM 9 30	baclofene intrathecal
+#1	AnnotatorNotes T1	C0543352
+T2	CHEM 9 18	baclofene
+#2	AnnotatorNotes T2	C0004609
+T3	PROC 39 49	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 53 60	tetanos
+#4	AnnotatorNotes T4	C0039614

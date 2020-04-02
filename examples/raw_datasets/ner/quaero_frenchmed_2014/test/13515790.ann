@@ -1,0 +1,10 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 17 31	ankylostomiase
+#2	AnnotatorNotes T2	C0002831
+T3	CHEM 39 57	tétrachloréthylène
+#3	AnnotatorNotes T3	C0039637
+T4	LIVB 66 72	adulte
+#4	AnnotatorNotes T4	C0001675
+T5	LIVB 85 91	enfant
+#5	AnnotatorNotes T5	C0008059

@@ -1,0 +1,8 @@
+T1	PROC 0 28	Interprétation des résultats
+#1	AnnotatorNotes T1	C3526596
+T2	PROC 0 14	Interprétation
+#2	AnnotatorNotes T2	C0262707
+T3	PHEN 19 28	résultats
+#3	AnnotatorNotes T3	C0849546
+T4	CHEM 50 57	gazeuse
+#4	AnnotatorNotes T4	C0017110

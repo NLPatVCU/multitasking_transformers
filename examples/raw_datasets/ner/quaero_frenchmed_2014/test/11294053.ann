@@ -1,0 +1,8 @@
+T1	DISO 87 101	polytraumatisé
+#1	AnnotatorNotes T1	C0277691
+T2	PHEN 12 19	urgence
+#2	AnnotatorNotes T2	C0013956
+T3	PROC 55 83	prise en charge hospitalière
+#3	AnnotatorNotes T3	C0259945
+T4	PROC 55 70	prise en charge
+#4	AnnotatorNotes T4	C0030677

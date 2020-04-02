@@ -1,0 +1,10 @@
+T1	PHYS 28 48	sécrétion excrétoire
+#1	AnnotatorNotes T1	C0311424
+T2	ANAT 52 56	rein
+#2	AnnotatorNotes T2	C0022646
+T3	PROC 63 70	section
+#3	AnnotatorNotes T3	C0683470
+T4	PROC 74 80	suture
+#4	AnnotatorNotes T4	C0009068
+T5	ANAT 97 104	uretère
+#5	AnnotatorNotes T5	C0041951

@@ -1,0 +1,12 @@
+T1	PROC 0 10	Evaluation
+#1	AnnotatorNotes T1	C0015195
+T2	PROC 50 78	 autosurveillance glycémique
+#2	AnnotatorNotes T2	C0005803
+T3	PROC 50 67	 autosurveillance
+#3	AnnotatorNotes T3	C0588436
+T4	CHEM 68 78	glycémique
+#4	AnnotatorNotes T4	C0005802
+T5	DISO 96 126	diabétiques insulinodépendants
+#5	AnnotatorNotes T5	C0011854
+T6	DISO 96 107	diabétiques
+#6	AnnotatorNotes T6	C0241863

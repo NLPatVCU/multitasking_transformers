@@ -1,0 +1,12 @@
+T1	ANAT 15 32	artère pulmonaire
+#1	AnnotatorNotes T1	C0545747
+T2	ANAT 22 32	pulmonaire
+#2	AnnotatorNotes T2	C0024109
+T3	PROC 41 51	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 56 80	coeurs univentriculaires
+#4	AnnotatorNotes T4	C2959602
+T5	ANAT 56 62	coeurs
+#5	AnnotatorNotes T5	C0018787
+T7	PROC 133 160	dérivations cavopulmonaires
+#7	AnnotatorNotes T7	C0242838

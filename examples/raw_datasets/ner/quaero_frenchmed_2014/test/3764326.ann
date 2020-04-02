@@ -1,0 +1,16 @@
+T1	DISO 0 35	Purpura thrombotique thrombopénique
+#1	AnnotatorNotes T1	C0034155
+T2	DISO 0 7	Purpura
+#2	AnnotatorNotes T2	C0034150
+T3	DISO 8 20	thrombotique
+#3	AnnotatorNotes T3	C0040053
+T4	DISO 21 35	thrombopénique
+#4	AnnotatorNotes T4	C0857305
+T5	LIVB 51 59	patiente
+#5	AnnotatorNotes T5	C0030705
+T6	DISO 76 105	maladie de Still de l' adulte
+#6	AnnotatorNotes T6	C0085253
+T7	DISO 76 83	maladie
+#7	AnnotatorNotes T7	C0012634
+T9	LIVB 99 105	adulte
+#9	AnnotatorNotes T9	C0001675

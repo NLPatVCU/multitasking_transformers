@@ -1,0 +1,12 @@
+T1	PROC 12 27	rhinomanométrie
+#1	AnnotatorNotes T1	C0430615
+T2	DISO 36 57	allergie aux acariens
+#2	AnnotatorNotes T2	C0339808
+T3	DISO 36 44	allergie
+#3	AnnotatorNotes T3	C0020517
+T4	LIVB 49 57	acariens
+#4	AnnotatorNotes T4	C0026231
+T5	LIVB 64 70	enfant
+#5	AnnotatorNotes T5	C0008059
+T6	PROC 86 98	explorations
+#6	AnnotatorNotes T6	C1280903

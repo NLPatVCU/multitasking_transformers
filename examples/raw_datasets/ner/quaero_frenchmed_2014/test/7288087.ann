@@ -1,0 +1,10 @@
+T1	DISO 29 39	pathogénie
+#1	AnnotatorNotes T1	C0699748
+T2	PROC 46 56	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 60 69	strabisme
+#3	AnnotatorNotes T3	C0038379
+T4	PROC 83 93	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	DISO 97 106	strabisme
+#5	AnnotatorNotes T5	C0038379

@@ -1,0 +1,12 @@
+T1	PROC 20 50	stimulation à la pentagastrine
+#1	AnnotatorNotes T1	C0430136
+T2	PROC 20 31	stimulation
+#2	AnnotatorNotes T2	C1292856
+T3	CHEM 37 50	pentagastrine
+#3	AnnotatorNotes T3	C0030859
+T4	PROC 59 70	exploration
+#4	AnnotatorNotes T4	C1280903
+T5	PROC 71 105	gastrique par électrogastrographie
+#5	AnnotatorNotes T5	C0430689
+T6	ANAT 71 80	gastrique
+#6	AnnotatorNotes T6	C0038351

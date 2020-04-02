@@ -1,0 +1,14 @@
+T1	CHEM 33 48	acide pyruvique
+#1	AnnotatorNotes T1	C0072802
+T2	CHEM 33 38	acide
+#2	AnnotatorNotes T2	C0001128
+T3	CHEM 39 48	pyruvique
+#3	AnnotatorNotes T3	C0244104
+T4	PROC 80 91	application
+#4	AnnotatorNotes T4	C0185125
+T5	PROC 121 132	pyruvicémie
+#5	AnnotatorNotes T5	C0853175
+T6	PROC 141 153	lactacidémie
+#6	AnnotatorNotes T6	C0853170
+T7	CHEM 163 171	glycémie
+#7	AnnotatorNotes T7	C0005802

@@ -1,0 +1,8 @@
+T1	PROC 25 44	diagnostic prénatal
+#1	AnnotatorNotes T1	C0033503
+T2	PROC 25 35	diagnostic
+#2	AnnotatorNotes T2	C0011900
+T3	DISO 54 67	cardiopathies
+#3	AnnotatorNotes T3	C0018799
+T4	DISO 54 80	cardiopathies congénitales
+#4	AnnotatorNotes T4	C0152021

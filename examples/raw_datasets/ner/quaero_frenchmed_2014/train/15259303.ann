@@ -1,0 +1,8 @@
+T1	DISO 0 14	Adipocytokines
+#1	AnnotatorNotes T1	C2246617
+T2	DISO 18 42	résistance à l' insuline
+#2	AnnotatorNotes T2	C0021655
+T3	PHYS 18 28	résistance
+#3	AnnotatorNotes T3	C0013203
+T4	CHEM 34 42	insuline
+#4	AnnotatorNotes T4	C0021641

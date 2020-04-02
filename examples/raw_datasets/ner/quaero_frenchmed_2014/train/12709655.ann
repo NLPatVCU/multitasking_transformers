@@ -1,0 +1,6 @@
+T1	PROC 0 14	Chimiothérapie
+#1	AnnotatorNotes T1	C0013216
+T2	DISO 19 38	cancers colorectaux
+#2	AnnotatorNotes T2	C0009402
+T3	DISO 19 26	cancers
+#3	AnnotatorNotes T3	C0027651

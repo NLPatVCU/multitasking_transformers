@@ -1,0 +1,12 @@
+T1	DISO 0 20	Troubles phonétiques
+#1	AnnotatorNotes T1	C0023009
+T2	DISO 30 56	malformations de la bouche
+#2	AnnotatorNotes T2	C0026633
+T3	DISO 30 43	malformations
+#3	AnnotatorNotes T3	C0302142
+T4	ANAT 50 56	bouche
+#4	AnnotatorNotes T4	C0226896
+T5	ANAT 64 69	dents
+#5	AnnotatorNotes T5	C0040426
+T6	DISO 30 43;60 69	malformations des dents
+#6	AnnotatorNotes T6	C0040427

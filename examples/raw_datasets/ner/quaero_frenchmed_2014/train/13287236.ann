@@ -1,0 +1,10 @@
+T1	PROC 34 44	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 49 57	fistules
+#2	AnnotatorNotes T2	C0016169
+T3	ANAT 58 68	uretérales
+#3	AnnotatorNotes T3	C0041951
+T4	PROC 76 88	observations
+#4	AnnotatorNotes T4	C0302523
+T5	DISO 49 68	fistules uretérales
+#5	AnnotatorNotes T5	C0156263

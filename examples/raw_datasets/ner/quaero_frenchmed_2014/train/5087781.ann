@@ -1,0 +1,12 @@
+T1	PROC 12 38	duodénographie hypotonique
+#1	AnnotatorNotes T1	C0412110
+T2	DISO 47 57	diagnostic
+#2	AnnotatorNotes T2	C0011900
+T3	DISO 62 72	affections
+#3	AnnotatorNotes T3	C0871641
+T4	ANAT 76 93	pancréas exocrine
+#4	AnnotatorNotes T4	C0553695
+T5	ANAT 76 84	pancréas
+#5	AnnotatorNotes T5	C0030274
+T6	ANAT 85 93	exocrine
+#6	AnnotatorNotes T6	C1516995

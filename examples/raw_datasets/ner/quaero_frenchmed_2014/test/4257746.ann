@@ -1,0 +1,18 @@
+T1	PROC 0 6	Etudes
+#1	AnnotatorNotes T1	C2603343
+T2	PHEN 26 61	pressions dans l' artère pulmonaire
+#2	AnnotatorNotes T2	C0428642
+T3	PHEN 26 35	pressions
+#3	AnnotatorNotes T3	C0033095
+T4	ANAT 43 61	 artère pulmonaire
+#4	AnnotatorNotes T4	C0034052
+T5	ANAT 43 50	 artère
+#5	AnnotatorNotes T5	C0003842
+T6	ANAT 51 61	pulmonaire
+#6	AnnotatorNotes T6	C0024109
+T7	CHEM 71 81	autogreffe
+#7	AnnotatorNotes T7	C0559189
+T8	ANAT 85 91	poumon
+#8	AnnotatorNotes T8	C0024109
+T9	LIVB 100 105	chien
+#9	AnnotatorNotes T9	C0012984

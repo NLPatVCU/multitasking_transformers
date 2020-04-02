@@ -1,0 +1,6 @@
+T1	PROC 0 10	Extraction
+#1	AnnotatorNotes T1	C0185115
+T2	DISO 36 44	lithiase
+#2	AnnotatorNotes T2	C0023869
+T3	ANAT 70 94	voie biliaire principale
+#3	AnnotatorNotes T3	C0009437

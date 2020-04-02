@@ -1,0 +1,6 @@
+T1	PROC 0 14	Etude clinique
+#1	AnnotatorNotes T1	C0008972
+T2	PROC 0 5	Etude
+#2	AnnotatorNotes T2	C2603343
+T3	CHEM 18 26	Vascoril
+#3	AnnotatorNotes T3	C0148197

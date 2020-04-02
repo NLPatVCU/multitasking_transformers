@@ -1,0 +1,18 @@
+T1	DISO 10 18	tumorale
+#1	AnnotatorNotes T1	C0027651
+T2	DISO 22 34	métastatique
+#2	AnnotatorNotes T2	C0027627
+T3	DISO 38 67	carcinome pulmonaire de Lewis
+#3	AnnotatorNotes T3	C0243038
+T4	DISO 38 58	carcinome pulmonaire
+#4	AnnotatorNotes T4	C0684249
+T5	DISO 38 47	carcinome
+#5	AnnotatorNotes T5	C0007097
+T6	ANAT 48 58	pulmonaire
+#6	AnnotatorNotes T6	C0024109
+T7	PROC 94 108	administration
+#7	AnnotatorNotes T7	C1533734
+T8	PROC 128 149	étude pharmacologique
+#8	AnnotatorNotes T8	C1831759
+T9	OBJC 156 163	produit
+#9	AnnotatorNotes T9	C1514468

@@ -1,0 +1,12 @@
+T1	DISO 0 12	Embolisation
+#1	AnnotatorNotes T1	C2609258
+T2	DISO 19 34	anévrisme rompu
+#2	AnnotatorNotes T2	C0162869
+T3	DISO 19 28	anévrisme
+#3	AnnotatorNotes T3	C0002940
+T4	ANAT 41 57	artère ovarienne
+#4	AnnotatorNotes T4	C1280141
+T5	ANAT 41 47	artère
+#5	AnnotatorNotes T5	C0003842
+T6	ANAT 48 57	ovarienne
+#6	AnnotatorNotes T6	C0029939

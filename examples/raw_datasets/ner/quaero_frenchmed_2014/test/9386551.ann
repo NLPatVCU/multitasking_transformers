@@ -1,0 +1,6 @@
+T1	LIVB 30 38	patients
+#1	AnnotatorNotes T1	C0030705
+T2	PROC 44 58	chimiothérapie
+#2	AnnotatorNotes T2	C0013216
+T3	PROC 4 25	conseils alimentaires
+#3	AnnotatorNotes T3	C0204932

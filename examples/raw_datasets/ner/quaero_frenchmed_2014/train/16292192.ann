@@ -1,0 +1,10 @@
+T1	CHEM 28 35	hormone
+#1	AnnotatorNotes T1	C0019932
+T2	PHYS 56 67	homéostasie
+#2	AnnotatorNotes T2	C0019868
+T3	CHEM 71 80	phosphate
+#3	AnnotatorNotes T3	C0031603
+T4	PHYS 87 98	métabolisme
+#4	AnnotatorNotes T4	C0025519
+T5	CHEM 105 115	vitamine D
+#5	AnnotatorNotes T5	C0042866

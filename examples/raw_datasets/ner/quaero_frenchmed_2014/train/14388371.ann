@@ -1,0 +1,10 @@
+T1	DISO 0 15	Crise comitiale
+#1	AnnotatorNotes T1	C3472688
+T2	DISO 0 5	Crise
+#2	AnnotatorNotes T2	C0036572
+T3	PROC 31 57	électroencéphalographiques
+#3	AnnotatorNotes T3	C0013819
+T4	PROC 73 83	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	CHEM 88 102	chlorpromazine
+#5	AnnotatorNotes T5	C0008286

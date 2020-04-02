@@ -1,0 +1,8 @@
+T1	PROC 0 13	Contraception
+#1	AnnotatorNotes T1	C0700589
+T2	PROC 16 41	interruption de grossesse
+#2	AnnotatorNotes T2	C0000820
+T3	DISO 45 79	hypertension artérielle pulmonaire
+#3	AnnotatorNotes T3	C2973725
+T4	ANAT 69 79	pulmonaire
+#4	AnnotatorNotes T4	C0024109

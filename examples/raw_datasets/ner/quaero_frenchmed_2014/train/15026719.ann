@@ -1,0 +1,10 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0011900
+T2	DISO 18 39	primo-infection à VIH
+#2	AnnotatorNotes T2	C1142553
+T3	LIVB 36 39	VIH
+#3	AnnotatorNotes T3	C0019682
+T4	PROC 65 83	tests sérologiques
+#4	AnnotatorNotes T4	C0036743
+T5	PROC 65 70	tests
+#5	AnnotatorNotes T5	C0022885

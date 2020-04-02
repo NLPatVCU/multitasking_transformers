@@ -1,0 +1,12 @@
+T1	PROC 3 27	opération de girdlestone
+#1	AnnotatorNotes T1	C0408397
+T2	PROC 3 12	opération
+#2	AnnotatorNotes T2	C0543467
+T3	PROC 32 41	opération
+#3	AnnotatorNotes T3	C0543467
+T4	DISO 59 72	complications
+#4	AnnotatorNotes T4	C0009566
+T5	DEVI 89 101	endoprothèse
+#5	AnnotatorNotes T5	C0864240
+T6	ANAT 118 124	hanche
+#6	AnnotatorNotes T6	C0019552

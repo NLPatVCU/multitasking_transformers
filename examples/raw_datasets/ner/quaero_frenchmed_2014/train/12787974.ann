@@ -1,0 +1,10 @@
+T1	DISO 28 37	tolérance
+#1	AnnotatorNotes T1	C0013220
+T2	PROC 42 67	traitements médicamenteux
+#2	AnnotatorNotes T2	C0013216
+T3	DISO 42 53	traitements
+#3	AnnotatorNotes T3	C0087111
+T4	CHEM 54 67	médicamenteux
+#4	AnnotatorNotes T4	C0013227
+T5	DISO 128 144	coma traumatique
+#5	AnnotatorNotes T5	C0394016

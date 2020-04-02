@@ -1,0 +1,14 @@
+T1	DISO 0 25	Chondrodysplasie ponctuée
+#1	AnnotatorNotes T1	C0008445
+T2	DISO 0 16	Chondrodysplasie
+#2	AnnotatorNotes T2	C0343284
+T3	DISO 29 52	intoxication alcoolique
+#3	AnnotatorNotes T3	C0001969
+T4	DISO 29 41	intoxication
+#4	AnnotatorNotes T4	C0728899
+T5	CHEM 42 52	alcoolique
+#5	AnnotatorNotes T5	C0001975
+T6	LIVB 53 63	maternelle
+#6	AnnotatorNotes T6	C0026591
+T7	PROC 80 92	observations
+#7	AnnotatorNotes T7	C0700325

@@ -1,0 +1,10 @@
+T1	PROC 0 9	Induction
+#1	AnnotatorNotes T1	C0857127
+T2	PHYS 13 23	repression
+#2	AnnotatorNotes T2	C0301628
+T3	PHEN 30 38	synthèse
+#3	AnnotatorNotes T3	C0007987
+T4	CHEM 42 53	collagénase
+#4	AnnotatorNotes T4	C0162745
+T5	LIVB 59 75	Acinetobacter sp
+#5	AnnotatorNotes T5	C1624774

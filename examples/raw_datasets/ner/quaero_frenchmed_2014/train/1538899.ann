@@ -1,0 +1,10 @@
+T1	PROC 18 36	dépistage de masse
+#1	AnnotatorNotes T1	C0024870
+T2	PROC 18 27	dépistage
+#2	AnnotatorNotes T2	C0199230
+T3	DISO 49 63	cancer du sein
+#3	AnnotatorNotes T3	C0006142
+T4	DISO 49 55	cancer
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 59 63	sein
+#5	AnnotatorNotes T5	C0006141

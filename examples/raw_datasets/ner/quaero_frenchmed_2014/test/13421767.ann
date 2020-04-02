@@ -1,0 +1,8 @@
+T1	PROC 15 33	traitement médical
+#1	AnnotatorNotes T1	C0013216
+T2	PROC 15 25	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 40 51	contracture
+#3	AnnotatorNotes T3	C0009917
+T4	ANAT 52 62	pyramidale
+#4	AnnotatorNotes T4	C0262324

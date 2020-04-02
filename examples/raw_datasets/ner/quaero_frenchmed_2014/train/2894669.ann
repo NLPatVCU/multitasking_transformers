@@ -1,0 +1,18 @@
+T1	DISO 0 11	Acromégalie
+#1	AnnotatorNotes T1	C0001206
+T2	DISO 24 51	hormone de croissance basse
+#2	AnnotatorNotes T2	C2751614
+T3	CHEM 24 45	hormone de croissance
+#3	AnnotatorNotes T3	C0037663
+T4	CHEM 24 31	hormone
+#4	AnnotatorNotes T4	C0019932
+T5	CHEM 70 98	analogue de la somatostatine
+#5	AnnotatorNotes T5	C0732165
+T6	CHEM 70 78	analogue
+#6	AnnotatorNotes T6	C0243071
+T7	CHEM 85 98	somatostatine
+#7	AnnotatorNotes T7	C0037659
+T8	PROC 113 130	infusion continue
+#8	AnnotatorNotes T8	C0444889
+T9	PROC 113 121	infusion
+#9	AnnotatorNotes T9	C0574032

@@ -1,0 +1,12 @@
+T1	ANAT 12 17	côlon
+#1	AnnotatorNotes T1	C0009368
+T2	PROC 22 32	étirements
+#2	AnnotatorNotes T2	C0600080
+T3	PROC 43 57	Etude in vitro
+#3	AnnotatorNotes T3	C0681828
+T4	PROC 43 48	Etude
+#4	AnnotatorNotes T4	C2603343
+T5	LIVB 66 69	rat
+#5	AnnotatorNotes T5	C0034721
+T6	ANAT 119 124	côlon
+#6	AnnotatorNotes T6	C0009368

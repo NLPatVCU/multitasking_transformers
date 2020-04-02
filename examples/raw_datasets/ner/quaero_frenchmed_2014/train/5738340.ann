@@ -1,0 +1,6 @@
+T1	DISO 39 55	cancer du rectum
+#1	AnnotatorNotes T1	C0007113
+T2	DISO 39 45	cancer
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 49 55	rectum
+#3	AnnotatorNotes T3	C0034896

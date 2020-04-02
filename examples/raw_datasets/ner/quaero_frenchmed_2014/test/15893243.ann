@@ -1,0 +1,12 @@
+T1	DISO 0 9	Infection
+#1	AnnotatorNotes T1	C0021311
+T2	LIVB 12 20	BK Virus
+#2	AnnotatorNotes T2	C0005670
+T3	PROC 27 37	allogreffe
+#3	AnnotatorNotes T3	C0040739
+T4	ANAT 41 66	cellules hématopoïétiques
+#4	AnnotatorNotes T4	C2323499
+T5	ANAT 41 49	cellules
+#5	AnnotatorNotes T5	C0007634
+T6	DISO 0 20	Infection à BK Virus
+#6	AnnotatorNotes T6	C1096691

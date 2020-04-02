@@ -1,0 +1,8 @@
+T1	PHEN 0 15	Pharmacodynamie
+#1	AnnotatorNotes T1	C0851347
+T2	CHEM 20 40	anesthésiques locaux
+#2	AnnotatorNotes T2	C0002934
+T3	CHEM 20 33	anesthésiques
+#3	AnnotatorNotes T3	C0002932
+T4	LIVB 44 63	chirurgien-dentiste
+#4	AnnotatorNotes T4	C0011441

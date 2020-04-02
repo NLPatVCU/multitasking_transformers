@@ -1,0 +1,8 @@
+T1	PROC 29 39	vaccinales
+#1	AnnotatorNotes T1	C0042196
+T2	GEOG 43 49	France
+#2	AnnotatorNotes T2	C0016674
+T3	GEOG 56 62	Europe
+#3	AnnotatorNotes T3	C0015176
+T4	PROC 98 107	vaccinale
+#4	AnnotatorNotes T4	C0082196

@@ -1,0 +1,10 @@
+T1	CHEM 11 21	clonazépam
+#1	AnnotatorNotes T1	C0009011
+T2	DISO 38 67	encéphalopathies épileptiques
+#2	AnnotatorNotes T2	C0543888
+T3	DISO 38 54	encéphalopathies
+#3	AnnotatorNotes T3	C0085584
+T4	DISO 55 67	épileptiques
+#4	AnnotatorNotes T4	C0014544
+T5	LIVB 83 89	enfant
+#5	AnnotatorNotes T5	C0008059

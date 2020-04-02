@@ -1,0 +1,16 @@
+T1	DISO 0 26	Carcinome hépatocellulaire
+#1	AnnotatorNotes T1	C2239176
+T2	DISO 0 9	Carcinome
+#2	AnnotatorNotes T2	C0007097
+T3	DISO 30 57	cirrhose biliaire primitive
+#3	AnnotatorNotes T3	C0008312
+T4	DISO 30 47	cirrhose biliaire
+#4	AnnotatorNotes T4	C0023892
+T5	DISO 30 38	cirrhose
+#5	AnnotatorNotes T5	C1623038
+T6	PROC 73 84	observation
+#6	AnnotatorNotes T6	C0700325
+T7	ANAT 39 47	biliaire
+#7	AnnotatorNotes T7	C0005388
+T8	ANAT 10 26	hépatocellulaire
+#8	AnnotatorNotes T8	C0227525

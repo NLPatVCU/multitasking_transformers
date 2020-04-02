@@ -1,0 +1,16 @@
+T1	PROC 0 28	Technique immuno-enzymatique
+#1	AnnotatorNotes T1	C0021002
+T2	PROC 10 28	immuno-enzymatique
+#2	AnnotatorNotes T2	C0086231
+T3	PROC 31 48	E . L . I . S . A
+#3	AnnotatorNotes T3	C0014441
+T5	PROC 76 87	sérologique
+#5	AnnotatorNotes T5	C0428038
+T6	DISO 92 102	candidoses
+#6	AnnotatorNotes T6	C0006840
+T7	DISO 106 119	aspergilloses
+#7	AnnotatorNotes T7	C0004030
+T8	LIVB 120 128	humaines
+#8	AnnotatorNotes T8	C0086418
+T4	PROC 65 75	diagnostic
+#4	AnnotatorNotes T4	C0430022

@@ -1,0 +1,14 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 42	tachycardies ventriculaires
+#2	AnnotatorNotes T2	C0042514
+T3	DISO 15 27	tachycardies
+#3	AnnotatorNotes T3	C0039231
+T4	ANAT 28 42	ventriculaires
+#4	AnnotatorNotes T4	C0018827
+T5	PROC 56 81	fulguration endocavitaire
+#5	AnnotatorNotes T5	C0013804
+T6	PROC 56 67	fulguration
+#6	AnnotatorNotes T6	C1292834
+T7	CHEM 95 111	anti-arythmiques
+#7	AnnotatorNotes T7	C0003195

@@ -1,0 +1,20 @@
+T1	DISO 0 16	Fluorose osseuse
+#1	AnnotatorNotes T1	C0410447
+T2	DISO 0 8	Fluorose
+#2	AnnotatorNotes T2	C0016325
+T3	ANAT 9 16	osseuse
+#3	AnnotatorNotes T3	C0262950
+T4	DISO 32 69	néphropathie interstitielle chronique
+#4	AnnotatorNotes T4	C0238304
+T5	DISO 32 59	néphropathie interstitielle
+#5	AnnotatorNotes T5	C3280217
+T6	DISO 32 44	néphropathie
+#6	AnnotatorNotes T6	C0022658
+T7	ANAT 45 59	interstitielle
+#7	AnnotatorNotes T7	C0596790
+T8	DISO 60 69	chronique
+#8	AnnotatorNotes T8	C0008679
+T9	DISO 75 90	néphrocalcinose
+#9	AnnotatorNotes T9	C0027709
+T10	PROC 93 98	étude
+#10	AnnotatorNotes T10	C2603343

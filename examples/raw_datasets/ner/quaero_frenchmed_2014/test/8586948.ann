@@ -1,0 +1,8 @@
+T1	DISO 25 34	anévrisme
+#1	AnnotatorNotes T1	C0002940
+T2	ANAT 41 57	aorte abdominale
+#2	AnnotatorNotes T2	C0003484
+T3	PROC 105 114	dépistage
+#3	AnnotatorNotes T3	C0437522
+T4	DISO 25 57	anévrisme de l' aorte abdominale
+#4	AnnotatorNotes T4	C0162871

@@ -1,0 +1,14 @@
+T1	PROC 0 10	Taaitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 37	varices oesophagiennes
+#2	AnnotatorNotes T2	C0014867
+T3	DISO 15 22	varices
+#3	AnnotatorNotes T3	C0042345
+T4	ANAT 23 37	oesophagiennes
+#4	AnnotatorNotes T4	C0014876
+T5	CHEM 42 65	injections sclérosantes
+#5	AnnotatorNotes T5	C0687674
+T6	PROC 42 52	injections
+#6	AnnotatorNotes T6	C0021485
+T7	CHEM 53 65	sclérosantes
+#7	AnnotatorNotes T7	C0036426

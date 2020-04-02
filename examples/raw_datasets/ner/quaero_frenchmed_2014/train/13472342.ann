@@ -1,0 +1,8 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 23 42	lésions musculaires
+#2	AnnotatorNotes T2	C0410256
+T3	ANAT 31 42	musculaires
+#3	AnnotatorNotes T3	C0026845
+T4	DISO 52 67	dermatomyosites
+#4	AnnotatorNotes T4	C0011633

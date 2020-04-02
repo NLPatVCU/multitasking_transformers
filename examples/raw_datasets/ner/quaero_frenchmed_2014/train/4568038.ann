@@ -1,0 +1,28 @@
+T1	PROC 0 6	Etudes
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 40 58	taux de complément
+#2	AnnotatorNotes T2	C1820735
+T3	ANAT 67 83	liquide synovial
+#3	AnnotatorNotes T3	C0039097
+T4	ANAT 67 74	liquide
+#4	AnnotatorNotes T4	C0005889
+T5	ANAT 75 83	synovial
+#5	AnnotatorNotes T5	C1550315
+T6	DISO 99 122	polyarthrite rhumatoïde
+#6	AnnotatorNotes T6	C0003873
+T7	DISO 99 111	polyarthrite
+#7	AnnotatorNotes T7	C0003864
+T8	CHEM 112 122	rhumatoïde
+#8	AnnotatorNotes T8	C0035448
+T9	DISO 129 142	Consommations
+#9	AnnotatorNotes T9	C2749605
+T10	PROC 170 186	complément total
+#10	AnnotatorNotes T10	C2699420
+T11	CHEM 211 221	composants
+#11	AnnotatorNotes T11	C0312743
+T12	CHEM 224 226	C1
+#12	AnnotatorNotes T12	C0009499
+T13	CHEM 230 232	C2
+#13	AnnotatorNotes T13	C0009505
+T14	PHYS 247 275	réactions antigène-anticorps
+#14	AnnotatorNotes T14	C0003314

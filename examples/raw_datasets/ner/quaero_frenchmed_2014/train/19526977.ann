@@ -1,0 +1,10 @@
+T1	PROC 11 24	bronchoscopie
+#1	AnnotatorNotes T1	C0006290
+T2	PROC 27 63	ponction guidée par ultrasonographie
+#2	AnnotatorNotes T2	C1883418
+T3	PROC 27 35	ponction
+#3	AnnotatorNotes T3	C0349707
+T4	PROC 47 63	ultrasonographie
+#4	AnnotatorNotes T4	C0041618
+T5	PROC 66 75	EBUS-TBNA
+#5	AnnotatorNotes T5	C1883418

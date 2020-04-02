@@ -1,0 +1,12 @@
+T1	PROC 3 23	traitement du cancer
+#1	AnnotatorNotes T1	C0920425
+T2	PROC 3 13	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 17 23	cancer
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 38 48	col utérin
+#4	AnnotatorNotes T4	C0007874
+T5	DISO 74 83	sterilité
+#5	AnnotatorNotes T5	C0678108
+T6	DISO 17 23;35 48	cancer du col utérin
+#6	AnnotatorNotes T6	C0302592

@@ -1,0 +1,6 @@
+T1	PROC 31 41	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 48 73	hémorragie intracérébrale
+#2	AnnotatorNotes T2	C2937358
+T3	DISO 48 58	hémorragie
+#3	AnnotatorNotes T3	C0019080

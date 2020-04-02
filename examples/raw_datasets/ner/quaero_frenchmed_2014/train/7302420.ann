@@ -1,0 +1,12 @@
+T1	DISO 3 11	artérite
+#1	AnnotatorNotes T1	C0003860
+T2	ANAT 16 34	membres inférieurs
+#2	AnnotatorNotes T2	C1269079
+T3	ANAT 16 23	membres
+#3	AnnotatorNotes T3	C1280090
+T4	PROC 77 83	opérer
+#4	AnnotatorNotes T4	C0543467
+T5	PROC 93 102	opération
+#5	AnnotatorNotes T5	C0543467
+T6	PROC 49 60	chirurgical
+#6	AnnotatorNotes T6	C0543467

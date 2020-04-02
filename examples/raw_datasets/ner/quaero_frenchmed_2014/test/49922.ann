@@ -1,0 +1,10 @@
+T1	DISO 0 11	Indications
+#1	AnnotatorNotes T1	C1444656
+T2	PROC 18 31	radiothérapie
+#2	AnnotatorNotes T2	C1522449
+T3	DISO 41 59	tumeurs digestives
+#3	AnnotatorNotes T3	C0012243
+T4	DISO 41 48	tumeurs
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 49 59	digestives
+#5	AnnotatorNotes T5	C1269565

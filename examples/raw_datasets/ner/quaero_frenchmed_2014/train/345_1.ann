@@ -1,0 +1,320 @@
+T1	CHEM 21 29	REFLUDAN
+#1	AnnotatorNotes T1	C0661608
+T2	CHEM 48 56	Refludan
+#2	AnnotatorNotes T2	C0661608
+T3	CHEM 61 69	Refludan
+#3	AnnotatorNotes T3	C0661608
+T4	CHEM 96 102	poudre
+#4	AnnotatorNotes T4	C0032861
+T5	OBJC 121 127	flacon
+#5	AnnotatorNotes T5	C0179376
+T6	PROC 138 147	dissoudre
+#6	AnnotatorNotes T6	C1285147
+T7	CHEM 165 184	solution injectable
+#7	AnnotatorNotes T7	C0086466
+T8	PROC 174 184	injectable
+#8	AnnotatorNotes T8	C0021485
+T9	PROC 188 198	perfusable
+#9	AnnotatorNotes T9	C0031001
+T10	PROC 201 231	goutte-à-goutte dans une veine
+#10	AnnotatorNotes T10	C0021440
+T11	ANAT 226 231	veine
+#11	AnnotatorNotes T11	C0042449
+T12	CHEM 242 256	principe actif
+#12	AnnotatorNotes T12	C1372955
+T13	CHEM 264 274	lépirudine
+#13	AnnotatorNotes T13	C0772394
+T14	CHEM 294 302	Refludan
+#14	AnnotatorNotes T14	C0661608
+T15	CHEM 322 330	Refludan
+#15	AnnotatorNotes T15	C0661608
+T16	PHYS 360 371	coagulation
+#16	AnnotatorNotes T16	C0005778
+T17	LIVB 381 389	patients
+#17	AnnotatorNotes T17	C0030705
+T18	DISO 402 443	thrombocytopénie induite par l ’ héparine
+#18	AnnotatorNotes T18	C0272285
+T19	DISO 402 418	thrombocytopénie
+#19	AnnotatorNotes T19	C0040034
+T20	CHEM 435 443	héparine
+#20	AnnotatorNotes T20	C0019134
+T21	DISO 451 454	TIH
+#21	AnnotatorNotes T21	C0272285
+T22	DISO 496 504	allergie
+#22	AnnotatorNotes T22	C0020517
+T23	CHEM 522 530	héparine
+#23	AnnotatorNotes T23	C0019134
+T24	DISO 556 587	carence de plaquettes sanguines
+#24	AnnotatorNotes T24	C0392386
+T25	ANAT 567 587	plaquettes sanguines
+#25	AnnotatorNotes T25	C0005821
+T26	DISO 608 616	caillots
+#26	AnnotatorNotes T26	C0302148
+T27	ANAT 626 644	vaisseaux sanguins
+#27	AnnotatorNotes T27	C0005847
+T28	DISO 653 660	maladie
+#28	AnnotatorNotes T28	C0012634
+T29	DISO 653 677	maladie thromboembolique
+#29	AnnotatorNotes T29	C0040038
+T30	DISO 705 713	caillots
+#30	AnnotatorNotes T30	C0302148
+T31	ANAT 717 721	sang
+#31	AnnotatorNotes T31	C0005767
+T32	PROC 739 749	traitement
+#32	AnnotatorNotes T32	C0087111
+T33	CHEM 750 766	antithrombotique
+#33	AnnotatorNotes T33	C1704311
+T34	CHEM 771 780	injection
+#34	AnnotatorNotes T34	C0086466
+T35	CHEM 803 811	héparine
+#35	AnnotatorNotes T35	C0019134
+T36	DISO 819 829	diagnostic
+#36	AnnotatorNotes T36	C0011900
+T37	PROC 857 862	tests
+#37	AnnotatorNotes T37	C0683443
+T38	PROC 889 893	test
+#38	AnnotatorNotes T38	C0683443
+T39	PHYS 951 974	activation plaquettaire
+#39	AnnotatorNotes T39	C0032173
+T40	ANAT 962 974	plaquettaire
+#40	AnnotatorNotes T40	C00058213
+T41	CHEM 991 999	héparine
+#41	AnnotatorNotes T41	C0019134
+T42	CHEM 1012 1020	Refludan
+#42	AnnotatorNotes T42	C0661608
+T43	CHEM 1040 1048	Refludan
+#43	AnnotatorNotes T43	C0661608
+T44	PROC 1053 1063	administré
+#44	AnnotatorNotes T44	C1533734
+T45	CHEM 1068 1077	injection
+#45	AnnotatorNotes T45	C0086466
+T46	PROC 1085 1108	perfusion intraveineuse
+#46	AnnotatorNotes T46	C0021440
+T47	PROC 1085 1094	perfusion
+#47	AnnotatorNotes T47	C0031001
+T48	PROC 1111 1141	goutte-à-goutte dans une veine
+#48	AnnotatorNotes T48	C0021440
+T49	ANAT 1136 1141	veine
+#49	AnnotatorNotes T49	C0042449
+T50	PROC 1150 1160	traitement
+#50	AnnotatorNotes T50	C0087111
+T51	CHEM 1165 1173	Refludan
+#51	AnnotatorNotes T51	C0661608
+T52	LIVB 1215 1222	médecin
+#52	AnnotatorNotes T52	C0031831
+T53	PROC 1252 1262	traitement
+#53	AnnotatorNotes T53	C0087111
+T54	PHYS 1269 1280	coagulation
+#54	AnnotatorNotes T54	C0005778
+T55	DISO 1296 1304	caillots
+#55	AnnotatorNotes T55	C0302148
+T56	ANAT 1305 1313	sanguins
+#56	AnnotatorNotes T56	C0005767
+T57	PHYS 1363 1377	poids corporel
+#57	AnnotatorNotes T57	C0005910
+T58	DISO 1403 1426	injection intraveineuse
+#58	AnnotatorNotes T58	C0542046
+T59	PHYS 1457 1471	poids corporel
+#59	AnnotatorNotes T59	C0005910
+T60	PROC 1485 1494	perfusion
+#60	AnnotatorNotes T60	C0031001
+T61	LIVB 1616 1624	patients
+#61	AnnotatorNotes T61	C0030705
+T63	DISO 1638 1653	troubles rénaux
+#63	AnnotatorNotes T63	C0022658
+T64	ANAT 1647 1653	rénaux
+#64	AnnotatorNotes T64	C0022646
+T65	CHEM 1666 1674	Refludan
+#65	AnnotatorNotes T65	C0661608
+T66	CHEM 1698 1708	lépirudine
+#66	AnnotatorNotes T66	C0772394
+T67	CHEM 1711 1725	principe actif
+#67	AnnotatorNotes T67	C0013161
+T68	CHEM 1729 1737	Refludan
+#68	AnnotatorNotes T68	C0661608
+T69	CHEM 1770 1778	hirudine
+#69	AnnotatorNotes T69	C0019573
+T70	CHEM 1781 1805	substance anticoagulante
+#70	AnnotatorNotes T70	C0003280
+T71	LIVB 1823 1831	sangsues
+#71	AnnotatorNotes T71	C0023209
+T72	CHEM 1839 1849	lépirudine
+#72	AnnotatorNotes T72	C0772394
+T73	LIVB 1872 1878	levure
+#73	AnnotatorNotes T73	C0043393
+T74	CHEM 1900 1903	ADN
+#74	AnnotatorNotes T74	C0012854
+T75	CHEM 1957 1967	lépirudine
+#75	AnnotatorNotes T75	C0772394
+T76	PHYS 2045 2056	coagulation
+#76	AnnotatorNotes T76	C0005778
+T77	CHEM 2062 2071	thrombine
+#77	AnnotatorNotes T77	C0040018
+T78	PHYS 2133 2153	coagulation sanguine
+#78	AnnotatorNotes T78	C0005778
+T79	ANAT 2145 2153	sanguine
+#79	AnnotatorNotes T79	C0005767
+T80	CHEM 2158 2166	Refludan
+#80	AnnotatorNotes T80	C0661608
+T81	PHYS 2197 2208	coagulation
+#81	AnnotatorNotes T81	C0005778
+T82	CHEM 2256 2264	Refludan
+#82	AnnotatorNotes T82	C0661608
+T83	PROC 2271 2277	étudié
+#83	AnnotatorNotes T83	C2603343
+T84	PROC 2295 2301	essais
+#84	AnnotatorNotes T84	C2603343
+T85	LIVB 2317 2325	patients
+#85	AnnotatorNotes T85	C0030705
+T86	PROC 2334 2340	études
+#86	AnnotatorNotes T86	C2603343
+T87	PHYS 2366 2371	décès
+#87	AnnotatorNotes T87	C0011065
+T88	PROC 2378 2389	amputations
+#88	AnnotatorNotes T88	C0002688
+T89	DISO 2407 2438	complications thromboemboliques
+#89	AnnotatorNotes T89	C0040038
+T90	DISO 2407 2420	complications
+#90	AnnotatorNotes T90	C0009566
+T91	PHYS 2441 2452	coagulation
+#91	AnnotatorNotes T91	C0005778
+T92	CHEM 2496 2504	Refludan
+#92	AnnotatorNotes T92	C0661608
+T93	PROC 2518 2524	études
+#93	AnnotatorNotes T93	C2603343
+T94	PROC 2589 2595	essais
+#94	AnnotatorNotes T94	C2603343
+T95	CHEM 2674 2682	Refludan
+#95	AnnotatorNotes T95	C0661608
+T96	DISO 2709 2740	complications thromboemboliques
+#96	AnnotatorNotes T96	C0040038
+T97	DISO 2709 2722	complications
+#97	AnnotatorNotes T97	C0009566
+T98	DISO 2815 2822	risques
+#98	AnnotatorNotes T98	C0184544
+T99	CHEM 2834 2842	Refludan
+#99	AnnotatorNotes T99	C0661608
+T100	CHEM 2871 2900	médicaments antithrombotiques
+#100	AnnotatorNotes T100	C1704311
+T101	CHEM 2883 2900	antithrombotiques
+#101	AnnotatorNotes T101	C1704311
+T102	DISO 2907 2923	effet secondaire
+#102	AnnotatorNotes T102	C0543419
+T103	CHEM 2956 2964	Refludan
+#103	AnnotatorNotes T103	C0661608
+T104	LIVB 2993 3000	patient
+#104	AnnotatorNotes T104	C0030705
+T105	DISO 3018 3028	saignement
+#105	AnnotatorNotes T105	C0019080
+T106	DISO 3040 3050	saignement
+#106	AnnotatorNotes T106	C0019080
+T107	PHYS 3065 3070	décès
+#107	AnnotatorNotes T107	C0011065
+T108	LIVB 3110 3117	patient
+#108	AnnotatorNotes T108	C0030705
+T109	DISO 3164 3183	effets indésirables
+#109	AnnotatorNotes T109	C0559546
+T110	PROC 3184 3192	observés
+#110	AnnotatorNotes T110	C0302523
+T111	CHEM 3198 3206	Refludan
+#111	AnnotatorNotes T111	C0661608
+T112	PROC 3237 3243	notice
+#112	AnnotatorNotes T112	C0013191
+T113	CHEM 3257 3265	Refludan
+#113	AnnotatorNotes T113	C0661608
+T114	DISO 3323 3341	maladie très grave
+#114	AnnotatorNotes T114	C0010340
+T115	DISO 3323 3330	maladie
+#115	AnnotatorNotes T115	C0012634
+T116	PROC 3378 3388	traitement
+#116	AnnotatorNotes T116	C0087111
+T117	CHEM 3414 3425	médicaments
+#117	AnnotatorNotes T117	C0013227
+T118	CHEM 3483 3491	Refludan
+#118	AnnotatorNotes T118	C0661608
+T119	DISO 3514 3521	risques
+#119	AnnotatorNotes T119	C0184544
+T120	PROC 3530 3540	traitement
+#120	AnnotatorNotes T120	C0087111
+T121	LIVB 3545 3553	patients
+#121	AnnotatorNotes T121	C0030705
+T123	DISO 3567 3608	thrombocytopénie induite par l ’ héparine
+#123	AnnotatorNotes T123	C2349404 C0272285
+T125	DISO 3567 3583	thrombocytopénie
+#125	AnnotatorNotes T125	C0040034
+T126	CHEM 3600 3608	héparine
+#126	AnnotatorNotes T126	C0019134
+T127	DISO 3615 3639	maladie thromboembolique
+#127	AnnotatorNotes T127	C0040038
+T128	DISO 3615 3622	maladie
+#128	AnnotatorNotes T128	C0012634
+T129	CHEM 3732 3740	Refludan
+#129	AnnotatorNotes T129	C0661608
+T130	CHEM 3777 3785	Refludan
+#130	AnnotatorNotes T130	C0661608
+T131	GEOG 3822 3832	européenne
+#131	AnnotatorNotes T131	C0015176
+T132	GEOG 3905 3921	Union européenne
+#132	AnnotatorNotes T132	C0015179
+T133	CHEM 3927 3935	Refludan
+#133	AnnotatorNotes T133	C0661608
+T134	CHEM 3982 3990	Refludan
+#134	AnnotatorNotes T134	C0661608
+T135	CHEM 4018 4026	Refludan
+#135	AnnotatorNotes T135	C0661608
+T136	CHEM 4037 4043	poudre
+#136	AnnotatorNotes T136	C0032861
+T137	CHEM 4049 4068	solution injectable
+#137	AnnotatorNotes T137	C0086466
+T138	PROC 4058 4068	injectable
+#138	AnnotatorNotes T138	C0021485
+T139	PROC 4077 4086	perfusion
+#139	AnnotatorNotes T139	C0031001
+T140	OBJC 4096 4102	flacon
+#140	AnnotatorNotes T140	C0179376
+T141	CHEM 4121 4131	lépirudine
+#141	AnnotatorNotes T141	C0772394
+T142	CHEM 4141 4151	lépirudine
+#142	AnnotatorNotes T142	C0772394
+T143	CHEM 4167 4170	ADN
+#143	AnnotatorNotes T143	C0012854
+T144	CHEM 4193 4211	cellules de levure
+#144	AnnotatorNotes T144	C0669253
+T145	ANAT 4193 4201	cellules
+#145	AnnotatorNotes T145	C0007634
+T146	LIVB 4205 4211	levure
+#146	AnnotatorNotes T146	C0043393
+T147	CHEM 4228 4247	solution injectable
+#147	AnnotatorNotes T147	C0086466
+T148	PROC 4237 4247	injectable
+#148	AnnotatorNotes T148	C0021485
+T149	PROC 4256 4265	perfusion
+#149	AnnotatorNotes T149	C0031001
+T150	CHEM 4270 4276	Poudre
+#150	AnnotatorNotes T150	C0032861
+T151	PHYS 4340 4350	Inhibition
+#151	AnnotatorNotes T151	C0021469
+T152	PHYS 4357 4368	coagulation
+#152	AnnotatorNotes T152	C0005778
+T153	LIVB 4378 4386	patients
+#153	AnnotatorNotes T153	C0030705
+T154	LIVB 4387 4394	adultes
+#154	AnnotatorNotes T154	C0001765
+T155	PHYS 4431 4445	poids corporel
+#155	AnnotatorNotes T155	C0005910
+T156	LIVB 4449 4456	patient
+#156	AnnotatorNotes T156	C0030705
+T157	LIVB 4474 4482	patients
+#157	AnnotatorNotes T157	C0030705
+T158	LIVB 4565 4573	patients
+#158	AnnotatorNotes T158	C0030705
+T159	PROC 4647 4657	traitement
+#159	AnnotatorNotes T159	C0087111
+T160	CHEM 4662 4670	Refludan
+#160	AnnotatorNotes T160	C0661608
+T161	PROC 902 944	heparin induced platelet aggregation assay
+#161	AnnotatorNotes T161	C0919798
+T162	PROC 889 899	test HIPAA
+#162	AnnotatorNotes T162	C0919798
+T163	PROC 1485 1517	perfusion intraveineuse continue
+#163	AnnotatorNotes T163	C0021440

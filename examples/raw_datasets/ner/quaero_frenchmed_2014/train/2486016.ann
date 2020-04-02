@@ -1,0 +1,14 @@
+T1	DISO 0 21	Pancréatite chronique
+#1	AnnotatorNotes T1	C0149521
+T2	DISO 0 11	Pancréatite
+#2	AnnotatorNotes T2	C0030305
+T3	DISO 12 21	chronique
+#3	AnnotatorNotes T3	C0008679
+T4	DISO 25 43	cancer du pancréas
+#4	AnnotatorNotes T4	C0346647
+T5	DISO 25 31	cancer
+#5	AnnotatorNotes T5	C0027651
+T6	ANAT 35 43	pancréas
+#6	AnnotatorNotes T6	C0030274
+T7	PROC 49 72	diagnostic différentiel
+#7	AnnotatorNotes T7	C0011906

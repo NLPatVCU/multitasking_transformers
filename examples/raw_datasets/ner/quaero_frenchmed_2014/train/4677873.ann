@@ -1,0 +1,8 @@
+T1	PROC 0 9	Recherche
+#1	AnnotatorNotes T1	C0035168
+T2	CHEM 14 21	lysines
+#2	AnnotatorNotes T2	C0024337
+T3	CHEM 59 79	arginine-dihydrolase
+#3	AnnotatorNotes T3	C0052332
+T4	LIVB 89 100	leptospires
+#4	AnnotatorNotes T4	C0023358

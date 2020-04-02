@@ -1,0 +1,10 @@
+T1	PHEN 0 10	Elasticité
+#1	AnnotatorNotes T1	C0013764
+T2	PHYS 14 24	résistance
+#2	AnnotatorNotes T2	C1514892
+T3	PHEN 30 41	déformation
+#3	AnnotatorNotes T3	C1880268
+T4	DEVI 46 53	anneaux
+#4	AnnotatorNotes T4	C1260969
+T5	CHEM 57 63	cuivre
+#5	AnnotatorNotes T5	C0009968

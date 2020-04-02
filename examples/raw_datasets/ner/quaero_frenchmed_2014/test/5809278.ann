@@ -1,0 +1,8 @@
+T1	PHYS 0 9	Oxydation
+#1	AnnotatorNotes T1	C0030011
+T2	PHYS 146 155	oxydation
+#2	AnnotatorNotes T2	C0030011
+T3	CHEM 160 164	H2O2
+#3	AnnotatorNotes T3	C0020281
+T4	CHEM 168 172	SeO2
+#4	AnnotatorNotes T4	C0141927

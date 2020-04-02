@@ -1,0 +1,8 @@
+T1	DISO 24 33	méningite
+#1	AnnotatorNotes T1	C0025289
+T2	LIVB 36 58	Listeria monocytogenes
+#2	AnnotatorNotes T2	C0023861
+T3	GEOG 62 72	Luxembourg
+#3	AnnotatorNotes T3	C0024176
+T4	DISO 24 58	méningite a Listeria monocytogenes
+#4	AnnotatorNotes T4	C0025293

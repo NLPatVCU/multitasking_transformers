@@ -1,0 +1,18 @@
+T1	PROC 0 14	Reconstruction
+#1	AnnotatorNotes T1	C2091911
+T2	ANAT 18 54	ligament collatéral latéral du genou
+#2	AnnotatorNotes T2	C0206367
+T3	ANAT 18 37	ligament collatéral
+#3	AnnotatorNotes T3	C0206365
+T4	ANAT 49 54	genou
+#4	AnnotatorNotes T4	C0022742
+T5	LIVB 58 61	rat
+#5	AnnotatorNotes T5	C0034721
+T6	ANAT 69 79	transplant
+#6	AnnotatorNotes T6	C0332835
+T7	ANAT 108 119	fascia lata
+#7	AnnotatorNotes T7	C0015642
+T8	ANAT 125 133	ligament
+#8	AnnotatorNotes T8	C0023685
+T9	ANAT 140 146	tendon
+#9	AnnotatorNotes T9	C0039508

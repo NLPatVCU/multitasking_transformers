@@ -1,0 +1,16 @@
+T1	PROC 21 51	chromographie en phase gazeuse
+#1	AnnotatorNotes T1	C0008555
+T2	PROC 21 34	chromographie
+#2	AnnotatorNotes T2	C0008550
+T3	CHEM 44 51	gazeuse
+#3	AnnotatorNotes T3	C0017110
+T4	CHEM 72 86	acide acétique
+#4	AnnotatorNotes T4	C0000983
+T5	CHEM 72 77	acide
+#5	AnnotatorNotes T5	C0001128
+T6	CHEM 78 86	acétique
+#6	AnnotatorNotes T6	C0981805
+T7	LIVB 91 113	Pseudomonas aeruginosa
+#7	AnnotatorNotes T7	C0033809
+T8	LIVB 91 102	Pseudomonas
+#8	AnnotatorNotes T8	C0033808

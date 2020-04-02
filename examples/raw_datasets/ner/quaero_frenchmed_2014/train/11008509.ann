@@ -1,0 +1,6 @@
+T1	DISO 0 24	Mononucléose infectieuse
+#1	AnnotatorNotes T1	C0021345
+T2	PROC 27 40	Épidémiologie
+#2	AnnotatorNotes T2	C0699910
+T3	PROC 43 53	diagnostic
+#3	AnnotatorNotes T3	C0525034

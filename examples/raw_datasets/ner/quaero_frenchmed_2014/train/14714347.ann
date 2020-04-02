@@ -1,0 +1,8 @@
+T1	DISO 0 21	Syndrome du pacemaker
+#1	AnnotatorNotes T1	C0340929
+T2	DISO 0 8	Syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	DEVI 12 21	pacemaker
+#3	AnnotatorNotes T3	C0030163
+T4	DEVI 30 44	double chambre
+#4	AnnotatorNotes T4	C0725893

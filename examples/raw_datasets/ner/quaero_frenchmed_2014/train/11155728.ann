@@ -1,0 +1,6 @@
+T1	CHEM 19 41	inhibiteur de protéase
+#1	AnnotatorNotes T1	C0033607
+T2	CHEM 33 41	protéase
+#2	AnnotatorNotes T2	C0030946
+T3	CHEM 49 105	inhibiteur non nucléosidique de la transcriptase inverse
+#3	AnnotatorNotes T3	C1373120

@@ -1,0 +1,10 @@
+T1	PHYS 0 12	Morphogenèse
+#1	AnnotatorNotes T1	C0026559
+T2	PROC 13 26	expérimentale
+#2	AnnotatorNotes T2	C0678323
+T3	DEVI 34 40	éponge
+#3	AnnotatorNotes T3	C0441126
+T4	ANAT 53 61	cellules
+#4	AnnotatorNotes T4	C0007634
+T5	LIVB 68 73	larve
+#5	AnnotatorNotes T5	C0023047

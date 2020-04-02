@@ -1,0 +1,8 @@
+T1	DISO 4 31	thrombose veineuse profonde
+#1	AnnotatorNotes T1	C0149871
+T2	DISO 4 22	thrombose veineuse
+#2	AnnotatorNotes T2	C0042487
+T3	DISO 4 13	thrombose
+#3	AnnotatorNotes T3	C0040053
+T4	ANAT 14 22	veineuse
+#4	AnnotatorNotes T4	C0042449

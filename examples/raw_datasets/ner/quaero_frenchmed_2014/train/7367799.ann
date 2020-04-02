@@ -1,0 +1,5 @@
+T1	DISO 0 13	Cardiopathies
+#1	AnnotatorNotes T1	C0018799
+T2	DISO 0 26	Cardiopathies congénitales
+T3	DISO 14 26	congénitales
+#2	AnnotatorNotes T3	C0950123

@@ -1,0 +1,8 @@
+T1	DISO 0 41	Intoxication accidentelle à la méfloquine
+#1	AnnotatorNotes T1	C0568806
+T2	DISO 0 25	Intoxication accidentelle
+#2	AnnotatorNotes T2	C0274456
+T3	DISO 0 12	Intoxication
+#3	AnnotatorNotes T3	C0032343
+T4	CHEM 31 41	méfloquine
+#4	AnnotatorNotes T4	C0025153

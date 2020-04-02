@@ -1,0 +1,12 @@
+T1	CHEM 13 32	polyéthylène glycol
+#1	AnnotatorNotes T1	C0032483
+T2	CHEM 13 25	polyéthylène
+#2	AnnotatorNotes T2	C0137914
+T3	CHEM 26 32	glycol
+#3	AnnotatorNotes T3	C0017945
+T4	PROC 41 49	ponction
+#4	AnnotatorNotes T4	C0034117
+T5	PROC 50 61	cytologique
+#5	AnnotatorNotes T5	C0010818
+T6	ANAT 65 73	prostate
+#6	AnnotatorNotes T6	C0033572

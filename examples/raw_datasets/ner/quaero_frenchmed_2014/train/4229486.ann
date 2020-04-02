@@ -1,0 +1,10 @@
+T1	ANAT 46 55	testicule
+#1	AnnotatorNotes T1	C0039597
+T2	CHEM 76 83	hormone
+#2	AnnotatorNotes T2	C0019932
+T3	DISO 102 112	régression
+#3	AnnotatorNotes T3	C0684320
+T4	ANAT 117 133	canaux de Müller
+#4	AnnotatorNotes T4	C0026732
+T5	ANAT 117 123	canaux
+#5	AnnotatorNotes T5	C0687028

@@ -1,0 +1,8 @@
+T1	PROC 29 43	administration
+#1	AnnotatorNotes T1	C1533734
+T2	CHEM 50 72	antagoniste de la GnRH
+#2	AnnotatorNotes T2	C1268855
+T3	CHEM 68 72	GnRH
+#3	AnnotatorNotes T3	C0023610
+T4	PHYS 85 100	cycle menstruel
+#4	AnnotatorNotes T4	C0025329

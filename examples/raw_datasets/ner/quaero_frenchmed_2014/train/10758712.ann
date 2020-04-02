@@ -1,0 +1,8 @@
+T1	DISO 25 38	hypothyroïdie
+#1	AnnotatorNotes T1	C0020676
+T2	DISO 44 65	occlusion intestinale
+#2	AnnotatorNotes T2	C0021843
+T3	DISO 44 53	occlusion
+#3	AnnotatorNotes T3	C0028778
+T4	ANAT 54 65	intestinale
+#4	AnnotatorNotes T4	C0021853

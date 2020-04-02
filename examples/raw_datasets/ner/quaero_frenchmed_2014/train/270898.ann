@@ -1,0 +1,8 @@
+T1	PROC 0 13	Mobilisations
+#1	AnnotatorNotes T1	C0203995
+T2	ANAT 26 47	maxillaires supérieur
+#2	AnnotatorNotes T2	C0024947
+T3	ANAT 51 60	inférieur
+#3	AnnotatorNotes T3	C0024687
+T4	DISO 63 74	indications
+#4	AnnotatorNotes T4	C1444656

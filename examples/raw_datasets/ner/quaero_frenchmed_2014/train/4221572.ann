@@ -1,0 +1,12 @@
+T1	PHYS 0 11	Indications
+#1	AnnotatorNotes T1	C2315323
+T2	DEVI 28 44	fixateur externe
+#2	AnnotatorNotes T2	C0079321
+T3	DEVI 28 36	fixateur
+#3	AnnotatorNotes T3	C1708037
+T4	DISO 66 84	fractures ouvertes
+#4	AnnotatorNotes T4	C0016662
+T5	DISO 66 75	fractures
+#5	AnnotatorNotes T5	C0016658
+T6	ANAT 88 93	jambe
+#6	AnnotatorNotes T6	C1140621

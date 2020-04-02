@@ -1,0 +1,10 @@
+T1	PHEN 13 27	radiofréquence
+#1	AnnotatorNotes T1	C2347883
+T2	PROC 36 43	exérèse
+#2	AnnotatorNotes T2	C0919588
+T3	DISO 51 68	tumeur abdominale
+#3	AnnotatorNotes T3	C0000735
+T4	DISO 51 57	tumeur
+#4	AnnotatorNotes T4	C0006826
+T5	ANAT 58 68	abdominale
+#5	AnnotatorNotes T5	C0000726

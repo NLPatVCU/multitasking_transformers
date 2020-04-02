@@ -1,0 +1,14 @@
+T1	DISO 0 23	Transmission maternelle
+#1	AnnotatorNotes T1	C3274499
+T2	DISO 0 12	Transmission
+#2	AnnotatorNotes T2	C0242781
+T3	LIVB 13 23	maternelle
+#3	AnnotatorNotes T3	C0026591
+T4	LIVB 43 56	Mesocestoides
+#4	AnnotatorNotes T4	C0025482
+T5	LIVB 59 73	Cyclophyllidea
+#5	AnnotatorNotes T5	C0322145
+T6	LIVB 85 99	souris blanche
+#6	AnnotatorNotes T6	C0684073
+T7	LIVB 85 91	souris
+#7	AnnotatorNotes T7	C0025929

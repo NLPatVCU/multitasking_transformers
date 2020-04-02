@@ -1,0 +1,14 @@
+T1	ANAT 26 39	cortex moteur
+#1	AnnotatorNotes T1	C0026607
+T2	ANAT 26 32	cortex
+#2	AnnotatorNotes T2	C1176472
+T3	LIVB 43 48	singe
+#3	AnnotatorNotes T3	C0026447
+T4	PHYS 60 69	mouvement
+#4	AnnotatorNotes T4	C0026649
+T5	ANAT 76 82	membre
+#5	AnnotatorNotes T5	C0015385
+T6	PHYS 0 17	Activité unitaire
+#6	AnnotatorNotes T6	C0042034
+T7	ANAT 9 17	unitaire
+#7	AnnotatorNotes T7	C1508753

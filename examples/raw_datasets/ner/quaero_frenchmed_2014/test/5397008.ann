@@ -1,0 +1,10 @@
+T1	DISO 3 37	sarcome alvéolaire des tissus mous
+#1	AnnotatorNotes T1	C0206657
+T2	DISO 3 10	sarcome
+#2	AnnotatorNotes T2	C1261473
+T3	ANAT 11 21	alvéolaire
+#3	AnnotatorNotes T3	C1440080
+T4	ANAT 26 37	tissus mous
+#4	AnnotatorNotes T4	C0225317
+T5	ANAT 26 32	tissus
+#5	AnnotatorNotes T5	C0040300

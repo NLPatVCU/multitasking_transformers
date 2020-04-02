@@ -1,0 +1,4 @@
+T1	PROC 3 23	urgence chirurgicale
+#1	AnnotatorNotes T1	C2216322
+T2	DISO 30 48	acidose diabetique
+#2	AnnotatorNotes T2	C0011880

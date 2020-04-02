@@ -1,0 +1,6 @@
+T1	PROC 3 16	transposition
+#1	AnnotatorNotes T1	C0040674
+T2	ANAT 20 35	muscle temporal
+#2	AnnotatorNotes T2	C0039487
+T3	DISO 51 61	anophtalme
+#3	AnnotatorNotes T3	C0003119

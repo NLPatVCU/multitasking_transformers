@@ -1,0 +1,10 @@
+T1	PROC 0 35	Conception des prothèses conjointes
+#1	AnnotatorNotes T1	C0033585
+T2	DEVI 15 35	prothèses conjointes
+#2	AnnotatorNotes T2	C0022414
+T3	DEVI 15 24	prothèses
+#3	AnnotatorNotes T3	C0175649
+T4	DISO 39 49	protection
+#4	AnnotatorNotes T4	C1545588
+T5	ANAT 53 62	parodonte
+#5	AnnotatorNotes T5	C0031104

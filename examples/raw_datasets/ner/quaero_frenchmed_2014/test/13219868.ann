@@ -1,0 +1,12 @@
+T1	PHYS 0 11	Metabolisme
+#1	AnnotatorNotes T1	C0025519
+T2	LIVB 30 43	Mycobactéries
+#2	AnnotatorNotes T2	C0026912
+T3	CHEM 62 73	cytochromes
+#3	AnnotatorNotes T3	C0010798
+T4	LIVB 78 86	bacilles
+#4	AnnotatorNotes T4	C0004587
+T5	DISO 87 98	tuberculeux
+#5	AnnotatorNotes T5	C0041296
+T6	PROC 137 158	etude spectroscopique
+#6	AnnotatorNotes T6	C0037812

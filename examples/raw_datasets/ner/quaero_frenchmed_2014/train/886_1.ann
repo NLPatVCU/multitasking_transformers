@@ -1,0 +1,252 @@
+T1	CHEM 2 11	RECONCILE
+#1	AnnotatorNotes T1	C1960278
+T2	CHEM 30 39	Reconcile
+#2	AnnotatorNotes T2	C1960278
+T3	CHEM 44 53	Reconcile
+#3	AnnotatorNotes T3	C1960278
+T4	CHEM 61 83	médicament vétérinaire
+#4	AnnotatorNotes T4	C0376438
+T5	CHEM 61 71	médicament
+#5	AnnotatorNotes T5	C0013227
+T7	CHEM 97 111	principe actif
+#7	AnnotatorNotes T7	C1372955
+T8	CHEM 112 122	fluoxétine
+#8	AnnotatorNotes T8	C0016365
+T9	CHEM 159 168	comprimés
+#9	AnnotatorNotes T9	C0039225
+T10	CHEM 222 232	fluoxétine
+#10	AnnotatorNotes T10	C0016365
+T11	CHEM 251 260	Reconcile
+#11	AnnotatorNotes T11	C1960278
+T12	CHEM 280 289	Reconcile
+#12	AnnotatorNotes T12	C1960278
+T13	PROC 328 370	techniques de modification de comportement
+#13	AnnotatorNotes T13	C2065025
+T14	PROC 394 404	traitement
+#14	AnnotatorNotes T14	C0087111
+T15	LIVB 409 415	chiens
+#15	AnnotatorNotes T15	C0012984
+T16	DISO 431 456	problèmes de comportement
+#16	AnnotatorNotes T16	C0004930
+T17	DISO 459 480	anxiété de séparation
+#17	AnnotatorNotes T17	C1527281
+T18	LIVB 574 580	chiens
+#18	AnnotatorNotes T18	C0012984
+T19	DISO 589 614	problèmes de comportement
+#19	AnnotatorNotes T19	C0004930
+T20	PHYS 644 654	aboiements
+#20	AnnotatorNotes T20	C0234875
+T21	PHYS 662 672	hurlements
+#21	AnnotatorNotes T21	C0234879
+T22	PHYS 697 703	uriner
+#22	AnnotatorNotes T22	C0042034
+T23	DISO 710 735	déféquer intempestivement
+#23	AnnotatorNotes T23	C0426636
+T24	PHYS 710 718	déféquer
+#24	AnnotatorNotes T24	C0011135
+T25	CHEM 789 798	Reconcile
+#25	AnnotatorNotes T25	C1960278
+T26	LIVB 867 873	chiens
+#26	AnnotatorNotes T26	C0012984
+T27	PROC 904 928	thérapie comportementale
+#27	AnnotatorNotes T27	C2065025
+T28	CHEM 937 946	comprimés
+#28	AnnotatorNotes T28	C0039225
+T29	CHEM 950 959	Reconcile
+#29	AnnotatorNotes T29	C1960278
+T30	CHEM 1012 1020	comprimé
+#30	AnnotatorNotes T30	C0994475
+T31	PHYS 1064 1069	poids
+#31	AnnotatorNotes T31	C0005910
+T32	LIVB 1073 1078	chien
+#32	AnnotatorNotes T32	C0012984
+T33	LIVB 1102 1107	chien
+#33	AnnotatorNotes T33	C0012984
+T34	PHYS 1150 1164	poids corporel
+#34	AnnotatorNotes T34	C0005910
+T35	CHEM 1182 1191	comprimés
+#35	AnnotatorNotes T35	C0039225
+T36	CHEM 1273 1282	Reconcile
+#36	AnnotatorNotes T36	C1960278
+T37	CHEM 1298 1312	principe actif
+#37	AnnotatorNotes T37	C1372955
+T38	CHEM 1316 1325	Reconcile
+#38	AnnotatorNotes T38	C1960278
+T39	CHEM 1331 1341	fluoxétine
+#39	AnnotatorNotes T39	C0016365
+T40	CHEM 1351 1403	inhibiteur sélectif de la recapture de la sérotonine
+#40	AnnotatorNotes T40	C0162758
+T41	PHYS 1377 1403	recapture de la sérotonine
+#41	AnnotatorNotes T41	C1621749
+T42	CHEM 1393 1403	sérotonine
+#42	AnnotatorNotes T42	C0036751
+T43	CHEM 1406 1410	ISRS
+#43	AnnotatorNotes T43	C0162758
+T44	CHEM 1456 1473	neurotransmetteur
+#44	AnnotatorNotes T44	C0243051
+T45	CHEM 1474 1484	sérotonine
+#45	AnnotatorNotes T45	C0036751
+T46	CHEM 1491 1508	hydroxytryptamine
+#46	AnnotatorNotes T46	C0162466
+T47	ANAT 1519 1537	cellules nerveuses
+#47	AnnotatorNotes T47	C0027882
+T48	ANAT 1519 1527	cellules
+#48	AnnotatorNotes T48	C0007634
+T49	ANAT 1546 1553	cerveau
+#49	AnnotatorNotes T49	C0006104
+T50	ANAT 1560 1575	moelle épinière
+#50	AnnotatorNotes T50	C0037925
+T51	CHEM 1584 1602	neurotransmetteurs
+#51	AnnotatorNotes T51	C0027908
+T52	CHEM 1612 1622	sérotonine
+#52	AnnotatorNotes T52	C0036751
+T53	CHEM 1632 1650	composés chimiques
+#53	AnnotatorNotes T53	C0220806
+T54	ANAT 1688 1704	cellule nerveuse
+#54	AnnotatorNotes T54	C0027882
+T55	ANAT 1688 1695	cellule
+#55	AnnotatorNotes T55	C0007634
+T56	CHEM 1741 1751	sérotonine
+#56	AnnotatorNotes T56	C0036751
+T57	ANAT 1760 1775	système nerveux
+#57	AnnotatorNotes T57	C0027763
+T58	DISO 1811 1821	dépression
+#58	AnnotatorNotes T58	C0011570
+T59	PHYS 1828 1835	anxiété
+#59	AnnotatorNotes T59	C0003467
+T60	DISO 1843 1854	agressivité
+#60	AnnotatorNotes T60	C0001807
+T61	PHYS 1874 1900	recapture de la sérotonine
+#61	AnnotatorNotes T61	C1621749
+T62	CHEM 1890 1900	sérotonine
+#62	AnnotatorNotes T62	C0036751
+T63	ANAT 1910 1928	cellules nerveuses
+#63	AnnotatorNotes T63	C0027882
+T64	ANAT 1910 1918	cellules
+#64	AnnotatorNotes T64	C0007634
+T65	CHEM 1934 1944	fluoxétine
+#65	AnnotatorNotes T65	C0016365
+T66	CHEM 1977 1987	sérotonine
+#66	AnnotatorNotes T66	C0036751
+T67	DISO 2042 2058	signes cliniques
+#67	AnnotatorNotes T67	C0037088
+T68	DISO 2061 2086	problèmes de comportement
+#68	AnnotatorNotes T68	C0004930
+T69	DISO 2093 2122	troubles liés à la séparation
+#69	AnnotatorNotes T69	C1527281
+T70	LIVB 2132 2138	chiens
+#70	AnnotatorNotes T70	C0012984
+T71	PROC 2148 2155	traiter
+#71	AnnotatorNotes T71	C0087111
+T72	LIVB 2159 2164	chien
+#72	AnnotatorNotes T72	C0012984
+T73	DISO 2179 2200	anxiété de séparation
+#73	AnnotatorNotes T73	C1527281
+T74	CHEM 2248 2259	médicaments
+#74	AnnotatorNotes T74	C0013227
+T75	PROC 2296 2336	thérapie de modification de comportement
+#75	AnnotatorNotes T75	C2065025
+T76	PROC 2355 2361	études
+#76	AnnotatorNotes T76	C2603343
+T77	CHEM 2382 2391	Reconcile
+#77	AnnotatorNotes T77	C1960278
+T78	CHEM 2422 2429	placebo
+#78	AnnotatorNotes T78	C1696465
+T79	PROC 2435 2452	traitement fictif
+#79	AnnotatorNotes T79	C0032042
+T80	PROC 2435 2445	traitement
+#80	AnnotatorNotes T80	C0087111
+T81	PROC 2513 2518	étude
+#81	AnnotatorNotes T81	C2603343
+T82	LIVB 2586 2592	chiens
+#82	AnnotatorNotes T82	C0012984
+T83	PROC 2593 2600	traités
+#83	AnnotatorNotes T83	C0087111
+T84	DISO 2610 2631	anxiété de séparation
+#84	AnnotatorNotes T84	C1527281
+T85	GEOG 2696 2705	européens
+#85	AnnotatorNotes T85	C0015176
+T86	CHEM 2855 2866	indicateurs
+#86	AnnotatorNotes T86	C0021212
+T87	DISO 2891 2912	anxiété de séparation
+#87	AnnotatorNotes T87	C1527281
+T88	LIVB 2922 2928	chiens
+#88	AnnotatorNotes T88	C0012984
+T89	CHEM 2967 2976	Reconcile
+#89	AnnotatorNotes T89	C1960278
+T90	PROC 2990 2996	études
+#90	AnnotatorNotes T90	C2603343
+T91	PROC 3005 3034	administration par voie orale
+#91	AnnotatorNotes T91	C0001563
+T92	CHEM 3038 3047	comprimés
+#92	AnnotatorNotes T92	C0039225
+T93	CHEM 3051 3060	Reconcile
+#93	AnnotatorNotes T93	C1960278
+T94	CHEM 3092 3102	fluoxétine
+#94	AnnotatorNotes T94	C0016365
+T95	PROC 3154 3164	traitement
+#95	AnnotatorNotes T95	C0087111
+T96	CHEM 3190 3199	Reconcile
+#96	AnnotatorNotes T96	C1960278
+T97	CHEM 3228 3235	placebo
+#97	AnnotatorNotes T97	C1696465
+T98	PROC 3251 3291	thérapie de modification de comportement
+#98	AnnotatorNotes T98	C2065025
+T99	LIVB 3322 3328	chiens
+#99	AnnotatorNotes T99	C0012984
+T100	PROC 3380 3420	thérapie de modification de comportement
+#100	AnnotatorNotes T100	C2065025
+T101	LIVB 3428 3434	groupe
+#101	AnnotatorNotes T101	C1705429
+T102	PROC 3435 3441	traité
+#102	AnnotatorNotes T102	C0087111
+T103	CHEM 3449 3459	fluoxétine
+#103	AnnotatorNotes T103	C0016365
+T104	PROC 3555 3565	traitement
+#104	AnnotatorNotes T104	C0087111
+T105	LIVB 3614 3620	chiens
+#105	AnnotatorNotes T105	C0012984
+T106	PROC 3621 3628	traités
+#106	AnnotatorNotes T106	C0087111
+T107	CHEM 3636 3646	fluoxétine
+#107	AnnotatorNotes T107	C0016365
+T108	PROC 3738 3743	étude
+#108	AnnotatorNotes T108	C2603343
+T109	CHEM 3772 3781	Reconcile
+#109	AnnotatorNotes T109	C1960278
+T110	CHEM 3833 3845	clomipramine
+#110	AnnotatorNotes T110	C0009010
+T111	PROC 3874 3914	thérapie de modification de comportement
+#111	AnnotatorNotes T111	C2065025
+T112	CHEM 3917 3926	Reconcile
+#112	AnnotatorNotes T112	C1960278
+T113	PROC 3979 3989	traitement
+#113	AnnotatorNotes T113	C0087111
+T114	LIVB 3994 4000	chiens
+#114	AnnotatorNotes T114	C0012984
+T115	PHYS 4024 4034	aboiements
+#115	AnnotatorNotes T115	C0234875
+T116	DISO 4049 4057;4072 4088	déféquer intempestivement
+#116	AnnotatorNotes T116	C0426636
+T117	PHYS 4049 4057	déféquer
+#117	AnnotatorNotes T117	C0011135
+T118	DISO 4065 4088	uriner intempestivement
+#118	AnnotatorNotes T118	C0085606
+T119	PHYS 4065 4071	uriner
+#119	AnnotatorNotes T119	C0042034
+T120	DISO 4135 4156	anxiété de séparation
+#120	AnnotatorNotes T120	C1527281
+T121	LIVB 4205 4211	groupe
+#121	AnnotatorNotes T121	C1705429
+T122	CHEM 4212 4222	fluoxétine
+#122	AnnotatorNotes T122	C0016365
+T123	PHYS 4225 4235	défécation
+#123	AnnotatorNotes T123	C0011135
+T124	PROC 3005 3019	administration
+#124	AnnotatorNotes T124	C1533734
+T125	OBJC 744 750	maison
+#125	AnnotatorNotes T125	C2003847
+T126	DISO 697 703;719 735	uriner intempestivement
+#126	AnnotatorNotes T126	C0085606
+T6	DISO 4225 4248	défécation intempestive
+#6	AnnotatorNotes T6	C0426636

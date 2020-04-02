@@ -1,0 +1,10 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PROC 6 25	microradiographique
+#2	AnnotatorNotes T2	C0026015
+T3	PHYS 32 43	circulation
+#3	AnnotatorNotes T3	C1516559
+T4	ANAT 44 54	artérielle
+#4	AnnotatorNotes T4	C0003842
+T5	ANAT 58 65	cerveau
+#5	AnnotatorNotes T5	C0006104

@@ -1,0 +1,6 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 22	varices
+#2	AnnotatorNotes T2	C0042345
+T3	ANAT 40 58	membres inférieurs
+#3	AnnotatorNotes T3	C1140621

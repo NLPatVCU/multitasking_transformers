@@ -1,0 +1,8 @@
+T1	DISO 0 19	Rhabdomyolyse aiguë
+#1	AnnotatorNotes T1	C1858735
+T2	DISO 0 13	Rhabdomyolyse
+#2	AnnotatorNotes T2	C0035410
+T3	CHEM 37 58	acide amino caproïque
+#3	AnnotatorNotes T3	C0002546
+T4	CHEM 37 42	acide
+#4	AnnotatorNotes T4	C0001128

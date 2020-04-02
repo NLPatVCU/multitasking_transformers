@@ -1,0 +1,12 @@
+T1	DISO 0 9	Abolition
+#1	AnnotatorNotes T1	C0234146
+T2	ANAT 25 32	réflexe
+#2	AnnotatorNotes T2	C0034929
+T3	DISO 47 55	séquelle
+#3	AnnotatorNotes T3	C0543419
+T4	DISO 62 78	zona ophtalmique
+#4	AnnotatorNotes T4	C0019364
+T5	DISO 62 66	zona
+#5	AnnotatorNotes T5	C0019360
+T6	ANAT 67 78	ophtalmique
+#6	AnnotatorNotes T6	C0015392

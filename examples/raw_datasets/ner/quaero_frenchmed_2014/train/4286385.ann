@@ -1,0 +1,8 @@
+T1	PROC 0 11	Suppression
+#1	AnnotatorNotes T1	C0563648
+T2	PHYS 18 42	activité ribonucléasique
+#2	AnnotatorNotes T2	C1148840
+T3	CHEM 27 42	ribonucléasique
+#3	AnnotatorNotes T3	C0035542
+T4	CHEM 50 57	pronase
+#4	AnnotatorNotes T4	C0033417

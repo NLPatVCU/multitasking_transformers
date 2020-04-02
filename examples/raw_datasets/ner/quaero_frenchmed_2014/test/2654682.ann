@@ -1,0 +1,10 @@
+T1	DISO 0 18	Ostéomes ostéoïdes
+#1	AnnotatorNotes T1	C0029441
+T2	DISO 0 8	Ostéomes
+#2	AnnotatorNotes T2	C0029440
+T3	ANAT 9 18	ostéoïdes
+#3	AnnotatorNotes T3	C0682561
+T4	ANAT 19 29	rachidiens
+#4	AnnotatorNotes T4	C0228560
+T5	PROC 46 58	observations
+#5	AnnotatorNotes T5	C0302523

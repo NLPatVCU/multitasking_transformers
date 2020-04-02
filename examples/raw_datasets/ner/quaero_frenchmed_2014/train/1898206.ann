@@ -1,0 +1,12 @@
+T1	PROC 0 12	Valvulotomie
+#1	AnnotatorNotes T1	C0190085
+T2	DISO 16 56	sténose aortique orificielle congénitale
+#2	AnnotatorNotes T2	C0152417
+T3	DISO 16 44	sténose aortique orificielle
+#3	AnnotatorNotes T3	C0003507
+T4	DISO 16 23	sténose
+#4	AnnotatorNotes T4	C1261287
+T5	ANAT 24 32	aortique
+#5	AnnotatorNotes T5	C0003483
+T6	ANAT 33 44	orificielle
+#6	AnnotatorNotes T6	C1186983

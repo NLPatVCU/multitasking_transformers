@@ -1,0 +1,14 @@
+T1	PROC 0 6	Examen
+#1	AnnotatorNotes T1	C0582103
+T2	PROC 7 26	electromyographique
+#2	AnnotatorNotes T2	C0013839
+T3	ANAT 30 42	muscle strie
+#3	AnnotatorNotes T3	C1331262
+T4	ANAT 30 36	muscle
+#4	AnnotatorNotes T4	C0026845
+T5	LIVB 51 57	cobaye
+#5	AnnotatorNotes T5	C0999699
+T6	PHEN 64 74	irradation
+#6	AnnotatorNotes T6	C1282930
+T7	CHEM 78 85	Co - 60
+#7	AnnotatorNotes T7	C0303395

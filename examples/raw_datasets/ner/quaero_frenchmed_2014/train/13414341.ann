@@ -1,0 +1,10 @@
+T1	DISO 14 32	psychose ovarienne
+#1	AnnotatorNotes T1	C0850660
+T2	ANAT 23 32	ovarienne
+#2	AnnotatorNotes T2	C0029939
+T3	PROC 57 73	frottis vaginaux
+#3	AnnotatorNotes T3	C0079104
+T4	ANAT 65 73	vaginaux
+#4	AnnotatorNotes T4	C0042232
+T5	CHEM 86 96	androgènes
+#5	AnnotatorNotes T5	C0002844

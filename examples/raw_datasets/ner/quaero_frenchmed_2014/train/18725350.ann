@@ -1,0 +1,10 @@
+T1	CHEM 19 38	hémoglobine glyquée
+#1	AnnotatorNotes T1	C0017853
+T2	CHEM 39 45	labile
+#2	AnnotatorNotes T2	C0015498
+T3	CHEM 66 74	HbA ( 1c
+#3	AnnotatorNotes T3	C0019018
+T4	PROC 96 137	chromatographie liquide haute performance
+#4	AnnotatorNotes T4	C0008562
+T5	PROC 96 119	chromatographie liquide
+#5	AnnotatorNotes T5	C0008565

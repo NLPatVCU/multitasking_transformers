@@ -1,0 +1,16 @@
+T1	PROC 0 11	Traitements
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 18 29	infertilité
+#2	AnnotatorNotes T2	C0021359
+T3	PROC 36 46	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 53 73	cancer gynécologique
+#4	AnnotatorNotes T4	C0699889
+T5	DISO 53 59	cancer
+#5	AnnotatorNotes T5	C0027651
+T6	PROC 94 105	congélation
+#6	AnnotatorNotes T6	C0010405
+T7	ANAT 109 122	tissu ovarien
+#7	AnnotatorNotes T7	C1518744
+T8	ANAT 115 122	ovarien
+#8	AnnotatorNotes T8	C0029939

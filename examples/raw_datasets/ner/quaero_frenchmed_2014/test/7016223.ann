@@ -1,0 +1,16 @@
+T1	PROC 0 18	Traitement combiné
+#1	AnnotatorNotes T1	C7016223
+T2	PROC 0 10	Traitement
+#2	AnnotatorNotes T2	C0087111
+T3	PROC 22 35	radiothérapie
+#3	AnnotatorNotes T3	C1522449
+T4	PROC 42 56	chimiothérapie
+#4	AnnotatorNotes T4	C0013216
+T5	DISO 65 79	cancer du sein
+#5	AnnotatorNotes T5	C0006142
+T6	DISO 65 71	cancer
+#6	AnnotatorNotes T6	C0027651
+T7	ANAT 75 79	sein
+#7	AnnotatorNotes T7	C0006141
+T8	PROC 98 110	observations
+#8	AnnotatorNotes T8	C0302523

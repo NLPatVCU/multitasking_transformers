@@ -1,0 +1,14 @@
+T1	DISO 4 24	ulcérations buccales
+#1	AnnotatorNotes T1	C0542250
+T2	DISO 4 15	ulcérations
+#2	AnnotatorNotes T2	C0041582
+T3	ANAT 16 24	buccales
+#3	AnnotatorNotes T3	C0226896
+T4	PROC 55 60	étude
+#4	AnnotatorNotes T4	C2603343
+T5	DISO 78 85	lésions
+#5	AnnotatorNotes T5	C0221198
+T6	DISO 78 97	lésions herpétiques
+#6	AnnotatorNotes T6	C0019340
+T7	DISO 101 114;78 85	herpétiformes lésions
+#7	AnnotatorNotes T7	C0542022

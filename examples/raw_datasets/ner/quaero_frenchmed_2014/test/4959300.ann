@@ -1,0 +1,12 @@
+T1	PROC 0 13	Détermination
+#1	AnnotatorNotes T1	C1148554
+T2	ANAT 46 55	endoderme
+#2	AnnotatorNotes T2	C0014144
+T3	ANAT 56 66	pharyngien
+#3	AnnotatorNotes T3	C0031354
+T4	ANAT 75 92	embryon de poulet
+#4	AnnotatorNotes T4	C0008046
+T5	ANAT 75 82	embryon
+#5	AnnotatorNotes T5	C0013935
+T6	LIVB 86 92	poulet
+#6	AnnotatorNotes T6	C0008051

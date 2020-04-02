@@ -1,0 +1,6 @@
+T1	PROC 3 16	contraception
+#1	AnnotatorNotes T1	C0700589
+T2	ANAT 32 44	intra-uterin
+#2	AnnotatorNotes T2	C0694756
+T3	DEVI 21 44	dispositif intra-uterin
+#3	AnnotatorNotes T3	C0021900

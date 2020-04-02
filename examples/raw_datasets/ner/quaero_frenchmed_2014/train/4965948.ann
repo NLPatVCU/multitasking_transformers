@@ -1,0 +1,10 @@
+T1	CHEM 0 16	Hormone juvénile
+#1	AnnotatorNotes T1	C0022439
+T2	CHEM 0 7	Hormone
+#2	AnnotatorNotes T2	C0019932
+T3	LIVB 34 41	soldats
+#3	AnnotatorNotes T3	C0524647
+T4	LIVB 50 57	termite
+#4	AnnotatorNotes T4	C0598701
+T5	ANAT 60 63	cou
+#5	AnnotatorNotes T5	C0027530

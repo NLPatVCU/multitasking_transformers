@@ -1,0 +1,12 @@
+T1	PROC 0 23	Diagnostic différentiel
+#1	AnnotatorNotes T1	C0011906
+T3	DISO 30 43	drépanocytose
+#3	AnnotatorNotes T3	C0002895
+T4	PROC 70 81	observation
+#4	AnnotatorNotes T4	C0302523
+T7	DISO 109 110;85 98	F hemoglobinose
+#7	AnnotatorNotes T7	C0019025
+T8	GEOG 119 127	Togolais
+#8	AnnotatorNotes T8	C0040363
+T5	DISO 85 100	hemoglobinose S
+#5	AnnotatorNotes T5	C0002895

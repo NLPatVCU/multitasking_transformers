@@ -1,0 +1,12 @@
+T1	ANAT 0 8	Anatomie
+#1	AnnotatorNotes T1	C0700276
+T2	PROC 9 22	stéréotaxique
+#2	AnnotatorNotes T2	C0038270
+T3	ANAT 27 45	noyaux cérébelleux
+#3	AnnotatorNotes T3	C0007763
+T4	ANAT 34 45	cérébelleux
+#4	AnnotatorNotes T4	C0007765
+T5	LIVB 49 56	babouin
+#5	AnnotatorNotes T5	C0030362
+T6	LIVB 59 70	Papio papio
+#6	AnnotatorNotes T6	C1263339

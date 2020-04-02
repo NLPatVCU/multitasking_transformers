@@ -1,0 +1,10 @@
+T1	LIVB 63 84	Plasmodium falciparum
+#1	AnnotatorNotes T1	C0032150
+T2	LIVB 63 73	Plasmodium
+#2	AnnotatorNotes T2	C0032148
+T3	GEOG 87 97	Madagascar
+#3	AnnotatorNotes T3	C0024443
+T4	PROC 12 19	in vivo
+#4	AnnotatorNotes T4	C0681829
+T5	PROC 23 31	in vitro
+#5	AnnotatorNotes T5	C0681828

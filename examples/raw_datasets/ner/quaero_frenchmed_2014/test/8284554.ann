@@ -1,0 +1,12 @@
+T1	DISO 3 14	ototoxicité
+#1	AnnotatorNotes T1	C0235280
+T2	CHEM 18 28	aminosides
+#2	AnnotatorNotes T2	C0002556
+T4	CHEM 88 99	gentamicine
+#4	AnnotatorNotes T4	C0017436
+T5	ANAT 108 129	cellules sensorielles
+#5	AnnotatorNotes T5	C0034837
+T6	ANAT 108 116	cellules
+#6	AnnotatorNotes T6	C0007634
+T7	ANAT 133 147	limaçon osseux
+#7	AnnotatorNotes T7	C0009195

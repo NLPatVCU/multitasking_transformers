@@ -1,0 +1,14 @@
+T1	CHEM 3 25	citrate de sulfentanil
+#1	AnnotatorNotes T1	C0162792
+T2	CHEM 3 10	citrate
+#2	AnnotatorNotes T2	C0376259
+T3	CHEM 14 25	sulfentanil
+#3	AnnotatorNotes T3	C0143993
+T4	PROC 26 36	administré
+#4	AnnotatorNotes T4	C1533734
+T5	CHEM 74 85	analgésique
+#5	AnnotatorNotes T5	C0002771
+T6	LIVB 94 99	homme
+#6	AnnotatorNotes T6	C0025266
+T7	PHYS 100 109	conscient
+#7	AnnotatorNotes T7	C0234421

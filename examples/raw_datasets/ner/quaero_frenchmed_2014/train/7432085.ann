@@ -1,0 +1,8 @@
+T1	CHEM 20 43	anesthésiques halogénés
+#1	AnnotatorNotes T1	C0181103
+T2	CHEM 47 57	adrénaline
+#2	AnnotatorNotes T2	C0014563
+T3	PROC 60 75	Expérimentation
+#3	AnnotatorNotes T3	C0681814
+T4	LIVB 83 88	chien
+#4	AnnotatorNotes T4	C0012984

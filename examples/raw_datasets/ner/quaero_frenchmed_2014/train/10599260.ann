@@ -1,0 +1,8 @@
+T1	CHEM 3 16	lévofloxacine
+#1	AnnotatorNotes T1	C0282386
+T2	PROC 25 35	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 40 50	pneumonies
+#3	AnnotatorNotes T3	C0032285
+T4	LIVB 68 79	pneumocoque
+#4	AnnotatorNotes T4	C0038410

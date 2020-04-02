@@ -1,0 +1,8 @@
+T1	DISO 0 12	Pancytopénie
+#1	AnnotatorNotes T1	C0030312
+T2	PROC 39 45	traité
+#2	AnnotatorNotes T2	C0087111
+T3	CHEM 53 64	triamtérène
+#3	AnnotatorNotes T3	C0040869
+T4	DISO 27 38	cirrhotique
+#4	AnnotatorNotes T4	C0023890

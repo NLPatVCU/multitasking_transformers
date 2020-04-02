@@ -1,0 +1,12 @@
+T1	PROC 3 28	rééducation fonctionnelle
+#1	AnnotatorNotes T1	C0034991
+T2	DISO 33 57	fractures du col fémoral
+#2	AnnotatorNotes T2	C0015806
+T3	DISO 33 42	fractures
+#3	AnnotatorNotes T3	C0016658
+T4	ANAT 46 57	col fémoral
+#4	AnnotatorNotes T4	C0015815
+T5	ANAT 50 57	fémoral
+#5	AnnotatorNotes T5	C0015811
+T6	LIVB 66 75	vieillard
+#6	AnnotatorNotes T6	C0001792

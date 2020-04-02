@@ -1,0 +1,8 @@
+T1	DISO 3 45	examen de la motilité des globes oculaires
+#1	AnnotatorNotes T1	C0549100
+T2	PROC 3 9	examen
+#2	AnnotatorNotes T2	C0582103
+T3	PHYS 16 24	motilité
+#3	AnnotatorNotes T3	C0007608
+T4	ANAT 29 45	globes oculaires
+#4	AnnotatorNotes T4	C1856440

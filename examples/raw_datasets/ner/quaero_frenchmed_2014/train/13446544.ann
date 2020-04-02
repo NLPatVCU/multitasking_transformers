@@ -1,0 +1,10 @@
+T1	PROC 0 7	Examens
+#1	AnnotatorNotes T1	C0582103
+T2	PHYS 8 21	circulatoires
+#2	AnnotatorNotes T2	C0005775
+T3	ANAT 38 42	sang
+#3	AnnotatorNotes T3	C0005767
+T4	CHEM 48 53	éther
+#4	AnnotatorNotes T4	C0014994
+T5	CHEM 57 81	déhydrocholate de sodium
+#5	AnnotatorNotes T5	C0037499

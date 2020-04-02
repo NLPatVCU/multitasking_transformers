@@ -1,0 +1,10 @@
+T1	DISO 0 38	Tuberculose médiastinale ganglionnaire
+#1	AnnotatorNotes T1	C1611740
+T2	DISO 0 24	Tuberculose médiastinale
+#2	AnnotatorNotes T2	C0275899
+T3	DISO 0 11	Tuberculose
+#3	AnnotatorNotes T3	C0041296
+T4	ANAT 12 24	médiastinale
+#4	AnnotatorNotes T4	C0025066
+T5	ANAT 25 38	ganglionnaire
+#5	AnnotatorNotes T5	C0017067

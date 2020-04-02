@@ -1,0 +1,18 @@
+T1	CHEM 0 12	Oxaliplatine
+#1	AnnotatorNotes T1	C0069717
+T2	CHEM 15 30	acide folinique
+#2	AnnotatorNotes T2	C0023413
+T3	CHEM 15 20	acide
+#3	AnnotatorNotes T3	C0001128
+T4	CHEM 34 52	5 - fluorcouracile
+#4	AnnotatorNotes T4	C0016360
+T5	PROC 81 94	thérapeutique
+#5	AnnotatorNotes T5	C0087111
+T6	DISO 98 115	cancer colorectal
+#6	AnnotatorNotes T6	C0009402
+T7	DISO 98 104	cancer
+#7	AnnotatorNotes T7	C0027651
+T8	DISO 116 125	métastasé
+#8	AnnotatorNotes T8	C0027627
+T9	PROC 55 61	folfox
+#9	AnnotatorNotes T9	C0392943

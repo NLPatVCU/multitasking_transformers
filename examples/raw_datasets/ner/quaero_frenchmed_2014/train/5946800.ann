@@ -1,0 +1,14 @@
+T1	DISO 4 37	anévrismes de l' artère splénique
+#1	AnnotatorNotes T1	C0155747
+T2	DISO 4 14	anévrismes
+#2	AnnotatorNotes T2	C0002940
+T3	ANAT 21 37	artère splénique
+#3	AnnotatorNotes T3	C0037996
+T4	ANAT 21 27	artère
+#4	AnnotatorNotes T4	C0003842
+T5	ANAT 28 37	splénique
+#5	AnnotatorNotes T5	C0037993
+T6	PROC 70 77	traités
+#6	AnnotatorNotes T6	C0087111
+T7	DISO 84 91	rupture
+#7	AnnotatorNotes T7	C3203359

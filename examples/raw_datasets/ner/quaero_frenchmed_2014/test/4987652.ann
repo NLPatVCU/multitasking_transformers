@@ -1,0 +1,8 @@
+T1	CHEM 36 50	phospholipides
+#1	AnnotatorNotes T1	C0031676
+T2	ANAT 55 63	cellules
+#2	AnnotatorNotes T2	C0007634
+T3	LIVB 67 75	E . coli
+#3	AnnotatorNotes T3	C0014834
+T4	CHEM 101 114	phenyléthanol
+#4	AnnotatorNotes T4	C0031398

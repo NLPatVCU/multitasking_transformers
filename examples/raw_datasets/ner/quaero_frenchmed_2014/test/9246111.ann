@@ -1,0 +1,6 @@
+T1	PROC 0 21	Drainage péricardique
+#1	AnnotatorNotes T1	C0191237
+T2	ANAT 9 21	péricardique
+#2	AnnotatorNotes T2	C0031050
+T4	LIVB 54 62	patients
+#4	AnnotatorNotes T4	C0030705

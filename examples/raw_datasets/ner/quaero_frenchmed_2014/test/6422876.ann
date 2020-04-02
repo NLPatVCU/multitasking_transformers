@@ -1,0 +1,12 @@
+T1	ANAT 14 21	sérique
+#1	AnnotatorNotes T1	C0229671
+T2	CHEM 45 53	digoxine
+#2	AnnotatorNotes T2	C0012265
+T3	DISO 62 84	insuffisance cardiaque
+#3	AnnotatorNotes T3	C0018801
+T4	ANAT 75 84	cardiaque
+#4	AnnotatorNotes T4	C0018787
+T5	PROC 104 128	traitement au long cours
+#5	AnnotatorNotes T5	C0023977
+T6	PROC 104 114	traitement
+#6	AnnotatorNotes T6	C0087111

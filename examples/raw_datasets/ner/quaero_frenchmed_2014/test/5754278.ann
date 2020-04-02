@@ -1,0 +1,10 @@
+T1	DISO 13 26	leishmanioses
+#1	AnnotatorNotes T1	C0023281
+T2	GEOG 45 51	France
+#2	AnnotatorNotes T2	C0016674
+T3	DISO 87 98	Infestation
+#3	AnnotatorNotes T3	C0851341
+T4	LIVB 112 118	Renard
+#4	AnnotatorNotes T4	C0016633
+T5	LIVB 121 134	Vulpes vulpes
+#5	AnnotatorNotes T5	C0325013

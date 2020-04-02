@@ -1,0 +1,8 @@
+T1	PROC 16 27	observation
+#1	AnnotatorNotes T1	C0302523
+T2	DISO 31 59	kyste hydatique de l' orbite
+#2	AnnotatorNotes T2	C0155285
+T3	DISO 31 46	kyste hydatique
+#3	AnnotatorNotes T3	C0013502
+T4	ANAT 52 59	 orbite
+#4	AnnotatorNotes T4	C0029180

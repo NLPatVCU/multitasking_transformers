@@ -1,0 +1,14 @@
+T1	DISO 0 8	Embryome
+#1	AnnotatorNotes T1	C0936282
+T2	ANAT 18 27	médiastin
+#2	AnnotatorNotes T2	C0025066
+T3	PROC 34 45	observation
+#3	AnnotatorNotes T3	C0302523
+T4	DISO 51 60	métastase
+#4	AnnotatorNotes T4	C0027627
+T5	ANAT 61 71	pulmonaire
+#5	AnnotatorNotes T5	C0024109
+T6	DISO 74 83	Rémission
+#6	AnnotatorNotes T6	C0544452
+T7	PROC 99 113	chimiothérapie
+#7	AnnotatorNotes T7	C0013216

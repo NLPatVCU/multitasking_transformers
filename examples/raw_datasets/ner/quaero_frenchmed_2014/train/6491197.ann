@@ -1,0 +1,10 @@
+T1	DISO 0 21	Cedème aigu du poumon
+#1	AnnotatorNotes T1	C0155919
+T2	DISO 0 11	Cedème aigu
+#2	AnnotatorNotes T2	C0333240
+T3	DISO 0 6	Cedème
+#3	AnnotatorNotes T3	C0013604
+T4	ANAT 15 21	poumon
+#4	AnnotatorNotes T4	C0024109
+T5	DISO 37 46	éclampsie
+#5	AnnotatorNotes T5	C0013537

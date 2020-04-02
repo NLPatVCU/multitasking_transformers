@@ -1,0 +1,10 @@
+T1	DISO 3 11	syndrome
+#1	AnnotatorNotes T1	C0039082
+T2	DISO 15 27	perte de sel
+#2	AnnotatorNotes T2	C0241831
+T3	CHEM 24 27	sel
+#3	AnnotatorNotes T3	C0036082
+T5	PROC 64 83	étude expérimentale
+#5	AnnotatorNotes T5	C0681814
+T6	LIVB 92 95	rat
+#6	AnnotatorNotes T6	C0034693

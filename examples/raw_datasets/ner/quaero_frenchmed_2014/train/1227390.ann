@@ -1,0 +1,16 @@
+T1	ANAT 36 49	desmosomiales
+#1	AnnotatorNotes T1	C0011703
+T2	ANAT 54 62	cellules
+#2	AnnotatorNotes T2	C0007634
+T3	ANAT 69 82	couche cornée
+#3	AnnotatorNotes T3	C0221921
+T4	ANAT 89 97	épiderme
+#4	AnnotatorNotes T4	C0014520
+T5	LIVB 98 104	hymain
+#5	AnnotatorNotes T5	C0086418
+T6	PROC 110 145	microscopie électronique à balayage
+#6	AnnotatorNotes T6	C0026020
+T7	PROC 110 134	microscopie électronique
+#7	AnnotatorNotes T7	C0026019
+T8	PROC 110 121	microscopie
+#8	AnnotatorNotes T8	C0026018

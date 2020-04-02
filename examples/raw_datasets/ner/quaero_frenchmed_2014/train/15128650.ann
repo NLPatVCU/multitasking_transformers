@@ -1,0 +1,6 @@
+T1	PROC 0 8	Ponction
+#1	AnnotatorNotes T1	C0033119
+T2	DEVI 28 47	sonde d' intubation
+#2	AnnotatorNotes T2	C0336630
+T3	PROC 60 72	trachéotomie
+#3	AnnotatorNotes T3	C0040591

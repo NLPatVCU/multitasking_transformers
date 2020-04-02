@@ -1,0 +1,8 @@
+T1	PHYS 15 37	absorption intestinale
+#1	AnnotatorNotes T1	C0021826
+T2	ANAT 26 37	intestinale
+#2	AnnotatorNotes T2	C0021853
+T3	DISO 53 85	insuffisance surrénale chronique
+#3	AnnotatorNotes T3	C0001403
+T4	DISO 0 37	Troubles de l' absorption intestinale
+#4	AnnotatorNotes T4	C0392687

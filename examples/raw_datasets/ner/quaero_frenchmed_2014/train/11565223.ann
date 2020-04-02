@@ -1,0 +1,4 @@
+T1	PROC 3 40	chirurgie laparoscopique colo-rectale
+#1	AnnotatorNotes T1	C2111502
+T2	PROC 59 72	interventions
+#2	AnnotatorNotes T2	C1948041

@@ -1,0 +1,6 @@
+T1	PROC 37 45	biopsies
+#1	AnnotatorNotes T1	C0005558
+T2	DISO 52 62	diagnostic
+#2	AnnotatorNotes T2	C0011900
+T3	DISO 66 105	néoplasie intra-épithéliale prostatique
+#3	AnnotatorNotes T3	C0282612

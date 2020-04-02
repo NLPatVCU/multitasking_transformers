@@ -1,0 +1,14 @@
+T1	PROC 0 24	Ventilation artificielle
+#1	AnnotatorNotes T1	C0035205
+T2	PHYS 0 11	Ventilation
+#2	AnnotatorNotes T2	C0035203
+T3	DISO 53 60	maladie
+#3	AnnotatorNotes T3	C0012634
+T4	PROC 67 77	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	LIVB 99 110	psychologue
+#5	AnnotatorNotes T5	C0033908
+T6	PHYS 38 47;64 77	Réactions au traitement
+#6	AnnotatorNotes T6	C3875065
+T7	PHYS 38 60	Réactions à la maladie
+#7	AnnotatorNotes T7	C1113697

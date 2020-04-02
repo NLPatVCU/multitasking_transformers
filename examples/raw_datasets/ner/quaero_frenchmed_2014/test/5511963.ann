@@ -1,0 +1,10 @@
+T1	PROC 0 31	Essais thérapeutiques cliniques
+#1	AnnotatorNotes T1	C1515364
+T3	CHEM 40 47	Fasigyn
+#3	AnnotatorNotes T3	C0591480
+T4	DISO 56 78	trichomoniase vaginale
+#4	AnnotatorNotes T4	C0040923
+T5	DISO 56 69	trichomoniase
+#5	AnnotatorNotes T5	C0040921
+T6	ANAT 70 78	vaginale
+#6	AnnotatorNotes T6	C0042232

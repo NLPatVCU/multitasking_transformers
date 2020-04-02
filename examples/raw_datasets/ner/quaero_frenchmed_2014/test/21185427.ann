@@ -1,0 +1,6 @@
+T1	PROC 0 9	Dépistage
+#1	AnnotatorNotes T1	C0220908
+T2	PROC 13 28	prise en charge
+#2	AnnotatorNotes T2	C0376636
+T3	DISO 32 49	trouble bipolaire
+#3	AnnotatorNotes T3	C0005586

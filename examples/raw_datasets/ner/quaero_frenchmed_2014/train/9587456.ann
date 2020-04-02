@@ -1,0 +1,8 @@
+T1	DISO 0 9	Anévrysme
+#1	AnnotatorNotes T1	C0002940
+T2	ANAT 16 32	aorte thoracique
+#2	AnnotatorNotes T2	C1281571
+T3	DISO 41 58	maladie de Marfan
+#3	AnnotatorNotes T3	C0024796
+T4	DISO 41 48	maladie
+#4	AnnotatorNotes T4	C0012634

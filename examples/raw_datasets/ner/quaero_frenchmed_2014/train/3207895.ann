@@ -1,0 +1,10 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 38	maladies hématologiques
+#2	AnnotatorNotes T2	C0018939
+T3	DISO 15 23	maladies
+#3	AnnotatorNotes T3	C0012634
+T4	CHEM 46 62	interféron alpha
+#4	AnnotatorNotes T4	C0002199
+T5	CHEM 46 56	interféron
+#5	AnnotatorNotes T5	C0021747

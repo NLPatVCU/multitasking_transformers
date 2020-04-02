@@ -1,0 +1,10 @@
+T1	DISO 0 8	Syndrome
+#1	AnnotatorNotes T1	C0039082
+T2	ANAT 26 36	thalamique
+#2	AnnotatorNotes T2	C0039729
+T3	PROC 42 53	topographie
+#3	AnnotatorNotes T3	C0205627
+T4	DISO 71 77	lésion
+#4	AnnotatorNotes T4	C0175677
+T5	ANAT 91 99	thalamus
+#5	AnnotatorNotes T5	C0039729

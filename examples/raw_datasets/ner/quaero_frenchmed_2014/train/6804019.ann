@@ -1,0 +1,10 @@
+T1	ANAT 15 44	transport hémato-encéphalique
+#1	AnnotatorNotes T1	C0005854
+T2	CHEM 55 68	acides aminés
+#2	AnnotatorNotes T2	C0002520
+T3	CHEM 55 61	acides
+#3	AnnotatorNotes T3	C0001128
+T4	LIVB 77 80	rat
+#4	AnnotatorNotes T4	C0034721
+T5	PHYS 109 118	naissance
+#5	AnnotatorNotes T5	C0005615

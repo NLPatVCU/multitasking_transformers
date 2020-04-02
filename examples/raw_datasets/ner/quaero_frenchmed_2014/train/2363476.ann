@@ -1,0 +1,10 @@
+T1	PROC 14 32	anesthésie caudale
+#1	AnnotatorNotes T1	C0002909
+T2	PROC 14 24	anesthésie
+#2	AnnotatorNotes T2	C0002903
+T3	PROC 41 58	cure chirurgicale
+#3	AnnotatorNotes T3	C0374711
+T4	PROC 46 58	chirurgicale
+#4	AnnotatorNotes T4	C0543467
+T5	DISO 62 68	reflux
+#5	AnnotatorNotes T5	C0232483

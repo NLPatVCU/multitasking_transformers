@@ -1,0 +1,4 @@
+T1	PROC 0 10	Anesthésie
+#1	AnnotatorNotes T1	C0002903
+T2	LIVB 33 39	enfant
+#2	AnnotatorNotes T2	C0008059

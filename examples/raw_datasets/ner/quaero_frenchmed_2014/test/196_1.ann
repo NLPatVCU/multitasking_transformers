@@ -1,0 +1,278 @@
+T1	CHEM 36 42	IONSYS
+#1	AnnotatorNotes T1	C1726021
+T2	CHEM 45 51	IONSYS
+#2	AnnotatorNotes T2	C1726021
+T3	DEVI 59 99	dispositif transdermique iontophorétique
+#3	AnnotatorNotes T3	C0302713
+T4	DEVI 102 105	DTI
+#4	AnnotatorNotes T4	C0302713
+T5	PROC 113 120	délivre
+#5	AnnotatorNotes T5	C1533734
+T6	CHEM 124 138	principe actif
+#6	AnnotatorNotes T6	C1372955
+T7	CHEM 144 167	chlorhydrate de fentayl
+#7	AnnotatorNotes T7	C1714006
+T8	CHEM 144 156	chlorhydrate
+#8	AnnotatorNotes T8	C1512523
+T9	CHEM 160 167	fentayl
+#9	AnnotatorNotes T9	C0015846
+T10	CHEM 193 199	IONSYS
+#10	AnnotatorNotes T10	C1726021
+T11	CHEM 219 225	IONSYS
+#11	AnnotatorNotes T11	C1726021
+T12	PROC 246 268	contrôle de la douleur
+#12	AnnotatorNotes T12	C0002766
+T13	DISO 261 288	douleur après une opération
+#13	AnnotatorNotes T13	C0030201
+T14	DISO 261 268	douleur
+#14	AnnotatorNotes T14	C0030193
+T15	PROC 279 288	opération
+#15	AnnotatorNotes T15	C0543467
+T16	LIVB 298 319	patients hospitalisés
+#16	AnnotatorNotes T16	C0870668
+T17	LIVB 298 306	patients
+#17	AnnotatorNotes T17	C0030705
+T18	CHEM 332 338	IONSYS
+#18	AnnotatorNotes T18	C1726021
+T19	LIVB 361 368	médecin
+#19	AnnotatorNotes T19	C0031831
+T20	LIVB 387 397	infirmière
+#20	AnnotatorNotes T20	C0028661
+T21	LIVB 375 384	infirmier
+#21	AnnotatorNotes T21	C0028676
+T22	PROC 400 408	applique
+#22	AnnotatorNotes T22	C0185125
+T23	DEVI 412 436	dispositif transdermique
+#23	AnnotatorNotes T23	C0302713
+T24	ANAT 444 448	peau
+#24	AnnotatorNotes T24	C1123023
+T25	LIVB 452 459	patient
+#25	AnnotatorNotes T25	C0030705
+T26	ANAT 469 475	thorax
+#26	AnnotatorNotes T26	C0817096
+T27	ANAT 486 490	bras
+#27	AnnotatorNotes T27	C1269078
+T28	DISO 518 525	douleur
+#28	AnnotatorNotes T28	C0030193
+T29	LIVB 531 538	patient
+#29	AnnotatorNotes T29	C0030705
+T30	OBJC 553 559	bouton
+#30	AnnotatorNotes T30	C0453985
+T31	DEVI 573 583	dispositif
+#31	AnnotatorNotes T31	C0302713
+T32	CHEM 584 590	IONSYS
+#32	AnnotatorNotes T32	C1726021
+T33	PROC 611 625	administration
+#33	AnnotatorNotes T33	C1533734
+T34	CHEM 642 650	fentanyl
+#34	AnnotatorNotes T34	C0015846
+T35	CHEM 674 680	IONSYS
+#35	AnnotatorNotes T35	C1726021
+T36	PROC 691 701	administré
+#36	AnnotatorNotes T36	C1533734
+T37	DEVI 814 821	système
+#37	AnnotatorNotes T37	C0302713
+T38	PROC 870 884	administration
+#38	AnnotatorNotes T38	C1533734
+T39	CHEM 963 969	IONSYS
+#39	AnnotatorNotes T39	C1726021
+T40	CHEM 1004 1013	substance
+#40	AnnotatorNotes T40	C0439861
+T41	PROC 1042 1064	contrôle de la douleur
+#41	AnnotatorNotes T41	C0002766
+T42	DISO 1057 1064	douleur
+#42	AnnotatorNotes T42	C0030193
+T43	CHEM 1100 1114	principe actif
+#43	AnnotatorNotes T43	C1372955
+T44	CHEM 1117 1125	fentanyl
+#44	AnnotatorNotes T44	C0015846
+T45	OBJC 1148 1157	réservoir
+#45	AnnotatorNotes T45	C0337123
+T46	LIVB 1173 1180	patient
+#46	AnnotatorNotes T46	C0030705
+T47	CHEM 1188 1194	IONSYS
+#47	AnnotatorNotes T47	C1726021
+T48	PHEN 1207 1225	courant électrique
+#48	AnnotatorNotes T48	C0013790
+T49	PHEN 1215 1225	électrique
+#49	AnnotatorNotes T49	C0013790
+T50	CHEM 1250 1258	fentanyl
+#50	AnnotatorNotes T50	C0015846
+T51	OBJC 1262 1271	réservoir
+#51	AnnotatorNotes T51	C0337123
+T52	ANAT 1285 1289	peau
+#52	AnnotatorNotes T52	C1123023
+T53	PHYS 1301 1321	circulation sanguine
+#53	AnnotatorNotes T53	C0005775
+T54	ANAT 1313 1321	sanguine
+#54	AnnotatorNotes T54	C0005767
+T55	PHYS 1351 1371	circulation sanguine
+#55	AnnotatorNotes T55	C0005775
+T56	ANAT 1363 1371	sanguine
+#56	AnnotatorNotes T56	C0005767
+T57	CHEM 1377 1385	fentanyl
+#57	AnnotatorNotes T57	C0015846
+T58	CHEM 1399 1409	récepteurs
+#58	AnnotatorNotes T58	C0597357
+T59	ANAT 1413 1420	cerveau
+#59	AnnotatorNotes T59	C0006104
+T60	ANAT 1430 1445	moelle épinière
+#60	AnnotatorNotes T60	C0037925
+T61	DISO 1466 1473	douleur
+#61	AnnotatorNotes T61	C0030193
+T62	DISO 1482 1488	effets
+#62	AnnotatorNotes T62	C0559546
+T63	CHEM 1493 1499	IONSYS
+#63	AnnotatorNotes T63	C1726021
+T64	PROC 1523 1531	observés
+#64	AnnotatorNotes T64	C0302523
+T65	LIVB 1594 1599	homme
+#65	AnnotatorNotes T65	C0086418
+T66	DEVI 1898 1908	dispositif
+#66	AnnotatorNotes T66	C0302713
+T67	CHEM 1909 1915	IONSYS
+#67	AnnotatorNotes T67	C1726021
+T68	PROC 1931 1943	administrait
+#68	AnnotatorNotes T68	C1533734
+T69	CHEM 1950 1960	médicament
+#69	AnnotatorNotes T69	C0013227
+T70	PROC 1975 1981	études
+#70	AnnotatorNotes T70	C2603343
+T71	CHEM 1992 1998	IONSYS
+#71	AnnotatorNotes T71	C1726021
+T72	CHEM 2004 2011	placebo
+#72	AnnotatorNotes T72	C1696465
+T73	LIVB 2031 2039	patients
+#73	AnnotatorNotes T73	C0030705
+T74	PROC 2059 2069	traitement
+#74	AnnotatorNotes T74	C0087111
+T75	PROC 2099 2121	contrôle de la douleur
+#75	AnnotatorNotes T75	C0002766
+T76	DISO 2114 2121	douleur
+#76	AnnotatorNotes T76	C0030193
+T77	LIVB 2170 2178	patients
+#77	AnnotatorNotes T77	C0030705
+T78	PROC 2179 2186	traités
+#78	AnnotatorNotes T78	C0087111
+T79	CHEM 2191 2197	IONSYS
+#79	AnnotatorNotes T79	C1726021
+T80	CHEM 2234 2241	placebo
+#80	AnnotatorNotes T80	C1696465
+T81	DISO 2258 2264	risque
+#81	AnnotatorNotes T81	C0184544
+T82	DISO 2283 2302	effets indésirables
+#82	AnnotatorNotes T82	C0559546
+T83	CHEM 2337 2343	IONSYS
+#83	AnnotatorNotes T83	C1726021
+T84	LIVB 2363 2370	patient
+#84	AnnotatorNotes T84	C0030705
+T85	DISO 2389 2396	nausées
+#85	AnnotatorNotes T85	C0027497
+T86	DISO 2403 2415	vomissements
+#86	AnnotatorNotes T86	C0042963
+T87	DISO 2421 2429	céphalée
+#87	AnnotatorNotes T87	C0393735
+T88	DISO 2470 2489	effets indésirables
+#88	AnnotatorNotes T88	C0559546
+T89	CHEM 2520 2526	IONSYS
+#89	AnnotatorNotes T89	C1726021
+T90	PHEN 2599 2607	sécurité
+#90	AnnotatorNotes T90	C0036043
+T91	CHEM 2644 2650	IONSYS
+#91	AnnotatorNotes T91	C1726021
+T92	GEOG 2669 2679	européenne
+#92	AnnotatorNotes T92	C0015176
+T93	GEOG 2751 2767	Union européenne
+#93	AnnotatorNotes T93	C0015179
+T94	CHEM 2773 2779	IONSYS
+#94	AnnotatorNotes T94	C1726021
+T95	CHEM 2863 2869	IONSYS
+#95	AnnotatorNotes T95	C1726021
+T96	CHEM 2893 2899	IONSYS
+#96	AnnotatorNotes T96	C1726021
+T97	DEVI 2927 2967	dispositif transdermique iontophorétique
+#97	AnnotatorNotes T97	C0302713
+T98	DEVI 2979 2989	dispositif
+#98	AnnotatorNotes T98	C0302713
+T99	CHEM 2990 2996	IONSYS
+#99	AnnotatorNotes T99	C1726021
+T100	CHEM 3019 3043	chlorhydrate de fentanyl
+#100	AnnotatorNotes T100	C1714006
+T101	CHEM 3019 3031	chlorhydrate
+#101	AnnotatorNotes T101	C1512523
+T102	CHEM 3035 3043	fentanyl
+#102	AnnotatorNotes T102	C0015846
+T103	CHEM 3069 3077	fentanyl
+#103	AnnotatorNotes T103	C0015846
+T104	PROC 3081 3088	délivre
+#104	AnnotatorNotes T104	C1533734
+T105	CHEM 3108 3116	fentanyl
+#105	AnnotatorNotes T105	C0015846
+T106	DEVI 3177 3217	Dispositif transdermique iontophorétique
+#106	AnnotatorNotes T106	C0302713
+T107	DEVI 3220 3223	DTI
+#107	AnnotatorNotes T107	C0302713
+T108	OBJC 3253 3260	produit
+#108	AnnotatorNotes T108	C1514468
+T109	CHEM 3300 3306	IONSYS
+#109	AnnotatorNotes T109	C1726021
+T110	CHEM 3311 3317	IONSYS
+#110	AnnotatorNotes T110	C1726021
+T111	DISO 3322 3329	indiqué
+#111	AnnotatorNotes T111	C1444656
+T112	PROC 3338 3348	traitement
+#112	AnnotatorNotes T112	C0087111
+T113	DISO 3353 3378	douleurs post-opératoires
+#113	AnnotatorNotes T113	C0030201
+T114	DISO 3353 3361	douleurs
+#114	AnnotatorNotes T114	C0030193
+T115	OBJC 3428 3439	hospitalier
+#115	AnnotatorNotes T115	C0019994
+T116	CHEM 3444 3450	IONSYS
+#116	AnnotatorNotes T116	C1726021
+T117	OBJC 3475 3486	hospitalier
+#117	AnnotatorNotes T117	C0019994
+T118	CHEM 3567 3575	fentanyl
+#118	AnnotatorNotes T118	C0015846
+T119	LIVB 3582 3590	médecins
+#119	AnnotatorNotes T119	C0031831
+T120	DISO 3629 3640	toxicomanie
+#120	AnnotatorNotes T120	C0085281
+T121	LIVB 3650 3658	patients
+#121	AnnotatorNotes T121	C0030705
+T122	PROC 3671 3678	traités
+#122	AnnotatorNotes T122	C0087111
+T123	CHEM 3801 3807	IONSYS
+#123	AnnotatorNotes T123	C1726021
+T124	LIVB 3832 3839	patient
+#124	AnnotatorNotes T124	C0030705
+T125	DISO 3867 3892	intervention chirurgicale
+#125	AnnotatorNotes T125	C0549433
+T126	PROC 3867 3879	intervention
+#126	AnnotatorNotes T126	C1948041
+T127	LIVB 3898 3920	professionnel de santé
+#127	AnnotatorNotes T127	C1704312
+T128	LIVB 3945 3952	patient
+#128	AnnotatorNotes T128	C0030705
+T129	CHEM 4013 4019	IONSYS
+#129	AnnotatorNotes T129	C1726021
+T130	PROC 4023 4038	post-opératoire
+#130	AnnotatorNotes T130	C0032786
+T131	CHEM 4043 4049	IONSYS
+#131	AnnotatorNotes T131	C1726021
+T132	PROC 4050 4057	délivre
+#132	AnnotatorNotes T132	C1533734
+T133	LIVB 4258 4266	patients
+#133	AnnotatorNotes T133	C0030705
+T134	DISO 4315 4324	analgésie
+#134	AnnotatorNotes T134	C0344307
+T135	PROC 4354 4364	traitement
+#135	AnnotatorNotes T135	C0087111
+T136	CHEM 4370 4376	IONSYS
+#136	AnnotatorNotes T136	C1726021
+T137	DEVI 4384 4391	système
+#137	AnnotatorNotes T137	C0302713
+T138	LIVB 4423 4430	patient
+#138	AnnotatorNotes T138	C0030705
+T139	DISO 4444 4451	douleur
+#139	AnnotatorNotes T139	C0030193

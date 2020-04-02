@@ -1,0 +1,6 @@
+T1	PROC 17 24	traiter
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 29 41	onychomycose
+#2	AnnotatorNotes T2	C0040261
+T3	PROC 104 118	thérapeutiques
+#3	AnnotatorNotes T3	C0087111

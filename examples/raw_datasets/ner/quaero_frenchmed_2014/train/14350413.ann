@@ -1,0 +1,12 @@
+T1	PROC 0 14	Identification
+#1	AnnotatorNotes T1	C0201269
+T2	CHEM 18 28	alcalöides
+#2	AnnotatorNotes T2	C0301258
+T3	LIVB 43 53	colchicées
+#3	AnnotatorNotes T3	C0009263
+T4	CHEM 67 77	substances
+#4	AnnotatorNotes T4	C0439861
+T5	LIVB 88 97	colchique
+#5	AnnotatorNotes T5	C0009623
+T6	CHEM 107 114	dérivés
+#6	AnnotatorNotes T6	C0002776

@@ -1,0 +1,6 @@
+T1	PROC 4 18	thérapeutiques
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 25 34	épilepsie
+#2	AnnotatorNotes T2	C0014544
+T3	LIVB 41 47	enfant
+#3	AnnotatorNotes T3	C0008059

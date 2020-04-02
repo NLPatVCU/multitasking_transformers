@@ -1,0 +1,8 @@
+T1	PROC 3 26	tomographie d' émission
+#1	AnnotatorNotes T1	C0040398
+T2	PROC 35 56	exploration hépatique
+#2	AnnotatorNotes T2	C0023901
+T3	PROC 35 46	exploration
+#3	AnnotatorNotes T3	C2603343
+T4	ANAT 47 56	hépatique
+#4	AnnotatorNotes T4	C0023884

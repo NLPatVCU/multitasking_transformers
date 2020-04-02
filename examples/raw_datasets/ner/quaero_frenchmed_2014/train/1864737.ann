@@ -1,0 +1,6 @@
+T1	PROC 0 35	Chirurgie proctologique ambulatoire
+#1	AnnotatorNotes T1	C0002428
+T2	PROC 0 9	Chirurgie
+#2	AnnotatorNotes T2	C2081627
+T3	DEVI 10 23	proctologique
+#3	AnnotatorNotes T3	C0687582

@@ -1,0 +1,8 @@
+T1	PROC 3 14	stimulation
+#1	AnnotatorNotes T1	C1292856
+T2	ANAT 15 27	vestibulaire
+#2	AnnotatorNotes T2	C0042606
+T3	DISO 82 91	nystagmus
+#3	AnnotatorNotes T3	C0028738
+T4	PHEN 95 107	accélération
+#4	AnnotatorNotes T4	C0000894

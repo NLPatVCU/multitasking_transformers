@@ -1,0 +1,8 @@
+T1	DISO 0 23	Polyarthrite rhumatoïde
+#1	AnnotatorNotes T1	C1405320
+T2	PROC 61 72	vaccination
+#2	AnnotatorNotes T2	C0042196
+T3	DISO 83 93	hépatite B
+#3	AnnotatorNotes T3	C0019163
+T4	DISO 83 91	hépatite
+#4	AnnotatorNotes T4	C0019158

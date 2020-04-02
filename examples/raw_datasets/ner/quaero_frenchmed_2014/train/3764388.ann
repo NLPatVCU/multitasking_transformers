@@ -1,0 +1,4 @@
+T1	PROC 12 34	examens de laboratoire
+#1	AnnotatorNotes T1	C0022885
+T2	LIVB 76 84	médecins
+#2	AnnotatorNotes T2	C0031831

@@ -1,0 +1,14 @@
+T1	PROC 0 27	Phlébographie intra-osseuse
+#1	AnnotatorNotes T1	C0202986
+T2	PROC 0 13	Phlébographie
+#2	AnnotatorNotes T2	C0031545
+T3	ANAT 14 27	intra-osseuse
+#3	AnnotatorNotes T3	C1266908
+T4	PROC 28 39	post mortem
+#4	AnnotatorNotes T4	C0150308
+T5	ANAT 52 63	anatomiques
+#5	AnnotatorNotes T5	C0005898
+T6	ANAT 66 80	topographiques
+#6	AnnotatorNotes T6	C0005898
+T7	PHYS 84 98	hémodynamiques
+#7	AnnotatorNotes T7	C0019010

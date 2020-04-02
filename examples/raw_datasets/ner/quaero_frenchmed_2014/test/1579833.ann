@@ -1,0 +1,8 @@
+T1	DISO 3 24	syndrome confusionnel
+#1	AnnotatorNotes T1	C0011206
+T2	DISO 3 11	syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	DISO 12 24	confusionnel
+#3	AnnotatorNotes T3	C0009676
+T4	PROC 39 51	diagnostique
+#4	AnnotatorNotes T4	C0430022

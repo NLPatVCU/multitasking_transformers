@@ -1,0 +1,10 @@
+T1	PROC 31 49	immunofluorescence
+#1	AnnotatorNotes T1	C0079603
+T2	DISO 56 67	bilharziose
+#2	AnnotatorNotes T2	C0036323
+T3	LIVB 68 74	murine
+#3	AnnotatorNotes T3	C0026809
+T4	GEOG 78 88	Guadeloupe
+#4	AnnotatorNotes T4	C0018301
+T5	PROC 117 135	étrude comparative
+#5	AnnotatorNotes T5	C1579762

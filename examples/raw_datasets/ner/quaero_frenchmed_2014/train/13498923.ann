@@ -1,0 +1,6 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 12 24	intoxication
+#2	AnnotatorNotes T2	C0032343
+T3	CHEM 32 41	antimoine
+#3	AnnotatorNotes T3	C0003380

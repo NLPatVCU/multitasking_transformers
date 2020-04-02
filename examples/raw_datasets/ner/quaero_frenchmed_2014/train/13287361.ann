@@ -1,0 +1,8 @@
+T1	PROC 22 32	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 37 53	abcès du cerveau
+#2	AnnotatorNotes T2	C0006105
+T3	ANAT 46 53	cerveau
+#3	AnnotatorNotes T3	C0006104
+T4	PROC 71 83	observations
+#4	AnnotatorNotes T4	C0302523

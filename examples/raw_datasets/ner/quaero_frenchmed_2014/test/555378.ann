@@ -1,0 +1,6 @@
+T1	PROC 13 25	vitrectomies
+#1	AnnotatorNotes T1	C0042903
+T2	DISO 35 47;55 63	traumatismes du globe
+#2	AnnotatorNotes T2	C0015408
+T3	ANAT 58 63	globe
+#3	AnnotatorNotes T3	C0015392

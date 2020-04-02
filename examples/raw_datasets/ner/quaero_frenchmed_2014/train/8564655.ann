@@ -1,0 +1,6 @@
+T1	PROC 27 41	préoxygénation
+#1	AnnotatorNotes T1	C0412792
+T2	PHYS 96 101	apnée
+#2	AnnotatorNotes T2	C0003578
+T3	PROC 117 129	anesthésique
+#3	AnnotatorNotes T3	C0002903

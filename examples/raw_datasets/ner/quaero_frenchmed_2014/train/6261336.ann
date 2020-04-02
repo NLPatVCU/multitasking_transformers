@@ -1,0 +1,16 @@
+T1	PROC 0 14	Essai clinique
+#1	AnnotatorNotes T1	C0008976
+T2	CHEM 21 42	lévothyroxine sodique
+#2	AnnotatorNotes T2	C0079691
+T3	CHEM 21 34	lévothyroxine
+#3	AnnotatorNotes T3	C0040165
+T4	CHEM 35 42	sodique
+#4	AnnotatorNotes T4	C0037473
+T5	PROC 60 70	traitement
+#5	AnnotatorNotes T5	C0087111
+T6	DISO 77 90	hypothyroïdie
+#6	AnnotatorNotes T6	C0020676
+T7	LIVB 97 103	adulte
+#7	AnnotatorNotes T7	C0001675
+T8	CHEM 45 49	L-T4
+#8	AnnotatorNotes T8	C0079691

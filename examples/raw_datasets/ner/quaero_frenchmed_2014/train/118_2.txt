@@ -1,0 +1,54 @@
+
+
+ Epivir 150 mg , comprimés pelliculés
+ Chaque comprimé pelliculé contient 150 mg de lamivudine . 
+ Comprimés de couleur blanche , en forme de losange , sécables et gravés “ GX CJ7 ” sur chaque face . 
+ Epivir est indiqué dans le cadre d ’ associations antirétrovirales , pour le traitement de l ’ infection par le Virus de l 
+ La prescription initiale doit être faite par un médecin expérimenté dans la prise en charge de l ’ infection par le VIH . 
+ Cette dose peut être administrée soit en deux prises journalières de 150 mg chacune , soit en une prise journalière unique de 300 mg ( voir rubrique 4 . 4 ). 
+ Le comprimé à 300 mg ne peut être utilisé que dans le cadre d ’ une prise journalière unique . 
+ Les patients préférant une prise unique le soir devront , le jour du changement de posologie uniquement , prendre un comprimé à 150 mg le matin , puis un comprimé à 300 mg le même soir . 
+ Enfants ( de moins de 12 ans ) : 
+ 2 Pour les enfants pesant au moins 30 kg : la posologie utilisée chez les adultes , de 150 mg deux fois par jour , devra être administrée . 
+ Pour les enfants pesant entre 14 kg et 21 kg : la posologie recommandée avec les comprimés sécables d 
+ Epivir est également disponible sous forme de solution buvable pour les enfants âgés de plus de trois mois et qui pèsent moins de 14 kg ou pour les patients dans l 
+ Enfants de moins de trois mois : les données disponibles sont limitées et insuffisantes pour proposer une recommandation posologique spécifique ( voir rubrique 5 . 2 ). 
+ Recommandations posologiques - Adultes et adolescents pesant au moins 30 kg : 
+ Aucune donnée n ’ est disponible concernant l ’ utilisation de la lamivudine chez l ’ enfant insuffisant rénal . 
+ En se basant sur l ’ hypothèse d ’ une corrélation similaire chez l ’ enfant et l ’ adulte entre la clairance de la créatinine et celle de la lamivudine , il est recommandé de diminuer la posologie chez l ’ enfant insuffisant rénal en fonction de la clairance de la créatinine , ceci dans les mêmes proportions que celles recommandées chez l ’ adulte . 
+ Dose initiale 4 mg / kg 4 mg / kg 4 mg / kg 4 mg / kg 1 , 3 mg / kg 
+ Dose d ’ entretien 4 mg / kg , deux fois par jour 4 mg / kg , une fois par jour 2 , 6 mg / kg , une fois par jour 1 , 3 mg / kg , une fois par jour 0 , 7 mg / kg , une fois par jour 
+ L ’ utilisation d ’ Epivir en monothérapie n ’ est pas recommandée . 
+ Les patients doivent être informés qu ’ à ce jour il n ’ a pas été démontré de prévention du risque de transmission sexuelle ou sanguine du virus sous traitement antirétroviral , y compris par Epivir . 
+ Les précautions appropriées doivent donc être maintenues . 
+ De rares cas de pancréatite ont été observés . 
+ Le traitement par Epivir doit être interrompu immédiatement en cas de signes cliniques ou biologiques évocateurs de pancréatite . 
+ Acidose lactique : une acidose lactique , associée habituellement à une hépatomégalie et à une stéatose hépatique , a été rapportée après administration d ’ analogues nucléosidiques . 
+ Les études d ’ interactions n ’ ont été réalisées que chez l ’ adulte . 
+ La lamivudine peut inhiber la phosphorylation intracellulaire de la zalcitabine lorsque ces deux médicaments sont administrés de manière concomitante . 
+ Par conséquent , Epivir n ’ est pas recommandé en association avec la zalcitabine . 
+ La co-administration de la lamivudine avec le ganciclovir ou le foscarnet intraveineux n ’ est pas recommandée . 
+ La probabilité d ’ interactions métaboliques est faible en raison du métabolisme réduit , de la faible liaison aux protéines plasmatiques et de l ’ élimination essentiellement rénale de la lamivudine . 
+ L ’ administration de triméthoprime ( 160 mg ) et de sulfaméthoxazole ( 800 mg ) entraîne une augmentation de 40 % de l ’ exposition à la lamivudine en raison du triméthoprime ; il n ’ y a pas d ’ interaction avec le sulfaméthoxazole . 
+ Il n ’ est cependant pas nécessaire d ’ adapter la posologie de la lamivudine , sauf en cas d ’ insuffisance rénale ( voir rubrique 4 . 2 ). 
+ Lorsque l ’ administration concomitante est indiquée , une surveillance clinique est nécessaire . 
+ La co - administration de lamivudine et de fortes doses de cotrimoxazole pour le traitement des pneumonies à Pneumocystis carinii et de la toxoplasmose devrait être évitée . 
+ Les analogues nucléosidiques ( ex .: didanosine , zalcitabine , zidovudine ), ne sont pas éliminés par ce mécanisme et la probabilité d ’ interaction avec la lamivudine est faible . 
+ La zidovudine n ’ a pas d ’ effet sur la pharmacocinétique de la lamivudine ( voir rubrique 5 . 2 ). 
+ Une létalité embryonnaire précoce a été observée chez la lapine gravide après administration de lamivudine à des doses comparables à celles atteintes chez l 
+ Chez l ’ Homme , de par la diffusion passive de la lamivudine à travers le placenta , les concentrations sériques de la lamivudine chez l ’ enfant à la naissance sont similaires à celles observées chez la mère et au niveau du cordon au moment de l ’ accouchement . 
+ Après administration orale , la lamivudine est excrétée dans le lait maternel à des concentrations comparables à celles mesurées au niveau sérique . 
+ Chez les femmes infectées par le VIH , il est recommandé de ne pas allaiter pour prévenir la transmission post-natale du virus , ceci quelles que soient les circonstances . 
+ Les effets indésirables suivants ont été rapportés lors du traitement de l 
+ Des cas d ’ ostéonécrose ont été rapportés , en particulier chez des patients présentant des facteurs de risque connus , un stade avancé de la maladie liée au VIH ou un traitement par association d ’ antirétroviraux au long cours . 
+ Leur fréquence de survenue n ’ est pas connue ( voir rubrique 4 . 4 ). 
+ En cas de surdosage , une surveillance médicale avec un éventuel traitement symptomatique est néanmoins nécessaire . 
+ In vitro , la lamivudine 5 ’ - triphosphate présente une activité inhibitrice sélective sur la réplication des virus VIH - 1 et VIH - 2 . 
+ Les mutants M184V montrent une importante réduction de la sensibilité à la lamivudine et une diminution de leur capacité de réplication virale in vitro . 
+ Des études in vitro ont montré que des souches résistantes à la zidovudine peuvent redevenir sensibles à celle-ci lorsqu 
+ 8 poursuite du traitement par lamivudine malgré l ’ émergence de la mutation M184V ne devra être envisagée que dans les cas où aucun autre INTI actif n 
+ La relation entre la sensibilité in vitro du VIH à la lamivudine et la réponse clinique au traitement est encore à l ’ étude . 
+ En cas de prise journalière unique ( 300 mg une fois par jour ): une étude clinique a démontré la non infériorité du traitement par Epivir en une prise par jour par rapport à Epivir en deux prises par jour . 
+ Ces résultats ont été obtenus dans une population de patients infectés par le VIH , non préalablement traités par un antirétroviral et pour la plupart asymptomatiques ( classification CDC – stade A ). 
+
+

@@ -1,0 +1,6 @@
+T1	DISO 0 23	Méningites bactériennes
+#1	AnnotatorNotes T1	C0085437
+T2	LIVB 30 36	adulte
+#2	AnnotatorNotes T2	C0001765
+T3	PROC 40 60	réanimation médicale
+#3	AnnotatorNotes T3	C0085559

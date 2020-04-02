@@ -1,0 +1,6 @@
+T1	CHEM 15 24	midazolam
+#1	AnnotatorNotes T1	C0026056
+T2	CHEM 31 39	diazépam
+#2	AnnotatorNotes T2	C0012010
+T3	PROC 43 56	prémédication
+#3	AnnotatorNotes T3	C0033045

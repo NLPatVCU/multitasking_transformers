@@ -1,0 +1,8 @@
+T1	PROC 19 30	traitements
+#1	AnnotatorNotes T1	C0087111
+T2	CHEM 31 40	hormonaux
+#2	AnnotatorNotes T2	C0019932
+T3	DISO 64 90	malformations congénitales
+#3	AnnotatorNotes T3	C0000768
+T4	PROC 19 40	traitements hormonaux
+#4	AnnotatorNotes T4	C0279025

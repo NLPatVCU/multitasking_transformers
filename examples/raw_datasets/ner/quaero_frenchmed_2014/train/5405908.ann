@@ -1,0 +1,14 @@
+T1	PROC 14 19	étude
+#1	AnnotatorNotes T1	C2603343
+T2	PHYS 23 43	métabolisme calcique
+#2	AnnotatorNotes T2	C0596236
+T3	PHYS 23 34	métabolisme
+#3	AnnotatorNotes T3	C0025519
+T4	CHEM 35 43	calcique
+#4	AnnotatorNotes T4	C0006675
+T5	DISO 63 80	hyperparathyroïde
+#5	AnnotatorNotes T5	C0020502
+T6	DISO 84 92	lithiase
+#6	AnnotatorNotes T6	C0023869
+T7	DISO 99 114	néphrocalcinose
+#7	AnnotatorNotes T7	C0027709

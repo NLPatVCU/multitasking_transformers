@@ -1,0 +1,10 @@
+T1	PROC 0 11	Comparaison
+#1	AnnotatorNotes T1	C1579762
+T3	CHEM 33 40	oxygene
+#3	AnnotatorNotes T3	C0030054
+T5	PHEN 59 71	luminescence
+#5	AnnotatorNotes T5	C1450275
+T6	PROC 99 106	eclairs
+#6	AnnotatorNotes T6	C0262485
+T7	PHEN 107 116	saturants
+#7	AnnotatorNotes T7	C0522534

@@ -1,0 +1,10 @@
+T1	DISO 4 25	infarctus du myocarde
+#1	AnnotatorNotes T1	C0027051
+T2	DISO 4 13	infarctus
+#2	AnnotatorNotes T2	C0021308
+T3	ANAT 17 25	myocarde
+#3	AnnotatorNotes T3	C0027061
+T5	PROC 49 72	pontage aorto-coronaire
+#5	AnnotatorNotes T5	C0010055
+T6	PROC 49 56	pontage
+#6	AnnotatorNotes T6	C0741847

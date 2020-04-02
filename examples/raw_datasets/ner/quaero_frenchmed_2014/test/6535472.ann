@@ -1,0 +1,12 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 12 20	tcxicité
+#2	AnnotatorNotes T2	C0600688
+T3	CHEM 33 40	eserine
+#3	AnnotatorNotes T3	C1314787
+T4	CHEM 43 45	VX
+#4	AnnotatorNotes T4	C0078433
+T5	CHEM 52 60	paraoxon
+#5	AnnotatorNotes T5	C0030480
+T6	LIVB 124 135	etre humain
+#6	AnnotatorNotes T6	C0086418

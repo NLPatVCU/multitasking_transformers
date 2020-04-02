@@ -1,0 +1,16 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 12 37	sensibilité aux mutagènes
+#2	AnnotatorNotes T2	C1864867
+T3	CHEM 28 37	mutagènes
+#3	AnnotatorNotes T3	C0026879
+T4	PHEN 44 53	processus
+#4	AnnotatorNotes T4	C1522240
+T5	PROC 57 67	réparation
+#5	AnnotatorNotes T5	C1705181
+T6	ANAT 77 88	lymphocytes
+#6	AnnotatorNotes T6	C0024264
+T7	DISO 92 110	syndrome de Werner
+#7	AnnotatorNotes T7	C0043119
+T8	DISO 92 100	syndrome
+#8	AnnotatorNotes T8	C0039082

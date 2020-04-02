@@ -1,0 +1,16 @@
+T1	DISO 0 8	Ischémie
+#1	AnnotatorNotes T1	C0022116
+T2	ANAT 20 36	membre supérieur
+#2	AnnotatorNotes T2	C1269078
+T3	ANAT 20 26	membre
+#3	AnnotatorNotes T3	C1280090
+T4	ANAT 60 74	artère ulnaire
+#4	AnnotatorNotes T4	C0162858
+T5	ANAT 60 66	artère
+#5	AnnotatorNotes T5	C0003842
+T6	ANAT 78 85	poignet
+#6	AnnotatorNotes T6	C0043262
+T7	PROC 88 98	traitement
+#7	AnnotatorNotes T7	C0087111
+T8	PROC 99 110	chirurgical
+#8	AnnotatorNotes T8	C0543467

@@ -1,0 +1,6 @@
+T1	PROC 3 15	angiographie
+#1	AnnotatorNotes T1	C0002978
+T2	PROC 57 68	exploration
+#2	AnnotatorNotes T2	C1280903
+T3	ANAT 69 79	vasculaire
+#3	AnnotatorNotes T3	C0005847

@@ -1,0 +1,18 @@
+T1	DISO 0 32	Endocardite aiguë tricuspidienne
+#1	AnnotatorNotes T1	C1396583
+T2	DISO 0 17	Endocardite aiguë
+#2	AnnotatorNotes T2	C0375268
+T3	DISO 0 11	Endocardite
+#3	AnnotatorNotes T3	C0014118
+T4	ANAT 18 32	tricuspidienne
+#4	AnnotatorNotes T4	C0040960
+T5	LIVB 47 71	streptocoque du groupe B
+#5	AnnotatorNotes T5	C0579233
+T6	LIVB 47 59	streptocoque
+#6	AnnotatorNotes T6	C0038402
+T7	PROC 74 78	pose
+#7	AnnotatorNotes T7	C0021107
+T8	PROC 86 100	valve de Starr
+#8	AnnotatorNotes T8	C1579653
+T9	ANAT 86 91	valve
+#9	AnnotatorNotes T9	C0018826

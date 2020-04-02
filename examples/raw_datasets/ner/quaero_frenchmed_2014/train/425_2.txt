@@ -1,0 +1,55 @@
+
+
+ TYSABRI 300 mg est administré en perfusion intraveineuse une fois toutes les 4 semaines . 
+ TYSABRI n ’ est pas recommandé chez les sujets âgés de plus de 65 ans en raison de l ’ absence de données dans cette population . 
+ TYSABRI est contre indiqué chez les enfants et les adolescents ( voir rubrique 4 . 3 ). 
+ Aucune étude n ’ a été effectuée pour examiner les effets d ’ une insuffisance rénale ou hépatique . 
+ Le mécanisme d ’ élimination et les résultats des études de pharmacocinétique de populations suggèrent qu ’ il n ’ est pas nécessaire d ’ ajuster la posologie en cas d ’ insuffisance rénale ou hépatique . 
+ L ’ efficacité d ’ une réadministration n ’ a pas été établie ; pour la sécurité d ’ emploi , voir rubrique 4 . 4 
+ Hypersensibilité au natalizumab ou à l ’ un des excipients . 
+ Leucoencéphalopathie multifocale progressive ( LEMP ). 
+ Patients présentant un risque accru d ’ infections opportunistes , y compris patients immunodéprimés ( patients sous traitement immunosuppresseur ou patients immunodéprimés par des traitement s antérieurs , par exemple mitoxantrone ou cyclophosphamide , voir également les rubriques 4 . 4 et 4 . 8 ). 
+ Association avec les interférons bêta ou l ’ acétate de glatiramère . 
+ Cancers diagnostiqués en évolution , à l ’ exception des carcinomes cutanés baso-cellulaires . 
+ Leucoencéphalopathie multifocale progressive ( LEMP ) 
+ Un examen d ’ imagerie par résonance magnétique ( IRM ) récent ( effectué généralement dans les 3 mois précédents ) doit être disponible préalablement à l ’ instauration du traitement par TYSABRI . 
+ Les patients doivent être surveillés à intervalles réguliers , afin de détecter l ’ apparition ou l ’ aggravation de symptômes ou de signes neurologiques pouvant évoquer une LEMP . 
+ Le médecin devra examiner soigneusement le patient pour déterminer si les symptômes indiquent un dysfonctionnement neurologique , et si c ’ est le cas il devra établir si ces symptômes sont typiques d ’ une SEP ou évocateurs d ’ une LEMP . 
+ En cas de doute , des examens complémentaires , notamment une IRM , de préférence avec produit de contraste ( à comparer avec l ’ IRM réalisée avant traitement ) et un dosage de l ’ ADN du virus JC dans le LCR ainsi que des examens neurologiques répétés devront être envisagés , tels que décrits dans le Guide de Prescription pour la prise en charge des patients présentant une sclérose en plaques et traités par TYSABRI ( voir conduite éducative ). 
+ Le traitement par natalizumab ne pourra redémarrer qu ’ après exclusion du diagnostic de LEMP ( si nécessaire après avoir réitéré les examens cliniques , d ’ imagerie et / ou biologiques si un doute clinique subsiste ). 
+ Le médecin devra être particulièrement attentif à l ’ apparition de symptômes évocateurs d ’ une LEMP que le patient pourrait ne pas remarquer ( par exemple , symptômes cognitifs ou psychiatriques ). 
+ En cas d ’ apparition d ’ une LEMP , le traitement par TYSABRI devra être arrêté définitivement . 
+ Après reconstitution du système immunitaire chez les patients immunodéprimés ayant une LEMP , on a observé une stabilisation ou une amélioration de l ’ évolution ( voir rubrique 5 . 2 ). 
+ Actuellement on ne sait pas si la détection précoce d ’ une LEMP et l ’ arrêt du traitement par TYSABRI peuvent conduire à une telle stabilisation ou amélioration de l ’ évolution . 
+ Autres infections opportunistes 
+ Des infections opportunistes ont également été décrites chez des patients souffrant de SEP et traités par TYSABRI en monothérapie ( voir rubrique 4 . 8 ). 
+ En cas de suspicion d ’ infection opportuniste , le traitement par TYSABRI devra être suspendu jusqu ’ à ce que la présence d ’ une telle infection soit exclue à la suite d ’ examens complémentaires . 
+ La survenue d ’ une infection opportuniste sous TYSABRI doit conduire à l ’ arrêt définitif du traitement . 
+ 4 Tous les médecins ayant l ’ intention de prescrire TYSABRI doivent avoir pris connaissance du Guide de Prescription pour la prise en charge des patients présentant une sclérose en plaques et traités par TYSABRI . 
+ Les patients devront être informés qu ’ en cas d ’ apparition d ’ une quelconque infection , ils devront prévenir leur médecin qu ’ ils sont traités par TYSABRI . 
+ Les médecins doivent informer les patients de l ’ importance de ne pas interrompre le traitement , particulièrement lors des premiers mois de traitement ( voir rubrique Hypersensibilité ). 
+ Des réactions d ’ hypersensibilité ont été associées à l ’ utilisation de TYSABRI , elles peuvent être des réactions systémiques graves ( voir rubrique 4 . 8 ). 
+ Ces réactions surviennent généralement pendant la perfusion ou dans l ’ heure qui suit la fin de la perfusion . 
+ Le risque de réactions d ’ hypersensibilité a été plus important au cours des premières perfusions ainsi que chez les patients recevant de nouveau TYSABRI après une exposition initiale courte ( une ou deux perfusions ) suivie d ’ une période prolongée sans traitement ( trois mois ou plus ). 
+ Néanmoins ce risque de réactions d ’ hypersensibilité doit être envisagé à chaque perfusion . 
+ Le matériel nécessaire à la prise en charge d ’ éventuelles réactions d ’ hypersensibilité devra être disponible . 
+ Le traitement par TYSABRI devra être interrompu et un traitement approprié devra être instauré dès les premiers signes ou symptômes d ’ hypersensibilité . 
+ Les patients ayant présenté une réaction d ’ hypersensibilité doivent arrêter définitivement le traitement par TYSABRI . 
+ Traitement associé ou traitement antérieur par immunosuppresseurs 
+ L ’ efficacité et la tolérance de TYSABRI en association à d ’ autres traitements immunosuppresseurs ou anticancéreux n ’ ont pas été totalement établies . 
+ L ’ utilisation concomitante de ces médicaments avec TYSABRI est susceptible de majorer le risque d ’ infections , y compris les infections opportunistes , et est par conséquent contre-indiquée ( voir rubrique 4 . 3 ). 
+ Les patients ayant reçu un traitement antérieur par immunosuppresseurs , ( dont cyclophosphamide et mitoxantrone ), peuvent présenter une immunosuppression prolongée et donc un risque accru de LEMP . 
+ Chez les patients ayant reçu un traitement antérieur par immunosuppresseur , il faudra veiller à laisser un délai suffisant pour permettre la reconstitution du système immunitaire . 
+ Avant de débuter le traitement par TYSABRI , les médecins devront évaluer chaque cas individuellement pour mettre en évidence une éventuelle immunosuppression ( voir rubrique 4 . 3 ). 
+ Au cours des études cliniques de Phase 3 réalisées dans la SEP , le traitement concomitant des poussées par des corticoïdes sur une courte période n ’ a pas été associé à une augmentation du taux des infections . 
+ Des cures courtes de corticoïdes peuvent être administrées en association avec TYSABRI . 
+ Une aggravation de la maladie ou la survenue d ’ évènements liés à la perfusion peuvent faire suspecter le développement d ’ anticorps anti - natalizumab . 
+ Il conviendra chez ces patients de détecter la présence d ’ anticorps avant la reprise du traitement ; en cas de résultat positif confirmé par un second test effectué 6 semaines plus tard , le traitement ne devra pas être réintroduit . 
+ Des troubles hépatiques graves ont été rapportés spontanément depuis la mise sur le marché de Tysabri . 
+ Ces troubles hépatiques peuvent survenir à tout moment au cours du traitement , même après la première perfusion . 
+ La fonction biologique hépatique des patients traités doit être surveillée de façon appropriée ; les patients doivent être avertis de la nécessité de contacter leur médecin en cas de survenue de signes ou symptômes évocateurs de troubles hépatiques tels qu 
+ En cas de troubles hépatiques significatifs , le traitement par TYSABRI devra être arrêté . 
+ Arrêt du traitement par TYSABRI 
+ En cas de décision d ’ arrêt du traitement , le médecin doit être averti que le natalizumab reste présent dans le sang et a des effets pharmacodynamiques ( par exemple , augmentation des lymphocytes ) pendant environ 12 semaines après la dernière administration . 
+
+

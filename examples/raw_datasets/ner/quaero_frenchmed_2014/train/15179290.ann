@@ -1,0 +1,12 @@
+T1	PHYS 7 16	posturaux
+#1	AnnotatorNotes T1	C1262869
+T2	PROC 20 46	traitement par gamma knife
+#2	AnnotatorNotes T2	C0086330
+T3	PROC 20 30	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DEVI 35 46	gamma knife
+#4	AnnotatorNotes T4	C0182639
+T5	DISO 51 78	neurinomes de l' acoustique
+#5	AnnotatorNotes T5	C0027859
+T6	DISO 81 106	schwannomes vestibulaires
+#6	AnnotatorNotes T6	C0027859

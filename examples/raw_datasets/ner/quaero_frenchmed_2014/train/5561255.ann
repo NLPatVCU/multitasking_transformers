@@ -1,0 +1,8 @@
+T1	PROC 3 25	traitement chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 3 13	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 29 48	strabisme divergent
+#3	AnnotatorNotes T3	C0015310
+T4	DISO 29 38	strabisme
+#4	AnnotatorNotes T4	C0038379

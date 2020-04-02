@@ -1,0 +1,10 @@
+T1	PHYS 0 30	Absence d' activité électrique
+#1	AnnotatorNotes T1	C1372033
+T2	PHEN 20 30	électrique
+#2	AnnotatorNotes T2	C0013790
+T3	DISO 91 98	tétanie
+#3	AnnotatorNotes T3	C0039621
+T4	DISO 105 117	spasmophilie
+#4	AnnotatorNotes T4	C0037768
+T5	DISO 137 147	diagnostic
+#5	AnnotatorNotes T5	C0011900

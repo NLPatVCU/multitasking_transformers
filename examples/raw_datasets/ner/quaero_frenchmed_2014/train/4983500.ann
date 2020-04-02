@@ -1,0 +1,14 @@
+T1	PHEN 10 25	refroidissement
+#1	AnnotatorNotes T1	C0678568
+T2	PHYS 35 62	développement de l' embryon
+#2	AnnotatorNotes T2	C0013936
+T3	PHYS 35 48	développement
+#3	AnnotatorNotes T3	C0243107
+T4	ANAT 55 62	embryon
+#4	AnnotatorNotes T4	C0013935
+T5	LIVB 66 72	lézard
+#5	AnnotatorNotes T5	C0023916
+T6	LIVB 80 95	Lacerta viridis
+#6	AnnotatorNotes T6	C1025374
+T7	LIVB 80 87	Lacerta
+#7	AnnotatorNotes T7	C1081154

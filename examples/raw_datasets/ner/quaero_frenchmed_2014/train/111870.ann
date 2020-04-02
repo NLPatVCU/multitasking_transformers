@@ -1,0 +1,10 @@
+T1	CHEM 15 29	méthyl-mercure
+#1	AnnotatorNotes T1	C0025794
+T2	LIVB 38 45	Insecte
+#2	AnnotatorNotes T2	C0021585
+T3	CHEM 68 73	métal
+#3	AnnotatorNotes T3	C0025552
+T4	ANAT 83 92	lysosomes
+#4	AnnotatorNotes T4	C0024369
+T5	DEVI 97 120	microsonde électronique
+#5	AnnotatorNotes T5	C2699862

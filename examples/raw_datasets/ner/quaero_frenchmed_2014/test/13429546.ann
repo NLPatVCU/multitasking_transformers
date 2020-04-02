@@ -1,0 +1,12 @@
+T1	DISO 15 39	hématomes intra-craniens
+#1	AnnotatorNotes T1	C0596793
+T2	DISO 15 24	hématomes
+#2	AnnotatorNotes T2	C0018944
+T3	ANAT 25 39	intra-craniens
+#3	AnnotatorNotes T3	C0524466
+T4	PROC 58 80	angiographie cérébrale
+#4	AnnotatorNotes T4	C0007767
+T5	ANAT 71 80	cérébrale
+#5	AnnotatorNotes T5	C0006104
+T6	PROC 40 53	diagnostiques
+#6	AnnotatorNotes T6	C0430022

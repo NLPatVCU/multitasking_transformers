@@ -1,0 +1,8 @@
+T1	PROC 0 26	Etude électrophysiologique
+#1	AnnotatorNotes T1	C1262136
+T2	DISO 42 53	polynévrite
+#2	AnnotatorNotes T2	C0032541
+T3	CHEM 93 110	méthyléthylcetone
+#3	AnnotatorNotes T3	C0066367
+T4	CHEM 84 92	n-hexane
+#4	AnnotatorNotes T4	C0068008

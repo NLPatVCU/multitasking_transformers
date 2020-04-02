@@ -1,0 +1,10 @@
+T1	LIVB 8 18	chirurgien
+#1	AnnotatorNotes T1	C0582175
+T2	PROC 27 36	dépistage
+#2	AnnotatorNotes T2	C0281182
+T3	DISO 40 54	cancer du sein
+#3	AnnotatorNotes T3	C0006142
+T4	DISO 40 46	cancer
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 50 54	sein
+#5	AnnotatorNotes T5	C0006141

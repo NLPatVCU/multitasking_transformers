@@ -1,0 +1,8 @@
+T1	DISO 0 11	Fibromatose
+#1	AnnotatorNotes T1	C0016048
+T2	LIVB 22 31	infantile
+#2	AnnotatorNotes T2	C0008059
+T3	DISO 38 47	oesophage
+#3	AnnotatorNotes T3	C2833052
+T4	ANAT 38 47	oesophage
+#4	AnnotatorNotes T4	C2833052

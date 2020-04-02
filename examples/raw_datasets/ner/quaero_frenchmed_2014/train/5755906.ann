@@ -1,0 +1,16 @@
+T1	CHEM 21 34	neuroleptique
+#1	AnnotatorNotes T1	C0040615
+T2	CHEM 40 51	halopéridol
+#2	AnnotatorNotes T2	C0018546
+T3	PHYS 61 70	gestation
+#3	AnnotatorNotes T3	C0032986
+T4	PHYS 77 98	développment prénatal
+#4	AnnotatorNotes T4	C0678726
+T5	PHYS 77 89	développment
+#5	AnnotatorNotes T5	C0243107
+T6	LIVB 103 111	rongeurs
+#6	AnnotatorNotes T6	C0035804
+T7	PROC 114 123	Résultats
+#7	AnnotatorNotes T7	C1254595
+T8	PROC 144 154	recherches
+#8	AnnotatorNotes T8	C0035168

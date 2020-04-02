@@ -1,0 +1,8 @@
+T1	DISO 0 23	La maladie d' Alzheimer
+#1	AnnotatorNotes T1	C0002395
+T2	DISO 3 10	maladie
+#2	AnnotatorNotes T2	C0012634
+T3	PHYS 30 37	mémoire
+#3	AnnotatorNotes T3	C0025260
+T4	LIVB 38 45	humaine
+#4	AnnotatorNotes T4	C0086418

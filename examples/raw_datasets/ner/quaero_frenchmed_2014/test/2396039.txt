@@ -1,0 +1,1 @@
+Calcul des tailles d' échantillons pour la détection d' un risque relatif , avec un niveau de confiance et une puissance déterminés .

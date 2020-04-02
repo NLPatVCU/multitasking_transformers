@@ -1,0 +1,8 @@
+T1	ANAT 20 36	ventricule droit
+#1	AnnotatorNotes T1	C0225883
+T2	ANAT 20 30	ventricule
+#2	AnnotatorNotes T2	C0018827
+T3	PROC 60 82	fermeture chirurgicale
+#3	AnnotatorNotes T3	C0185003
+T4	DISO 90 122	communication interventriculaire
+#4	AnnotatorNotes T4	C0238522

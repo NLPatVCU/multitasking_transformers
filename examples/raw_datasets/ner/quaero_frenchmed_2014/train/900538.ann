@@ -1,0 +1,8 @@
+T1	PROC 3 11	agrafage
+#1	AnnotatorNotes T1	C0185012
+T2	PROC 20 30	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	ANAT 44 55	Thoraciques
+#3	AnnotatorNotes T3	C0817096
+T4	DISO 35 55	volets . Thoraciques
+#4	AnnotatorNotes T4	C0016196

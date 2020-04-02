@@ -1,0 +1,10 @@
+T1	ANAT 12 26	hémodynamiques
+#1	AnnotatorNotes T1	C0019010
+T2	DISO 47 60	artériopathie
+#2	AnnotatorNotes T2	C0852949
+T3	ANAT 65 83	membres inférieurs
+#3	AnnotatorNotes T3	C1140621
+T4	DISO 101 127	claudication intermittente
+#4	AnnotatorNotes T4	C0021775
+T5	DISO 142 150	Fontaine
+#5	AnnotatorNotes T5	C0795932

@@ -1,0 +1,14 @@
+T1	PROC 0 10	Recherches
+#1	AnnotatorNotes T1	C0035168
+T2	DISO 18 25	brûlure
+#2	AnnotatorNotes T2	C0006434
+T3	PHYS 53 71	élimination rénale
+#3	AnnotatorNotes T3	C1373187
+T4	ANAT 65 71	rénale
+#4	AnnotatorNotes T4	C0022646
+T5	CHEM 75 81	chlore
+#5	AnnotatorNotes T5	C0008209
+T6	LIVB 90 95	chien
+#6	AnnotatorNotes T6	C0012984
+T7	CHEM 28 49	5 - hydroxytryptamine
+#7	AnnotatorNotes T7	C0036751

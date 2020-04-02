@@ -1,0 +1,12 @@
+T1	DISO 0 43	Accidents vasculaires cérébraux ischémiques
+#1	AnnotatorNotes T1	C3272363
+T2	DISO 0 31	Accidents vasculaires cérébraux
+#2	AnnotatorNotes T2	C0038454
+T3	ANAT 10 21	vasculaires
+#3	AnnotatorNotes T3	C0005847
+T4	ANAT 22 31	cérébraux
+#4	AnnotatorNotes T4	C2882690
+T5	DISO 47 60	drépanocytose
+#5	AnnotatorNotes T5	C0037054
+T6	PHYS 61 73	hétérozygote
+#6	AnnotatorNotes T6	C0019425

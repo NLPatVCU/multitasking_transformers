@@ -1,0 +1,16 @@
+T1	DISO 0 18	Embolie pulmonaire
+#1	AnnotatorNotes T1	C0034065
+T2	ANAT 8 18	pulmonaire
+#2	AnnotatorNotes T2	C0024109
+T3	DISO 36 69	pseudo-anévrysme post-traumatique
+#3	AnnotatorNotes T3	C0877106
+T4	ANAT 82 105	artère hépatique gauche
+#4	AnnotatorNotes T4	C0226306
+T5	ANAT 89 98	hépatique
+#5	AnnotatorNotes T5	C0023884
+T6	DISO 122 130	hématome
+#6	AnnotatorNotes T6	C0018944
+T7	ANAT 164 174	foie droit
+#7	AnnotatorNotes T7	C0227481
+T8	DISO 0 7	Embolie
+#8	AnnotatorNotes T8	C1704212

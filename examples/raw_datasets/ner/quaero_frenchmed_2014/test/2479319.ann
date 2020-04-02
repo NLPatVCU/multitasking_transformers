@@ -1,0 +1,10 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	ANAT 39 45	nasale
+#2	AnnotatorNotes T2	C0028429
+T3	PROC 59 84	ostéotomies du maxillaire
+#3	AnnotatorNotes T3	C0407441
+T4	PROC 59 70	ostéotomies
+#4	AnnotatorNotes T4	C0029468
+T5	ANAT 74 84	maxillaire
+#5	AnnotatorNotes T5	C0024947

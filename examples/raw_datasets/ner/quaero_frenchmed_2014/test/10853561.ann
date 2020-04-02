@@ -1,0 +1,6 @@
+T1	DISO 0 16	Dyspnée laryngée
+#1	AnnotatorNotes T1	C0277855
+T2	LIVB 23 29	enfant
+#2	AnnotatorNotes T2	C0008059
+T3	PHEN 93 100	urgence
+#3	AnnotatorNotes T3	C0013956

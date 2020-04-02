@@ -1,0 +1,14 @@
+T1	PROC 0 7	Enquête
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 16 31	causes de décès
+#2	AnnotatorNotes T2	C0007465
+T3	PHYS 26 31	décès
+#3	AnnotatorNotes T3	C0011065
+T4	OBJC 40 47	service
+#4	AnnotatorNotes T4	C0019961
+T5	DISO 51 88	insuffisants respiratoires chroniques
+#5	AnnotatorNotes T5	C1998122
+T6	DISO 51 77	insuffisants respiratoires
+#6	AnnotatorNotes T6	C0035229
+T7	PHYS 64 77	respiratoires
+#7	AnnotatorNotes T7	C0035203

@@ -1,0 +1,8 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	LIVB 90 113	Drosophila melanogaster
+#2	AnnotatorNotes T2	C0013139
+T3	LIVB 90 100	Drosophila
+#3	AnnotatorNotes T3	C0013138
+T4	LIVB 101 113	melanogaster
+#4	AnnotatorNotes T4	C1034337

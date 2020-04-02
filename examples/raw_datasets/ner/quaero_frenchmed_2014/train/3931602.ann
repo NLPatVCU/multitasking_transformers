@@ -1,0 +1,14 @@
+T1	PHYS 0 19	Sécrétion gastrique
+#1	AnnotatorNotes T1	C0232539
+T2	PHEN 0 9	Sécrétion
+#2	AnnotatorNotes T2	C0036536
+T3	ANAT 10 19	gastrique
+#3	AnnotatorNotes T3	C0038351
+T4	LIVB 41 47	enfant
+#4	AnnotatorNotes T4	C0008059
+T5	PROC 51 72	nutrition parentérale
+#5	AnnotatorNotes T5	C0030547
+T6	PHYS 51 60	nutrition
+#6	AnnotatorNotes T6	C1442959
+T7	LIVB 61 72	parentérale
+#7	AnnotatorNotes T7	C0030551

@@ -1,0 +1,8 @@
+T1	PROC 3 10	culture
+#1	AnnotatorNotes T1	C0430400
+T2	DISO 28 35	gliomes
+#2	AnnotatorNotes T2	C0017638
+T3	LIVB 36 43	humains
+#3	AnnotatorNotes T3	C0086418
+T4	PROC 51 63	applications
+#4	AnnotatorNotes T4	C0185125

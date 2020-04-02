@@ -1,0 +1,6 @@
+T1	PROC 10 19	soignante
+#1	AnnotatorNotes T1	C0087111
+T2	LIVB 44 56	enfant sourd
+#2	AnnotatorNotes T2	C0525064
+T3	LIVB 44 50	enfant
+#3	AnnotatorNotes T3	C0008059

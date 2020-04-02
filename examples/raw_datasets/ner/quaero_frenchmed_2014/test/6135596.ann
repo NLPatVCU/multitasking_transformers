@@ -1,0 +1,12 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0011900
+T2	DISO 28 38	dépression
+#2	AnnotatorNotes T2	C0011570
+T3	PROC 46 50	test
+#3	AnnotatorNotes T3	C0022885
+T4	CHEM 56 59	TRH
+#4	AnnotatorNotes T4	C0040162
+T5	PROC 66 70	test
+#5	AnnotatorNotes T5	C0022885
+T6	CHEM 76 89	dexaméthasone
+#6	AnnotatorNotes T6	C0011777

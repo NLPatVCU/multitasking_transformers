@@ -1,0 +1,20 @@
+T1	DISO 0 11	Hémorragies
+#1	AnnotatorNotes T1	C0019080
+T2	ANAT 12 24	articulaires
+#2	AnnotatorNotes T2	C0022417
+T3	ANAT 28 39	musculaires
+#3	AnnotatorNotes T3	C0026845
+T4	DISO 44 56	hémophiles A
+#4	AnnotatorNotes T4	C0019069
+T5	PROC 62 89	anticorps anti-facteur VIII
+#5	AnnotatorNotes T5	C0877535
+T6	CHEM 62 71	anticorps
+#6	AnnotatorNotes T6	C0003241
+T7	PROC 92 102	Traitement
+#7	AnnotatorNotes T7	C0087111
+T8	CHEM 132 136	PPSB
+#8	AnnotatorNotes T8	C0072434
+T9	CHEM 139 162	concentré de facteur IX
+#9	AnnotatorNotes T9	C0360726
+T10	CHEM 152 162	facteur IX
+#10	AnnotatorNotes T10	C0015491

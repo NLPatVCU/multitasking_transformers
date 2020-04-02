@@ -1,0 +1,11 @@
+T1	DISO 19 42	épithéliomatose cutanée
+#1	AnnotatorNotes T1	C0043346
+T2	ANAT 35 42	cutanée
+#2	AnnotatorNotes T2	C1123023
+T3	ANAT 56 68	neurologique
+#3	AnnotatorNotes T3	C027740
+T4	DISO 91 130	hérédodégénérescence spino-cérébelleuse
+#4	AnnotatorNotes T4	C0037952
+T5	DISO 0 15	Forme familiale
+#5	AnnotatorNotes T5	C0950123
+T6	DISO 48 68	tableau neurologique

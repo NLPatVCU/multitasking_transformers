@@ -1,0 +1,10 @@
+T1	PROC 14 23	détection
+#1	AnnotatorNotes T1	C1511790
+T2	LIVB 68 74	animal
+#2	AnnotatorNotes T2	C0003062
+T3	LIVB 86 91	homme
+#3	AnnotatorNotes T3	C0086418
+T4	DISO 130 155	accident de décompression
+#4	AnnotatorNotes T4	C0011119
+T6	PHEN 142 155	décompression
+#6	AnnotatorNotes T6	C0011117

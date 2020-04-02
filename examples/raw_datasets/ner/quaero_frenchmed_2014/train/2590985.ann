@@ -1,0 +1,10 @@
+T1	PROC 12 32	moyens diagnostiques
+#1	AnnotatorNotes T1	C0525034
+T2	DISO 44 58	rétinoblastome
+#2	AnnotatorNotes T2	C0035335
+T3	PROC 61 70	cytologie
+#3	AnnotatorNotes T3	C1305671
+T4	ANAT 74 79	vitré
+#4	AnnotatorNotes T4	C0042905
+T5	DEVI 83 91	marqueur
+#5	AnnotatorNotes T5	C2745888

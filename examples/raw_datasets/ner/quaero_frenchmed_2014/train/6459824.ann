@@ -1,0 +1,20 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PROC 24 49	dosage radioimmunologique
+#2	AnnotatorNotes T2	C0034580
+T3	CHEM 56 66	prolactine
+#3	AnnotatorNotes T3	C0033371
+T4	ANAT 67 74	sérique
+#4	AnnotatorNotes T4	C0229671
+T5	ANAT 78 90	hypophysaire
+#5	AnnotatorNotes T5	C0032005
+T6	LIVB 99 102	rat
+#6	AnnotatorNotes T6	C0034721
+T7	CHEM 123 136	bromocriptine
+#7	AnnotatorNotes T7	C0006230
+T8	CHEM 146 160	thyréolibérine
+#8	AnnotatorNotes T8	C0040162
+T9	CHEM 163 166	TRH
+#9	AnnotatorNotes T9	C0040162
+T10	PHYS 103 107	mâle
+#10	AnnotatorNotes T10	C0024554

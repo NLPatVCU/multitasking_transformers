@@ -1,0 +1,10 @@
+T1	PROC 8 32	traiter chirurgicalement
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 8 15	traiter
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 36 49	Mal de Meleda
+#3	AnnotatorNotes T3	C0025221
+T4	DISO 52 98	kératodermie palmoplantaire diffuse de Siemens
+#4	AnnotatorNotes T4	C0022584
+T5	DISO 52 79	kératodermie palmoplantaire
+#5	AnnotatorNotes T5	C0022596

@@ -1,0 +1,8 @@
+T1	PROC 0 5	Bilan
+#1	AnnotatorNotes T1	C1261322
+T2	DISO 35 42	lépreux
+#2	AnnotatorNotes T2	C0023343
+T3	PROC 87 97	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	CHEM 105 128	désoxyfructo-sérotonine
+#4	AnnotatorNotes T4	C0057562

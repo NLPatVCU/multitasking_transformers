@@ -1,0 +1,12 @@
+T1	DISO 4 18	ondes T hautes
+#1	AnnotatorNotes T1	C0239242
+T2	DISO 4 11	ondes T
+#2	AnnotatorNotes T2	C0429103
+T3	PHEN 4 9	ondes
+#3	AnnotatorNotes T3	C0678544
+T4	DISO 53 74	infarctus du myocarde
+#4	AnnotatorNotes T4	C0027051
+T5	DISO 53 62	infarctus
+#5	AnnotatorNotes T5	C0021308
+T6	ANAT 66 74	myocarde
+#6	AnnotatorNotes T6	C0027061

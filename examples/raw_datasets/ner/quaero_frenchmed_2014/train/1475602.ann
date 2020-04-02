@@ -1,0 +1,10 @@
+T1	DISO 16 31	empyème pleural
+#1	AnnotatorNotes T1	C0014013
+T2	DISO 16 23	empyème
+#2	AnnotatorNotes T2	C0014009
+T3	ANAT 24 31	pleural
+#3	AnnotatorNotes T3	C0489872
+T4	LIVB 34 56	Pseudomonas aeruginosa
+#4	AnnotatorNotes T4	C0033809
+T5	PROC 57 63	traité
+#5	AnnotatorNotes T5	C0087111

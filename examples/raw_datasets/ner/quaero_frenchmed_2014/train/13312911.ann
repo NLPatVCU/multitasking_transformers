@@ -1,0 +1,6 @@
+T1	PROC 3 13	anesthésie
+#1	AnnotatorNotes T1	C0002903
+T2	CHEM 22 31	stéroïdes
+#2	AnnotatorNotes T2	C0038317
+T3	PROC 43 59	essais cliniques
+#3	AnnotatorNotes T3	C0008976

@@ -1,0 +1,6 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 40	grossesses extra-utérines
+#2	AnnotatorNotes T2	C0032987
+T3	PHYS 15 25	grossesses
+#3	AnnotatorNotes T3	C0032961

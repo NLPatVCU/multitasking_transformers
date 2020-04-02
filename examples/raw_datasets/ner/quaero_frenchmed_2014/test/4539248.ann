@@ -1,0 +1,14 @@
+T1	PROC 4 16	explorations
+#1	AnnotatorNotes T1	C1280903
+T2	PROC 17 32	angiographiques
+#2	AnnotatorNotes T2	C0002971
+T3	PROC 42 68	pontages aorto-coronariens
+#3	AnnotatorNotes T3	C0010055
+T4	PROC 42 50	pontages
+#4	AnnotatorNotes T4	C0741847
+T5	ANAT 51 68	aorto-coronariens
+#5	AnnotatorNotes T5	C0205042
+T6	PROC 71 85	artériographie
+#6	AnnotatorNotes T6	C0003844
+T7	PROC 89 106	ventriculographie
+#7	AnnotatorNotes T7	C0596683

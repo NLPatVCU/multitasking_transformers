@@ -1,0 +1,8 @@
+T1	CHEM 20 35	antidépresseurs
+#1	AnnotatorNotes T1	C0003289
+T2	PROC 118 128	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 135 153	dépression majeure
+#3	AnnotatorNotes T3	C1269683
+T4	DISO 135 145	dépression
+#4	AnnotatorNotes T4	C0011570

@@ -1,0 +1,14 @@
+T1	PROC 0 24	Etude clinique contrôlée
+#1	AnnotatorNotes T1	C0681867
+T2	PROC 0 14	Etude clinique
+#2	AnnotatorNotes T2	C0008976
+T3	CHEM 28 50	cromoglycate disodique
+#3	AnnotatorNotes T3	C0012694
+T4	CHEM 28 40	cromoglycate
+#4	AnnotatorNotes T4	C0010347
+T5	CHEM 54 62	solution
+#5	AnnotatorNotes T5	C1382100
+T6	DISO 72 91	rhinites chroniques
+#6	AnnotatorNotes T6	C0008711
+T7	DISO 72 80	rhinites
+#7	AnnotatorNotes T7	C0035455

@@ -1,0 +1,4 @@
+T1	PROC 0 13	Prémédication
+#1	AnnotatorNotes T1	C0033045
+T2	CHEM 29 37	prazépam
+#2	AnnotatorNotes T2	C0032910

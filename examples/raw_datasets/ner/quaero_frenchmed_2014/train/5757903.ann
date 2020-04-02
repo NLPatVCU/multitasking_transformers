@@ -1,0 +1,20 @@
+T1	PROC 0 14	Interprétation
+#1	AnnotatorNotes T1	C0262707
+T2	PROC 33 67	volume expiratoire maximal seconde
+#2	AnnotatorNotes T2	C0849974
+T3	PROC 33 39	volume
+#3	AnnotatorNotes T3	C2700258
+T4	PHYS 40 51	expiratoire
+#4	AnnotatorNotes T4	C0231800
+T5	PROC 70 74	VEMS
+#5	AnnotatorNotes T5	C0849974
+T6	OBJC 83 90	aérosol
+#6	AnnotatorNotes T6	C0001712
+T7	CHEM 94 107	acétylcholine
+#7	AnnotatorNotes T7	C0001041
+T8	CHEM 114 124	allergènes
+#8	AnnotatorNotes T8	C0002092
+T9	DISO 133 144	asthmatique
+#9	AnnotatorNotes T9	C0004096
+T10	LIVB 145 150	jeune
+#10	AnnotatorNotes T10	C0238598

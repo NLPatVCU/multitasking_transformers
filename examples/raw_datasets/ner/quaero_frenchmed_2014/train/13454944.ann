@@ -1,0 +1,6 @@
+T1	DISO 3 26	allergie tuberculinique
+#1	AnnotatorNotes T1	C0570560
+T2	DISO 3 11	allergie
+#2	AnnotatorNotes T2	C0020517
+T3	CHEM 12 26	tuberculinique
+#3	AnnotatorNotes T3	C0041289

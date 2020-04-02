@@ -1,0 +1,8 @@
+T1	PROC 13 34	méthode stéréotaxique
+#1	AnnotatorNotes T1	C0038270
+T2	PROC 38 49	exploration
+#2	AnnotatorNotes T2	C1280903
+T3	ANAT 54 80	structures sous-corticales
+#3	AnnotatorNotes T3	C2323011
+T4	LIVB 89 94	homme
+#4	AnnotatorNotes T4	C0086418

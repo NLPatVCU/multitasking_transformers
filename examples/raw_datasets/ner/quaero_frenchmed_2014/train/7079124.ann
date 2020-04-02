@@ -1,0 +1,6 @@
+T1	PROC 0 21	Hémicolectomie droite
+#1	AnnotatorNotes T1	C0192861
+T2	PROC 27 49	anastomose colo-iléale
+#2	AnnotatorNotes T2	C0192751
+T3	DEVI 108 114	suture
+#3	AnnotatorNotes T3	C0038969

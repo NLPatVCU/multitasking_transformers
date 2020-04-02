@@ -1,0 +1,6 @@
+T1	PROC 3 13	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 30 39	fractures
+#2	AnnotatorNotes T2	C0016658
+T3	ANAT 43 63	condyle mandibulaire
+#3	AnnotatorNotes T3	C0024688

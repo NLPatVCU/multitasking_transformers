@@ -1,0 +1,6 @@
+T1	PROC 0 16	Essais cliniques
+#1	AnnotatorNotes T1	C0008976
+T2	CHEM 31 44	neuroleptique
+#2	AnnotatorNotes T2	C0040615
+T3	CHEM 50 62	thioridazine
+#3	AnnotatorNotes T3	C0039943

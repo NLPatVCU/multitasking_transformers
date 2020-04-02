@@ -1,0 +1,16 @@
+T1	DISO 16 39	intoxication alcoolique
+#1	AnnotatorNotes T1	C0001969
+T2	DISO 16 28	intoxication
+#2	AnnotatorNotes T2	C0728899
+T3	CHEM 29 39	alcoolique
+#3	AnnotatorNotes T3	C0001975
+T4	CHEM 47 53	teneur
+#4	AnnotatorNotes T4	C2946261
+T5	CHEM 57 83	acide gamma-aminobutyrique
+#5	AnnotatorNotes T5	C0016904
+T6	CHEM 57 62	acide
+#6	AnnotatorNotes T6	C0001128
+T7	ANAT 87 94	cerveau
+#7	AnnotatorNotes T7	C0006104
+T8	LIVB 101 107	souris
+#8	AnnotatorNotes T8	C0025929

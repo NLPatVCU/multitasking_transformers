@@ -1,0 +1,10 @@
+T1	CHEM 13 27	chlorpromazine
+#1	AnnotatorNotes T1	C0008286
+T2	PHYS 36 60	sécrétions surrénalienne
+#2	AnnotatorNotes T2	C0871638
+T3	CHEM 64 78	corticostérone
+#3	AnnotatorNotes T3	C0010124
+T4	ANAT 82 94	hypophysaire
+#4	AnnotatorNotes T4	C0032005
+T5	CHEM 98 108	prolactine
+#5	AnnotatorNotes T5	C0033371

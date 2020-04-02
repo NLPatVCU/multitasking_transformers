@@ -1,0 +1,10 @@
+T1	PROC 0 13	Modifications
+#1	AnnotatorNotes T1	C0579005
+T2	PHEN 73 76	son
+#2	AnnotatorNotes T2	C0037709
+T3	PHEN 86 93	lumière
+#3	AnnotatorNotes T3	C0023693
+T4	LIVB 102 107	homme
+#4	AnnotatorNotes T4	C0024554
+T5	CHEM 131 142	psilocybine
+#5	AnnotatorNotes T5	C0033850

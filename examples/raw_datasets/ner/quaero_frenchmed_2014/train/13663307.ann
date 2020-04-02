@@ -1,0 +1,14 @@
+T1	CHEM 10 18	nembutal
+#1	AnnotatorNotes T1	C0702208
+T2	CHEM 27 35	glucides
+#2	AnnotatorNotes T2	C0007004
+T3	ANAT 39 43	foie
+#3	AnnotatorNotes T3	C0023884
+T4	LIVB 52 55	rat
+#4	AnnotatorNotes T4	C0034721
+T5	PROC 65 92	pancréatectomisé totalement
+#5	AnnotatorNotes T5	C0040511
+T6	PROC 65 81	pancréatectomisé
+#6	AnnotatorNotes T6	C0030279
+T7	PROC 96 112	surrénalectomisé
+#7	AnnotatorNotes T7	C0001632

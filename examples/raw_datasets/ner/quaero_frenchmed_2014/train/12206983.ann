@@ -1,0 +1,8 @@
+T1	DISO 46 68	cancer de l' endomètre
+#1	AnnotatorNotes T1	C0476089
+T2	DISO 46 52	cancer
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 59 68	endomètre
+#3	AnnotatorNotes T3	C0014180
+T4	DISO 82 95	métastatiques
+#4	AnnotatorNotes T4	C0027627

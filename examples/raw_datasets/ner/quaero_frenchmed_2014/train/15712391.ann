@@ -1,0 +1,6 @@
+T1	PROC 24 29	étude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 34 63	immunoglobulines monoclonales
+#2	AnnotatorNotes T2	C0443737
+T3	CHEM 34 50	immunoglobulines
+#3	AnnotatorNotes T3	C0021027

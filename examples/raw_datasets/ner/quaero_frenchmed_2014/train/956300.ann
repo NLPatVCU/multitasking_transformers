@@ -1,0 +1,14 @@
+T1	DISO 0 9	Chondrome
+#1	AnnotatorNotes T1	C0936248
+T2	ANAT 10 17	sternal
+#2	AnnotatorNotes T2	C0038293
+T3	PROC 28 34	traité
+#3	AnnotatorNotes T3	C0087111
+T4	PROC 39 48	résection
+#4	AnnotatorNotes T4	C0015252
+T5	PROC 52 72	prothèse en silastic
+#5	AnnotatorNotes T5	C0185587
+T6	DEVI 52 60	prothèse
+#6	AnnotatorNotes T6	C0175649
+T7	CHEM 64 72	silastic
+#7	AnnotatorNotes T7	C0074517

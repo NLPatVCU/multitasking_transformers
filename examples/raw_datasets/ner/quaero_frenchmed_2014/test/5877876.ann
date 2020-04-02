@@ -1,0 +1,14 @@
+T1	CHEM 16 23	luminal
+#1	AnnotatorNotes T1	C0699493
+T2	CHEM 32 42	benzidrine
+#2	AnnotatorNotes T2	C0237408
+T3	ANAT 124 134	inclusions
+#3	AnnotatorNotes T3	C0007637
+T4	ANAT 161 186	médullaire des surrénales
+#4	AnnotatorNotes T4	C0001629
+T5	ANAT 161 171	médullaire
+#5	AnnotatorNotes T5	C1305694
+T6	ANAT 176 186	surrénales
+#6	AnnotatorNotes T6	C0001625
+T7	LIVB 190 196	cobaye
+#7	AnnotatorNotes T7	C0999699

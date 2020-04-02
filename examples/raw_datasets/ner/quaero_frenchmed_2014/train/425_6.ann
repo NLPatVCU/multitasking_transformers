@@ -1,0 +1,394 @@
+T1	CHEM 19 26	TYSABRI
+#1	AnnotatorNotes T1	C1529600
+T2	CHEM 61 68	TYSABRI
+#2	AnnotatorNotes T2	C1529600
+T3	PROC 86 93	traiter
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 97 116	sclérose en plaques
+#4	AnnotatorNotes T4	C0026769
+T5	DISO 119 122	SEP
+#5	AnnotatorNotes T5	C0026769
+T6	DISO 132 141	symptômes
+#6	AnnotatorNotes T6	C1457887
+T7	DISO 145 148	SEP
+#7	AnnotatorNotes T7	C0026769
+T8	LIVB 171 178	patient
+#8	AnnotatorNotes T8	C0030705
+T9	DISO 243 252	symptômes
+#9	AnnotatorNotes T9	C1457887
+T10	DISO 279 300	troubles de la marche
+#10	AnnotatorNotes T10	C0575081
+T11	DISO 303 328	engourdissement du visage
+#11	AnnotatorNotes T11	C0239511
+T12	ANAT 335 339	bras
+#12	AnnotatorNotes T12	C0446516
+T13	ANAT 347 353	jambes
+#13	AnnotatorNotes T13	C1140621
+T14	DISO 356 372	problèmes de vue
+#14	AnnotatorNotes T14	C0042798
+T15	DISO 375 382	fatigue
+#15	AnnotatorNotes T15	C0015672
+T16	DISO 385 410	sensation de déséquilibre
+#16	AnnotatorNotes T16	C0234966
+T17	DISO 418 432	étourdissement
+#17	AnnotatorNotes T17	C0012833
+T18	DISO 435 454	problèmes urinaires
+#18	AnnotatorNotes T18	C0809944
+T19	ANAT 445 454	urinaires
+#19	AnnotatorNotes T19	C1508753
+T20	DISO 458 469	intestinaux
+#20	AnnotatorNotes T20	C0021853
+T21	ANAT 458 469	intestinaux
+#21	AnnotatorNotes T21	C0021853
+T22	DISO 514 524	dépression
+#22	AnnotatorNotes T22	C0011570
+T23	DISO 527 540	douleur aiguë
+#23	AnnotatorNotes T23	C0278140
+T24	DISO 556 573	problèmes sexuels
+#24	AnnotatorNotes T24	C0260667
+T25	DISO 586 594;606 617	raideurs musculaires
+#25	AnnotatorNotes T25	C0221170
+T26	DISO 598 617	spasmes musculaires
+#26	AnnotatorNotes T26	C0037763
+T27	DISO 645 654	symptômes
+#27	AnnotatorNotes T27	C1457887
+T28	DISO 663 671	récidive
+#28	AnnotatorNotes T28	C2825055
+T29	DISO 688 691	SEP
+#29	AnnotatorNotes T29	C0026769
+T30	DISO 742 751	symptômes
+#30	AnnotatorNotes T30	C1457887
+T31	DISO 827 836	symptômes
+#31	AnnotatorNotes T31	C1457887
+T32	DISO 900 909	rémission
+#32	AnnotatorNotes T32	C0544452
+T33	DISO 918 921	SEP
+#33	AnnotatorNotes T33	C0026769
+T34	DISO 935 947	inflammation
+#34	AnnotatorNotes T34	C0021368
+T35	ANAT 951 958	cerveau
+#35	AnnotatorNotes T35	C0006104
+T36	ANAT 992 1010	cellules nerveuses
+#36	AnnotatorNotes T36	C0027882
+T37	CHEM 1018 1034	substance active
+#37	AnnotatorNotes T37	C0085104
+T38	CHEM 1038 1045	TYSABRI
+#38	AnnotatorNotes T38	C1529600
+T39	CHEM 1053 1064	natalizumab
+#39	AnnotatorNotes T39	C1172734
+T40	CHEM 1071 1079	protéine
+#40	AnnotatorNotes T40	C0033684
+T41	CHEM 1105 1114	anticorps
+#41	AnnotatorNotes T41	C0003241
+T42	PROC 1132 1148	études cliniques
+#42	AnnotatorNotes T42	C0008972
+T43	CHEM 1151 1158	TYSABRI
+#43	AnnotatorNotes T43	C1529600
+T44	DISO 1222 1225	SEP
+#44	AnnotatorNotes T44	C0026769
+T45	DISO 1296 1299	SEP
+#45	AnnotatorNotes T45	C0026769
+T46	CHEM 1316 1323	TYSABRI
+#46	AnnotatorNotes T46	C1529600
+T47	DISO 1386 1393	maladie
+#47	AnnotatorNotes T47	C0012634
+T48	PROC 1434 1440	traité
+#48	AnnotatorNotes T48	C0087111
+T49	CHEM 1445 1452	TYSABRI
+#49	AnnotatorNotes T49	C1529600
+T50	PROC 1514 1524	traitement
+#50	AnnotatorNotes T50	C0087111
+T51	CHEM 1529 1536	TYSABRI
+#51	AnnotatorNotes T51	C1529600
+T52	DISO 1578 1585	maladie
+#52	AnnotatorNotes T52	C0012634
+T53	PROC 1629 1639	traitement
+#53	AnnotatorNotes T53	C0087111
+T54	LIVB 1674 1681	médecin
+#54	AnnotatorNotes T54	C0031831
+T55	PROC 1731 1741	traitement
+#55	AnnotatorNotes T55	C0087111
+T56	CHEM 1746 1753	TYSABRI
+#56	AnnotatorNotes T56	C1529600
+T57	LIVB 1797 1804	médecin
+#57	AnnotatorNotes T57	C0031831
+T58	PROC 1850 1860	traitement
+#58	AnnotatorNotes T58	C0087111
+T59	DISO 1875 1881	risque
+#59	AnnotatorNotes T59	C0184544
+T60	CHEM 1938 1945	TYSABRI
+#60	AnnotatorNotes T60	C1529600
+T61	DISO 1961 1971	allergique
+#61	AnnotatorNotes T61	C0020517
+T62	DISO 1974 1988	hydpersensible
+#62	AnnotatorNotes T62	C0020517
+T63	CHEM 1994 2005	natalizumab
+#63	AnnotatorNotes T63	C1172734
+T64	CHEM 2029 2039	composants
+#64	AnnotatorNotes T64	C1179435
+T65	CHEM 2054 2061	TYSABRI
+#65	AnnotatorNotes T65	C1529600
+T66	ANAT 2146 2165	système immunitaire
+#66	AnnotatorNotes T66	C0020962
+T67	DISO 2179 2186	maladie
+#67	AnnotatorNotes T67	C0012634
+T68	DISO 2199 2207	leucémie
+#68	AnnotatorNotes T68	C0023418
+T69	DISO 2211 2226	infection à VIH
+#69	AnnotatorNotes T69	C0019693
+T70	DISO 2211 2220	infection
+#70	AnnotatorNotes T70	C0021311
+T71	CHEM 2242 2252	médicament
+#71	AnnotatorNotes T71	C0013227
+T72	DISO 2305 2311	cancer
+#72	AnnotatorNotes T72	C0027651
+T73	DISO 2342 2383	cancer de la peau de type baso-cellulaire
+#73	AnnotatorNotes T73	C0007117
+T74	DISO 2342 2348	cancer
+#74	AnnotatorNotes T74	C0027651
+T75	LIVB 2404 2432	âgé ( e ) de moins de 18 ans
+#75	AnnotatorNotes T75	C0205653 C0008059
+T76	CHEM 2459 2466	TYSABRI
+#76	AnnotatorNotes T76	C1529600
+T77	DISO 2479 2498	infection cérébrale
+#77	AnnotatorNotes T77	C0021311
+T78	DISO 2489 2498	cérébrale
+#78	AnnotatorNotes T78	C2882690
+T79	DISO 2512 2516	LEMP
+#79	AnnotatorNotes T79	C0023524
+T80	DISO 2519 2563	leucoencéphalopathie multifocale progressive
+#80	AnnotatorNotes T80	C0023524
+T81	LIVB 2593 2601	patients
+#81	AnnotatorNotes T81	C0030705
+T82	PROC 2602 2609	traités
+#82	AnnotatorNotes T82	C0087111
+T83	CHEM 2614 2621	TYSABRI
+#83	AnnotatorNotes T83	C1529600
+T84	DISO 2632 2652	leucoencéphalopathie
+#84	AnnotatorNotes T84	C0270612
+T85	DISO 2678 2686	handicap
+#85	AnnotatorNotes T85	C0231172
+T86	PHYS 2700 2705	décès
+#86	AnnotatorNotes T86	C0011065
+T87	DISO 2752 2755	SEP
+#87	AnnotatorNotes T87	C0026769
+T88	DISO 2801 2810	symptômes
+#88	AnnotatorNotes T88	C1457887
+T89	LIVB 2857 2864	médecin
+#89	AnnotatorNotes T89	C0031831
+T90	PROC 2904 2914	traitement
+#90	AnnotatorNotes T90	C0087111
+T91	LIVB 2926 2934	conjoint
+#91	AnnotatorNotes T91	C0682323
+T92	LIVB 2946 2964	personnel soignant
+#92	AnnotatorNotes T92	C0025106
+T93	DISO 3001 3010	symptômes
+#93	AnnotatorNotes T93	C1457887
+T94	DISO 3068 3090	changements d ’ humeur
+#94	AnnotatorNotes T94	C0085633
+T95	DISO 3116 3132	trous de mémoire
+#95	AnnotatorNotes T95	C0751295
+T96	DISO 3139 3164	difficultés d ’ élocution
+#96	AnnotatorNotes T96	C0037822
+T97	DISO 3139 3150;3168 3184	difficultés de communication
+#97	AnnotatorNotes T97	C0481701
+T98	LIVB 3197 3204	médecin
+#98	AnnotatorNotes T98	C0031831
+T99	DISO 3241 3245	LEMP
+#99	AnnotatorNotes T99	C0023524
+T100	LIVB 3316 3323	patient
+#100	AnnotatorNotes T100	C0030705
+T101	LIVB 3356 3363	médecin
+#101	AnnotatorNotes T101	C0031831
+T102	LIVB 3435 3443	conjoint
+#102	AnnotatorNotes T102	C0682323
+T103	LIVB 3450 3468	personnel soignant
+#103	AnnotatorNotes T103	C0025106
+T104	DISO 3477 3487	infections
+#104	AnnotatorNotes T104	C0021311
+T105	CHEM 3517 3524	TYSABRI
+#105	AnnotatorNotes T105	C1529600
+T106	DISO 3540 3549	infection
+#106	AnnotatorNotes T106	C0021311
+T107	DISO 3576 3585	symptômes
+#107	AnnotatorNotes T107	C1457887
+T108	DISO 3600 3606	fièvre
+#108	AnnotatorNotes T108	C0015967
+T109	DISO 3625 3640	diarrhée sévère
+#109	AnnotatorNotes T109	C1443924
+T110	DISO 3647 3655	vertiges
+#110	AnnotatorNotes T110	C0042571
+T111	DISO 3658 3667	céphalées
+#111	AnnotatorNotes T111	C0393735
+T112	DISO 3670 3689	raideur de la nuque
+#112	AnnotatorNotes T112	C0151315
+T113	DISO 3706 3720	perte de poids
+#113	AnnotatorNotes T113	C0043096
+T114	DISO 3728 3737	lassitude
+#114	AnnotatorNotes T114	C0015672
+T115	DISO 3754 3763	symptômes
+#115	AnnotatorNotes T115	C1457887
+T116	DISO 3795 3804	infection
+#116	AnnotatorNotes T116	C0021311
+T117	PROC 3819 3829	traitement
+#117	AnnotatorNotes T117	C0087111
+T118	CHEM 3834 3841	TYSABRI
+#118	AnnotatorNotes T118	C1529600
+T119	LIVB 3873 3880	médecin
+#119	AnnotatorNotes T119	C0031831
+T120	LIVB 3922 3929	patient
+#120	AnnotatorNotes T120	C0030705
+T121	PROC 3948 3954	notice
+#121	AnnotatorNotes T121	C0013191
+T122	PHYS 4012 4021	Grossesse
+#122	AnnotatorNotes T122	C0032961
+T123	PHYS 4025 4036	allaitement
+#123	AnnotatorNotes T123	C0006147
+T124	CHEM 4064 4071	TYSABRI
+#124	AnnotatorNotes T124	C1529600
+T125	LIVB 4085 4093	enceinte
+#125	AnnotatorNotes T125	C0033011
+T126	LIVB 4149 4156	médecin
+#126	AnnotatorNotes T126	C0031831
+T127	LIVB 4200 4207	médecin
+#127	AnnotatorNotes T127	C0031831
+T128	PHYS 4217 4226	grossesse
+#128	AnnotatorNotes T128	C0032961
+T129	PHYS 4283 4291	allaiter
+#129	AnnotatorNotes T129	C0006147
+T130	PROC 4303 4313	traitement
+#130	AnnotatorNotes T130	C0087111
+T131	CHEM 4318 4325	TYSABRI
+#131	AnnotatorNotes T131	C1529600
+T132	LIVB 4362 4369	médecin
+#132	AnnotatorNotes T132	C0031831
+T133	PHYS 4383 4391	allaiter
+#133	AnnotatorNotes T133	C0006147
+T134	PROC 4404 4411	traitée
+#134	AnnotatorNotes T134	C0087111
+T135	CHEM 4416 4423	TYSABRI
+#135	AnnotatorNotes T135	C1529600
+T136	LIVB 4453 4460	médecin
+#136	AnnotatorNotes T136	C0031831
+T137	LIVB 4472 4482	pharmacien
+#137	AnnotatorNotes T137	C0031323
+T138	CHEM 4511 4521	médicament
+#138	AnnotatorNotes T138	C0013227
+T139	OBJC 4538 4547	véhicules
+#139	AnnotatorNotes T139	C0175845
+T140	OBJC 4566 4574	machines
+#140	AnnotatorNotes T140	C0336779
+T141	CHEM 4575 4582	TYSABRI
+#141	AnnotatorNotes T141	C1529600
+T142	OBJC 4646 4655	véhicules
+#142	AnnotatorNotes T142	C0175845
+T143	OBJC 4674 4682	machines
+#143	AnnotatorNotes T143	C0336779
+T144	LIVB 4739 4746	médecin
+#144	AnnotatorNotes T144	C0031831
+T145	CHEM 4768 4775	TYSABRI
+#145	AnnotatorNotes T145	C1529600
+T146	CHEM 4778 4785	TYSABRI
+#146	AnnotatorNotes T146	C1529600
+T147	LIVB 4820 4827	médecin
+#147	AnnotatorNotes T147	C0031831
+T148	CHEM 4901 4908	TYSABRI
+#148	AnnotatorNotes T148	C1529600
+T149	PROC 4941 4947	notice
+#149	AnnotatorNotes T149	C0013191
+T150	LIVB 4968 4991	professionnels de santé
+#150	AnnotatorNotes T150	C1704312
+T151	CHEM 4996 5003	TYSABRI
+#151	AnnotatorNotes T151	C1529600
+T152	LIVB 5058 5066	patients
+#152	AnnotatorNotes T152	C0030705
+T153	DISO 5084 5103	réaction allergique
+#153	AnnotatorNotes T153	C1527304
+T154	CHEM 5106 5113	TYSABRI
+#154	AnnotatorNotes T154	C1529600
+T155	LIVB 5124 5131	médecin
+#155	AnnotatorNotes T155	C0031831
+T156	DISO 5157 5178	réactions allergiques
+#156	AnnotatorNotes T156	C1527304
+T157	PROC 5190 5199	perfusion
+#157	AnnotatorNotes T157	C0031001
+T158	PROC 5240 5249	perfusion
+#158	AnnotatorNotes T158	C0031001
+T159	PROC 5301 5311	traitement
+#159	AnnotatorNotes T159	C0087111
+T160	CHEM 5316 5323	TYSABRI
+#160	AnnotatorNotes T160	C1529600
+T161	PROC 5372 5382	traitement
+#161	AnnotatorNotes T161	C0087111
+T162	LIVB 5402 5410	patients
+#162	AnnotatorNotes T162	C0030705
+T163	PROC 5434 5444	perfusions
+#163	AnnotatorNotes T163	C0031001
+T164	CHEM 5448 5455	TYSABRI
+#164	AnnotatorNotes T164	C1529600
+T165	PROC 5493 5503	traitement
+#165	AnnotatorNotes T165	C0087111
+T166	DISO 5562 5581	réaction allergique
+#166	AnnotatorNotes T166	C1527304
+T167	PROC 5604 5614	traitement
+#167	AnnotatorNotes T167	C0087111
+T168	DISO 5622 5628	Signes
+#168	AnnotatorNotes T168	C0037088
+T169	CHEM 5644 5651	TYSABRI
+#169	AnnotatorNotes T169	C1529600
+T170	PROC 5678 5687	perfusion
+#170	AnnotatorNotes T170	C0031001
+T171	DISO 5692 5700	Éruption
+#171	AnnotatorNotes T171	C0302295
+T172	DISO 5704 5717	démangeaisons
+#172	AnnotatorNotes T172	C0033774
+T173	DISO 5720 5729	urticaire
+#173	AnnotatorNotes T173	C0042109
+T174	ANAT 5743 5749	visage
+#174	AnnotatorNotes T174	C0015450
+T175	ANAT 5756 5762	lèvres
+#175	AnnotatorNotes T175	C0023759
+T176	ANAT 5772 5778	langue
+#176	AnnotatorNotes T176	C0040408
+T177	DISO 5781 5806	Difficultés respiratoires
+#177	AnnotatorNotes T177	C0035204
+T178	DISO 5809 5816	Douleur
+#178	AnnotatorNotes T178	C0030193
+T179	DISO 5820 5835	gêne thoracique
+#179	AnnotatorNotes T179	C0235710
+T180	PHYS 5871 5889	tension artérielle
+#180	AnnotatorNotes T180	C0005823
+T181	LIVB 5912 5919	médecin
+#181	AnnotatorNotes T181	C0031831
+T182	LIVB 5929 5939	infirmière
+#182	AnnotatorNotes T182	C0028661
+T183	PHYS 5967 5985	tension artérielle
+#183	AnnotatorNotes T183	C0005823
+T184	DISO 303 318;331 339	engourdissement des bras
+#184	AnnotatorNotes T184	C0587058
+T185	DISO 303 318;343 353	engourdissement des jambes
+#185	AnnotatorNotes T185	C0857160
+T186	DISO 472 483;496 511	difficultés à se concentrer
+#186	AnnotatorNotes T186	C0423044
+T187	DISO 472 492	difficultés à penser
+#187	AnnotatorNotes T187	C0233632
+T188	ANAT 606 617	musculaires
+#188	AnnotatorNotes T188	C0026845
+T189	DISO 527 534;544 553	douleur chronique
+#189	AnnotatorNotes T189	C0150055
+T191	DISO 3068 3079;3094 3109	changements de comportement
+#191	AnnotatorNotes T191	C0542299
+T192	DISO 4217 4226;4238 4247	grossesse suspectée
+#192	AnnotatorNotes T192	C0425965
+T193	DISO 4217 4226;4251 4260	grossesse envisagée
+#193	AnnotatorNotes T193	C0032992
+T194	DISO 4217 4235	grossesse en cours
+#194	AnnotatorNotes T194	C0549169
+T195	DISO 5734 5739	œdème
+#195	AnnotatorNotes T195	C0013604
+T196	DISO 5734 5749	œdème du visage
+#196	AnnotatorNotes T196	C0542571
+T197	DISO 5734 5739;5766 5778	œdème de la langue
+#197	AnnotatorNotes T197	C0151610
+T198	DISO 5734 5739;5752 5762	œdème des lèvres
+#198	AnnotatorNotes T198	C1304200

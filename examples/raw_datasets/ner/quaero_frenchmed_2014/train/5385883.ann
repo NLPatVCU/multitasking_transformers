@@ -1,0 +1,8 @@
+T1	PROC 3 12	dépistage
+#1	AnnotatorNotes T1	C1511790
+T2	PROC 19 37	diagnostic précoce
+#2	AnnotatorNotes T2	C0596473
+T3	PROC 19 29	diagnostic
+#3	AnnotatorNotes T3	C0430022
+T4	DISO 42 49	tumeurs
+#4	AnnotatorNotes T4	C0027651

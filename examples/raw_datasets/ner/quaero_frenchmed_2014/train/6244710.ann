@@ -1,0 +1,10 @@
+T1	DISO 0 10	Cylindrome
+#1	AnnotatorNotes T1	C1275214
+T2	ANAT 17 30	base du crâne
+#2	AnnotatorNotes T2	C0149543
+T3	ANAT 25 30	crâne
+#3	AnnotatorNotes T3	C0037303
+T4	DISO 33 61	manifestations neurologiques
+#4	AnnotatorNotes T4	C0027854
+T5	ANAT 48 61	neurologiques
+#5	AnnotatorNotes T5	C0027763

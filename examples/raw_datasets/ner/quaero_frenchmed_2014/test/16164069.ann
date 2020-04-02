@@ -1,0 +1,10 @@
+T1	DISO 0 12	Trouble aigu
+#1	AnnotatorNotes T1	C0001314
+T2	PHYS 18 24	parole
+#2	AnnotatorNotes T2	C0037817
+T3	DISO 27 36	Dysphonie
+#3	AnnotatorNotes T3	C1527344
+T4	PROC 51 63	diagnostique
+#4	AnnotatorNotes T4	C0011900
+T5	DISO 0 24	Trouble aigu d la parole
+#5	AnnotatorNotes T5	C0037822

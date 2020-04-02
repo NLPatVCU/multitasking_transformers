@@ -1,0 +1,16 @@
+T1	DISO 3 35	pseudo-polyarthrite rhizomélique
+#1	AnnotatorNotes T1	C1527406
+T2	DISO 38 62	rhumatisme inflammatoire
+#2	AnnotatorNotes T2	C0035436
+T3	DISO 38 48	rhumatisme
+#3	AnnotatorNotes T3	C0035435
+T4	DISO 49 62	inflammatoire
+#4	AnnotatorNotes T4	C0021368
+T5	ANAT 67 76	ceintures
+#5	AnnotatorNotes T5	C0427245
+T6	DISO 104 122	artérite temporale
+#6	AnnotatorNotes T6	C1956391
+T7	DISO 104 112	artérite
+#7	AnnotatorNotes T7	C0003860
+T8	ANAT 113 122	temporale
+#8	AnnotatorNotes T8	C0935456

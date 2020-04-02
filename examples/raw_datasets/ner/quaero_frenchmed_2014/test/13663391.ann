@@ -1,0 +1,6 @@
+T1	PROC 25 43	culture d' organes
+#1	AnnotatorNotes T1	C0029205
+T2	ANAT 35 43	 organes
+#2	AnnotatorNotes T2	C0178784
+T3	PROC 44 52	in vitro
+#3	AnnotatorNotes T3	C0681828

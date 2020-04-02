@@ -1,0 +1,16 @@
+T1	DISO 20 37	maladies animales
+#1	AnnotatorNotes T1	C0003047
+T2	DISO 20 28	maladies
+#2	AnnotatorNotes T2	C0012634
+T3	LIVB 29 37	animales
+#3	AnnotatorNotes T3	C0003062
+T4	GEOG 41 47	France
+#4	AnnotatorNotes T4	C0016674
+T5	PROC 102 113	prophylaxie
+#5	AnnotatorNotes T5	C0199176
+T6	DISO 120 138	tuberculose bovine
+#6	AnnotatorNotes T6	C0041307
+T7	DISO 120 131	tuberculose
+#7	AnnotatorNotes T7	C0041296
+T8	LIVB 132 138	bovine
+#8	AnnotatorNotes T8	C0007452

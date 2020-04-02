@@ -1,0 +1,8 @@
+T1	DISO 24 47	tuberculeux pulmonaires
+#1	AnnotatorNotes T1	C0041327
+T2	DISO 24 35	tuberculeux
+#2	AnnotatorNotes T2	C0041296
+T3	ANAT 36 47	pulmonaires
+#3	AnnotatorNotes T3	C0024109
+T4	CHEM 73 83	isoniazide
+#4	AnnotatorNotes T4	C0022209

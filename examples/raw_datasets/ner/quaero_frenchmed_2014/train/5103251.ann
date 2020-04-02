@@ -1,0 +1,10 @@
+T1	CHEM 16 26	isoniazide
+#1	AnnotatorNotes T1	C0022209
+T2	PROC 35 45	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 58 78	tuberculose oculaire
+#3	AnnotatorNotes T3	C0041322
+T4	DISO 58 69	tuberculose
+#4	AnnotatorNotes T4	C0041296
+T5	ANAT 70 78	oculaire
+#5	AnnotatorNotes T5	C0015392

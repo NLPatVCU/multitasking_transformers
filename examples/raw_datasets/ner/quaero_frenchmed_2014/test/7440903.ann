@@ -1,0 +1,10 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 10 19	protéines
+#2	AnnotatorNotes T2	C0033684
+T3	ANAT 20 30	lacrymales
+#3	AnnotatorNotes T3	C0022903
+T4	DISO 44 58	syndromes secs
+#4	AnnotatorNotes T4	C1527336
+T5	DISO 44 53	syndromes
+#5	AnnotatorNotes T5	C0039082

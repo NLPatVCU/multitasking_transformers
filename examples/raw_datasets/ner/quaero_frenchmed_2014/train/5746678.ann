@@ -1,0 +1,14 @@
+T1	DISO 0 27	Contraception intra-utérine
+#1	AnnotatorNotes T1	C0589595
+T2	PROC 0 13	Contraception
+#2	AnnotatorNotes T2	C0700589
+T3	ANAT 14 27	intra-utérine
+#3	AnnotatorNotes T3	C0694756
+T4	DEVI 36 45	appareils
+#4	AnnotatorNotes T4	C0025080
+T5	OBJC 46 56	plastiques
+#5	AnnotatorNotes T5	C0032167
+T6	ANAT 57 70	intra-utérins
+#6	AnnotatorNotes T6	C0694756
+T7	PROC 87 99	observations
+#7	AnnotatorNotes T7	C0302523

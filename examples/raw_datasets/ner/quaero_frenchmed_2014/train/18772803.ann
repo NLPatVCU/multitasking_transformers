@@ -1,0 +1,8 @@
+T1	PHYS 3 19	densité mammaire
+#1	AnnotatorNotes T1	C1659543
+T2	ANAT 11 19	mammaire
+#2	AnnotatorNotes T2	C0006141
+T3	PROC 53 56	IRM
+#3	AnnotatorNotes T3	C0024485
+T4	ANAT 60 64	sein
+#4	AnnotatorNotes T4	C0006141

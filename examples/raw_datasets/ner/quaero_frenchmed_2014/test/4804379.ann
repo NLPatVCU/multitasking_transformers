@@ -1,0 +1,14 @@
+T1	DISO 0 8	Sténoses
+#1	AnnotatorNotes T1	C1261287
+T2	ANAT 15 22	uretère
+#2	AnnotatorNotes T2	C0041951
+T3	DISO 59 80	cancers du col utérin
+#3	AnnotatorNotes T3	C0302592
+T4	DISO 59 66	cancers
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 70 80	col utérin
+#5	AnnotatorNotes T5	C0007874
+T6	ANAT 74 80	utérin
+#6	AnnotatorNotes T6	C0042149
+T7	DISO 0 22	Sténoses de l' uretère
+#7	AnnotatorNotes T7	C0521618

@@ -1,0 +1,8 @@
+T1	DISO 0 18	Hyperparathyroïdie
+#1	AnnotatorNotes T1	C0020502
+T2	DISO 22 52	parathyroïde intrathyroïdienne
+#2	AnnotatorNotes T2	C3272635
+T3	DISO 22 34	parathyroïde
+#3	AnnotatorNotes T3	C0271862
+T4	PROC 58 70	observations
+#4	AnnotatorNotes T4	C0302523

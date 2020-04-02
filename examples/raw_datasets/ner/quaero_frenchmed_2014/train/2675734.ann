@@ -1,0 +1,10 @@
+T1	DISO 0 12	Sclérodermie
+#1	AnnotatorNotes T1	C0011644
+T2	DISO 16 39	carcinomes épidermoïdes
+#2	AnnotatorNotes T2	C0007137
+T3	DISO 16 26	carcinomes
+#3	AnnotatorNotes T3	C0007097
+T4	ANAT 40 47	cutanés
+#4	AnnotatorNotes T4	C1123023
+T5	DISO 63 73	métastases
+#5	AnnotatorNotes T5	C0027627

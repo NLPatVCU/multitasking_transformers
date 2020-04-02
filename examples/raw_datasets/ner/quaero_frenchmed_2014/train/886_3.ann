@@ -1,0 +1,182 @@
+T1	CHEM 49 59	fluoxétine
+#1	AnnotatorNotes T1	C0016365
+T2	CHEM 92 101	comprimés
+#2	AnnotatorNotes T2	C0039225
+T3	PROC 114 124	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	PROC 183 225	techniques de modification du comportement
+#4	AnnotatorNotes T4	C2065025
+T5	CHEM 342 351	Comprimés
+#5	AnnotatorNotes T5	C0039225
+T6	LIVB 367 373	chiens
+#6	AnnotatorNotes T6	C0012984
+T7	CHEM 374 383	Reconcile
+#7	AnnotatorNotes T7	C1960278
+T8	CHEM 389 399	Fluoxétine
+#8	AnnotatorNotes T8	C0016365
+T9	CHEM 429 439	fluoxétine
+#9	AnnotatorNotes T9	C0016365
+T10	CHEM 470 479	Comprimés
+#10	AnnotatorNotes T10	C0039225
+T11	LIVB 495 501	chiens
+#11	AnnotatorNotes T11	C0012984
+T12	CHEM 502 511	Reconcile
+#12	AnnotatorNotes T12	C1960278
+T13	CHEM 518 528	Fluoxétine
+#13	AnnotatorNotes T13	C0016365
+T14	CHEM 558 568	fluoxétine
+#14	AnnotatorNotes T14	C0016365
+T15	CHEM 599 608	Comprimés
+#15	AnnotatorNotes T15	C0039225
+T16	LIVB 624 630	chiens
+#16	AnnotatorNotes T16	C0012984
+T17	CHEM 631 640	Reconcile
+#17	AnnotatorNotes T17	C1960278
+T18	CHEM 647 657	Fluoxétine
+#18	AnnotatorNotes T18	C0016365
+T19	CHEM 687 697	fluoxétine
+#19	AnnotatorNotes T19	C0016365
+T20	CHEM 728 737	Comprimés
+#20	AnnotatorNotes T20	C0039225
+T21	LIVB 753 759	chiens
+#21	AnnotatorNotes T21	C0012984
+T22	CHEM 760 769	Reconcile
+#22	AnnotatorNotes T22	C1960278
+T23	CHEM 776 786	Fluoxétine
+#23	AnnotatorNotes T23	C0016365
+T24	PROC 815 821	NOTICE
+#24	AnnotatorNotes T24	C0013191
+T25	CHEM 829 838	Reconcile
+#25	AnnotatorNotes T25	C1960278
+T26	CHEM 846 854	comprimé
+#26	AnnotatorNotes T26	C0994475
+T27	CHEM 881 888	couleur
+#27	AnnotatorNotes T27	C0009393
+T28	CHEM 923 932	comprimés
+#28	AnnotatorNotes T28	C0039225
+T29	CHEM 933 942	Reconcile
+#29	AnnotatorNotes T29	C1960278
+T30	PROC 980 990	traitement
+#30	AnnotatorNotes T30	C0087111
+T31	LIVB 1007 1012	chien
+#31	AnnotatorNotes T31	C0012984
+T32	DISO 1013 1033;995 1003	liés à la séparation troubles
+#32	AnnotatorNotes T32	C1527281
+T33	PHYS 1080 1090	défécation
+#33	AnnotatorNotes T33	C0011135
+T34	DISO 1102 1122	miction incontrôlées
+#34	AnnotatorNotes T34	C0085606
+T35	PHYS 1102 1109	miction
+#35	AnnotatorNotes T35	C0042034
+T36	PROC 1186 1227	programme de modification du comportement
+#36	AnnotatorNotes T36	C2065025
+T37	LIVB 1249 1260	vétérinaire
+#37	AnnotatorNotes T37	C0242856
+T38	DISO 1265 1284	miction irrégulière
+#38	AnnotatorNotes T38	C0042035
+T39	PHYS 1265 1272	miction
+#39	AnnotatorNotes T39	C0042034
+T40	DISO 1292 1296	gêne
+#40	AnnotatorNotes T40	C0234215
+T41	PHYS 1308 1315	miction
+#41	AnnotatorNotes T41	C0042034
+T42	DISO 1319 1352	signes du système nerveux central
+#42	AnnotatorNotes T42	C0234614
+T43	DISO 1355 1369	incoordination
+#43	AnnotatorNotes T43	C0520966
+T44	DISO 1372 1386	désorientation
+#44	AnnotatorNotes T44	C0233407
+T45	LIVB 1395 1406	vétérinaire
+#45	AnnotatorNotes T45	C0242856
+T46	PHYS 1425 1433	jugement
+#46	AnnotatorNotes T46	C0022423
+T47	LIVB 1482 1489	patient
+#47	AnnotatorNotes T47	C0030705
+T48	PROC 1495 1503	thérapie
+#48	AnnotatorNotes T48	C0087111
+T49	PROC 1551 1561	traitement
+#49	AnnotatorNotes T49	C0087111
+T50	CHEM 1598 1607	comprimés
+#50	AnnotatorNotes T50	C0039225
+T51	CHEM 1608 1617	Reconcile
+#51	AnnotatorNotes T51	C1960278
+T52	OBJC 1656 1666	nourriture
+#52	AnnotatorNotes T52	C0016452
+T53	LIVB 1713 1719	chiens
+#53	AnnotatorNotes T53	C0012984
+T54	OBJC 1784 1790	flacon
+#54	AnnotatorNotes T54	C0179376
+T55	LIVB 1799 1808	personnes
+#55	AnnotatorNotes T55	C0027361
+T56	DISO 1824 1840	hypersensibilité
+#56	AnnotatorNotes T56	C0020517
+T57	CHEM 1853 1863	fluoxétine
+#57	AnnotatorNotes T57	C0016365
+T58	CHEM 1898 1920	médicament vétérinaire
+#58	AnnotatorNotes T58	C0376438
+T59	CHEM 1898 1908	médicament
+#59	AnnotatorNotes T59	C0013227
+T60	CHEM 1929 1938	comprimés
+#60	AnnotatorNotes T60	C0039225
+T61	CHEM 1939 1948	Reconcile
+#61	AnnotatorNotes T61	C1960278
+T62	LIVB 1987 1993	chiens
+#62	AnnotatorNotes T62	C0012984
+T63	DISO 1994 2006	épileptiques
+#63	AnnotatorNotes T63	C0014544
+T64	PHYS 2020 2031	antécédents
+#64	AnnotatorNotes T64	C0262512
+T65	DISO 2035 2046	convulsions
+#65	AnnotatorNotes T65	C0009951
+T66	LIVB 2120 2128	conseils
+#66	AnnotatorNotes T66	C0010212
+T67	PHYS 2173 2185	interactions
+#67	AnnotatorNotes T67	C0687133
+T68	DISO 2205 2225	surdose accidentelle
+#68	AnnotatorNotes T68	C0151821
+T69	LIVB 2258 2269	vétérinaire
+#69	AnnotatorNotes T69	C0242856
+T70	PROC 2293 2315	thérapie symptomatique
+#70	AnnotatorNotes T70	C0730551
+T71	PROC 2293 2301	thérapie
+#71	AnnotatorNotes T71	C0087111
+T72	DISO 2302 2315	symptomatique
+#72	AnnotatorNotes T72	C1457887
+T73	OBJC 2353 2360	déchets
+#73	AnnotatorNotes T73	C0043045
+T74	CHEM 2422 2431	comprimés
+#74	AnnotatorNotes T74	C0039225
+T75	OBJC 2458 2464	flacon
+#75	AnnotatorNotes T75	C0179376
+T76	CHEM 2468 2472	HDPE
+#76	AnnotatorNotes T76	C0752345
+T77	OBJC 2482 2488	flacon
+#77	AnnotatorNotes T77	C0179376
+T78	CHEM 2502 2511	comprimés
+#78	AnnotatorNotes T78	C0039225
+T79	GEOG 2578 2586	Belgique
+#79	AnnotatorNotes T79	C0004950
+T80	GEOG 2607 2614	Benelux
+#80	AnnotatorNotes T80	C0682368
+T81	GEOG 2674 2684	Luxembourg
+#81	AnnotatorNotes T81	C0024176
+T82	GEOG 2707 2714	Benelux
+#82	AnnotatorNotes T82	C0682368
+T83	GEOG 4247 4255	Portugal
+#83	AnnotatorNotes T83	C0032729
+T84	GEOG 4395 4401	France
+#84	AnnotatorNotes T84	C0016674
+T85	GEOG 4408 4414	France
+#85	AnnotatorNotes T85	C0016674
+T86	GEOG 4453 4458	Paris
+#86	AnnotatorNotes T86	C0030561
+T87	DISO 1080 1090;1110 1122	défécation incontrôlées
+#87	AnnotatorNotes T87	C0426636
+T88	PHYS 1061 1073	vocalisation
+#88	AnnotatorNotes T88	C0234879
+T89	OBJC 1678 1688	aromatisés
+#89	AnnotatorNotes T89	C0982164 C0475332
+T90	ANAT 1329 1344	système nerveux
+#90	AnnotatorNotes T90	C0027763
+T91	DISO 129 158	troubles liés à la séparation
+#91	AnnotatorNotes T91	C1527281

@@ -1,0 +1,18 @@
+T1	DISO 0 12	Diverticules
+#1	AnnotatorNotes T1	C0012817
+T2	DISO 16 59	kystes arachnoïdiens rachidiens intraduraux
+#2	AnnotatorNotes T2	C0344485
+T3	DISO 16 47	kystes arachnoïdiens rachidiens
+#3	AnnotatorNotes T3	C0344484
+T4	DISO 16 36	kystes arachnoïdiens
+#4	AnnotatorNotes T4	C0078981
+T5	DISO 16 22	kystes
+#5	AnnotatorNotes T5	C0010709
+T6	ANAT 23 36	arachnoïdiens
+#6	AnnotatorNotes T6	C0003707
+T7	ANAT 37 47	rachidiens
+#7	AnnotatorNotes T7	C0037949
+T8	ANAT 48 59	intraduraux
+#8	AnnotatorNotes T8	C0013313
+T9	PROC 64 76	observations
+#9	AnnotatorNotes T9	C0700325

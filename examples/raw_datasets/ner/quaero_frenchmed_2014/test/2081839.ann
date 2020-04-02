@@ -1,0 +1,12 @@
+T1	PHEN 0 9	Résultats
+#1	AnnotatorNotes T1	C0849546
+T2	PROC 14 23	incisions
+#2	AnnotatorNotes T2	C0184898
+T3	PROC 44 91	correction chirurgicale des forts astigmatismes
+#3	AnnotatorNotes T3	C2069392
+T4	PROC 55 67	chirurgicale
+#4	AnnotatorNotes T4	C0543467
+T5	DISO 78 91	astigmatismes
+#5	AnnotatorNotes T5	C0004106
+T6	PROC 97 110	kératoplastie
+#6	AnnotatorNotes T6	C0010042

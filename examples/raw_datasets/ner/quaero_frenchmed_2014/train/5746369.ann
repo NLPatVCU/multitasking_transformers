@@ -1,0 +1,12 @@
+T1	CHEM 0 22	Leucine aminopeptidase
+#1	AnnotatorNotes T1	C0023402
+T2	CHEM 0 7	Leucine
+#2	AnnotatorNotes T2	C0023401
+T3	CHEM 8 22	aminopeptidase
+#3	AnnotatorNotes T3	C0002570
+T4	ANAT 50 58	epiderme
+#4	AnnotatorNotes T4	C0014520
+T5	LIVB 59 65	humain
+#5	AnnotatorNotes T5	C0086418
+T6	PROC 72 77	Etude
+#6	AnnotatorNotes T6	C2603343

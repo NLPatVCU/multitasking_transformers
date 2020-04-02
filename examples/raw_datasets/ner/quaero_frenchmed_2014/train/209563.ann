@@ -1,0 +1,16 @@
+T1	DISO 0 15	Pneumopéritoine
+#1	AnnotatorNotes T1	C0032320
+T3	DISO 39 50	fissuration
+#3	AnnotatorNotes T3	C0221245
+T4	DISO 54 64	ulcération
+#4	AnnotatorNotes T4	C1963256
+T5	ANAT 65 74	gastrique
+#5	AnnotatorNotes T5	C0038351
+T6	PROC 84 95	réanimation
+#6	AnnotatorNotes T6	C0035273
+T7	PROC 96 108	ventilatoire
+#7	AnnotatorNotes T7	C0841927
+T8	PHEN 114 122	pression
+#8	AnnotatorNotes T8	C0033095
+T9	DISO 54 74	ulcération gastrique
+#9	AnnotatorNotes T9	C0038358

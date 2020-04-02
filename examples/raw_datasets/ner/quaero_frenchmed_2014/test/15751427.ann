@@ -1,0 +1,10 @@
+T1	PROC 0 23	Prostatectomie radicale
+#1	AnnotatorNotes T1	C0194810
+T2	PROC 0 14	Prostatectomie
+#2	AnnotatorNotes T2	C0033573
+T3	PROC 29 39	dissection
+#3	AnnotatorNotes T3	C0012737
+T4	ANAT 60 68	prostate
+#4	AnnotatorNotes T4	C0033572
+T5	ANAT 76 95	vésicules séminales
+#5	AnnotatorNotes T5	C0036628

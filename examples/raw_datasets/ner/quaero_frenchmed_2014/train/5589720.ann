@@ -1,0 +1,6 @@
+T1	DISO 3 13	diagnostic
+#1	AnnotatorNotes T1	C0011900
+T2	PROC 14 29	bronchoscopique
+#2	AnnotatorNotes T2	C1827140
+T3	DISO 36 46	sarcoïdose
+#3	AnnotatorNotes T3	C0036202

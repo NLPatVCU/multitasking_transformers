@@ -1,0 +1,242 @@
+T1	PHEN 50 69	messages d ’ erreur
+#1	AnnotatorNotes T1	C1880552
+T2	OBJC 140 145	diode
+#2	AnnotatorNotes T2	C1708698
+T3	DEVI 191 201	dispositif
+#3	AnnotatorNotes T3	C0302713
+T4	PROC 208 217	appliquer
+#4	AnnotatorNotes T4	C0185125
+T5	ANAT 264 268	peau
+#5	AnnotatorNotes T5	C1123023
+T6	DISO 273 289	Hypersensibilité
+#6	AnnotatorNotes T6	C0020517
+T7	CHEM 302 318	substance active
+#7	AnnotatorNotes T7	C0574031
+T8	CHEM 335 345	excipients
+#8	AnnotatorNotes T8	C0015237
+T9	CHEM 350 356	IONSYS
+#9	AnnotatorNotes T9	C1726021
+T10	LIVB 388 395	patient
+#10	AnnotatorNotes T10	C0030705
+T11	DISO 426 435	surdosage
+#11	AnnotatorNotes T11	C0235822
+T12	CHEM 440 446	IONSYS
+#12	AnnotatorNotes T12	C1726021
+T13	OBJC 471 482	hospitalier
+#13	AnnotatorNotes T13	C0019994
+T14	PHEN 502 511	ingestion
+#14	AnnotatorNotes T14	C0232478
+T15	CHEM 530 533	gel
+#15	AnnotatorNotes T15	C0017243
+T16	CHEM 547 555	fentanyl
+#16	AnnotatorNotes T16	C0015846
+T17	DISO 575 590	hypoventilation
+#17	AnnotatorNotes T17	C3203358
+T18	LIVB 611 617	malade
+#18	AnnotatorNotes T18	C0030705
+T19	PHYS 636 641	décès
+#19	AnnotatorNotes T19	C0011065
+T20	CHEM 664 667	gel
+#20	AnnotatorNotes T20	C0017243
+T21	PHEN 683 690	contact
+#21	AnnotatorNotes T21	C0392367
+T22	CHEM 694 697	gel
+#22	AnnotatorNotes T22	C0016701
+T24	ANAT 706 712	bouche
+#24	AnnotatorNotes T24	C0226896
+T25	ANAT 720 729	muqueuses
+#25	AnnotatorNotes T25	C0026724
+T26	DEVI 771 781	dispositif
+#26	AnnotatorNotes T26	C0302713
+T27	CHEM 782 788	IONSYS
+#27	AnnotatorNotes T27	C1726021
+T28	CHEM 805 813	fentanyl
+#28	AnnotatorNotes T28	C0015846
+T29	DEVI 913 923	dispositif
+#29	AnnotatorNotes T29	C0302713
+T30	CHEM 924 930	IONSYS
+#30	AnnotatorNotes T30	C1726021
+T31	PROC 960 972	intervention
+#31	AnnotatorNotes T31	C1948041
+T32	PROC 981 1014	imagerie par résonance magnétique
+#32	AnnotatorNotes T32	C0024485
+T33	PROC 981 989	imagerie
+#33	AnnotatorNotes T33	C0079595
+T34	PHEN 994 1014	résonance magnétique
+#34	AnnotatorNotes T34	C0917874
+T35	PHEN 994 1003	résonance
+#35	AnnotatorNotes T35	C0678557
+T36	PHEN 1004 1014	magnétique
+#36	AnnotatorNotes T36	C0563532
+T37	PROC 1017 1020	IRM
+#37	AnnotatorNotes T37	C0024485
+T38	PROC 1024 1055	cardioversion ou défibrillation
+#38	AnnotatorNotes T38	C0013778
+T39	DISO 1085 1095	dépendance
+#39	AnnotatorNotes T39	C0038580
+T40	CHEM 1114 1120	IONSYS
+#40	AnnotatorNotes T40	C1726021
+T41	DISO 1125 1132	indiqué
+#41	AnnotatorNotes T41	C1444656
+T42	PROC 1152 1162	traitement
+#42	AnnotatorNotes T42	C0087111
+T43	DISO 1183 1190	risques
+#43	AnnotatorNotes T43	C0184544
+T44	DISO 1212 1222	dépendance
+#44	AnnotatorNotes T44	C0038580
+T45	DEVI 1299 1309	dispositif
+#45	AnnotatorNotes T45	C0302713
+T46	PROC 1319 1335	essais cliniques
+#46	AnnotatorNotes T46	C2603343
+T48	CHEM 1372 1402	médicaments dépresseurs du SNC
+#48	AnnotatorNotes T48	C0007681
+T49	DISO 1421 1427	risque
+#49	AnnotatorNotes T49	C0184544
+T50	DISO 1431 1454	dépression respiratoire
+#50	AnnotatorNotes T50	C0235063
+T51	DISO 1481 1500	Bronchite chronique
+#51	AnnotatorNotes T51	C0008677
+T52	DISO 1481 1490	Bronchite
+#52	AnnotatorNotes T52	C0006277
+T53	LIVB 1512 1520	patients
+#53	AnnotatorNotes T53	C0030705
+T54	DISO 1533 1552	bronchite chronique
+#54	AnnotatorNotes T54	C0008677
+T55	DISO 1533 1542	bronchite
+#55	AnnotatorNotes T55	C0006277
+T56	LIVB 1560 1568	patients
+#56	AnnotatorNotes T56	C0030705
+T57	DISO 1579 1589	affections
+#57	AnnotatorNotes T57	C0012634
+T58	PHYS 1598 1610	prédisposent
+#58	AnnotatorNotes T58	C0220898
+T59	DISO 1617 1632	hypoventilation
+#59	AnnotatorNotes T59	C3203358
+T60	DISO 1639 1658	effets indésirables
+#60	AnnotatorNotes T60	C0559546
+T61	LIVB 1703 1711	patients
+#61	AnnotatorNotes T61	C0030705
+T62	CHEM 1718 1726	opioïdes
+#62	AnnotatorNotes T62	C0242402
+T63	PHYS 1747 1758	stimulation
+#63	AnnotatorNotes T63	C0038337
+T64	ANAT 1763 1784	centres respiratoires
+#64	AnnotatorNotes T64	C0035216
+T65	PHYS 1771 1784	respiratoires
+#65	AnnotatorNotes T65	C0035203
+T66	PHYS 1801 1831	résistance des voies aériennes
+#66	AnnotatorNotes T66	C0001884
+T67	DISO 1836 1857	Traumatismes crâniens
+#67	AnnotatorNotes T67	C0018674
+T68	DISO 1861 1903	augmentation de la pression intracrânienne
+#68	AnnotatorNotes T68	C0151740
+T69	ANAT 1889 1903	intracrânienne
+#69	AnnotatorNotes T69	C0524466
+T70	CHEM 1910 1918	opioïdes
+#70	AnnotatorNotes T70	C0242402
+T71	LIVB 1962 1970	patients
+#71	AnnotatorNotes T71	C0030705
+T72	DISO 1987 2006	traumatisme crânien
+#72	AnnotatorNotes T72	C0018674
+T73	CHEM 2011 2017	IONSYS
+#73	AnnotatorNotes T73	C1726021
+T74	LIVB 2059 2067	patients
+#74	AnnotatorNotes T74	C0030705
+T75	DISO 2085 2101	tumeur cérébrale
+#75	AnnotatorNotes T75	C0006118
+T76	DISO 2085 2091	tumeur
+#76	AnnotatorNotes T76	C0027651
+T77	ANAT 2092 2101	cérébrale
+#77	AnnotatorNotes T77	C0006104
+T78	CHEM 2111 2119	fentanyl
+#78	AnnotatorNotes T78	C0015846
+T79	DISO 2139 2150	bradycardie
+#79	AnnotatorNotes T79	C0428977
+T80	DISO 2158 2169	hypotension
+#80	AnnotatorNotes T80	C0020649
+T81	PROC 2188 2198	administré
+#81	AnnotatorNotes T81	C1533734
+T82	LIVB 2224 2232	patients
+#82	AnnotatorNotes T82	C0030705
+T83	DISO 2277 2304	pathologie cardiovasculaire
+#83	AnnotatorNotes T83	C0007222
+T84	DISO 2277 2287	pathologie
+#84	AnnotatorNotes T84	C0012634
+T85	ANAT 2288 2304	cardiovasculaire
+#85	AnnotatorNotes T85	C0007226
+T86	CHEM 2320 2326	IONSYS
+#86	AnnotatorNotes T86	C1726021
+T87	LIVB 2370 2378	patients
+#87	AnnotatorNotes T87	C0030705
+T88	DISO 2393 2410	iléus paralytique
+#88	AnnotatorNotes T88	C0030446
+T89	DISO 2415 2437	Insuffisance hépatique
+#89	AnnotatorNotes T89	C0085605
+T90	ANAT 2428 2437	hépatique
+#90	AnnotatorNotes T90	C0023884
+T91	CHEM 2443 2451	fentanyl
+#91	AnnotatorNotes T91	C0015846
+T92	PHYS 2456 2466	métabolisé
+#92	AnnotatorNotes T92	C0025519
+T93	CHEM 2470 2481	métabolites
+#93	AnnotatorNotes T93	C0870883
+T94	ANAT 2504 2508	foie
+#94	AnnotatorNotes T94	C0023884
+T95	DISO 2513 2532	Insuffisance rénale
+#95	AnnotatorNotes T95	C1565489
+T96	ANAT 2526 2532	rénale
+#96	AnnotatorNotes T96	C0022646
+T97	CHEM 2552 2560	fentanyl
+#97	AnnotatorNotes T97	C0015846
+T98	PROC 2561 2571	administré
+#98	AnnotatorNotes T98	C1533734
+T99	PHYS 2576 2583	excrété
+#99	AnnotatorNotes T99	C0683141
+T100	ANAT 2593 2599	rénale
+#100	AnnotatorNotes T100	C0022646
+T101	ANAT 2663 2671	sériques
+#101	AnnotatorNotes T101	C0229671
+T102	PHEN 2697 2705	sécurité
+#102	AnnotatorNotes T102	C0036043
+T103	LIVB 2715 2723	patients
+#103	AnnotatorNotes T103	C0030705
+T104	PHYS 2733 2759	indice de masse corporelle
+#104	AnnotatorNotes T104	C1305855
+T105	DISO 2743 2748	masse
+#105	AnnotatorNotes T105	C0577559
+T106	LIVB 2749 2759	corporelle
+#106	AnnotatorNotes T106	C0242821
+T107	CHEM 2808 2814	IONSYS
+#107	AnnotatorNotes T107	C1726021
+T108	LIVB 2858 2866	patients
+#108	AnnotatorNotes T108	C0030705
+T109	DISO 2880 2891	hypoacousie
+#109	AnnotatorNotes T109	C1384666
+T110	DEVI 2957 2967	dispositif
+#110	AnnotatorNotes T110	C0302713
+T111	PROC 2972 2981	Chirurgie
+#111	AnnotatorNotes T111	C0543467
+T112	ANAT 2982 2992	thoracique
+#112	AnnotatorNotes T112	C0817096
+T113	ANAT 2996 3006	abdominale
+#113	AnnotatorNotes T113	C0000726
+T114	LIVB 3056 3064	patients
+#114	AnnotatorNotes T114	C0030705
+T115	PROC 3081 3090	chirurgie
+#115	AnnotatorNotes T115	C0543467
+T116	ANAT 3091 3101	thoracique
+#116	AnnotatorNotes T116	C0817096
+T117	ANAT 3105 3115	abdominale
+#117	AnnotatorNotes T117	C0000726
+T118	CHEM 3141 3147	IONSYS
+#118	AnnotatorNotes T118	C1726021
+T119	LIVB 3192 3200	patients
+#119	AnnotatorNotes T119	C0030705
+T120	DISO 3205 3218	Mucoviscidose
+#120	AnnotatorNotes T120	C0392164
+T121	DISO 2248 2261	bradyarythmie
+#121	AnnotatorNotes T121	C0079035
+T122	ANAT 1999 2006	crânien
+#122	AnnotatorNotes T122	C0037303
+T123	ANAT 1849 1857	crâniens
+#123	AnnotatorNotes T123	C0037303

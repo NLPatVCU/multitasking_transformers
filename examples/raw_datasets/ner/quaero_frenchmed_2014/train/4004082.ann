@@ -1,0 +1,16 @@
+T1	PROC 18 23	étude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 28 48	cancers oesophagiens
+#2	AnnotatorNotes T2	C0546837
+T3	DISO 28 35	cancers
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 36 48	oesophagiens
+#4	AnnotatorNotes T4	C0014876
+T5	DISO 49 60	multifocaux
+#5	AnnotatorNotes T5	C1302461
+T6	PROC 65 98	imprégnation au bleu de toluidine
+#6	AnnotatorNotes T6	C0523203
+T7	PROC 65 77	imprégnation
+#7	AnnotatorNotes T7	C0487602
+T8	CHEM 89 98	toluidine
+#8	AnnotatorNotes T8	C0040387

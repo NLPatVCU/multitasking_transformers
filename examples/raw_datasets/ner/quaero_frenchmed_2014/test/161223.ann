@@ -1,0 +1,18 @@
+T1	PROC 22 32	réparation
+#1	AnnotatorNotes T1	C1705181
+T2	PROC 37 49	éventrations
+#2	AnnotatorNotes T2	C0015258
+T3	ANAT 50 61	abdominales
+#3	AnnotatorNotes T3	C0000726
+T4	DISO 62 78	post-opératoires
+#4	AnnotatorNotes T4	C0231287
+T5	PROC 81 102	plastie aponévrotique
+#5	AnnotatorNotes T5	C0185424
+T6	PROC 81 88	plastie
+#6	AnnotatorNotes T6	C0278261
+T7	ANAT 89 102	aponévrotique
+#7	AnnotatorNotes T7	C0015641
+T8	PROC 118 126	prothèse
+#8	AnnotatorNotes T8	C0525024
+T9	PROC 144 156	observations
+#9	AnnotatorNotes T9	C0302523

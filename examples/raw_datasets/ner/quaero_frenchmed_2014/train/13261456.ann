@@ -1,0 +1,8 @@
+T1	CHEM 13 22	cortisone
+#1	AnnotatorNotes T1	C0010137
+T2	DISO 30 37	oestrus
+#2	AnnotatorNotes T2	C0014948
+T3	ANAT 89 103	utérus gravide
+#3	AnnotatorNotes T3	C0227812
+T4	LIVB 112 117	ratte
+#4	AnnotatorNotes T4	C0034721

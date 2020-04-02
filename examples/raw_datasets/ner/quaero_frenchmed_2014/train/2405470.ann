@@ -1,0 +1,10 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0430022
+T2	PHYS 31 52	pronostic des cancers
+#2	AnnotatorNotes T2	C1516221
+T3	DISO 45 52	cancers
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 56 66	col utérin
+#4	AnnotatorNotes T4	C0007874
+T5	DISO 45 66	cancers du col utérin
+#5	AnnotatorNotes T5	C0007873

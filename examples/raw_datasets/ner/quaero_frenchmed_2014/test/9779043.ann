@@ -1,0 +1,8 @@
+T1	PROC 21 47	vaccination pneumococcique
+#1	AnnotatorNotes T1	C0358314
+T2	PROC 21 32	vaccination
+#2	AnnotatorNotes T2	C0042196
+T3	LIVB 33 47	pneumococcique
+#3	AnnotatorNotes T3	C0038410
+T4	GEOG 82 88	France
+#4	AnnotatorNotes T4	C0016674

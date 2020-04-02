@@ -1,0 +1,26 @@
+T1	PHYS 0 21	Sécrétion d' oestrone
+#1	AnnotatorNotes T1	C3271406
+T2	PHEN 0 9	Sécrétion
+#2	AnnotatorNotes T2	C0036536
+T3	CHEM 13 21	oestrone
+#3	AnnotatorNotes T3	C0014942
+T4	CHEM 43 51	oestriol
+T5	CHEM 27 37	oestradiol
+#5	AnnotatorNotes T5	C0014912
+T6	CHEM 58 70	épi-oestriol
+#6	AnnotatorNotes T6	C1258727
+T7	ANAT 78 84	gonade
+#7	AnnotatorNotes T7	C0018067
+T8	DISO 94 104	atrophique
+#8	AnnotatorNotes T8	C0333641
+T9	ANAT 110 127	embryon de poulet
+#9	AnnotatorNotes T9	C0008046
+T10	ANAT 110 117	embryon
+#10	AnnotatorNotes T10	C0013935
+T11	LIVB 121 127	poulet
+#11	AnnotatorNotes T11	C0008051
+T12	PROC 145 153	in vitro
+#12	AnnotatorNotes T12	C0681828
+T13	PHYS 0 9;24 37	Sécrétion d' oestradiol
+#13	AnnotatorNotes T13	C3271400
+#4	AnnotatorNotes T4	C0014927

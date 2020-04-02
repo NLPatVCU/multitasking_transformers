@@ -1,0 +1,52 @@
+
+
+ L ’ interaction entre l ’ intégrine α 4β 1 et ses cibles est une composante importante de l ’ inflammation pathologique cérébrale , qui diminue avec l ’ inhibition de ces interactions . 
+ Dans le contexte de l ’ inflammation du système nerveux central ( SNC ) associée à la SEP , c ’ est l ’ interaction de l ’ intégrine α 4β 1 avec les VCAM - 1 , CS - 1 et ostéopontine qui sert de médiateur à l ’ adhésion ferme et la transmigration des leucocytes dans le parenchyme cérébral , pouvant perpétuer la cascade inflammatoire dans le tissu du SNC . 
+ TYSABRI est indiqué en monothérapie comme traitement de fond de la sclérose en plaques rémittente-récurrente afin de prévenir les poussées et retarder la progression du handicap . 
+ Compte tenu des problèmes de sécurité ( voir rubriques 4 . 4 et 4 . 8 ), le traitement est limité aux groupes de patients suivants : 
+ • Patients n ’ ayant pas répondu à un traitement complet et bien conduit par interféron bêta . 
+ Les patients doivent avoir présenté au moins 1 poussée au cours de l ’ année précédente alors qu ’ ils étaient sous traitement et doivent présenter au moins 9 lésions hyperintenses en T2 à l ’ IRM cérébrale ou au moins 1 lésion rehaussée après injection de Gadolinium . 
+ • Patients présentant une sclérose en plaques rémittente-récurrente sévère et d ’ évolution rapide , définie par 2 poussées invalidantes ou plus au cours d ’ une année associées à 1 ou plusieurs lésion ( s ) rehaussée ( s ) après injection de Gadolinium sur l ’ IRM cérébrale ou une augmentation significative de la charge lésionnelle en T2 par rapport à une IRM antérieure récente . 
+ L ’ efficacité en monothérapie a été évaluée au cours d ’ une étude de 2 ans ( étude AFFIRM ) randomisée , en double insu , contrôlée versus placebo , réalisée chez des patients atteints de SEP rémittente-récurrente ayant présenté au moins 1 poussée clinique au cours de l ’ année précédant l ’ inclusion dans l ’ étude , et dont le score EDSS ( Kurtzke Expanded Disability Status Scale , échelle d ’ évaluation du handicap ) était compris entre 0 et 5 . 
+ L ’ âge médian était de 37 ans et la durée médiane de la maladie de 5 ans . 
+ Des examens neurologiques ont été effectués toutes les 12 semaines et en cas de suspicion de poussées . 
+ Les examens IRM ( recherche de lésions rehaussées par gadolinium avec pondération en T1 et recherche de lésions hyperintenses en T2 ) ont été effectués tous les ans . 
+ Les caractéristiques et les résultats de l ’ étude sont présentés dans le tableau ci-dessous . 
+ SEP RR ( critères de McDonald ) 
+ Deux ans 
+ Handicap 
+ 12 semaines , critère d ’ évaluation principal ) 
+ ( p 
+ 11 Nombre moyen de lésions rehaussées 
+ Ces résultats ont été obtenus à partir d ’ une analyse post-hoc et doivent donc être 
+ Il n ’ y a pas de données disponibles sur la sévérité des poussées avant l ’ inclusion des patients dans l ’ étude . 
+ Après administration intraveineuse répétée d ’ une dose de 300 mg de natalizumab chez des patients souffrant de SEP , les concentrations sériques maximales moyennes ont été de 110 ± 52 μ g / ml . 
+ Les concentrations minimales moyennes à l ’ équilibre au cours de la période de traitement étaient comprises entre 23 μ g / ml et 29 μ g / ml . 
+ Le délai prévu pour atteindre l ’ équilibre était d ’ environ 36 semaines . 
+ Une analyse de pharmacocinétique de population a été effectuée sur des groupes de plus de 1 100 patients souffrant de SEP recevant des doses comprises entre 3 et 6 mg / kg de natalizumab . 
+ Parmi ces patients , 581 ont reçu une dose fixe de 300 mg en monothérapie . 
+ La clairance moyenne ± ET à l ’ équilibre était de 13 , 1 ± 5 , 0 ml / h , avec une demi-vie moyenne ± ET de 16 ± 4 jours . 
+ L ’ analyse a exploré les effets de covariables sélectionnées sur les paramètres pharmacocinétiques , notamment le poids , l ’ âge , le sexe , la fonction hépatique et rénale ainsi que la présence d ’ anticorps anti - natalizumab . 
+ Seuls le poids et la présence d ’ anticorps anti - natalizumab ont modifié l ’ élimination du natalizumab . 
+ L ’ effet du poids n ’ a pas été totalement proportionnel , puisqu ’ une variation de 43 % du poids a conduit à une variation de 31 % à 34 % de la clairance . 
+ Cette modification de la clairance n ’ a pas été cliniquement significative . 
+ La présence d ’ anticorps anti - natalizumab persistants a approximativement triplé la clairance du natalizumab , ce qui est cohérent avec la diminution des concentrations sériques de natalizumab observée chez les patients porteurs de ce type d ’ anticorps ( voir rubrique 4 . 8 ). 
+ Les paramètres pharmacocinétiques du natalizumab n ’ ont pas été étudiés chez l ’ enfant et chez l ’ insuffisant rénal ou hépatique . 
+ L ’ effet des échanges plasmatiques sur la clairance et les paramètres pharmacodynamiques du natalizumab a été évalué lors d ’ une étude chez 12 patients atteints de SEP . 
+ L ’ élimination du médicament après 3 échanges plasmatiques ( sur une période de 5 à 8 jours ) est estimée à environ 70 - 80 %. 
+ Ceci est à comparer au taux d ’ environ 40 % mesuré lors d ’ études antérieures dans lesquelles les dosages avaient été effectués après arrêt du traitement , sur une période d ’ observation identique . 
+ L ’ impact des échanges plasmatiques sur la reprise de la migration lymphocytaire et par conséquent leur utilité clinique ne sont pas connus . 
+ Du fait de l ’ activité pharmacologique du natalizumab , une modification de la circulation des lymphocytes , une augmentation des globules blancs ainsi qu ’ une hypersplénie ont été observées dans la plupart des études in vivo . 
+ Ces modifications ont été réversibles et n ’ ont pas semblé provoquer d ’ effets toxiques . 
+ 12 Dans les études réalisées chez la souris , l ’ administration de natalizumab n ’ a pas provoqué de croissance ni d ’ apparition de métastases de tumeurs de type mélanome ou leucémie lymphoblastique . 
+ Le natalizumab n ’ a exercé aucun effet clastogène ou mutagène dans les tests d ’ Ames ou dans les tests d ’ aberrations chromosomiques de cellules humaines . 
+ Il n ’ a , par ailleurs , présenté aucun effet dans les essais in vitro de prolifération de lignées tumorales intégrine α 4 - positives et aucune cytotoxicité . 
+ Aucun effet sur les taux d ’ avortements n ’ a été observé dans aucune autre étude . 
+ Une étude chez la femelle singe cynomolgus gravide a mis en évidence des modifications fœtales attribuées au natalizumab , notamment une faible anémie , une diminution des plaquettes , une augmentation du poids de la rate ainsi qu ’ une diminution du poids du foie et du thymus . 
+ Ces modifications ont été associées à une augmentation de l ’ hématopoïèse extramédullaire splénique , ainsi qu ’ à une atrophie du thymus et à une diminution de l ’ hématopoïèse hépatique . 
+ Le taux des plaquettes était également diminué chez les nouveau-nés de mères traitées par le natalizumab jusqu ’ à la mise-bas , cependant il n ’ a pas été observé d ’ anémie chez ces nouveau-nés . 
+ Toutes ces modifications observées à des doses supérieures à celles utilisées chez l ’ homme ont disparu après élimination du natalizumab . 
+ Phosphate de sodium , monobasique , monohydraté Phosphate de sodium , dibasique , heptahydraté Chlorure de sodium Polysorbate 80 ( E433 ) Eau pour préparation injectable . 
+ TYSABRI ne doit pas être mélangé avec d ’ autres médicaments à l ’ exception de ceux mentionnés dans la rubrique 6 . 6 . 
+
+

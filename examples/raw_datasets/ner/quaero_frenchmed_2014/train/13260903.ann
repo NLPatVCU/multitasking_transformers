@@ -1,0 +1,6 @@
+T1	DISO 0 22	Tuberculose bilatérale
+#1	AnnotatorNotes T1	C2118474
+T2	PROC 23 30	traitée
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 121 129	résultat
+#3	AnnotatorNotes T3	C2825142

@@ -1,0 +1,10 @@
+T1	PROC 31 43	anesthésique
+#1	AnnotatorNotes T1	C0002903
+T2	DISO 50 56	effets
+#2	AnnotatorNotes T2	C1313864
+T3	CHEM 63 72	clonidine
+#3	AnnotatorNotes T3	C0009014
+T4	PHYS 80 99	pression artérielle
+#4	AnnotatorNotes T4	C0871470
+T5	LIVB 103 106	rat
+#5	AnnotatorNotes T5	C0086893

@@ -1,0 +1,6 @@
+T1	PROC 0 23	Commissurotomie mitrale
+#1	AnnotatorNotes T1	C0190080
+T2	DEVI 39 49	dilatateur
+#2	AnnotatorNotes T2	C0180431
+T3	LIVB 97 105	patients
+#3	AnnotatorNotes T3	C0030705

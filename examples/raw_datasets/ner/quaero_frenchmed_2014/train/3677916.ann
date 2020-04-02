@@ -1,0 +1,8 @@
+T1	DISO 0 12	Pancréatites
+#1	AnnotatorNotes T1	C0030305
+T2	DISO 16 43	hyperparathyroïdie primaire
+#2	AnnotatorNotes T2	C0221002
+T3	DISO 16 34	hyperparathyroïdie
+#3	AnnotatorNotes T3	C0020502
+T4	DISO 49 61	pancréatites
+#4	AnnotatorNotes T4	C0030305

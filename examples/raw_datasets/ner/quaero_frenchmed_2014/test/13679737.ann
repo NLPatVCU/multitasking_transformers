@@ -1,0 +1,10 @@
+T1	DEVI 0 43	Prothèse totale bicompartimentaire de coude
+#1	AnnotatorNotes T1	C1740246
+T2	DEVI 0 8	Prothèse
+#2	AnnotatorNotes T2	C0175649
+T3	ANAT 38 43	coude
+#3	AnnotatorNotes T3	C0013769
+T4	DEVI 44 50	GUEPAR
+#4	AnnotatorNotes T4	C2004173
+T6	DISO 71 94	polyarthrite rhumatoïde
+#6	AnnotatorNotes T6	C1405320

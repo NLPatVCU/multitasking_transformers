@@ -1,0 +1,14 @@
+T1	GEOG 24 30	Europe
+#1	AnnotatorNotes T1	C0015176
+T2	PHEN 49 58	processus
+#2	AnnotatorNotes T2	C1522240
+T3	PROC 63 79	soins infirmiers
+#3	AnnotatorNotes T3	C0028682
+T4	LIVB 69 79	infirmiers
+#4	AnnotatorNotes T4	C0028676
+T5	PROC 143 159	soins infirmiers
+#5	AnnotatorNotes T5	C0028682
+T6	LIVB 149 159	infirmiers
+#6	AnnotatorNotes T6	C0028676
+T7	GEOG 201 207	Europe
+#7	AnnotatorNotes T7	C0015176

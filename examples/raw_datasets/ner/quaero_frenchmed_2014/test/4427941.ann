@@ -1,0 +1,10 @@
+T1	PROC 0 22	Traitement chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 0 10	Traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 27 44	ulcères variqueux
+#3	AnnotatorNotes T3	C0042344
+T4	DISO 27 34	ulcères
+#4	AnnotatorNotes T4	C0041582
+T5	DISO 35 44	variqueux
+#5	AnnotatorNotes T5	C0042345

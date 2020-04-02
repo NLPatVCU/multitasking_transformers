@@ -1,0 +1,12 @@
+T1	DISO 0 9	Chondrite
+#1	AnnotatorNotes T1	C0008439
+T2	ANAT 14 22	oreilles
+#2	AnnotatorNotes T2	C0013443
+T3	LIVB 32 40	patiente
+#3	AnnotatorNotes T3	C0030705
+T4	DISO 56 96	syndrome primaire des antiphospholipides
+#4	AnnotatorNotes T4	C0085278
+T5	DISO 56 64	syndrome
+#5	AnnotatorNotes T5	C0039082
+T6	DISO 99 103	SAPL
+#6	AnnotatorNotes T6	C0085278

@@ -1,0 +1,8 @@
+T1	ANAT 38 42	rate
+#1	AnnotatorNotes T1	C0037993
+T2	CHEM 60 71	corticoides
+#2	AnnotatorNotes T2	C0001617
+T3	LIVB 88 96	rongeurs
+#3	AnnotatorNotes T3	C0035804
+T4	PROC 99 104	etude
+#4	AnnotatorNotes T4	C2603343

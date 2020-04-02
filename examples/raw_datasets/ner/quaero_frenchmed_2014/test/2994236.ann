@@ -1,0 +1,10 @@
+T1	PROC 8 20	explorations
+#1	AnnotatorNotes T1	C0022885
+T2	PROC 30 41	traitements
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 51 66	cancers du foie
+#3	AnnotatorNotes T3	C0345904
+T4	DISO 51 58	cancers
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 62 66	foie
+#5	AnnotatorNotes T5	C0023884

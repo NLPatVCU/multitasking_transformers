@@ -1,0 +1,204 @@
+T1	CHEM 83 90	TYSABRI
+#1	AnnotatorNotes T1	C1529600
+T2	OBJC 99 105	flacon
+#2	AnnotatorNotes T2	C0179376
+T3	CHEM 146 156	caoutchouc
+#3	AnnotatorNotes T3	C2888153
+T4	CHEM 159 170	bromobutyle
+#4	AnnotatorNotes T4	C0640129
+T5	CHEM 196 205	aluminium
+#5	AnnotatorNotes T5	C0002367
+T6	CHEM 225 232	capsule
+#6	AnnotatorNotes T6	C1138403
+T7	CHEM 294 301	TYSABRI
+#7	AnnotatorNotes T7	C1529600
+T8	OBJC 317 323	flacon
+#8	AnnotatorNotes T8	C0179376
+T9	OBJC 371 377	flacon
+#9	AnnotatorNotes T9	C0179376
+T10	CHEM 423 433	particules
+#10	AnnotatorNotes T10	C0597177
+T11	OBJC 448 455	liquide
+#11	AnnotatorNotes T11	C0302908
+T12	PROC 544 551	asepsie
+#12	AnnotatorNotes T12	C0003974
+T13	OBJC 569 577	solution
+#13	AnnotatorNotes T13	C0037633
+T14	CHEM 581 588	TYSABRI
+#14	AnnotatorNotes T14	C1529600
+T15	PROC 594 617	perfusion intraveineuse
+#15	AnnotatorNotes T15	C0455142
+T16	PROC 620 622	IV
+#16	AnnotatorNotes T16	C0455142
+T17	CHEM 639 646	capsule
+#17	AnnotatorNotes T17	C0006935
+T18	OBJC 650 656	flacon
+#18	AnnotatorNotes T18	C0179376
+T19	DEVI 677 685	aiguille
+#19	AnnotatorNotes T19	C0027551
+T20	DEVI 692 700	seringue
+#20	AnnotatorNotes T20	C0039142
+T21	OBJC 709 715	flacon
+#21	AnnotatorNotes T21	C0179376
+T22	CHEM 751 761	caoutchouc
+#22	AnnotatorNotes T22	C2888153
+T23	OBJC 782 790	solution
+#23	AnnotatorNotes T23	C0037633
+T24	PROC 805 814	perfusion
+#24	AnnotatorNotes T24	C0031001
+T25	OBJC 840 848	solution
+#25	AnnotatorNotes T25	C0037633
+T26	PROC 863 872	perfusion
+#26	AnnotatorNotes T26	C0031001
+T27	CHEM 890 909	solution injectable
+#27	AnnotatorNotes T27	C0086466
+T28	PROC 899 909	injectable
+#28	AnnotatorNotes T28	C0021485
+T29	CHEM 913 931	chlorure de sodium
+#29	AnnotatorNotes T29	C0037494
+T30	CHEM 958 965	TYSABRI
+#30	AnnotatorNotes T30	C1529600
+T31	CHEM 1007 1018	médicaments
+#31	AnnotatorNotes T31	C0013227
+T32	CHEM 1022 1030	diluants
+#32	AnnotatorNotes T32	C0304221
+T33	CHEM 1104 1114	particules
+#33	AnnotatorNotes T33	C0597177
+T34	CHEM 1199 1209	particules
+#34	AnnotatorNotes T34	C0597177
+T35	PROC 1329 1337	dilution
+#35	AnnotatorNotes T35	C0079240
+T36	OBJC 1437 1445	solution
+#36	AnnotatorNotes T36	C0037633
+T37	PROC 1492 1501	perfusion
+#37	AnnotatorNotes T37	C0031001
+T38	OBJC 1509 1517	solution
+#38	AnnotatorNotes T38	C0037633
+T39	PROC 1635 1644	perfusion
+#39	AnnotatorNotes T39	C0031001
+T40	CHEM 1698 1717	solution injectable
+#40	AnnotatorNotes T40	C0086466
+T41	PROC 1707 1717	injectable
+#41	AnnotatorNotes T41	C0021485
+T42	CHEM 1721 1739	chlorure de sodium
+#42	AnnotatorNotes T42	C0037494
+T43	PROC 1810 1816	traité
+#43	AnnotatorNotes T43	C0087111
+T44	GEOG 1951 1958	Irlande
+#44	AnnotatorNotes T44	C0022067
+T45	CHEM 1996 2006	médicament
+#45	AnnotatorNotes T45	C0013227
+T46	GEOG 2059 2069	européenne
+#46	AnnotatorNotes T46	C0015176
+T47	GEOG 2205 2208	USA
+#47	AnnotatorNotes T47	C0041703
+T48	GEOG 2266 2274	Pays-Bas
+#48	AnnotatorNotes T48	C0027778
+T49	GEOG 2353 2361	Danemark
+#49	AnnotatorNotes T49	C0011318
+T50	LIVB 2576 2584	médecins
+#50	AnnotatorNotes T50	C0031831
+T51	CHEM 2617 2624	TYSABRI
+#51	AnnotatorNotes T51	C1529600
+T52	CHEM 2727 2737	médicament
+#52	AnnotatorNotes T52	C0013227
+T53	CHEM 2765 2772	TYSABRI
+#53	AnnotatorNotes T53	C1529600
+T54	LIVB 2781 2788	patient
+#54	AnnotatorNotes T54	C0030705
+T55	CHEM 2822 2829	TYSABRI
+#55	AnnotatorNotes T55	C1529600
+T56	DISO 2901 2911	Infections
+#56	AnnotatorNotes T56	C0021311
+T57	DISO 2953 2957	LEMP
+#57	AnnotatorNotes T57	C0023524
+T58	DISO 2974 2984	Diagnostic
+#58	AnnotatorNotes T58	C0011900
+T59	DISO 2988 2992	LEMP
+#59	AnnotatorNotes T59	C0023524
+T60	DISO 3023 3027	LEMP
+#60	AnnotatorNotes T60	C0023524
+T61	DISO 3047 3050	SEP
+#61	AnnotatorNotes T61	C0026769
+T62	DISO 3094 3098	LEMP
+#62	AnnotatorNotes T62	C0023524
+T63	DISO 3122 3146	infections opportunistes
+#63	AnnotatorNotes T63	C0029118
+T64	DISO 3122 3132	infections
+#64	AnnotatorNotes T64	C0021311
+T65	PROC 3209 3226	pharmacovigilance
+#65	AnnotatorNotes T65	C3178990
+T66	CHEM 3281 3291	médicament
+#66	AnnotatorNotes T66	C0013227
+T67	PROC 3455 3472	pharmacovigilance
+#67	AnnotatorNotes T67	C3178990
+T68	PROC 3500 3517	pharmacovigilance
+#68	AnnotatorNotes T68	C3178990
+T69	DISO 3650 3673	risques des médicaments
+#69	AnnotatorNotes T69	C0184544
+T70	CHEM 3662 3673	médicaments
+#70	AnnotatorNotes T70	C0013227
+T71	LIVB 3682 3688	humain
+#71	AnnotatorNotes T71	C0086418
+T72	CHEM 3693 3700	TYSABRI
+#72	AnnotatorNotes T72	C1529600
+T73	OBJC 3708 3716	solution
+#73	AnnotatorNotes T73	C0037633
+T74	PROC 3731 3740	perfusion
+#74	AnnotatorNotes T74	C0031001
+T75	CHEM 3741 3752	natalizumab
+#75	AnnotatorNotes T75	C1172734
+T76	OBJC 3762 3768	flacon
+#76	AnnotatorNotes T76	C0179376
+T77	CHEM 3810 3821	natalizumab
+#77	AnnotatorNotes T77	C1172734
+T78	CHEM 3840 3859	phosphate de sodium
+#78	AnnotatorNotes T78	C0074757
+T79	CHEM 3890 3909	phosphate de sodium
+#79	AnnotatorNotes T79	C0074757
+T80	CHEM 3939 3957	chlorure de sodium
+#80	AnnotatorNotes T80	C0037494
+T81	CHEM 3960 3974	polysorbate 80
+#81	AnnotatorNotes T81	C0032601
+T82	CHEM 3987 3990	eau
+#82	AnnotatorNotes T82	C0043047
+T83	CHEM 3996 4018	préparation injectable
+#83	AnnotatorNotes T83	C0086466
+T84	PROC 4008 4018	injectable
+#84	AnnotatorNotes T84	C0021485
+T85	PROC 4036 4045	perfusion
+#85	AnnotatorNotes T85	C0031001
+T86	GEOG 4119 4126	Irlande
+#86	AnnotatorNotes T86	C0022067
+T87	PROC 4201 4211	traitement
+#87	AnnotatorNotes T87	C0087111
+T88	CHEM 4286 4293	TYSABRI
+#88	AnnotatorNotes T88	C1529600
+T89	DISO 4356 4375	arrêt du traitement
+#89	AnnotatorNotes T89	C1699848
+T90	PROC 4365 4375	traitement
+#90	AnnotatorNotes T90	C0087111
+T91	CHEM 4396 4403	TYSABRI
+#91	AnnotatorNotes T91	C1529600
+T92	CHEM 4459 4466	TYSABRI
+#92	AnnotatorNotes T92	C1529600
+T93	DISO 2901 2911;2924 2937	Infections opportunistes
+#93	AnnotatorNotes T93	C0029118
+T94	CHEM 3977 3981	E433
+#94	AnnotatorNotes T94	C0032601
+T95	PROC 1535 1566	perfusée par voie intraveineuse
+#95	AnnotatorNotes T95	C0021440
+T96	DEVI 1670 1688	voie intraveineuse
+#96	AnnotatorNotes T96	C0179768
+T97	PROC 1356 1361	dilué
+#97	AnnotatorNotes T97	C0079240
+T98	PROC 1242 1247	dilué
+#98	AnnotatorNotes T98	C0079240
+T99	PROC 1142 1156	administration
+#99	AnnotatorNotes T99	C3469597
+T100	PROC 1069 1074	dilué
+#100	AnnotatorNotes T100	C0079240
+T101	PROC 793 799	diluer
+#101	AnnotatorNotes T101	C0079240
+T102	PROC 851 857	diluer
+#102	AnnotatorNotes T102	C0079240

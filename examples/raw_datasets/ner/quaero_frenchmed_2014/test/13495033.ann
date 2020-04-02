@@ -1,0 +1,10 @@
+T1	DISO 7 17	diagnostic
+#1	AnnotatorNotes T1	C0011900
+T2	DISO 24 52	hypertension intra-cranienne
+#2	AnnotatorNotes T2	C0151740
+T3	DISO 24 36	hypertension
+#3	AnnotatorNotes T3	C0020538
+T4	ANAT 37 52	intra-cranienne
+#4	AnnotatorNotes T4	C0524466
+T5	DISO 53 62	chronique
+#5	AnnotatorNotes T5	C0008679

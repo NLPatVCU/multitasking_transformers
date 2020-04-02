@@ -1,0 +1,10 @@
+T1	PROC 26 46	chirurgie abdominale
+#1	AnnotatorNotes T1	C0198482
+T2	PROC 26 35	chirurgie
+#2	AnnotatorNotes T2	C0543467
+T3	ANAT 36 46	abdominale
+#3	AnnotatorNotes T3	C0000726
+T4	LIVB 71 83	anesthésiste
+#4	AnnotatorNotes T4	C1550495
+T5	PHYS 0 12	Récupération
+#5	AnnotatorNotes T5	C2004454

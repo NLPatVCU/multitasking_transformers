@@ -1,0 +1,10 @@
+T1	DISO 0 30	Hyperparathyroïdies primitives
+#1	AnnotatorNotes T1	C0221002
+T2	DISO 0 19	Hyperparathyroïdies
+#2	AnnotatorNotes T2	C0020502
+T4	DISO 81 88	lésions
+#4	AnnotatorNotes T4	C0221198
+T5	ANAT 89 106	parathyroïdiennes
+#5	AnnotatorNotes T5	C0030518
+T3	PROC 66 76	diagnostic
+#3	AnnotatorNotes T3	C0430022

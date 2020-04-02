@@ -1,0 +1,20 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PHEN 21 31	électrique
+#2	AnnotatorNotes T2	C0013790
+T3	ANAT 38 55	musculature lisse
+#3	AnnotatorNotes T3	C1267092
+T4	ANAT 38 49	musculature
+#4	AnnotatorNotes T4	C0026845
+T5	ANAT 62 69	estomac
+#5	AnnotatorNotes T5	C0038351
+T6	ANAT 72 78	réseau
+#6	AnnotatorNotes T6	C1184808
+T7	LIVB 97 106	ruminants
+#7	AnnotatorNotes T7	C0035950
+T8	PROC 122 140	stimulation vagale
+#8	AnnotatorNotes T8	C1293903
+T9	PHEN 122 133	stimulation
+#9	AnnotatorNotes T9	C1948023
+T10	ANAT 134 140	vagale
+#10	AnnotatorNotes T10	C0042276

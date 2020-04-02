@@ -1,0 +1,10 @@
+T1	LIVB 28 36	receveur
+#1	AnnotatorNotes T1	C1709854
+T2	ANAT 43 60	allogreffon rénal
+#2	AnnotatorNotes T2	C0564454
+T3	PROC 43 54	allogreffon
+#3	AnnotatorNotes T3	C0040739
+T4	ANAT 55 60	rénal
+#4	AnnotatorNotes T4	C0022646
+T5	PHYS 3 24	réponse immunologique
+#5	AnnotatorNotes T5	C0301872

@@ -1,0 +1,12 @@
+T1	CHEM 25 31	L-Dopa
+#1	AnnotatorNotes T1	C0023570
+T2	CHEM 40 49	amantadie
+#2	AnnotatorNotes T2	C0002403
+T3	CHEM 56 73	anticholinegiques
+#3	AnnotatorNotes T3	C0242896
+T4	OBJC 86 98	associations
+#4	AnnotatorNotes T4	C0453882
+T5	DISO 108 131	syndromes parkinsoniens
+#5	AnnotatorNotes T5	C0242422
+T6	DISO 108 117	syndromes
+#6	AnnotatorNotes T6	C0039082

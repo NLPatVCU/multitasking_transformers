@@ -1,0 +1,6 @@
+T1	PROC 81 104	interventions biliaires
+#1	AnnotatorNotes T1	C0005427
+T2	PROC 81 94	interventions
+#2	AnnotatorNotes T2	C0886296
+T3	ANAT 95 104	biliaires
+#3	AnnotatorNotes T3	C0005423

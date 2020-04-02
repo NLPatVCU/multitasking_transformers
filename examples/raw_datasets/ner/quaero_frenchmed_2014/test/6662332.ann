@@ -1,0 +1,14 @@
+T1	PROC 0 12	Dissolutions
+#1	AnnotatorNotes T1	C1285147
+T2	ANAT 29 36	calculs
+#2	AnnotatorNotes T2	C0006736
+T3	PHYS 39 53	Calcifications
+#3	AnnotatorNotes T3	C0006660
+T4	PROC 56 73	cholécystectomies
+#4	AnnotatorNotes T4	008320
+T5	PROC 82 92	traitement
+#5	AnnotatorNotes T5	C0087111
+T6	DISO 99 119	lithiase vésiculaire
+#6	AnnotatorNotes T6	C0947622
+T7	CHEM 127 152	acide chénodésoxycholique
+#7	AnnotatorNotes T7	C0008024

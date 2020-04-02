@@ -1,0 +1,14 @@
+T1	PROC 0 33	Imagerie par résonance magnétique
+#1	AnnotatorNotes T1	C0024485
+T2	PROC 0 8	Imagerie
+#2	AnnotatorNotes T2	C0011923
+T3	PHEN 13 33	résonance magnétique
+#3	AnnotatorNotes T3	C0917874
+T4	PHEN 23 33	magnétique
+#4	AnnotatorNotes T4	C0563532
+T5	DISO 37 53	cancer du rectum
+#5	AnnotatorNotes T5	C0007113
+T6	DISO 37 43	cancer
+#6	AnnotatorNotes T6	C0027651
+T7	ANAT 47 53	rectum
+#7	AnnotatorNotes T7	C0034896

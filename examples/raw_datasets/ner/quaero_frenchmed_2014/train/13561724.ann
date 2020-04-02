@@ -1,0 +1,10 @@
+T1	DISO 6 12	eczéma
+#1	AnnotatorNotes T1	C0013595
+T2	DISO 33 39	Eczéma
+#2	AnnotatorNotes T2	C0013595
+T3	DISO 43 52	acanthose
+#3	AnnotatorNotes T3	C0221270
+T4	LIVB 71 77	cobaye
+#4	AnnotatorNotes T4	C0085979
+T5	CHEM 107 127	dinitrochlorobenzene
+#5	AnnotatorNotes T5	C0012460

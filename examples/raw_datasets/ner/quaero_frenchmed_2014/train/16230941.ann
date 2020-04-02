@@ -1,0 +1,8 @@
+T1	DISO 0 17	Fibrome ossifiant
+#1	AnnotatorNotes T1	C0206640
+T2	ANAT 28 39	maxillaires
+#2	AnnotatorNotes T2	C0022359
+T3	DISO 43 63	hyperparathyroïdisme
+#3	AnnotatorNotes T3	C0020502
+T4	PROC 72 83	hémodialysé
+#4	AnnotatorNotes T4	C0019004

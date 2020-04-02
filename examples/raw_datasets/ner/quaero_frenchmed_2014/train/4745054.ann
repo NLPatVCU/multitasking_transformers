@@ -1,0 +1,12 @@
+T1	CHEM 35 55	acétoxycycloheximide
+#1	AnnotatorNotes T1	C0050467
+T2	PHYS 63 72	rétention
+#2	AnnotatorNotes T2	C0035280
+T3	PHYS 79 105	apprentissage instrumental
+#3	AnnotatorNotes T3	C0009651
+T4	PHYS 79 92	apprentissage
+#4	AnnotatorNotes T4	C0023185
+T5	DEVI 93 105	instrumental
+#5	AnnotatorNotes T5	C0348000
+T6	LIVB 114 120	souris
+#6	AnnotatorNotes T6	C0025929

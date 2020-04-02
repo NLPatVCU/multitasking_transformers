@@ -1,0 +1,10 @@
+T1	PROC 0 7	Analyse
+#1	AnnotatorNotes T1	C0936012
+T2	DISO 21 50	tumeurs de la moëlle épinière
+#2	AnnotatorNotes T2	C0037930
+T3	DISO 21 28	tumeurs
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 35 50	moëlle épinière
+#4	AnnotatorNotes T4	C0037925
+T5	ANAT 42 50	épinière
+#5	AnnotatorNotes T5	C1550235

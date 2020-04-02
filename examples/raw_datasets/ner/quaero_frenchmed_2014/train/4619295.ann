@@ -1,0 +1,8 @@
+T1	DISO 0 15	Spondylodiscite
+#1	AnnotatorNotes T1	C0012624
+T2	DISO 43 53	septicémie
+#2	AnnotatorNotes T2	C0036690
+T3	LIVB 56 72	Candida albicans
+#3	AnnotatorNotes T3	C0006837
+T4	LIVB 56 63	Candida
+#4	AnnotatorNotes T4	C0006836

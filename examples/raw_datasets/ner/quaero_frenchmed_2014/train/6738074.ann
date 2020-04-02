@@ -1,0 +1,8 @@
+T1	CHEM 0 11	Nicardipine
+#1	AnnotatorNotes T1	C0028005
+T2	PHYS 14 35	compliance vasculaire
+#2	AnnotatorNotes T2	C1659986
+T3	DISO 59 81	hypertension génétique
+#3	AnnotatorNotes T3	C0598428
+T4	LIVB 90 93	rat
+#4	AnnotatorNotes T4	C0034721

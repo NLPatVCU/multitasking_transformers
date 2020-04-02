@@ -1,0 +1,12 @@
+T1	PROC 3 13	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 18 44	helminthiases intestinales
+#2	AnnotatorNotes T2	C1411245
+T3	ANAT 32 44	intestinales
+#3	AnnotatorNotes T3	C0021853
+T4	CHEM 48 59	mébendazole
+#4	AnnotatorNotes T4	C0025023
+T5	LIVB 76 84	patients
+#5	AnnotatorNotes T5	C0030705
+T6	PROC 85 92	traités
+#6	AnnotatorNotes T6	C0087111

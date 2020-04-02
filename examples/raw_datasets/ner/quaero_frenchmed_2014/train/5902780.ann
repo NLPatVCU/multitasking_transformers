@@ -1,0 +1,12 @@
+T1	DISO 3 10	diabete
+#1	AnnotatorNotes T1	C0011847
+T2	LIVB 17 23	enfant
+#2	AnnotatorNotes T2	C0008059 C0008100
+T3	LIVB 33 43	adolescent
+#3	AnnotatorNotes T3	C0205653
+T4	DISO 92 101	problemes
+#4	AnnotatorNotes T4	C0033213
+T5	PROC 122 131	depistage
+#5	AnnotatorNotes T5	C1511790
+T6	PROC 141 152	prophylaxie
+#6	AnnotatorNotes T6	C0199176

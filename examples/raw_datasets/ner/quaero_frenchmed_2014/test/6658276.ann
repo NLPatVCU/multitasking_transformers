@@ -1,0 +1,6 @@
+T1	ANAT 0 28	Veine cave supérieure gauche
+#1	AnnotatorNotes T1	C0226694
+T2	PROC 31 46	cathétérisation
+#2	AnnotatorNotes T2	C0007430
+T3	DISO 50 60	diagnostic
+#3	AnnotatorNotes T3	C0011900

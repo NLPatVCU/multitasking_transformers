@@ -1,0 +1,10 @@
+T1	PROC 0 12	Conservation
+#1	AnnotatorNotes T1	C1514402
+T2	ANAT 20 26	souche
+#2	AnnotatorNotes T2	C0038250
+T3	LIVB 30 49	Cowdria ruminantium
+#3	AnnotatorNotes T3	C0086068
+T4	LIVB 30 37	Cowdria
+#4	AnnotatorNotes T4	C0013722
+T5	PHEN 54 65	congélation
+#5	AnnotatorNotes T5	C0016701

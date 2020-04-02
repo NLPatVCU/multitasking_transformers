@@ -1,0 +1,16 @@
+T1	PROC 0 7	Culture
+#1	AnnotatorNotes T1	C0430400
+T3	LIVB 34 46	virus amaril
+#3	AnnotatorNotes T3	C0043396
+T4	LIVB 34 39	virus
+#4	AnnotatorNotes T4	C0042776
+T5	DISO 40 46	amaril
+#5	AnnotatorNotes T5	C0043395
+T6	ANAT 64 80	cellules de rein
+#6	AnnotatorNotes T6	C0553257
+T7	ANAT 64 72	cellules
+#7	AnnotatorNotes T7	C0007634
+T8	ANAT 76 80	rein
+#8	AnnotatorNotes T8	C0022646
+T9	LIVB 84 88	porc
+#9	AnnotatorNotes T9	C0039005

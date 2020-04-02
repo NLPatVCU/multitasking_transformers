@@ -1,0 +1,14 @@
+T2	CHEM 20 28	chimique
+#2	AnnotatorNotes T2	C0220806
+T3	ANAT 37 44	embryon
+#3	AnnotatorNotes T3	C0013935
+T4	LIVB 48 63	Lacerta viridis
+#4	AnnotatorNotes T4	C1025374
+T5	LIVB 48 55	Lacerta
+#5	AnnotatorNotes T5	C1081154
+T6	PHYS 67 88	formation des membres
+#6	AnnotatorNotes T6	C2262945
+T7	ANAT 81 88	membres
+#7	AnnotatorNotes T7	C0015385
+T8	LIVB 110 118	Reptiles
+#8	AnnotatorNotes T8	C0035161

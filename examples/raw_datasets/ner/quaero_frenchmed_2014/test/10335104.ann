@@ -1,0 +1,8 @@
+T1	CHEM 3 13	névirapine
+#1	AnnotatorNotes T1	C0132326
+T2	CHEM 38 55	inhibiteur du VIH
+#2	AnnotatorNotes T2	C0162714
+T3	LIVB 52 55	VIH
+#3	AnnotatorNotes T3	C0019704
+T4	CHEM 16 24	viramune
+#4	AnnotatorNotes T4	C0728726

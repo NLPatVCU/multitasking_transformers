@@ -1,0 +1,8 @@
+T1	CHEM 37 46	histamine
+#1	AnnotatorNotes T1	C0019588
+T2	CHEM 56 64	héparine
+#2	AnnotatorNotes T2	C0019134
+T3	LIVB 84 89	chien
+#3	AnnotatorNotes T3	C0012984
+T4	CHEM 124 134	 histamine
+#4	AnnotatorNotes T4	C0019588

@@ -1,0 +1,8 @@
+T1	CHEM 0 16	Neocarzinostatin
+#1	AnnotatorNotes T1	C0027597
+T2	PROC 49 63	chimiothérapie
+#2	AnnotatorNotes T2	C0013216
+T3	DISO 68 84	leucémies aiguës
+#3	AnnotatorNotes T3	C0085669
+T4	DISO 68 77	leucémies
+#4	AnnotatorNotes T4	C0023418

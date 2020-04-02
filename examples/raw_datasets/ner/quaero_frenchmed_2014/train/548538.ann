@@ -1,0 +1,6 @@
+T1	PROC 13 30	chromatographique
+#1	AnnotatorNotes T1	C0545274
+T2	ANAT 56 63	sérique
+#2	AnnotatorNotes T2	C0229671
+T3	LIVB 64 71	humaine
+#3	AnnotatorNotes T3	C0086418

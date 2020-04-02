@@ -1,0 +1,10 @@
+T1	DISO 0 22	Signes de la grossesse
+#1	AnnotatorNotes T1	C0747927
+T2	DISO 0 6	Signes
+#2	AnnotatorNotes T2	C0037088
+T3	PHYS 13 22	grossesse
+#3	AnnotatorNotes T3	C0032961
+T4	PHYS 47 57	aménorrhée
+#4	AnnotatorNotes T4	C0232938
+T5	PHYS 92 104	accouchement
+#5	AnnotatorNotes T5	C0005615

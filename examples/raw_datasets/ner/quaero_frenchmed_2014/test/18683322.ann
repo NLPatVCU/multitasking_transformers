@@ -1,0 +1,10 @@
+T1	DISO 0 9	Paludisme
+#1	AnnotatorNotes T1	C0024530
+T2	LIVB 15 31	Plasmodium vivax
+#2	AnnotatorNotes T2	C0032154
+T3	LIVB 15 25	Plasmodium
+#3	AnnotatorNotes T3	C0032148
+T4	DISO 0 31	Paludisme dû a Plasmodium vivax
+#4	AnnotatorNotes T4	C0024537
+T5	GEOG 44 55	brésilienne
+#5	AnnotatorNotes T5	C0006137

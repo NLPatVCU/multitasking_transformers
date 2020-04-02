@@ -1,0 +1,14 @@
+T1	DISO 0 13	Envahissement
+#1	AnnotatorNotes T1	C1269955
+T2	ANAT 14 23	orbitaire
+#2	AnnotatorNotes T2	C0029180
+T3	DISO 31 37	tumeur
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 40 58	cellules de Merkel
+#4	AnnotatorNotes T4	C0205832
+T5	ANAT 40 48	cellules
+#5	AnnotatorNotes T5	C0007634
+T6	ANAT 60 70	palpébrale
+#6	AnnotatorNotes T6	C0015426
+T7	DISO 31 58	tumeur à cellules de Merkel
+#7	AnnotatorNotes T7	C0007129

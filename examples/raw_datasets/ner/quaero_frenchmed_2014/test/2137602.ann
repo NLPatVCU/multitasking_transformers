@@ -1,0 +1,8 @@
+T1	PROC 38 52	étude in vitro
+#1	AnnotatorNotes T1	C0681829
+T2	PROC 38 43	étude
+#2	AnnotatorNotes T2	C2603343
+T3	DISO 59 90	dégénérescence neurofibrillaire
+#3	AnnotatorNotes T3	C0085400
+T4	DISO 99 108	Alzheimer
+#4	AnnotatorNotes T4	C0002395

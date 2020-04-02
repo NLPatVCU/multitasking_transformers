@@ -1,0 +1,10 @@
+T1	CHEM 4 17	I . M . A . O
+#1	AnnotatorNotes T1	C0026457
+T2	PROC 28 38	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 43 50	ulcères
+#3	AnnotatorNotes T3	C0041582
+T4	ANAT 51 60	bulbaires
+#4	AnnotatorNotes T4	C1947952
+T5	PROC 82 89	traités
+#5	AnnotatorNotes T5	C0087111

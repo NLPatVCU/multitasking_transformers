@@ -1,0 +1,10 @@
+T1	PHYS 0 11	Sensibilite
+#1	AnnotatorNotes T1	C0237865
+T2	CHEM 16 29	antibiotiques
+#2	AnnotatorNotes T2	C0003232
+T3	LIVB 34 40	germes
+#3	AnnotatorNotes T3	C0445623
+T4	DISO 57 77	infections urinaires
+#4	AnnotatorNotes T4	C0042029
+T5	LIVB 84 90	enfant
+#5	AnnotatorNotes T5	C0008059

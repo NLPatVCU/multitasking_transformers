@@ -1,0 +1,10 @@
+T1	PROC 0 9	E . E . G
+#1	AnnotatorNotes T1	C0013819
+T2	PHYS 15 21	veille
+#2	AnnotatorNotes T2	C0442696
+T3	PHYS 28 35	sommeil
+#3	AnnotatorNotes T3	C0037313
+T4	LIVB 39 49	nourrisson
+#4	AnnotatorNotes T4	C0021289
+T5	PHYS 73 76	age
+#5	AnnotatorNotes T5	C0001779

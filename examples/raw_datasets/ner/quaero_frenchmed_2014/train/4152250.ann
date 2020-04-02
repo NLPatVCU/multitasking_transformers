@@ -1,0 +1,12 @@
+T1	PROC 26 36	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 37 50	symptomatique
+#2	AnnotatorNotes T2	C1457887
+T3	DISO 57 69	hypertension
+#3	AnnotatorNotes T3	C0020538
+T4	ANAT 70 80	artérielle
+#4	AnnotatorNotes T4	C0003842
+T5	OBJC 92 104	associations
+#5	AnnotatorNotes T5	C0453882
+T6	CHEM 108 125	antihypertenseurs
+#6	AnnotatorNotes T6	C0003364

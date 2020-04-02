@@ -1,0 +1,5 @@
+T1	PROC 0 14	Réimplantation
+#1	AnnotatorNotes T1	C0035139
+T3	ANAT 47 51	bras
+#3	AnnotatorNotes T3	C1269078
+T2	PROC 0 28;44 51	Réimplantation après section du bras

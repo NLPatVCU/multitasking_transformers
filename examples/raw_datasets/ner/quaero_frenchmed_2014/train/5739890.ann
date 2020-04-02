@@ -1,0 +1,12 @@
+T1	DISO 0 33	Hémoglobinose H-alpha-thalassémie
+#1	AnnotatorNotes T1	C3161174
+T2	PROC 36 41	etude
+#2	AnnotatorNotes T2	C2603343
+T3	LIVB 64 71	enfants
+#3	AnnotatorNotes T3	C0008059
+T4	LIVB 100 107	famille
+#4	AnnotatorNotes T4	C0015576
+T5	GEOG 111 123	Viet-Nam Sud
+#5	AnnotatorNotes T5	C0684039
+T6	GEOG 111 119	Viet-Nam
+#6	AnnotatorNotes T6	C0042658

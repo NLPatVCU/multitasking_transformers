@@ -1,0 +1,10 @@
+T1	PROC 0 22	Urgences chirurgicales
+#1	AnnotatorNotes T1	C2216322
+T2	PHEN 0 8	Urgences
+#2	AnnotatorNotes T2	C0013956
+T3	PROC 9 22	chirurgicales
+#3	AnnotatorNotes T3	C0543467
+T4	GEOG 33 41	Africain
+#4	AnnotatorNotes T4	C0001737
+T5	PHEN 47 54	urgence
+#5	AnnotatorNotes T5	C0013956

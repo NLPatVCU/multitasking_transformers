@@ -1,0 +1,6 @@
+T1	PROC 0 42	Dialyse péritoneéale chronique ambulatoire
+#1	AnnotatorNotes T1	C0031140
+T2	PROC 0 7	Dialyse
+#2	AnnotatorNotes T2	C0011946
+T3	ANAT 8 20	péritoneéale
+#3	AnnotatorNotes T3	C0031153

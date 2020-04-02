@@ -1,0 +1,10 @@
+T1	DISO 0 8	Récidive
+#1	AnnotatorNotes T1	C0034897
+T2	DISO 15 26	angiomyxome
+#2	AnnotatorNotes T2	C0027149
+T3	ANAT 27 35	périnéal
+#3	AnnotatorNotes T3	C0031066
+T4	PROC 51 60	chirurgie
+#4	AnnotatorNotes T4	C0543467
+T5	PROC 64 71	exérèse
+#5	AnnotatorNotes T5	C0919588

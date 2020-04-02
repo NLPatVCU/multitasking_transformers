@@ -1,0 +1,8 @@
+T1	PROC 0 13	Decompression
+#1	AnnotatorNotes T1	C1829459
+T2	ANAT 17 35	ganglion de Gasser
+#2	AnnotatorNotes T2	C0040995
+T3	PROC 42 52	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 59 76	névralgie faciale
+#4	AnnotatorNotes T4	C0015467

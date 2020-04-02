@@ -1,0 +1,8 @@
+T1	DISO 0 11	Ostéoporose
+#1	AnnotatorNotes T1	C0029456
+T2	DISO 15 38	handicap moteur central
+#2	AnnotatorNotes T2	C0007789
+T3	DISO 15 23	handicap
+#3	AnnotatorNotes T3	C0522224
+T4	ANAT 24 38	moteur central
+#4	AnnotatorNotes T4	C0006104

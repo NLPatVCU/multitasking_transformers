@@ -1,0 +1,10 @@
+T1	DISO 0 25	Influence hypoglycémiante
+#1	AnnotatorNotes T1	C2936720
+T2	DISO 10 25	hypoglycémiante
+#2	AnnotatorNotes T2	C0020615
+T3	CHEM 32 44	vasopressine
+#3	AnnotatorNotes T3	C1705480
+T4	PROC 48 57	perfusion
+#4	AnnotatorNotes T4	C0031001
+T5	LIVB 80 85	chien
+#5	AnnotatorNotes T5	C0012984

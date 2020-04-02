@@ -1,0 +1,12 @@
+T1	PROC 17 31	microtechnique
+#1	AnnotatorNotes T1	C1513282
+T4	DISO 78 90	peste équine
+#4	AnnotatorNotes T4	C0001748
+T5	DISO 78 83	peste
+#5	AnnotatorNotes T5	C0032064
+T6	LIVB 84 90	équine
+#6	AnnotatorNotes T6	C1265527
+T3	PROC 61 71	diagnostic
+#3	AnnotatorNotes T3	C0430022
+T7	PROC 35 57	fixation du complément
+#7	AnnotatorNotes T7	C0009541

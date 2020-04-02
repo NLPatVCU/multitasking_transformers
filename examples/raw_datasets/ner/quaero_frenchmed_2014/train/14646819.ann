@@ -1,0 +1,12 @@
+T1	DISO 0 30	Métastase médullaire cervicale
+#1	AnnotatorNotes T1	C2063899
+T2	DISO 0 9	Métastase
+#2	AnnotatorNotes T2	C0027627
+T3	ANAT 10 20	médullaire
+#3	AnnotatorNotes T3	C1305694
+T4	ANAT 21 30	cervicale
+#4	AnnotatorNotes T4	C0027530
+T5	DISO 47 72	maladie Von Hippel-Lindau
+#5	AnnotatorNotes T5	C0019562
+T6	DISO 47 54	maladie
+#6	AnnotatorNotes T6	C0012634

@@ -1,0 +1,16 @@
+T1	DISO 0 19	Mastocytose cutanée
+#1	AnnotatorNotes T1	C1136033
+T2	DISO 0 11	Mastocytose
+#2	AnnotatorNotes T2	C0024899
+T3	ANAT 12 19	cutanée
+#3	AnnotatorNotes T3	C1123023
+T4	LIVB 26 32	adulte
+#4	AnnotatorNotes T4	C0001675
+T5	DISO 38 49	mastocytose
+#5	AnnotatorNotes T5	C0024899
+T6	ANAT 50 59	hépatique
+#6	AnnotatorNotes T6	C0205054
+T7	DISO 65 75	monocytose
+#7	AnnotatorNotes T7	C0085702
+T8	ANAT 76 84	sanguine
+#8	AnnotatorNotes T8	C0005767

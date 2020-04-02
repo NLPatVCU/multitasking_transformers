@@ -1,0 +1,22 @@
+T1	CHEM 10 28	butyrate de sodium
+#1	AnnotatorNotes T1	C0142812
+T2	CHEM 10 18	butyrate
+#2	AnnotatorNotes T2	C0220802
+T3	CHEM 22 28	sodium
+#3	AnnotatorNotes T3	C0037473
+T4	CHEM 53 63	interféron
+#4	AnnotatorNotes T4	C0021747
+T5	ANAT 67 84	cellules normales
+#5	AnnotatorNotes T5	C1268443
+T6	ANAT 67 75	cellules
+#6	AnnotatorNotes T6	C0007634
+T7	PHYS 88 100	transformées
+#7	AnnotatorNotes T7	C0040682
+T8	LIVB 108 130	virus du sarcome murin
+#8	AnnotatorNotes T8	C0026630
+T9	LIVB 108 113	virus
+#9	AnnotatorNotes T9	C0042776
+T10	DISO 117 124	sarcome
+#10	AnnotatorNotes T10	C1261473
+T11	LIVB 125 130	murin
+#11	AnnotatorNotes T11	C0026809

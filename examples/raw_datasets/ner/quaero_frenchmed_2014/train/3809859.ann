@@ -1,0 +1,14 @@
+T1	DISO 0 29	Hémorragie intraventriculaire
+#1	AnnotatorNotes T1	C09449141
+T2	DISO 0 10	Hémorragie
+#2	AnnotatorNotes T2	C0019080
+T3	ANAT 11 29	intraventriculaire
+#3	AnnotatorNotes T3	C1517569
+T4	PROC 36 65	endartériectomie carotidienne
+#4	AnnotatorNotes T4	C0014099
+T5	PROC 36 52	endartériectomie
+#5	AnnotatorNotes T5	C0014098
+T6	ANAT 53 65	carotidienne
+#6	AnnotatorNotes T6	C0741968
+T7	PHYS 77 88	suppléances
+#7	AnnotatorNotes T7	C0009348

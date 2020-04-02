@@ -1,0 +1,10 @@
+T1	PROC 14 21	analyse
+#1	AnnotatorNotes T1	C0936012
+T2	DISO 65 88	syndromes parkinsoniens
+#2	AnnotatorNotes T2	C0242422
+T3	DISO 65 74	syndromes
+#3	AnnotatorNotes T3	C0039082
+T4	DISO 75 88	parkinsoniens
+#4	AnnotatorNotes T4	C0030567
+T5	PROC 104 148	tomoscintigraphie d' émission monophotonique
+#5	AnnotatorNotes T5	C0040399

@@ -1,0 +1,8 @@
+T1	DISO 3 14	encéphalite
+#1	AnnotatorNotes T1	C0014038
+T2	PHYS 25 35	nécrosante
+#2	AnnotatorNotes T2	C0027540
+T3	ANAT 64 74	anatomique
+#3	AnnotatorNotes T3	C0005898
+T4	LIVB 98 108	infantiles
+#4	AnnotatorNotes T4	C0021270

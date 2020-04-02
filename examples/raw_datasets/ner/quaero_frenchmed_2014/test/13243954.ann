@@ -1,0 +1,10 @@
+T1	CHEM 3 18	chloropromazine
+#1	AnnotatorNotes T1	C0688300
+T2	PROC 39 49	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 73 81	palustre
+#3	AnnotatorNotes T3	C0024530
+T4	PROC 84 100	essais cliniques
+#4	AnnotatorNotes T4	C0008976
+T5	GEOG 111 119	africain
+#5	AnnotatorNotes T5	C0001737

@@ -1,0 +1,16 @@
+T1	DISO 0 11	Polymyosite
+#1	AnnotatorNotes T1	C0085655
+T2	CHEM 27 42	D-pénicillamine
+#2	AnnotatorNotes T2	C0030817
+T3	DISO 51 70	arthrite rhumatoïde
+#3	AnnotatorNotes T3	C0003873
+T4	DISO 51 59	arthrite
+#4	AnnotatorNotes T4	C0003864
+T5	DISO 60 70	rhumatoïde
+#5	AnnotatorNotes T5	C0035435
+T6	CHEM 103 128	anticorps anti-nucléaires
+#6	AnnotatorNotes T6	C0003243
+T7	CHEM 103 112	anticorps
+#7	AnnotatorNotes T7	C0003241
+T8	CHEM 113 128	anti-nucléaires
+#8	AnnotatorNotes T8	C0003243

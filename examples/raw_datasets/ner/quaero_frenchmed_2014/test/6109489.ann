@@ -1,0 +1,10 @@
+T1	PROC 3 13	anesthésie
+#1	AnnotatorNotes T1	C0002903
+T2	DISO 19 53	hernie diaphragmatique congénitale
+#2	AnnotatorNotes T2	C0235833
+T3	DISO 19 41	hernie diaphragmatique
+#3	AnnotatorNotes T3	C0019284
+T4	DISO 19 25	hernie
+#4	AnnotatorNotes T4	C0019270
+T5	ANAT 26 41	diaphragmatique
+#5	AnnotatorNotes T5	C0011980

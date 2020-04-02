@@ -1,0 +1,12 @@
+T1	ANAT 34 48	nerf sciatique
+#1	AnnotatorNotes T1	C0036394
+T2	ANAT 34 38	nerf
+#2	AnnotatorNotes T2	C0027740
+T3	LIVB 52 66	souris normale
+#3	AnnotatorNotes T3	C0025929
+T4	LIVB 52 58;81 88	souris quaking
+#4	AnnotatorNotes T4	C0025934
+T5	CHEM 113 123	saccharose
+#5	AnnotatorNotes T5	C0038636
+T6	LIVB 52 58;69 77	souris Trembler
+#6	AnnotatorNotes T6	C0025932

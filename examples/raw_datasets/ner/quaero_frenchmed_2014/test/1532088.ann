@@ -1,0 +1,18 @@
+T1	PHEN 0 9	Evolution
+#1	AnnotatorNotes T1	C0376594
+T2	CHEM 13 40	facteur de coagulation VIII
+#2	AnnotatorNotes T2	C0015506
+T3	PHYS 24 35	coagulation
+#3	AnnotatorNotes T3	C1328723
+T4	PROC 49 74	transplantation hépatique
+#4	AnnotatorNotes T4	C0023911
+T5	PROC 49 64	transplantation
+#5	AnnotatorNotes T5	C0040732
+T6	ANAT 65 74	hépatique
+#6	AnnotatorNotes T6	C0023884
+T7	LIVB 83 89	malade
+#7	AnnotatorNotes T7	C0030705
+T8	DISO 90 101	hémophile A
+#8	AnnotatorNotes T8	C0019069
+T9	LIVB 90 99	hémophile
+#9	AnnotatorNotes T9	C0259931

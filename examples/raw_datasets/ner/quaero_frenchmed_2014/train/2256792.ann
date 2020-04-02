@@ -1,0 +1,10 @@
+T1	DISO 0 54	Retour veineux pulmonaire anormal total infracardiaque
+#1	AnnotatorNotes T1	C3163749
+T2	ANAT 7 25	veineux pulmonaire
+#2	AnnotatorNotes T2	C0034090
+T3	PROC 71 104	échocardiographie Doppler couleur
+#3	AnnotatorNotes T3	C0013521
+T4	PROC 71 96	échocardiographie Doppler
+#4	AnnotatorNotes T4	C0013520
+T5	PROC 71 88	échocardiographie
+#5	AnnotatorNotes T5	C0013516

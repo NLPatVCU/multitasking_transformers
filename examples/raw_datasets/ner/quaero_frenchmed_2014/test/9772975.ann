@@ -1,0 +1,6 @@
+T1	PROC 10 22	chirurgicale
+#1	AnnotatorNotes T1	C0543467
+T2	DISO 29 53	adénocarcinome du cardia
+#2	AnnotatorNotes T2	C0861471
+T3	ANAT 47 53	cardia
+#3	AnnotatorNotes T3	C0007144

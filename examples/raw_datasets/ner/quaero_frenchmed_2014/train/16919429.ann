@@ -1,0 +1,10 @@
+T1	PROC 0 10	Evaluation
+#1	AnnotatorNotes T1	C1261322
+T2	LIVB 35 46	nourrissons
+#2	AnnotatorNotes T2	C0021270
+T3	CHEM 67 76	protéines
+#3	AnnotatorNotes T3	C0033684
+T4	LIVB 92 104	probiotiques
+#4	AnnotatorNotes T4	C0525033
+T6	PHYS 123 143	allaitement maternel
+#6	AnnotatorNotes T6	C0006147

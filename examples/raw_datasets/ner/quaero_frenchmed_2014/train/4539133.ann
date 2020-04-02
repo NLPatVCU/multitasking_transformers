@@ -1,0 +1,8 @@
+T1	DISO 0 32	Pneumonie a Pneumocystis carinii
+#1	AnnotatorNotes T1	C0032305
+T2	DISO 0 9	Pneumonie
+#2	AnnotatorNotes T2	C0032285
+T3	LIVB 12 32	Pneumocystis carinii
+#3	AnnotatorNotes T3	C0032276
+T4	LIVB 12 24	Pneumocystis
+#4	AnnotatorNotes T4	C0597258

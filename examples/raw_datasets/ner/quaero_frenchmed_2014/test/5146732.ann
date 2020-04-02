@@ -1,0 +1,8 @@
+T1	DISO 3 11	hépatite
+#1	AnnotatorNotes T1	C0019158
+T3	CHEM 44 55	rifampicine
+#3	AnnotatorNotes T3	C0035608
+T4	CHEM 62 72	isoniazide
+#4	AnnotatorNotes T4	C0022209
+T2	PHYS 29 40	association
+#2	AnnotatorNotes T2	C0687133

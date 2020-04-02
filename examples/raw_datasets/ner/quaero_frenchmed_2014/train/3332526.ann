@@ -1,0 +1,6 @@
+T1	PROC 13 24	échographie
+#1	AnnotatorNotes T1	C0041618
+T2	DISO 33 49	maladie de Crohn
+#2	AnnotatorNotes T2	C0010346
+T3	DISO 33 40	maladie
+#3	AnnotatorNotes T3	C0012634

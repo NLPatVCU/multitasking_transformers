@@ -1,0 +1,228 @@
+T1	DISO 3 9	Signes
+#1	AnnotatorNotes T1	C1547188
+T2	DISO 35 54	troubles hépatiques
+#2	AnnotatorNotes T2	C0023895
+T3	ANAT 44 54	hépatiques
+#3	AnnotatorNotes T3	C0023884
+T4	DISO 59 67	Jaunisse
+#4	AnnotatorNotes T4	C0022346
+T5	ANAT 93 97	peau
+#5	AnnotatorNotes T5	C1123023
+T6	ANAT 114 118	yeux
+#6	AnnotatorNotes T6	C0015392
+T7	ANAT 123 129	Urines
+#7	AnnotatorNotes T7	C0042036
+T8	CHEM 155 162	TYSABRI
+#8	AnnotatorNotes T8	C1529600
+T9	DISO 195 214	effets indésirables
+#9	AnnotatorNotes T9	C0559546
+T10	DISO 223 242	effets indésirables
+#10	AnnotatorNotes T10	C0559546
+T11	PROC 317 333	études cliniques
+#11	AnnotatorNotes T11	C0008972
+T12	DISO 338 357	Effets indésirables
+#12	AnnotatorNotes T12	C0559546
+T13	LIVB 402 410	patients
+#13	AnnotatorNotes T13	C0030705
+T14	DISO 423 441	Infection urinaire
+#14	AnnotatorNotes T14	C0042029
+T15	DISO 423 432	Infection
+#15	AnnotatorNotes T15	C0021311
+T16	ANAT 433 441	urinaire
+#16	AnnotatorNotes T16	C1508753
+T17	DISO 444 456	Mal de gorge
+#17	AnnotatorNotes T17	C0242429
+T18	ANAT 451 456	gorge
+#18	AnnotatorNotes T18	C0031354
+T19	DISO 460 476	écoulement nasal
+#19	AnnotatorNotes T19	C1260880
+T20	ANAT 471 476	nasal
+#20	AnnotatorNotes T20	C0028489
+T21	DISO 480 490	nez bouché
+#21	AnnotatorNotes T21	C0027424
+T22	ANAT 480 483	nez
+#22	AnnotatorNotes T22	C0028489
+T23	DISO 493 501	Frissons
+#23	AnnotatorNotes T23	C0036973
+T24	DISO 504 512	Éruption
+#24	AnnotatorNotes T24	C0302295
+T25	DISO 516 529	démangeaisons
+#25	AnnotatorNotes T25	C0033774
+T26	DISO 532 541	urticaire
+#26	AnnotatorNotes T26	C0042109
+T27	DISO 546 558	Maux de tête
+#27	AnnotatorNotes T27	C0018681
+T28	DISO 588 595	Nausées
+#28	AnnotatorNotes T28	C0027497
+T29	DISO 598 610	Vomissements
+#29	AnnotatorNotes T29	C0042963
+T30	DISO 613 621	Douleurs
+#30	AnnotatorNotes T30	C0030193
+T31	ANAT 622 634	articulaires
+#31	AnnotatorNotes T31	C0022417
+T32	DISO 637 643	Fièvre
+#32	AnnotatorNotes T32	C0015967
+T33	DISO 646 653	Fatigue
+#33	AnnotatorNotes T33	C0015672
+T34	DISO 658 677	Effets indésirables
+#34	AnnotatorNotes T34	C0559546
+T35	LIVB 725 732	patient
+#35	AnnotatorNotes T35	C0030705
+T36	DISO 745 753	Allergie
+#36	AnnotatorNotes T36	C0020517
+T37	DISO 763 779	hypersensibilité
+#37	AnnotatorNotes T37	C0020517
+T38	DISO 789 798	symptômes
+#38	AnnotatorNotes T38	C1457887
+T39	DISO 802 806	LEMP
+#39	AnnotatorNotes T39	C0023524
+T40	DISO 849 852	SEP
+#40	AnnotatorNotes T40	C0026769
+T41	DISO 899 902	SEP
+#41	AnnotatorNotes T41	C0026769
+T42	DISO 948 957	symptômes
+#42	AnnotatorNotes T42	C1457887
+T43	LIVB 989 996	médecin
+#43	AnnotatorNotes T43	C0031831
+T44	PROC 1036 1046	traitement
+#44	AnnotatorNotes T44	C0087111
+T45	LIVB 1058 1066	conjoint
+#45	AnnotatorNotes T45	C0682323
+T46	LIVB 1073 1091	personnel soignant
+#46	AnnotatorNotes T46	C0025106
+T47	DISO 1128 1137	symptômes
+#47	AnnotatorNotes T47	C1457887
+T48	DISO 1190 1212	changements d ’ humeur
+#48	AnnotatorNotes T48	C0085633
+T49	DISO 1238 1254	trous de mémoire
+#49	AnnotatorNotes T49	C0751295
+T50	DISO 1261 1286	difficultés d ’ élocution
+#50	AnnotatorNotes T50	C0037822
+T51	DISO 1261 1272;1290 1306	difficultés de communication
+#51	AnnotatorNotes T51	C0481701
+T52	LIVB 1319 1326	médecin
+#52	AnnotatorNotes T52	C0031831
+T53	DISO 1363 1367	LEMP
+#53	AnnotatorNotes T53	C0023524
+T54	LIVB 1411 1418	patient
+#54	AnnotatorNotes T54	C0030705
+T55	PROC 1435 1441	notice
+#55	AnnotatorNotes T55	C0013191
+T56	LIVB 1449 1456	médecin
+#56	AnnotatorNotes T56	C0031831
+T57	LIVB 1516 1526	neurologue
+#57	AnnotatorNotes T57	C0237426
+T58	LIVB 1548 1555	médecin
+#58	AnnotatorNotes T58	C0031831
+T59	DISO 1598 1607	infection
+#59	AnnotatorNotes T59	C0021311
+T60	LIVB 1629 1636	patient
+#60	AnnotatorNotes T60	C0030705
+T61	PROC 1653 1659	notice
+#61	AnnotatorNotes T61	C0013191
+T62	LIVB 1667 1674	médecin
+#62	AnnotatorNotes T62	C0031831
+T63	PROC 1695 1705	traitement
+#63	AnnotatorNotes T63	C0087111
+T64	LIVB 1732 1742	neurologue
+#64	AnnotatorNotes T64	C0237426
+T65	CHEM 1747 1754	TYSABRI
+#65	AnnotatorNotes T65	C1529600
+T66	LIVB 1801 1809	patients
+#66	AnnotatorNotes T66	C0030705
+T67	CHEM 1819 1826	TYSABRI
+#67	AnnotatorNotes T67	C1529600
+T68	CHEM 1893 1900	TYSABRI
+#68	AnnotatorNotes T68	C1529600
+T69	ANAT 1933 1942	organisme
+#69	AnnotatorNotes T69	C0029235
+T70	CHEM 1955 1964	anticorps
+#70	AnnotatorNotes T70	C0003241
+T71	CHEM 1980 1987	TYSABRI
+#71	AnnotatorNotes T71	C1529600
+T72	LIVB 1999 2006	médecin
+#72	AnnotatorNotes T72	C0031831
+T73	CHEM 2055 2064	anticorps
+#73	AnnotatorNotes T73	C0003241
+T74	ANAT 2076 2080	sang
+#74	AnnotatorNotes T74	C0005767
+T75	PROC 2096 2106	traitement
+#75	AnnotatorNotes T75	C0087111
+T76	CHEM 2111 2118	TYSABRI
+#76	AnnotatorNotes T76	C1529600
+T77	CHEM 2157 2164	TYSABRI
+#77	AnnotatorNotes T77	C1529600
+T78	CHEM 2183 2190	TYSABRI
+#78	AnnotatorNotes T78	C1529600
+T79	OBJC 2238 2247	étiquette
+#79	AnnotatorNotes T79	C0181496
+T80	OBJC 2254 2259	boîte
+#80	AnnotatorNotes T80	C0179400
+T81	CHEM 2280 2287	TYSABRI
+#81	AnnotatorNotes T81	C1529600
+T82	CHEM 2321 2331	particules
+#82	AnnotatorNotes T82	C0597177
+T83	OBJC 2340 2347	liquide
+#83	AnnotatorNotes T83	C0302908
+T84	OBJC 2374 2381	liquide
+#84	AnnotatorNotes T84	C0302908
+T85	OBJC 2390 2396	flacon
+#85	AnnotatorNotes T85	C0179376
+T86	CHEM 2414 2421	TYSABRI
+#86	AnnotatorNotes T86	C1529600
+T87	OBJC 2429 2435	flacon
+#87	AnnotatorNotes T87	C0179376
+T88	OBJC 2448 2456	solution
+#88	AnnotatorNotes T88	C0037633
+T89	PROC 2471 2480	perfusion
+#89	AnnotatorNotes T89	C0031001
+T90	CHEM 2500 2511	natalizumab
+#90	AnnotatorNotes T90	C1172734
+T91	CHEM 2530 2549	Phosphate de sodium
+#91	AnnotatorNotes T91	C0074757
+T92	CHEM 2578 2597	Phosphate de sodium
+#92	AnnotatorNotes T92	C0074757
+T93	CHEM 2625 2643	Chlorure de sodium
+#93	AnnotatorNotes T93	C0037494
+T94	CHEM 2644 2658	Polysorbate 80
+#94	AnnotatorNotes T94	C0032601
+T95	CHEM 2668 2671	Eau
+#95	AnnotatorNotes T95	C0043047
+T96	CHEM 2677 2699	préparation injectable
+#96	AnnotatorNotes T96	C0086466
+T97	PROC 2689 2699	injectable
+#97	AnnotatorNotes T97	C0021485
+T98	OBJC 2711 2716	boîte
+#98	AnnotatorNotes T98	C0179400
+T99	OBJC 2729 2735	flacon
+#99	AnnotatorNotes T99	C0179376
+T100	PROC 2913 2919	notice
+#100	AnnotatorNotes T100	C0013191
+T101	GEOG 2931 2939	Belgique
+#101	AnnotatorNotes T101	C0004950
+T102	GEOG 2990 3000	Luxembourg
+#102	AnnotatorNotes T102	C0024176
+T103	DISO 3070 3077	Richter
+#103	AnnotatorNotes T103	C0349631
+T104	DISO 3396 3403	Richter
+#104	AnnotatorNotes T104	C0349631
+T105	DISO 3523 3530	Richter
+#105	AnnotatorNotes T105	C0349631
+T106	GEOG 3651 3659	Portugal
+#106	AnnotatorNotes T106	C0032729
+T107	GEOG 3672 3680	Portugal
+#107	AnnotatorNotes T107	C0032729
+T108	DISO 4196 4203	Richter
+#108	AnnotatorNotes T108	C0349631
+T109	DISO 4294 4301	Richter
+#109	AnnotatorNotes T109	C0349631
+T110	CHEM 4379 4389	particules
+#110	AnnotatorNotes T110	C0597177
+T111	OBJC 4531 4539	solution
+#111	AnnotatorNotes T111	C0037633
+T112	PROC 4586 4595	perfusion
+#112	AnnotatorNotes T112	C0031001
+T113	DISO 1190 1201;1216 1231	changements de comportement
+#113	AnnotatorNotes T113	C1997335
+T114	DISO 123 150	Urines anormalement foncées
+#114	AnnotatorNotes T114	C0426396

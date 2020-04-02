@@ -1,0 +1,10 @@
+T1	DISO 3 16	hyperuricémie
+#1	AnnotatorNotes T1	C0740394
+T2	DISO 17 28	congénitale
+#2	AnnotatorNotes T2	C0000768
+T3	DISO 34 56	troubles neurologiques
+#3	AnnotatorNotes T3	C0027765
+T4	DISO 34 42	troubles
+#4	AnnotatorNotes T4	C0012634
+T5	ANAT 43 56	neurologiques
+#5	AnnotatorNotes T5	C0027763

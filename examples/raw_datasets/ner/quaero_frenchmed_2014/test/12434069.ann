@@ -1,0 +1,10 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 25 33	entérite
+#2	AnnotatorNotes T2	C0259795
+T3	PHEN 34 41	radique
+#3	AnnotatorNotes T3	C0851346
+T4	DISO 42 51	chronique
+#4	AnnotatorNotes T4	C0008679
+T5	DISO 25 41	entérite radique
+#5	AnnotatorNotes T5	C0259795

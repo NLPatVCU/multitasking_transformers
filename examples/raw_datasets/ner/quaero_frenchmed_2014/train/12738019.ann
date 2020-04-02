@@ -1,0 +1,6 @@
+T1	PROC 0 10	Dissection
+#1	AnnotatorNotes T1	C0012737
+T2	ANAT 17 40	artère carotide interne
+#2	AnnotatorNotes T2	C0007276
+T3	PROC 74 95	manoeuvre d' Heimlich
+#3	AnnotatorNotes T3	C0150421

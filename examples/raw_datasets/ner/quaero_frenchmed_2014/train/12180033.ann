@@ -1,0 +1,10 @@
+T1	ANAT 18 23	coeur
+#1	AnnotatorNotes T1	C0018787
+T2	PHEN 45 50	rejet
+#2	AnnotatorNotes T2	C1882923
+T3	DISO 54 60	délire
+#3	AnnotatorNotes T3	C0011253
+T4	PROC 67 92	transplantation cardiaque
+#4	AnnotatorNotes T4	C0018823
+T5	ANAT 83 92	cardiaque
+#5	AnnotatorNotes T5	C0018787

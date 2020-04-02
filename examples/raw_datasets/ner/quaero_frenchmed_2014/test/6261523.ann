@@ -1,0 +1,6 @@
+T1	PROC 3 16	scintigraphie
+#1	AnnotatorNotes T1	C0034606
+T2	DISO 25 54	maladie de Legg-Calvé-Perthes
+#2	AnnotatorNotes T2	C0023234
+T3	DISO 25 32	maladie
+#3	AnnotatorNotes T3	C0012634

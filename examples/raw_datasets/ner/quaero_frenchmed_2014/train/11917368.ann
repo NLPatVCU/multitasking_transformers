@@ -1,0 +1,6 @@
+T1	PROC 0 20	Diagnostic anténatal
+#1	AnnotatorNotes T1	C0033053
+T2	PROC 0 10	Diagnostic
+#2	AnnotatorNotes T2	C0430022
+T3	DISO 28 40	exencéphalie
+#3	AnnotatorNotes T3	C0266453

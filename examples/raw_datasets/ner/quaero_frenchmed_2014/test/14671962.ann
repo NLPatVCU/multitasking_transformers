@@ -1,0 +1,14 @@
+T1	PROC 32 45	diagnostiques
+#1	AnnotatorNotes T1	C0011900
+T2	PROC 49 63	thérapeutiques
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 68 102	troubles du métabolisme glucidique
+#3	AnnotatorNotes T3	C1257958
+T4	PROC 150 163	thérapeutique
+#4	AnnotatorNotes T4	C0087111
+T5	DISO 168 202	troubles du métabolisme du glucose
+#5	AnnotatorNotes T5	C1257958
+T6	DISO 211 224	mucoviscidose
+#6	AnnotatorNotes T6	C0010674
+T7	DISO 118 131	mucoviscidose
+#7	AnnotatorNotes T7	C0010674

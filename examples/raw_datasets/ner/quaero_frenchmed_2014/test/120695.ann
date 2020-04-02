@@ -1,0 +1,12 @@
+T1	CHEM 43 53	rifamycine
+#1	AnnotatorNotes T1	C0035609
+T2	CHEM 66 92	polyvinylpyrrolidone iodée
+#2	AnnotatorNotes T2	C0032857
+T3	DISO 96 116	chirugie réparatrice
+#3	AnnotatorNotes T3	C1411999
+T4	PROC 96 104	chirugie
+#4	AnnotatorNotes T4	C0543467
+T5	ANAT 123 127	main
+#5	AnnotatorNotes T5	C0018563
+T6	PROC 130 154	Expérimentation clinique
+#6	AnnotatorNotes T6	C0008976

@@ -1,0 +1,6 @@
+T1	DISO 3 30	cholestéatome de l' oreille
+#1	AnnotatorNotes T1	C0743342
+T2	DISO 3 16	cholestéatome
+#2	AnnotatorNotes T2	C0008373
+T3	ANAT 23 30	oreille
+#3	AnnotatorNotes T3	C0013443

@@ -1,0 +1,6 @@
+T1	DISO 0 24	Chimiotherapie adjuvante
+#1	AnnotatorNotes T1	C1971511
+T2	PROC 31 40	chirurgie
+#2	AnnotatorNotes T2	C0543467
+T3	DISO 50 73	carcinomes colo-rectaux
+#3	AnnotatorNotes T3	C0009402

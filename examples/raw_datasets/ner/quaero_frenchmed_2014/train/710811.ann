@@ -1,0 +1,16 @@
+T1	PROC 0 10	Evaluation
+#1	AnnotatorNotes T1	C1261322
+T2	PROC 14 30	test au D-xylose
+#2	AnnotatorNotes T2	C0202260
+T3	PROC 37 74	test de charge orale en acide folique
+#3	AnnotatorNotes T3	C0430094
+T4	CHEM 61 74	acide folique
+#4	AnnotatorNotes T4	C0016410
+T5	CHEM 61 66	acide
+#5	AnnotatorNotes T5	C0001128
+T6	ANAT 89 100	intestinale
+#6	AnnotatorNotes T6	C0021853
+T7	LIVB 107 113	adulte
+#7	AnnotatorNotes T7	C0001675
+T8	DISO 78 100	pathologie intestinale
+#8	AnnotatorNotes T8	C0021831

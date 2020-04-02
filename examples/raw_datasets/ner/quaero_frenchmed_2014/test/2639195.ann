@@ -1,0 +1,20 @@
+T1	CHEM 13 44	chlorhexidine en bain de bouche
+#1	AnnotatorNotes T1	C0352155
+T2	CHEM 13 26	chlorhexidine
+#2	AnnotatorNotes T2	C0008196
+T3	CHEM 30 44	bain de bouche
+#3	AnnotatorNotes T3	C0026647
+T4	DISO 62 84	inflammation gingivale
+#4	AnnotatorNotes T4	C0877743
+T5	DISO 62 74	inflammation
+#5	AnnotatorNotes T5	C0021368
+T6	ANAT 75 84	gingivale
+#6	AnnotatorNotes T6	C0017562
+T7	DISO 89 100	diabétiques
+#7	AnnotatorNotes T7	C0241863
+T8	LIVB 101 108	adultes
+#8	AnnotatorNotes T8	C0001765
+T9	PROC 111 134	étude en double aveugle
+#9	AnnotatorNotes T9	C0013072
+T10	PROC 111 116	étude
+#10	AnnotatorNotes T10	C2603343

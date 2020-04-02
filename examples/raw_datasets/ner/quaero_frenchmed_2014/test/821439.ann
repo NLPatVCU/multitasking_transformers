@@ -1,0 +1,6 @@
+T1	PHEN 0 9	Phénomène
+#1	AnnotatorNotes T1	C1882365
+T2	PHEN 20 30	conduction
+#2	AnnotatorNotes T2	C0457405
+T3	DISO 56 78	bloc de branche gauche
+#3	AnnotatorNotes T3	C0023211

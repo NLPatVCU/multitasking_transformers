@@ -1,0 +1,12 @@
+T1	PROC 0 17	Etude comparative
+#1	AnnotatorNotes T1	C1579762
+T2	PROC 0 5	Etude
+#2	AnnotatorNotes T2	C2603343
+T3	ANAT 53 71	muqueuse olfactive
+#3	AnnotatorNotes T3	C0028937
+T4	ANAT 53 61	muqueuse
+#4	AnnotatorNotes T4	C0026724
+T5	PHYS 62 71	olfactive
+#5	AnnotatorNotes T5	C0439826
+T6	LIVB 95 105	mammifères
+#6	AnnotatorNotes T6	C0024660

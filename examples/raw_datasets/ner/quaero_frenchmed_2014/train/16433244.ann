@@ -1,0 +1,10 @@
+T1	PROC 0 10	Evaluation
+#1	AnnotatorNotes T1	C1261322
+T2	PROC 14 26	surveillance
+#2	AnnotatorNotes T2	C0150369
+T3	LIVB 31 39	patients
+#3	AnnotatorNotes T3	C0030705
+T4	DEVI 48 74	défibrillateur implantable
+#4	AnnotatorNotes T4	C0162589
+T5	DEVI 48 62	défibrillateur
+#5	AnnotatorNotes T5	C0180370

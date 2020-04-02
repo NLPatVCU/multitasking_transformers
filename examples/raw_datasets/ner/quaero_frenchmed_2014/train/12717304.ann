@@ -1,0 +1,10 @@
+T1	PROC 35 44	dépistage
+#1	AnnotatorNotes T1	C0220908
+T2	LIVB 71 95	streptocoque du groupe B
+#2	AnnotatorNotes T2	C0579233
+T3	LIVB 104 118	femme enceinte
+#3	AnnotatorNotes T3	C0033011
+T4	LIVB 104 109	femme
+#4	AnnotatorNotes T4	C0043210
+T5	PROC 138 143	étude
+#5	AnnotatorNotes T5	C2603343

@@ -1,0 +1,10 @@
+T1	PROC 0 15	Expérimentation
+#1	AnnotatorNotes T1	C06778323
+T2	PHYS 33 45	accouchement
+#2	AnnotatorNotes T2	C0022864
+T3	PROC 76 100	méthode " double aveugle
+#3	AnnotatorNotes T3	C0013072
+T5	OBJC 137 147	ordinateur
+#5	AnnotatorNotes T5	C0009622
+T6	PROC 155 167	observations
+#6	AnnotatorNotes T6	C0302523

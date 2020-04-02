@@ -1,0 +1,10 @@
+T1	PHYS 0 10	Absorption
+#1	AnnotatorNotes T1	C0000854
+T2	CHEM 36 54	tacrolimus topique
+#2	AnnotatorNotes T2	C0939241
+T3	CHEM 36 46	tacrolimus
+#3	AnnotatorNotes T3	C0085149
+T4	PROC 63 73	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	DISO 80 98	pemphigus vulgaire
+#5	AnnotatorNotes T5	C0030809

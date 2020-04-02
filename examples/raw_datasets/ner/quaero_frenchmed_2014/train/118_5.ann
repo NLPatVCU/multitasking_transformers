@@ -1,0 +1,440 @@
+T1	CHEM 12 22	lamivudine
+#1	AnnotatorNotes T1	C0209738
+T2	LIVB 29 34	virus
+#2	AnnotatorNotes T2	C0042776
+T3	ANAT 58 62	lait
+#3	AnnotatorNotes T3	C0026131
+T4	LIVB 63 71	maternel
+#4	AnnotatorNotes T4	C0026591
+T5	PHYS 78 89	allaitement
+#5	AnnotatorNotes T5	C000614
+T6	LIVB 114 119	femme
+#6	AnnotatorNotes T6	C0043210
+T7	PROC 120 127	traitée
+#7	AnnotatorNotes T7	C0087111
+T8	CHEM 132 138	Epivir
+#8	AnnotatorNotes T8	C0678151
+T9	CHEM 159 165	EPIVIR
+#9	AnnotatorNotes T9	C0678151
+T10	LIVB 219 226	médecin
+#10	AnnotatorNotes T10	C0031831
+T11	LIVB 240 246	adulte
+#11	AnnotatorNotes T11	C0001675
+T12	LIVB 254 264	adolescent
+#12	AnnotatorNotes T12	C0205653
+T13	CHEM 343 359	solution buvable
+#13	AnnotatorNotes T13	C0991536
+T14	CHEM 343 351	solution
+#14	AnnotatorNotes T14	C1382100
+T15	PROC 393 403	traitement
+#15	AnnotatorNotes T15	C0087111
+T16	LIVB 408 433	enfants de plus de 3 mois
+#16	AnnotatorNotes T16	C0008100 C0008059
+T18	LIVB 446 454	patients
+#18	AnnotatorNotes T18	C0030705
+T19	CHEM 481 490	comprimés
+#19	AnnotatorNotes T19	C0039225
+T20	LIVB 573 580	médecin
+#20	AnnotatorNotes T20	C0031831
+T21	CHEM 612 618	Epivir
+#21	AnnotatorNotes T21	C0678151
+T22	CHEM 668 677	comprimés
+#22	AnnotatorNotes T22	C0039225
+T23	CHEM 682 688	Epivir
+#23	AnnotatorNotes T23	C0678151
+T24	DISO 756 765	problèmes
+#24	AnnotatorNotes T24	C0033213
+T25	CHEM 805 811	Epivir
+#25	AnnotatorNotes T25	C0678151
+T26	PROC 876 886	traitement
+#26	AnnotatorNotes T26	C0087111
+T27	LIVB 918 925	médecin
+#27	AnnotatorNotes T27	C0031831
+T28	CHEM 945 956	médicaments
+#28	AnnotatorNotes T28	C0013227
+T29	CHEM 959 965	Epivir
+#29	AnnotatorNotes T29	C0678151
+T30	DISO 998 1017	effets indésirables
+#30	AnnotatorNotes T30	C0559546
+T31	DISO 1066 1085	effets indésirables
+#31	AnnotatorNotes T31	C0559546
+T32	LIVB 1145 1153	patients
+#32	AnnotatorNotes T32	C0030705
+T33	PROC 1154 1161	traités
+#33	AnnotatorNotes T33	C0087111
+T34	LIVB 1176 1184	patients
+#34	AnnotatorNotes T34	C0030705
+T35	PROC 1185 1192	traités
+#35	AnnotatorNotes T35	C0087111
+T36	DISO 1196 1202	anémie
+#36	AnnotatorNotes T36	C0002871
+T37	DISO 1205 1237	faible nombre de globules rouges
+#37	AnnotatorNotes T37	C0002871
+T38	ANAT 1222 1237	globules rouges
+#38	AnnotatorNotes T38	C0014792
+T39	DISO 1241 1252	neutropénie
+#39	AnnotatorNotes T39	C0027947
+T40	DISO 1255 1287	faible nombre de globules blancs
+#40	AnnotatorNotes T40	C0027947
+T41	ANAT 1272 1287	globules blancs
+#41	AnnotatorNotes T41	C0023516
+T42	DISO 1293 1324	réduction du taux de plaquettes
+#42	AnnotatorNotes T42	C0392386
+T43	ANAT 1314 1324	plaquettes
+#43	AnnotatorNotes T43	C0005821
+T44	ANAT 1331 1341	plaquettes
+#44	AnnotatorNotes T44	C0005821
+T45	PHYS 1367 1378	coagulation
+#45	AnnotatorNotes T45	C0005778
+T46	DISO 1388 1424	réduction du taux de globules rouges
+#46	AnnotatorNotes T46	C0002871
+T47	ANAT 1409 1424	globules rouges
+#47	AnnotatorNotes T47	C0014792
+T48	DISO 1444 1453	symptômes
+#48	AnnotatorNotes T48	C1457887
+T49	DISO 1463 1470	fatigue
+#49	AnnotatorNotes T49	C0015672
+T50	DISO 1474 1487	essoufflement
+#50	AnnotatorNotes T50	C0013404
+T51	DISO 1496 1532	réduction du taux de globules blancs
+#51	AnnotatorNotes T51	C0023530
+T52	ANAT 1517 1532	globules blancs
+#52	AnnotatorNotes T52	C0023516
+T53	DISO 1570 1580	infections
+#53	AnnotatorNotes T53	C0021311
+T54	CHEM 1615 1622	enzymes
+#54	AnnotatorNotes T54	C0014442
+T55	ANAT 1626 1630	foie
+#55	AnnotatorNotes T55	C0023884
+T56	ANAT 1661 1682	prélèvements sanguins
+#56	AnnotatorNotes T56	C0178913
+T57	LIVB 1686 1694	patients
+#57	AnnotatorNotes T57	C0030705
+T58	PROC 1695 1702	traités
+#58	AnnotatorNotes T58	C0087111
+T59	CHEM 1707 1713	Epivir
+#59	AnnotatorNotes T59	C0678151
+T60	DISO 1730 1750	inflammation du foie
+#60	AnnotatorNotes T60	C0019158
+T61	DISO 1730 1742	inflammation
+#61	AnnotatorNotes T61	C0021368
+T62	ANAT 1746 1750	foie
+#62	AnnotatorNotes T62	C0023884
+T63	DISO 1753 1761	hépatite
+#63	AnnotatorNotes T63	C0019158
+T64	ANAT 1770 1778	pancréas
+#64	AnnotatorNotes T64	C0030274
+T65	DISO 1781 1792	pancréatite
+#65	AnnotatorNotes T65	C0030305
+T66	ANAT 1832 1837	tissu
+#66	AnnotatorNotes T66	C0040300
+T67	ANAT 1832 1848	tissu musculaire
+#67	AnnotatorNotes T67	C0026845
+T68	LIVB 1908 1916	patients
+#68	AnnotatorNotes T68	C0030705
+T69	PROC 1917 1924	traités
+#69	AnnotatorNotes T69	C0087111
+T70	LIVB 1941 1949	patients
+#70	AnnotatorNotes T70	C0030705
+T71	PROC 1950 1957	traités
+#71	AnnotatorNotes T71	C0087111
+T72	DISO 1975 1990	engourdissement
+#72	AnnotatorNotes T72	C0020580
+T73	DISO 1996 2009	fourmillement
+#73	AnnotatorNotes T73	C0016579
+T74	PHYS 2016 2025	sensation
+#74	AnnotatorNotes T74	C1527305
+T75	DISO 2029 2038	faiblesse
+#75	AnnotatorNotes T75	C0004093
+T76	ANAT 2053 2060	membres
+#76	AnnotatorNotes T76	C1280090
+T77	DISO 2085 2091	anémie
+#77	AnnotatorNotes T77	C0002871
+T78	DISO 2105 2116	neutropénie
+#78	AnnotatorNotes T78	C0027947
+T79	LIVB 2195 2203	patients
+#79	AnnotatorNotes T79	C0030705
+T80	PROC 2204 2211	traités
+#80	AnnotatorNotes T80	C0087111
+T81	CHEM 2262 2269	graisse
+#81	AnnotatorNotes T81	C0301024
+T82	ANAT 2284 2290	jambes
+#82	AnnotatorNotes T82	C1140621
+T83	ANAT 2297 2301	bras
+#83	AnnotatorNotes T83	C1269078
+T84	ANAT 2308 2314	visage
+#84	AnnotatorNotes T84	C0015450
+T85	CHEM 2340 2347	graisse
+#85	AnnotatorNotes T85	C0301024
+T86	PROC 2373 2382	CONSERVER
+#86	AnnotatorNotes T86	C0728909
+T87	CHEM 2383 2389	EPIVIR
+#87	AnnotatorNotes T87	C0678151
+T88	CHEM 2408 2414	Epivir
+#88	AnnotatorNotes T88	C0678151
+T89	PHYS 2424 2442	date de péremption
+#89	AnnotatorNotes T89	C1960419
+T90	OBJC 2461 2466	boîte
+#90	AnnotatorNotes T90	C0179400
+T91	CHEM 2478 2496	comprimé pelliculé
+#91	AnnotatorNotes T91	C1273643
+T92	CHEM 2478 2486	comprimé
+#92	AnnotatorNotes T92	C0039225
+T93	CHEM 2516 2526	lamivudine
+#93	AnnotatorNotes T93	C0209738
+T94	CHEM 2548 2554	Epivir
+#94	AnnotatorNotes T94	C0678151
+T95	DEVI 2573 2582	emballage
+#95	AnnotatorNotes T95	C0013194
+T96	CHEM 2597 2617	comprimés pelliculés
+#96	AnnotatorNotes T96	C1273643
+T97	CHEM 2597 2606	comprimés
+#97	AnnotatorNotes T97	C0039225
+T98	CHEM 2622 2628	Epivir
+#98	AnnotatorNotes T98	C0678151
+T99	DEVI 2641 2653	conditionnés
+#99	AnnotatorNotes T99	C0013194
+T100	CHEM 2661 2670	comprimés
+#100	AnnotatorNotes T100	C0039225
+T101	OBJC 2681 2687	flacon
+#101	AnnotatorNotes T101	C0179376
+T102	CHEM 2697 2709	polyéthylène
+#102	AnnotatorNotes T102	C0137914
+T103	CHEM 2718 2740	plaquette thermoformée
+#103	AnnotatorNotes T103	C1319688
+T104	CHEM 2800 2810	médicament
+#104	AnnotatorNotes T104	C0013227
+T105	GEOG 2924 2932	Belgique
+#105	AnnotatorNotes T105	C0004950
+T106	GEOG 3327 3333	France
+#106	AnnotatorNotes T106	C0016674
+T107	CHEM 3897 3907	médicament
+#107	AnnotatorNotes T107	C0013227
+T108	GEOG 3960 3970	européenne
+#108	AnnotatorNotes T108	C0015176
+T109	CHEM 3974 3984	médicament
+#109	AnnotatorNotes T109	C0013227
+T110	DISO 4046 4056	diabétique
+#110	AnnotatorNotes T110	C0241863
+T111	CHEM 4090 4106	solution buvable
+#111	AnnotatorNotes T111	C0991536
+T112	CHEM 4090 4098	solution
+#112	AnnotatorNotes T112	C1382100
+T113	CHEM 4111 4117	Epivir
+#113	AnnotatorNotes T113	C0678151
+T114	CHEM 4153 4158	sucre
+#114	AnnotatorNotes T114	C0242209
+T115	CHEM 4176 4187	médicaments
+#115	AnnotatorNotes T115	C0013227
+T116	CHEM 4210 4216	Epivir
+#116	AnnotatorNotes T116	C0678151
+T117	CHEM 4219 4223	INTI
+#117	AnnotatorNotes T117	C0282519
+T118	DISO 4242 4259	effet indésirable
+#118	AnnotatorNotes T118	C0274310
+T119	DISO 4267 4283	acidose lactique
+#119	AnnotatorNotes T119	C0001125
+T120	DISO 4286 4317	accumulation d ’ acide lactique
+#120	AnnotatorNotes T120	C0001125
+T121	DISO 4286 4298	accumulation
+#121	AnnotatorNotes T121	C0424337
+T122	CHEM 4303 4317	acide lactique
+#122	AnnotatorNotes T122	C0064582
+T123	CHEM 4303 4308	acide
+#123	AnnotatorNotes T123	C0001128
+T124	LIVB 4327 4336	organisme
+#124	AnnotatorNotes T124	C0242821
+T125	ANAT 4374 4378	foie
+#125	AnnotatorNotes T125	C0023884
+T126	LIVB 4424 4431	médecin
+#126	AnnotatorNotes T126	C0031831
+T127	CHEM 4453 4459	Epivir
+#127	AnnotatorNotes T127	C0678151
+T128	DISO 4482 4487	signe
+#128	AnnotatorNotes T128	C0037088
+T129	DISO 4518 4534	acidose lactique
+#129	AnnotatorNotes T129	C0001125
+T130	PHYS 4539 4548	Grossesse
+#130	AnnotatorNotes T130	C0032961
+T131	LIVB 4562 4570	enceinte
+#131	AnnotatorNotes T131	C0033011
+T132	PHYS 4590 4599	grossesse
+#132	AnnotatorNotes T132	C0032961
+T133	LIVB 4629 4636	médecin
+#133	AnnotatorNotes T133	C0031831
+T134	DISO 4667 4686	effets indésirables
+#134	AnnotatorNotes T134	C0559546
+T135	PROC 4741 4751	traitement
+#135	AnnotatorNotes T135	C0087111
+T136	PHYS 4754 4765	Allaitement
+#136	AnnotatorNotes T136	C0006147
+T137	CHEM 4775 4785	lamivudine
+#137	AnnotatorNotes T137	C0209738
+T138	LIVB 4792 4797	virus
+#138	AnnotatorNotes T138	C0042776
+T139	ANAT 4821 4825	lait
+#139	AnnotatorNotes T139	C0026131
+T140	LIVB 4826 4834	maternel
+#140	AnnotatorNotes T140	C0026591
+T141	PHYS 4841 4852	allaitement
+#141	AnnotatorNotes T141	C0006147
+T142	LIVB 4877 4882	femme
+#142	AnnotatorNotes T142	C0043210
+T143	PROC 4883 4890	traitée
+#143	AnnotatorNotes T143	C0087111
+T144	CHEM 4895 4901	Epivir
+#144	AnnotatorNotes T144	C0678151
+T145	LIVB 4915 4921	femmes
+#145	AnnotatorNotes T145	C0043210
+T146	DISO 4922 4942	infectées par le VIH
+#146	AnnotatorNotes T146	C0019693
+T147	DISO 4922 4931	infectées
+#147	AnnotatorNotes T147	C0021311
+T148	LIVB 4939 4942	VIH
+#148	AnnotatorNotes T148	C0019682
+T149	LIVB 5025 5030	virus
+#149	AnnotatorNotes T149	C0042776
+T150	LIVB 5114 5121	médecin
+#150	AnnotatorNotes T150	C0031831
+T151	DISO 5141 5152	intolérance
+#151	AnnotatorNotes T151	C0149696
+T152	CHEM 5164 5170	sucres
+#152	AnnotatorNotes T152	C0242209
+T153	LIVB 5197 5204	médecin
+#153	AnnotatorNotes T153	C0031831
+T154	CHEM 5222 5228	Epivir
+#154	AnnotatorNotes T154	C0678151
+T155	LIVB 5242 5267	enfant de 3 mois à 12 ans
+#155	AnnotatorNotes T155	C0008100 C0008059
+T157	CHEM 5403 5409	Epivir
+#157	AnnotatorNotes T157	C0678151
+T158	DEVI 5477 5492	pipette doseuse
+#158	AnnotatorNotes T158	C1363492
+T159	OBJC 5518 5523	boîte
+#159	AnnotatorNotes T159	C0179400
+T160	PROC 5565 5574	prescrite
+#160	AnnotatorNotes T160	C0033080
+T161	DEVI 5602 5617	pipette doseuse
+#161	AnnotatorNotes T161	C1363492
+T162	OBJC 5650 5656	flacon
+#162	AnnotatorNotes T162	C0179376
+T163	CHEM 5730 5737	enzymes
+#163	AnnotatorNotes T163	C0014442
+T164	ANAT 5741 5745	foie
+#164	AnnotatorNotes T164	C0023884
+T165	ANAT 5776 5797	prélèvements sanguins
+#165	AnnotatorNotes T165	C0444256
+T166	ANAT 5789 5797	sanguins
+#166	AnnotatorNotes T166	C0005767
+T167	LIVB 5801 5809	patients
+#167	AnnotatorNotes T167	C0030705
+T168	PROC 5810 5817	traités
+#168	AnnotatorNotes T168	C0087111
+T169	CHEM 5822 5828	Epivir
+#169	AnnotatorNotes T169	C0678151
+T170	GEOG 5900 5911	Royaume-Uni
+#170	AnnotatorNotes T170	C0041700
+T171	GEOG 5969 5978	Allemagne
+#171	AnnotatorNotes T171	C0017480
+T172	CHEM 6038 6048	médicament
+#172	AnnotatorNotes T172	C0013227
+T173	DISO 6205 6222	effet indésirable
+#173	AnnotatorNotes T173	C0274310
+T174	LIVB 6273 6278	femme
+#174	AnnotatorNotes T174	C0043210
+T175	DISO 6309 6316	obésité
+#175	AnnotatorNotes T175	C0028754
+T176	DISO 6332 6346	redistribution
+#176	AnnotatorNotes T176	C0856151
+T177	DISO 6353 6365	accumulation
+#177	AnnotatorNotes T177	C0235433
+T178	DISO 6373 6413	diminution de la masse grasse corporelle
+#178	AnnotatorNotes T178	C3544241
+T180	CHEM 6396 6402	grasse
+#180	AnnotatorNotes T180	C0301024
+T181	LIVB 6403 6413	corporelle
+#181	AnnotatorNotes T181	C0242821
+T182	LIVB 6440 6448	patients
+#182	AnnotatorNotes T182	C0030705
+T183	PROC 6449 6456	traités
+#183	AnnotatorNotes T183	C0087111
+T184	CHEM 6465 6476	association
+#184	AnnotatorNotes T184	C0013162
+T185	CHEM 6480 6507	médicaments antirétroviraux
+#185	AnnotatorNotes T185	C0599685
+T186	CHEM 6480 6491	médicaments
+#186	AnnotatorNotes T186	C0013227
+T187	PHYS 6512 6523	Allaitement
+#187	AnnotatorNotes T187	C0006147
+T188	CHEM 6533 6543	lamivudine
+#188	AnnotatorNotes T188	C0209738
+T189	LIVB 6550 6555	virus
+#189	AnnotatorNotes T189	C0042776
+T190	ANAT 6579 6583	lait
+#190	AnnotatorNotes T190	C0026131
+T191	LIVB 6584 6592	maternel
+#191	AnnotatorNotes T191	C0026591
+T192	PHYS 6599 6610	allaitement
+#192	AnnotatorNotes T192	C0006147
+T193	LIVB 6635 6640	femme
+#193	AnnotatorNotes T193	C0043210
+T194	PROC 6641 6648	traitée
+#194	AnnotatorNotes T194	C0087111
+T195	CHEM 6653 6659	Epivir
+#195	AnnotatorNotes T195	C0678151
+T196	PROC 6667 6677	traitement
+#196	AnnotatorNotes T196	C0087111
+T197	CHEM 6686 6697	association
+#197	AnnotatorNotes T197	C0013162
+T198	CHEM 6701 6728	médicaments antirétroviraux
+#198	AnnotatorNotes T198	C0599685
+T199	CHEM 6701 6712	médicaments
+#199	AnnotatorNotes T199	C0013227
+T200	LIVB 6760 6769	corporels
+#200	AnnotatorNotes T200	C0242821
+T201	CHEM 6789 6807	comprimé pelliculé
+#201	AnnotatorNotes T201	C1273643
+T202	CHEM 6789 6797	comprimé
+#202	AnnotatorNotes T202	C0039225
+T203	CHEM 6827 6837	lamivudine
+#203	AnnotatorNotes T203	C0209738
+T204	CHEM 6859 6865	Epivir
+#204	AnnotatorNotes T204	C0678151
+T205	DEVI 6884 6893	emballage
+#205	AnnotatorNotes T205	C0013194
+T206	CHEM 6908 6928	comprimés pelliculés
+#206	AnnotatorNotes T206	C1273643
+T207	CHEM 6908 6917	comprimés
+#207	AnnotatorNotes T207	C0039225
+T208	CHEM 6933 6939	Epivir
+#208	AnnotatorNotes T208	C0678151
+T209	CHEM 6972 6981	comprimés
+#209	AnnotatorNotes T209	C0039225
+T210	OBJC 6992 6998	flacon
+#210	AnnotatorNotes T210	C0179376
+T211	CHEM 7008 7020	polyéthylène
+#211	AnnotatorNotes T211	C0137914
+T212	CHEM 7029 7053	plaquettes thermoformées
+#212	AnnotatorNotes T212	C1319688
+T213	CHEM 7113 7123	médicament
+#213	AnnotatorNotes T213	C0013227
+T17	DISO 1730 1742;1767 1778	inflammation du pancréas
+#17	AnnotatorNotes T17	C0030305
+T156	ANAT 4821 4834	lait maternel
+#156	AnnotatorNotes T156	C0026140
+T214	PHYS 4973 4981	allaiter
+#214	AnnotatorNotes T214	C0006147
+T215	PHYS 4997 5009;5022 5030	transmission du virus
+#215	AnnotatorNotes T215	C1521797
+T216	DISO 5141 5170	intolérance à certains sucres
+#216	AnnotatorNotes T216	C1521797
+T217	CHEM 5730 5745	enzymes du foie
+#217	AnnotatorNotes T217	C0443764
+T218	CHEM 1615 1630	enzymes du foie
+#218	AnnotatorNotes T218	C0443764
+T179	PHYS 6390 6413	masse grasse corporelle
+#179	AnnotatorNotes T179	C3656665
+T219	ANAT 6579 6592	lait maternel
+#219	AnnotatorNotes T219	C0026140
+T220	ANAT 58 71	lait maternel
+#220	AnnotatorNotes T220	C0026140

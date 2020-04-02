@@ -1,0 +1,14 @@
+T1	DISO 10 35	tumeur intraventriculaire
+#1	AnnotatorNotes T1	C0007798
+T2	DISO 10 16	tumeur
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 17 35	intraventriculaire
+#3	AnnotatorNotes T3	C1517569
+T4	DISO 49 63	asymptomatique
+#4	AnnotatorNotes T4	C0231221
+T5	DISO 80 113	sclérose tubéreuse de Bourneville
+#5	AnnotatorNotes T5	C0041341
+T6	DISO 80 88	sclérose
+#6	AnnotatorNotes T6	C0036429
+T7	ANAT 89 98	tubéreuse
+#7	AnnotatorNotes T7	C1184740

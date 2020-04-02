@@ -1,0 +1,12 @@
+T1	LIVB 34 49	ophtalmologiste
+#1	AnnotatorNotes T1	C1704292
+T2	PROC 73 83	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 88 121	troubles de la vision binoculaire
+#3	AnnotatorNotes T3	C0005461
+T4	DISO 88 96	troubles
+#4	AnnotatorNotes T4	C0012634
+T5	PHYS 103 121	vision binoculaire
+#5	AnnotatorNotes T5	C0042794
+T6	PHYS 103 109	vision
+#6	AnnotatorNotes T6	C0042789

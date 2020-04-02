@@ -1,0 +1,6 @@
+T1	PROC 34 51	télécobalthérapie
+#1	AnnotatorNotes T1	C0203550
+T2	ANAT 60 76	région cervicale
+#2	AnnotatorNotes T2	C0556956
+T3	ANAT 67 76	cervicale
+#3	AnnotatorNotes T3	C0027530

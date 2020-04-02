@@ -1,0 +1,4 @@
+T1	PROC 3 15	surveillance
+#1	AnnotatorNotes T1	C0150369
+T2	CHEM 32 42	glycémique
+#2	AnnotatorNotes T2	C0005802

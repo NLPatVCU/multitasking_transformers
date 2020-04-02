@@ -1,0 +1,8 @@
+T1	DISO 3 24	cancer de la prostate
+#1	AnnotatorNotes T1	C0376358
+T2	DISO 3 9	cancer
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 16 24	prostate
+#3	AnnotatorNotes T3	C0033572
+T4	PROC 43 52	dépistage
+#4	AnnotatorNotes T4	C0199230

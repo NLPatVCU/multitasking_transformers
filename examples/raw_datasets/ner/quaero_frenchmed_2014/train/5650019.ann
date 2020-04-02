@@ -1,0 +1,16 @@
+T1	PHYS 0 14	Hétérogénéités
+#1	AnnotatorNotes T1	C0242960
+T2	CHEM 38 41	ADN
+#2	AnnotatorNotes T2	C0012854
+T3	ANAT 45 51	noyaux
+#3	AnnotatorNotes T3	C0007610
+T4	PROC 61 66	Etude
+#4	AnnotatorNotes T4	C2603343
+T5	PROC 67 85	autoradiographique
+#5	AnnotatorNotes T5	C0004400
+T6	ANAT 93 99	glande
+#6	AnnotatorNotes T6	C1285092
+T7	LIVB 114 125	Bombyx mori
+#7	AnnotatorNotes T7	C0323309
+T8	LIVB 114 120	Bombyx
+#8	AnnotatorNotes T8	C0037119

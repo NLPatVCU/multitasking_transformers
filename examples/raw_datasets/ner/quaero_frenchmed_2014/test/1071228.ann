@@ -1,0 +1,6 @@
+T1	PROC 33 39	greffe
+#1	AnnotatorNotes T1	C0040732
+T2	ANAT 40 49	gingivale
+#2	AnnotatorNotes T2	C0017562
+T3	PROC 58 66	fixation
+#3	AnnotatorNotes T3	C0185023

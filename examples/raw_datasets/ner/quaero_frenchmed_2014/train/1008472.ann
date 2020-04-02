@@ -1,0 +1,12 @@
+T1	PROC 0 10	Réparation
+#1	AnnotatorNotes T1	C1705181
+T2	ANAT 17 37	commissure des lvres
+#2	AnnotatorNotes T2	C0226924
+T3	ANAT 17 27	commissure
+#3	AnnotatorNotes T3	C1185742
+T4	ANAT 32 37	lvres
+#4	AnnotatorNotes T4	C0023759
+T5	ANAT 59 66	lambeau
+#5	AnnotatorNotes T5	C0038925
+T6	ANAT 67 72	jugal
+#6	AnnotatorNotes T6	C0043539

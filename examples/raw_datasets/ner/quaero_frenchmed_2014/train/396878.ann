@@ -1,0 +1,8 @@
+T1	PROC 0 11	Microscopie
+#1	AnnotatorNotes T1	C0026018
+T2	PROC 15 24	chirurgie
+#2	AnnotatorNotes T2	C0543467
+T3	ANAT 25 33	oculaire
+#3	AnnotatorNotes T3	C0015392
+T4	DEVI 40 47	sutures
+#4	AnnotatorNotes T4	C0038969

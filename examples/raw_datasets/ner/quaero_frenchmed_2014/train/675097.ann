@@ -1,0 +1,12 @@
+T1	ANAT 23 31	placenta
+#1	AnnotatorNotes T1	C0032043
+T2	DISO 58 73	placenta normal
+#2	AnnotatorNotes T2	C0566710
+T3	ANAT 58 66	placenta
+#3	AnnotatorNotes T3	C0032043
+T4	PHYS 105 114	grossesse
+#4	AnnotatorNotes T4	C0032961
+T5	PROC 6 19	échographique
+#5	AnnotatorNotes T5	C0041618
+T6	DISO 58 66;77 89	placenta pathologique
+#6	AnnotatorNotes T6	C0566711

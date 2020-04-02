@@ -1,0 +1,10 @@
+T1	PROC 0 10	Diagnositc
+#1	AnnotatorNotes T1	C0430022
+T2	PROC 11 25	angiographique
+#2	AnnotatorNotes T2	C0002978
+T3	DISO 30 37	lésions
+#3	AnnotatorNotes T3	C0221198
+T4	ANAT 59 63	foie
+#4	AnnotatorNotes T4	C0023884
+T5	DISO 30 37;56 63	lésions du foie
+#5	AnnotatorNotes T5	C0023895

@@ -1,0 +1,14 @@
+T1	PROC 0 9	Dépistage
+#1	AnnotatorNotes T1	C1511790
+T2	DISO 29 50	hyperlipoprotéinémies
+#2	AnnotatorNotes T2	C0020476
+T3	PROC 81 91	prévention
+#3	AnnotatorNotes T3	C0033144
+T4	DISO 98 112	athérosclérose
+#4	AnnotatorNotes T4	C0004153
+T5	PROC 126 131	étude
+#5	AnnotatorNotes T5	C2603343
+T6	LIVB 139 146	enfants
+#6	AnnotatorNotes T6	C0008059
+T7	LIVB 160 168	familles
+#7	AnnotatorNotes T7	C0015576

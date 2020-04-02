@@ -1,0 +1,6 @@
+T1	PROC 3 12	résection
+#1	AnnotatorNotes T1	C0728940
+T2	PROC 13 25	endoscopique
+#2	AnnotatorNotes T2	C0014245
+T3	PHEN 58 70	ultrasonique
+#3	AnnotatorNotes T3	C1456803

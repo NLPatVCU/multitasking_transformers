@@ -1,0 +1,14 @@
+T1	PROC 0 7	Culture
+#1	AnnotatorNotes T1	C0430400
+T2	ANAT 8 21	organotypique
+#2	AnnotatorNotes T2	C0178784
+T3	ANAT 25 32	cerveau
+#3	AnnotatorNotes T3	C0006104
+T4	LIVB 36 49	Manduca sexta
+#4	AnnotatorNotes T4	C0242619
+T5	LIVB 36 43	Manduca
+#5	AnnotatorNotes T5	C0242620
+T6	LIVB 64 75	Lépidoptère
+#6	AnnotatorNotes T6	C0023338
+T7	LIVB 76 85	sphingidé
+#7	AnnotatorNotes T7	C0599456

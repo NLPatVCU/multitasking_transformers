@@ -1,0 +1,10 @@
+T1	PHYS 8 20	tensionnelle
+#1	AnnotatorNotes T1	C0005823
+T2	PROC 25 36	traitements
+#2	AnnotatorNotes T2	C0087111
+T3	PHYS 140 159	pression artérielle
+#3	AnnotatorNotes T3	C0232108
+T4	ANAT 149 159	artérielle
+#4	AnnotatorNotes T4	C0003842
+T5	CHEM 25 54	traitements antihypertenseurs
+#5	AnnotatorNotes T5	C0684167

@@ -1,0 +1,8 @@
+T2	DISO 48 72	affections carotidiennes
+#2	AnnotatorNotes T2	C0007273
+T3	DISO 48 58	affections
+#3	AnnotatorNotes T3	C0012634
+T4	ANAT 59 72	carotidiennes
+#4	AnnotatorNotes T4	C0007272
+T1	PROC 33 43	diagnostic
+#1	AnnotatorNotes T1	C0430022

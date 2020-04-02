@@ -1,0 +1,6 @@
+T1	PROC 3 28	arthroscopie de l' épaule
+#1	AnnotatorNotes T1	C0559702
+T2	PROC 3 15	arthroscopie
+#2	AnnotatorNotes T2	C0003904
+T3	ANAT 22 28	épaule
+#3	AnnotatorNotes T3	C0037004

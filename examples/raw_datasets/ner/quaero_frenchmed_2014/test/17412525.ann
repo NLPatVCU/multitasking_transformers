@@ -1,0 +1,14 @@
+T1	PHYS 19 27	mutation
+#1	AnnotatorNotes T1	C0026882
+T2	PHYS 48 57	phénotype
+#2	AnnotatorNotes T2	C0031437
+T3	PHYS 58 67	circadien
+#3	AnnotatorNotes T3	C0008810
+T4	PHYS 71 81	croissance
+#4	AnnotatorNotes T4	C0018270
+T5	DISO 82 90	tumorale
+#5	AnnotatorNotes T5	C0027651
+T6	LIVB 99 105	Souris
+#6	AnnotatorNotes T6	C0025929
+T7	DISO 71 90	croissance tumorale
+#7	AnnotatorNotes T7	C0598934

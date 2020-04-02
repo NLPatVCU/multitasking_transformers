@@ -1,0 +1,10 @@
+T1	DISO 0 20	Alternariose cutanée
+#1	AnnotatorNotes T1	C0343034
+T2	ANAT 13 20	cutanée
+#2	AnnotatorNotes T2	C1123023
+T3	DISO 40 58	maladie de Cushing
+#3	AnnotatorNotes T3	C0221406
+T4	DISO 40 47	maladie
+#4	AnnotatorNotes T4	C0012634
+T5	PROC 73 78	étude
+#5	AnnotatorNotes T5	C2603343

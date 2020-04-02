@@ -1,0 +1,14 @@
+T1	DISO 10 24	inflammatoires
+#1	AnnotatorNotes T1	C0021368
+T2	ANAT 25 31	fécaux
+#2	AnnotatorNotes T2	C0015733
+T3	PHYS 35 44	nutrition
+#3	AnnotatorNotes T3	C1442959
+T4	DISO 48 70	pathologies digestives
+#4	AnnotatorNotes T4	C0012242
+T5	PHYS 60 70	digestives
+#5	AnnotatorNotes T5	C0012238
+T6	LIVB 79 85	enfant
+#6	AnnotatorNotes T6	C0008059
+T7	PHYS 0 9	Marqueurs
+#7	AnnotatorNotes T7	C0005516

@@ -1,0 +1,8 @@
+T1	PROC 10 30	tomodensitométriques
+#1	AnnotatorNotes T1	C1139717
+T2	DISO 56 71	arrêt cardiaque
+#2	AnnotatorNotes T2	C0018790
+T3	LIVB 88 95	patient
+#3	AnnotatorNotes T3	C0030705
+T4	DISO 96 110	polytraumatisé
+#4	AnnotatorNotes T4	C2004002

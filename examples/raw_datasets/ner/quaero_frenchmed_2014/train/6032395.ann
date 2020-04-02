@@ -1,0 +1,10 @@
+T1	PHEN 13 23	acoustique
+#1	AnnotatorNotes T1	C0001166
+T2	DEVI 28 59	prothèses de l' oreille moyenne
+#2	AnnotatorNotes T2	C2370802
+T3	DEVI 28 37	prothèses
+#3	AnnotatorNotes T3	C0175649
+T4	ANAT 44 59	oreille moyenne
+#4	AnnotatorNotes T4	C0013455
+T5	ANAT 44 51	oreille
+#5	AnnotatorNotes T5	C0013443

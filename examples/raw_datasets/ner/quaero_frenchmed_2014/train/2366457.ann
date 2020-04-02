@@ -1,0 +1,12 @@
+T1	PHEN 0 9	Résultats
+#1	AnnotatorNotes T1	C0849546
+T2	PROC 43 64	excision du ptérygion
+#2	AnnotatorNotes T2	C0197133
+T3	PROC 43 51	excision
+#3	AnnotatorNotes T3	C0728940
+T4	DISO 55 64	ptérygion
+#4	AnnotatorNotes T4	C0033999
+T5	CHEM 70 80	autogreffe
+#5	AnnotatorNotes T5	C0559189
+T6	ANAT 81 94	conjonctivale
+#6	AnnotatorNotes T6	C0009758

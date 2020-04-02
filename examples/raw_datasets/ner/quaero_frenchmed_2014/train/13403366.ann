@@ -1,0 +1,14 @@
+T1	LIVB 36 47	Pasteurella
+#1	AnnotatorNotes T1	C0030635
+T2	PHYS 81 90	évolution
+#2	AnnotatorNotes T2	C0015219
+T3	DISO 97 106	tularémie
+#3	AnnotatorNotes T3	C0041351
+T4	LIVB 116 121	hôtes
+#4	AnnotatorNotes T4	C1167395
+T5	LIVB 36 58	Pasteurella tularensis
+#5	AnnotatorNotes T5	C0016677
+T6	PROC 24 32	in vitro
+#6	AnnotatorNotes T6	C0681828
+T7	PROC 13 20	in vivo
+#7	AnnotatorNotes T7	C0681829

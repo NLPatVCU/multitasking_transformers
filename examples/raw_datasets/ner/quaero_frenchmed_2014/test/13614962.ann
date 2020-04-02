@@ -1,0 +1,10 @@
+T1	DISO 0 9	Résultats
+#1	AnnotatorNotes T1	C2825142
+T2	PROC 36 45	perfusion
+#2	AnnotatorNotes T2	C0031001
+T3	CHEM 46 54	calcique
+#3	AnnotatorNotes T3	C0006675
+T4	DISO 63 123	rachitisme vitaminorésistant hypophosphatémique idiopathique
+#4	AnnotatorNotes T4	C2363065
+T5	DISO 63 73	rachitisme
+#5	AnnotatorNotes T5	C0035579

@@ -1,0 +1,14 @@
+T1	DISO 0 19	Fasciite nécrosante
+#1	AnnotatorNotes T1	C0238124
+T2	DISO 0 8	Fasciite
+#2	AnnotatorNotes T2	C0015645
+T3	DISO 9 19	nécrosante
+#3	AnnotatorNotes T3	C0027540
+T4	ANAT 20 29	cervicale
+#4	AnnotatorNotes T4	C0027530
+T5	DISO 43 56	maladie à VIH
+#5	AnnotatorNotes T5	C0019693
+T6	DISO 43 50	maladie
+#6	AnnotatorNotes T6	C0012634
+T7	LIVB 53 56	VIH
+#7	AnnotatorNotes T7	C0019682

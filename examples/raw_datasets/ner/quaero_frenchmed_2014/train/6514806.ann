@@ -1,0 +1,10 @@
+T1	DISO 0 7	Varices
+#1	AnnotatorNotes T1	C0042345
+T2	ANAT 12 30	membres inférieurs
+#2	AnnotatorNotes T2	C0023216
+T3	ANAT 12 19	membres
+#3	AnnotatorNotes T3	C0015385
+T4	PHYS 34 44	grossesses
+#4	AnnotatorNotes T4	C0032961
+T5	DISO 0 30	Varices des membres inférieurs
+#5	AnnotatorNotes T5	C0155778

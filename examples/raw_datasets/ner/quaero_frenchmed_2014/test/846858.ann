@@ -1,0 +1,10 @@
+T1	DISO 0 15	Ulcère duodénal
+#1	AnnotatorNotes T1	C0013295
+T2	DISO 0 6	Ulcère
+#2	AnnotatorNotes T2	C0041582
+T3	ANAT 7 15	duodénal
+#3	AnnotatorNotes T3	C0013303
+T4	PROC 27 49	traitement chirurgical
+#4	AnnotatorNotes T4	C0543467
+T5	PROC 27 37	traitement
+#5	AnnotatorNotes T5	C0087111

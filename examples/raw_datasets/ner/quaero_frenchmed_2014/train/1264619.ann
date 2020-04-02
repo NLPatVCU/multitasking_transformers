@@ -1,0 +1,14 @@
+T1	PROC 0 28	Scintigraphies thyroïdiennes
+#1	AnnotatorNotes T1	C0860843
+T2	PROC 0 14	Scintigraphies
+#2	AnnotatorNotes T2	C0441633
+T3	ANAT 15 28	thyroïdiennes
+#3	AnnotatorNotes T3	C0040132
+T4	CHEM 50 58	iode 131
+#4	AnnotatorNotes T4	C0303029
+T5	CHEM 50 54	iode
+#5	AnnotatorNotes T5	C0021968
+T6	CHEM 65 79	technetium 99m
+#6	AnnotatorNotes T6	C0303611
+T7	CHEM 65 75	technetium
+#7	AnnotatorNotes T7	C0039411

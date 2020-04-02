@@ -1,0 +1,12 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 19 23	45Ca
+#2	AnnotatorNotes T2	C1273033
+T3	PHYS 29 49	métabolisme calcique
+#3	AnnotatorNotes T3	C0596236
+T4	PHYS 29 40	métabolisme
+#4	AnnotatorNotes T4	C0025519
+T5	CHEM 41 49	calcique
+#5	AnnotatorNotes T5	C0006675
+T6	LIVB 58 66	hérisson
+#6	AnnotatorNotes T6	C0018866

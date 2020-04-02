@@ -1,0 +1,18 @@
+T1	CHEM 15 24	marqueurs
+#1	AnnotatorNotes T1	C0034551
+T2	LIVB 29 34	virus
+#2	AnnotatorNotes T2	C0042776
+T3	DISO 39 50	hépatites A
+#3	AnnotatorNotes T3	C0019159
+T4	DISO 39 48;53 54	hépatites B
+#4	AnnotatorNotes T4	C0019163
+T5	DISO 39 48;57 58	hépatites C
+#5	AnnotatorNotes T5	C0019196
+T6	GEOG 61 71	La Réunion
+#6	AnnotatorNotes T6	C0035373
+T7	LIVB 29 48;57 58	virus des hépatites C
+#7	AnnotatorNotes T7	C0079500
+T8	LIVB 29 48;53 54	virus des hépatites B
+#8	AnnotatorNotes T8	C0019169
+T9	LIVB 29 50	virus des hépatites A
+#9	AnnotatorNotes T9	C0376325

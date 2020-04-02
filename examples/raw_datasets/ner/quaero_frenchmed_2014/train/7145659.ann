@@ -1,0 +1,8 @@
+T1	DISO 0 9	Anévrysme
+#1	AnnotatorNotes T1	C0002940
+T2	ANAT 16 32	aorte abdominale
+#2	AnnotatorNotes T2	C0003484
+T3	PROC 47 51	Cure
+#3	AnnotatorNotes T3	C0087111
+T4	PROC 69 76	pontage
+#4	AnnotatorNotes T4	C0741847

@@ -1,0 +1,10 @@
+T1	DISO 0 23	Hémangiomes choroïdiens
+#1	AnnotatorNotes T1	C0346390
+T2	PROC 49 80	photocoagulation au laser Argon
+#2	AnnotatorNotes T2	C0185071
+T3	PROC 49 65	photocoagulation
+#3	AnnotatorNotes T3	C0441510
+T4	DEVI 69 80	laser Argon
+#4	AnnotatorNotes T4	C0392247
+T5	DEVI 69 74	laser
+#5	AnnotatorNotes T5	C0181548

@@ -1,0 +1,6 @@
+T1	PROC 0 11	Exploration
+#1	AnnotatorNotes T1	C1280903
+T2	PHEN 12 26	radiographique
+#2	AnnotatorNotes T2	C0444708
+T3	ANAT 42 48	nasale
+#3	AnnotatorNotes T3	C0028429

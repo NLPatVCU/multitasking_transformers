@@ -1,0 +1,14 @@
+T1	PROC 3 13	diagnostic
+#1	AnnotatorNotes T1	C0430022
+T2	DISO 20 40	maladie coronarienne
+#2	AnnotatorNotes T2	C1956346
+T3	DISO 20 27	maladie
+#3	AnnotatorNotes T3	C0012634
+T4	ANAT 28 40	coronarienne
+#4	AnnotatorNotes T4	C0205042
+T5	PROC 57 77	analyse quantitative
+#5	AnnotatorNotes T5	C0681919
+T6	PROC 57 64	analyse
+#6	AnnotatorNotes T6	C0936012
+T7	PROC 98 115	épreuve d' effort
+#7	AnnotatorNotes T7	C3494508

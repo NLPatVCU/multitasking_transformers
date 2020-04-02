@@ -1,0 +1,6 @@
+T1	PROC 15 33	antibioprophylaxie
+#1	AnnotatorNotes T1	C0282638
+T2	LIVB 57 83	anesthésistes-réanimateurs
+#2	AnnotatorNotes T2	C0334910
+T3	GEOG 84 92	français
+#3	AnnotatorNotes T3	C0016674

@@ -1,0 +1,16 @@
+T1	CHEM 10 43	polyester sulfurique de pentosane
+#1	AnnotatorNotes T1	C0030888
+T2	CHEM 10 19	polyester
+#2	AnnotatorNotes T2	C0032474
+T3	CHEM 20 30	sulfurique
+#3	AnnotatorNotes T3	C0038784
+T4	PROC 52 80	prévention des complications
+#4	AnnotatorNotes T4	C0547286
+T5	DISO 52 62	prévention
+#5	AnnotatorNotes T5	C0742770
+T6	DISO 67 80	complications
+#6	AnnotatorNotes T6	C0009566
+T7	DISO 87 97	dilatation
+#7	AnnotatorNotes T7	C0012359
+T8	ANAT 98 108	artérielle
+#8	AnnotatorNotes T8	C0003842

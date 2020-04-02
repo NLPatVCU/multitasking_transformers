@@ -1,0 +1,6 @@
+T1	PROC 0 12	Concertation
+#1	AnnotatorNotes T1	C0870721
+T2	DISO 36 42	cancer
+#2	AnnotatorNotes T2	C0086692C0027651
+T3	ANAT 46 51	cavum
+#3	AnnotatorNotes T3	C0027442

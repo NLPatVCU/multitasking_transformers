@@ -1,0 +1,14 @@
+T1	PROC 17 49	évaluation de la fonction rénale
+#1	AnnotatorNotes T1	C0022662
+T2	PROC 17 27	évaluation
+#2	AnnotatorNotes T2	C1261322
+T3	CHEM 34 49	fonction rénale
+#3	AnnotatorNotes T3	C0232804
+T4	ANAT 43 49	rénale
+#4	AnnotatorNotes T4	C0022646
+T5	DISO 58 68	hypertendu
+#5	AnnotatorNotes T5	C0857121
+T6	LIVB 69 72	âgé
+#6	AnnotatorNotes T6	C0001792
+T8	PROC 92 99	enquête
+#8	AnnotatorNotes T8	C0038951

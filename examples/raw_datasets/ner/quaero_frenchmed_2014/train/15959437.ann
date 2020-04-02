@@ -1,0 +1,8 @@
+T1	DISO 0 15	Kyste hydatique
+#1	AnnotatorNotes T1	C0013502
+T2	ANAT 20 31	tissus mous
+#2	AnnotatorNotes T2	C0225317
+T3	PROC 47 50	IRM
+#3	AnnotatorNotes T3	C0024485
+T4	PROC 71 83	observations
+#4	AnnotatorNotes T4	C0302523

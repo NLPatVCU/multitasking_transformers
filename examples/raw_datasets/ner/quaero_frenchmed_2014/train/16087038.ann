@@ -1,0 +1,8 @@
+T1	ANAT 45 51	membre
+#1	AnnotatorNotes T1	C1280090
+T2	PROC 65 93	traitement immunosuppresseur
+#2	AnnotatorNotes T2	C0021079
+T3	PROC 65 75	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	CHEM 96 115	FK 506 - Tacrolimus
+#4	AnnotatorNotes T4	C1255098

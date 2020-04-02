@@ -1,0 +1,12 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 42	sequelles de l' irradiation
+#2	AnnotatorNotes T2	C0392615
+T3	PHEN 31 42	irradiation
+#3	AnnotatorNotes T3	C1282930
+T4	DISO 47 54	cancers
+#4	AnnotatorNotes T4	C0027651
+T5	DISO 47 73	cancers du pharyngo-larynx
+#5	AnnotatorNotes T5	C0023055
+T6	ANAT 67 73	larynx
+#6	AnnotatorNotes T6	C0023078

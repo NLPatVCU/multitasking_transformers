@@ -1,0 +1,8 @@
+T1	DISO 31 41	pathologie
+#1	AnnotatorNotes T1	C0012634
+T2	ANAT 42 50	mammaire
+#2	AnnotatorNotes T2	C0006141
+T3	DISO 31 50	pathologie mammaire
+#3	AnnotatorNotes T3	C0006145
+T4	PROC 20 27	examens
+#4	AnnotatorNotes T4	C0582103

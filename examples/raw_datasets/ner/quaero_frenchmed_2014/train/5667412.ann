@@ -1,0 +1,26 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PROC 6 24	autoradiographique
+#2	AnnotatorNotes T2	C0004400
+T3	PHYS 31 47	synthèse des ADN
+#3	AnnotatorNotes T3	C1817262
+T4	CHEM 44 47	ADN
+#4	AnnotatorNotes T4	C0012854
+T5	CHEM 50 53	ARN
+#5	AnnotatorNotes T5	C0035668
+T6	CHEM 57 66	protéines
+#6	AnnotatorNotes T6	C0033684
+T7	ANAT 75 84	oesophage
+#7	AnnotatorNotes T7	C0014876
+T8	ANAT 85 97	embryonnaire
+#8	AnnotatorNotes T8	C0013935
+T9	LIVB 101 107	souris
+#9	AnnotatorNotes T9	C0025929
+T10	CHEM 124 138	actinomycine D
+#10	AnnotatorNotes T10	C0010934
+T11	CHEM 124 136	actinomycine
+#11	AnnotatorNotes T11	C0001259
+T12	PHYS 31 43;50 53	synthèse des ARN
+#12	AnnotatorNotes T12	C1328948
+T13	PHYS 31 43;57 66	synthèse des protéines
+#13	AnnotatorNotes T13	C0597295

@@ -1,0 +1,8 @@
+T1	ANAT 37 64	glomérulaire " dans le rein
+#1	AnnotatorNotes T1	C0022663
+T2	ANAT 60 64	rein
+#2	AnnotatorNotes T2	C0022646
+T3	PROC 93 99	mesure
+#3	AnnotatorNotes T3	C0337438
+T4	CHEM 106 113	glucose
+#4	AnnotatorNotes T4	C0017725

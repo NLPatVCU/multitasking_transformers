@@ -1,0 +1,10 @@
+T1	PHEN 0 25	Agrégation erythrocytaire
+#1	AnnotatorNotes T1	C1608880
+T2	ANAT 11 25	erythrocytaire
+#2	AnnotatorNotes T2	C0014792
+T3	DISO 29 50	pathologie vasculaire
+#3	AnnotatorNotes T3	C0042373
+T4	DISO 29 39	pathologie
+#4	AnnotatorNotes T4	C0012634
+T5	DISO 69 81	hypertension
+#5	AnnotatorNotes T5	C0020540

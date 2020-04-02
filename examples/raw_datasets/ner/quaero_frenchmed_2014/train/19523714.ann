@@ -1,0 +1,12 @@
+T1	DISO 0 29	Occlusion veineuse rétinienne
+#1	AnnotatorNotes T1	C0035328
+T2	ANAT 19 29	rétinienne
+#2	AnnotatorNotes T2	C0035298
+T3	DISO 33 41	syndrome
+#3	AnnotatorNotes T3	C0039082
+T4	DISO 45 61	apnée du sommeil
+#4	AnnotatorNotes T4	C0037315
+T5	DISO 45 50	apnée
+#5	AnnotatorNotes T5	C0003578
+T6	PHYS 54 61	sommeil
+#6	AnnotatorNotes T6	C0037313

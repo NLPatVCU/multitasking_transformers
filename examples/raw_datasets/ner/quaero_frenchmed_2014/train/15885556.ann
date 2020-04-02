@@ -1,0 +1,10 @@
+T1	DISO 0 19	Infection néonatale
+#1	AnnotatorNotes T1	C0854706
+T2	DISO 0 9	Infection
+#2	AnnotatorNotes T2	C0021311
+T3	LIVB 22 33	coxsackie B
+#3	AnnotatorNotes T3	C0010243
+T4	DISO 39 49	myocardite
+#4	AnnotatorNotes T4	C0153106
+T5	DISO 73 87	sortie précoce
+#5	AnnotatorNotes T5	C3840736

@@ -1,0 +1,9 @@
+T1	PHYS 18 32	réponse immune
+#1	AnnotatorNotes T1	C0301872
+T2	DISO 51 75	toxoplasmose congénitale
+#2	AnnotatorNotes T2	C0040560
+T3	DISO 51 63	toxoplasmose
+#3	AnnotatorNotes T3	C0040558
+T4	LIVB 76 81	murin
+#4	AnnotatorNotes T4	C0025929
+T5	DISO 41 47;76 81	modèle murin

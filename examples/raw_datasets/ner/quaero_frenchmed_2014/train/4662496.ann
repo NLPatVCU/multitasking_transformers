@@ -1,0 +1,8 @@
+T1	PROC 3 18	hospitalisation
+#1	AnnotatorNotes T1	C0259945
+T2	LIVB 34 41	enfants
+#2	AnnotatorNotes T2	C0008059 C0008100
+T3	PHYS 47 57	expérience
+#3	AnnotatorNotes T3	C0237607
+T4	GEOG 87 92	Paris
+#4	AnnotatorNotes T4	C0030561

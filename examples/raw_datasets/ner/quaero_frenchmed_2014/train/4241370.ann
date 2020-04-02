@@ -1,0 +1,12 @@
+T1	ANAT 16 22	foetus
+#1	AnnotatorNotes T1	C0015965
+T2	ANAT 30 39	placentas
+#2	AnnotatorNotes T2	C0032043
+T3	PHYS 55 64	grossesse
+#3	AnnotatorNotes T3	C0032961
+T4	LIVB 73 86	ratte blanche
+#4	AnnotatorNotes T4	C0684072
+T5	LIVB 73 78	ratte
+#5	AnnotatorNotes T5	C0034721
+T6	PROC 87 104	pancréatectomisée
+#6	AnnotatorNotes T6	C0030279

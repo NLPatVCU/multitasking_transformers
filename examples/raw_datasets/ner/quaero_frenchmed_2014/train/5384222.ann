@@ -1,0 +1,16 @@
+T1	DISO 0 17	Maladie de Kaposi
+#1	AnnotatorNotes T1	C0036220
+T2	DISO 0 7	Maladie
+#2	AnnotatorNotes T2	C0012634
+T3	DISO 23 39	nodule solitaire
+#3	AnnotatorNotes T3	C1519414
+T4	DISO 23 29	nodule
+#4	AnnotatorNotes T4	C0028259
+T5	ANAT 46 50	bras
+#5	AnnotatorNotes T5	C0446516
+T6	DISO 56 67	adénopathie
+#6	AnnotatorNotes T6	C0497156
+T7	LIVB 88 106	garçonnet de 5 ans
+#7	AnnotatorNotes T7	C0008100
+T8	LIVB 88 97	garçonnet
+#8	AnnotatorNotes T8	C0870221

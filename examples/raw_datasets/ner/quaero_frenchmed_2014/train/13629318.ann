@@ -1,0 +1,10 @@
+T1	DISO 0 13	Rickettsioses
+#1	AnnotatorNotes T1	C0035585
+T2	DISO 17 27	affections
+#2	AnnotatorNotes T2	C0012634
+T3	ANAT 28 46	cardio-vasculaires
+#3	AnnotatorNotes T3	C0007226
+T4	PROC 64 76	observations
+#4	AnnotatorNotes T4	C0302523
+T5	DISO 17 46	affections cardio-vasculaires
+#5	AnnotatorNotes T5	C0007222

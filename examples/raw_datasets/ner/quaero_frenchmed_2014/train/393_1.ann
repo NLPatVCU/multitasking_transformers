@@ -1,0 +1,452 @@
+T1	CHEM 21 27	TASMAR
+#1	AnnotatorNotes T1	C0595276
+T2	CHEM 46 52	TASMAR
+#2	AnnotatorNotes T2	C0595276
+T3	CHEM 53 59	Tasmar
+#3	AnnotatorNotes T3	C0595276
+T4	CHEM 64 70	Tasmar
+#4	AnnotatorNotes T4	C0595276
+T5	CHEM 78 88	médicament
+#5	AnnotatorNotes T5	C0013227
+T6	CHEM 122 131	tolcapone
+#6	AnnotatorNotes T6	C0246330
+T7	CHEM 168 177	comprimés
+#7	AnnotatorNotes T7	C0039225
+T8	CHEM 251 260	tolcapone
+#8	AnnotatorNotes T8	C0246330
+T9	CHEM 279 285	Tasmar
+#9	AnnotatorNotes T9	C0595276
+T10	DISO 308 328	maladie de Parkinson
+#10	AnnotatorNotes T10	C0030567
+T11	DISO 308 315	maladie
+#11	AnnotatorNotes T11	C0012634
+T12	DISO 337 356	affection cérébrale
+#12	AnnotatorNotes T12	C0006111
+T13	DISO 382 394	tremblements
+#13	AnnotatorNotes T13	C0040822
+T14	PHYS 409 419	mouvements
+#14	AnnotatorNotes T14	C0026649
+T15	DISO 423 442	rigidité musculaire
+#15	AnnotatorNotes T15	C0026837
+T16	ANAT 432 442	musculaire
+#16	AnnotatorNotes T16	C0026845
+T17	CHEM 447 453	Tasmar
+#17	AnnotatorNotes T17	C0595276
+T18	LIVB 486 494	patients
+#18	AnnotatorNotes T18	C0030705
+T19	CHEM 557 568	médicaments
+#19	AnnotatorNotes T19	C0013227
+T20	CHEM 594 600	Tasmar
+#20	AnnotatorNotes T20	C0595276
+T21	PROC 623 633	traitement
+#21	AnnotatorNotes T21	C0087111
+T22	CHEM 638 644	Tasmar
+#22	AnnotatorNotes T22	C0595276
+T23	LIVB 680 687	médecin
+#23	AnnotatorNotes T23	C0031831
+T24	DISO 743 763	maladie de Parkinson
+#24	AnnotatorNotes T24	C0030567
+T25	DISO 743 750	maladie
+#25	AnnotatorNotes T25	C0012634
+T26	CHEM 818 826	lévodopa
+#26	AnnotatorNotes T26	C0023570
+T27	CHEM 833 844	bensérazide
+#27	AnnotatorNotes T27	C0005014
+T28	CHEM 856 864	lévodopa
+#28	AnnotatorNotes T28	C0023570
+T29	CHEM 871 880	carbidopa
+#29	AnnotatorNotes T29	C0006982
+T30	CHEM 947 956	comprimés
+#30	AnnotatorNotes T30	C0039225
+T31	LIVB 1001 1009	patients
+#31	AnnotatorNotes T31	C0030705
+T32	CHEM 1019 1025	Tasmar
+#32	AnnotatorNotes T32	C0595276
+T33	CHEM 1034 1063	médicaments antiparkinsoniens
+#33	AnnotatorNotes T33	C0003405
+T34	CHEM 1034 1045	médicaments
+#34	AnnotatorNotes T34	C0013227
+T35	DISO 1132 1151	effets indésirables
+#35	AnnotatorNotes T35	C0559546
+T36	CHEM 1162 1170	lévodopa
+#36	AnnotatorNotes T36	C0023570
+T37	CHEM 1258 1266	lévodopa
+#37	AnnotatorNotes T37	C0023570
+T38	CHEM 1282 1288	Tasmar
+#38	AnnotatorNotes T38	C0595276
+T39	DISO 1411 1427	lésion hépatique
+#39	AnnotatorNotes T39	C0577053
+T40	ANAT 1418 1427	hépatique
+#40	AnnotatorNotes T40	C0023884
+T41	PROC 1504 1514	traitement
+#41	AnnotatorNotes T41	C0087111
+T42	CHEM 1519 1525	Tasmar
+#42	AnnotatorNotes T42	C0595276
+T43	CHEM 1547 1553	Tasmar
+#43	AnnotatorNotes T43	C0595276
+T44	LIVB 1586 1594	patients
+#44	AnnotatorNotes T44	C0030705
+T45	DISO 1612 1631	affection hépatique
+#45	AnnotatorNotes T45	C0023895
+T46	ANAT 1622 1631	hépatique
+#46	AnnotatorNotes T46	C0023884
+T47	CHEM 1648 1654	Tasmar
+#47	AnnotatorNotes T47	C0595276
+T48	PROC 1661 1667	étudié
+#48	AnnotatorNotes T48	C2603343
+T49	LIVB 1688 1696	patients
+#49	AnnotatorNotes T49	C0030705
+T50	PROC 1721 1727	études
+#50	AnnotatorNotes T50	C2603343
+T51	PROC 1754 1759	étude
+#51	AnnotatorNotes T51	C2603343
+T52	PROC 1791 1797	études
+#52	AnnotatorNotes T52	C2603343
+T53	CHEM 1841 1847	Tasmar
+#53	AnnotatorNotes T53	C0595276
+T54	CHEM 1879 1886	placebo
+#54	AnnotatorNotes T54	C1696465
+T55	PROC 1889 1907	traitement factice
+#55	AnnotatorNotes T55	C0032042
+T56	PROC 1889 1899	traitement
+#56	AnnotatorNotes T56	C0087111
+T57	CHEM 1915 1925	médication
+#57	AnnotatorNotes T57	C0013216
+T58	LIVB 1939 1946	patient
+#58	AnnotatorNotes T58	C0030705
+T59	CHEM 1949 1957	lévodopa
+#59	AnnotatorNotes T59	C0023570
+T60	CHEM 1977 1986	carbidopa
+#60	AnnotatorNotes T60	C0006982
+T61	CHEM 1995 2006	bensérazide
+#61	AnnotatorNotes T61	C0005014
+T62	CHEM 2135 2143	lévodopa
+#62	AnnotatorNotes T62	C0023570
+T63	CHEM 2189 2195	Tasmar
+#63	AnnotatorNotes T63	C0595276
+T64	PROC 2241 2246	étude
+#64	AnnotatorNotes T64	C2603343
+T65	LIVB 2294 2302	patients
+#65	AnnotatorNotes T65	C0030705
+T66	LIVB 2311 2319	patients
+#66	AnnotatorNotes T66	C0030705
+T67	CHEM 2355 2363	lévodopa
+#67	AnnotatorNotes T67	C0023570
+T68	CHEM 2371 2381	entacapone
+#68	AnnotatorNotes T68	C0165921
+T69	CHEM 2393 2403	médicament
+#69	AnnotatorNotes T69	C0013227
+T70	PROC 2430 2435	étude
+#70	AnnotatorNotes T70	C2603343
+T72	PROC 2480 2490	traitement
+#72	AnnotatorNotes T72	C0087111
+T73	CHEM 2495 2505	entacapone
+#73	AnnotatorNotes T73	C0165921
+T74	CHEM 2531 2537	Tasmar
+#74	AnnotatorNotes T74	C0595276
+T75	LIVB 2601 2609	patients
+#75	AnnotatorNotes T75	C0030705
+T76	CHEM 2767 2773	Tasmar
+#76	AnnotatorNotes T76	C0595276
+T77	PROC 2787 2793	études
+#77	AnnotatorNotes T77	C2603343
+T78	PROC 2802 2808	études
+#78	AnnotatorNotes T78	C2603343
+T79	CHEM 2834 2840	Tasmar
+#79	AnnotatorNotes T79	C0595276
+T80	CHEM 2868 2875	placebo
+#80	AnnotatorNotes T80	C1696465
+T81	LIVB 2960 2968	patients
+#81	AnnotatorNotes T81	C0030705
+T82	CHEM 2977 2983	Tasmar
+#82	AnnotatorNotes T82	C0595276
+T83	PROC 2997 3002	étude
+#83	AnnotatorNotes T83	C2603343
+T84	LIVB 3032 3040	patients
+#84	AnnotatorNotes T84	C0030705
+T85	PROC 3054 3064	traitement
+#85	AnnotatorNotes T85	C0087111
+T86	CHEM 3069 3075	Tasmar
+#86	AnnotatorNotes T86	C0595276
+T87	PROC 3124 3134	traitement
+#87	AnnotatorNotes T87	C0087111
+T88	CHEM 3139 3149	entacapone
+#88	AnnotatorNotes T88	C0165921
+T89	DISO 3173 3179	risque
+#89	AnnotatorNotes T89	C0184544
+T90	DISO 3198 3217	effets indésirables
+#90	AnnotatorNotes T90	C0559546
+T91	CHEM 3253 3259	Tasmar
+#91	AnnotatorNotes T91	C0595276
+T92	LIVB 3287 3294	patient
+#92	AnnotatorNotes T92	C0030705
+T93	DISO 3324 3331	nausées
+#93	AnnotatorNotes T93	C0027497
+T94	DISO 3352 3360	anorexie
+#94	AnnotatorNotes T94	C0003123
+T95	DISO 3384 3392	diarrhée
+#95	AnnotatorNotes T95	C0011991
+T96	DISO 3395 3405	dyskinésie
+#96	AnnotatorNotes T96	C0013384
+T97	DISO 3437 3445	dystonie
+#97	AnnotatorNotes T97	C0013421
+T98	DISO 3448 3467	spasmes musculaires
+#98	AnnotatorNotes T98	C0037763
+T99	DISO 3471 3480	céphalées
+#99	AnnotatorNotes T99	C0393735
+T100	DISO 3483 3497	étourdissement
+#100	AnnotatorNotes T100	C0012833
+T101	DISO 3500 3519	troubles du sommeil
+#101	AnnotatorNotes T101	C0851578
+T102	DISO 3522 3537	rêves excessifs
+#102	AnnotatorNotes T102	C0235966
+T103	DISO 3540 3550	somnolence
+#103	AnnotatorNotes T103	C0013144 C2830004
+T105	DISO 3553 3562	confusion
+#105	AnnotatorNotes T105	C0009676
+T106	DISO 3565 3579	hallucinations
+#106	AnnotatorNotes T106	C0018524
+T107	DISO 3622 3645	troubles orthostatiques
+#107	AnnotatorNotes T107	C0020651
+T108	DISO 3648 3662	étourdissement
+#108	AnnotatorNotes T108	C0012833
+T109	DISO 3742 3761	effets indésirables
+#109	AnnotatorNotes T109	C0559546
+T110	CHEM 3776 3782	Tasmar
+#110	AnnotatorNotes T110	C0595276
+T111	PROC 3807 3813	notice
+#111	AnnotatorNotes T111	C0013191
+T112	CHEM 3837 3843	Tasmar
+#112	AnnotatorNotes T112	C0595276
+T113	LIVB 3870 3878	patients
+#113	AnnotatorNotes T113	C0030705
+T114	DISO 3892 3906	hypersensibles
+#114	AnnotatorNotes T114	C0020517
+T115	CHEM 3928 3937	tolcapone
+#115	AnnotatorNotes T115	C0246330
+T116	CHEM 3995 4001	Tasmar
+#116	AnnotatorNotes T116	C0595276
+T117	LIVB 4028 4036	patients
+#117	AnnotatorNotes T117	C0030705
+T118	DISO 4056 4062	signes
+#118	AnnotatorNotes T118	C0037088
+T119	DISO 4066 4083	maladie hépatique
+#119	AnnotatorNotes T119	C0023895
+T120	DISO 4066 4073	maladie
+#120	AnnotatorNotes T120	C0012634
+T121	ANAT 4074 4083	hépatique
+#121	AnnotatorNotes T121	C0023884
+T122	CHEM 4105 4112	enzymes
+#122	AnnotatorNotes T122	C0014442
+T123	ANAT 4113 4123	hépatiques
+#123	AnnotatorNotes T123	C0023884
+T124	DISO 4131 4147	phéochromocytome
+#124	AnnotatorNotes T124	C0031511
+T125	DISO 4154 4160	tumeur
+#125	AnnotatorNotes T125	C0027651
+T126	ANAT 4167 4183	glande surrénale
+#126	AnnotatorNotes T126	C0001625
+T127	ANAT 4167 4173	glande
+#127	AnnotatorNotes T127	C1285092
+T128	DISO 4208 4241	syndrome malin des neuroleptiques
+#128	AnnotatorNotes T128	C0027849
+T129	DISO 4208 4216	syndrome
+#129	AnnotatorNotes T129	C0039082
+T130	CHEM 4227 4241	neuroleptiques
+#130	AnnotatorNotes T130	C0040615
+T131	ANAT 4258 4266	nerveuse
+#131	AnnotatorNotes T131	C0027740
+T132	CHEM 4309 4325	antipsychotiques
+#132	AnnotatorNotes T132	C0040615
+T133	DISO 4333 4346	rhabdomyolyse
+#133	AnnotatorNotes T133	C0035410
+T134	ANAT 4365 4383	fibres musculaires
+#134	AnnotatorNotes T134	C1704336
+T135	ANAT 4372 4383	musculaires
+#135	AnnotatorNotes T135	C0026845
+T136	DISO 4393 4405	hyperthermie
+#136	AnnotatorNotes T136	C0015967
+T137	DISO 4408 4423	coup de chaleur
+#137	AnnotatorNotes T137	C0018843
+T138	DISO 4433 4443	dyskinésie
+#138	AnnotatorNotes T138	C0013384
+T139	CHEM 4464 4470	Tasmar
+#139	AnnotatorNotes T139	C0595276
+T140	CHEM 4527 4533	Tasmar
+#140	AnnotatorNotes T140	C0595276
+T141	GEOG 4552 4562	européenne
+#141	AnnotatorNotes T141	C0015176
+T142	GEOG 4634 4650	Union européenne
+#142	AnnotatorNotes T142	C0015179
+T143	CHEM 4656 4662	Tasmar
+#143	AnnotatorNotes T143	C0595276
+T144	DISO 4726 4744	lésions hépatiques
+#144	AnnotatorNotes T144	C0860207
+T145	ANAT 4734 4744	hépatiques
+#145	AnnotatorNotes T145	C0023884
+T146	CHEM 4895 4901	Tasmar
+#146	AnnotatorNotes T146	C0595276
+T147	CHEM 4949 4955	Tasmar
+#147	AnnotatorNotes T147	C0595276
+T148	CHEM 4965 4974	comprimés
+#148	AnnotatorNotes T148	C0039225
+T149	CHEM 4995 5003	comprimé
+#149	AnnotatorNotes T149	C0039225
+T150	CHEM 5033 5042	tolcapone
+#150	AnnotatorNotes T150	C0246330
+T151	CHEM 5056 5066	excipients
+#151	AnnotatorNotes T151	C0015237
+T152	CHEM 5091 5097	Tasmar
+#152	AnnotatorNotes T152	C0595276
+T153	CHEM 5130 5138	lévodopa
+#153	AnnotatorNotes T153	C0023570
+T154	CHEM 5141 5152	bensérazide
+#154	AnnotatorNotes T154	C0005014
+T155	CHEM 5172 5181	carbidopa
+#155	AnnotatorNotes T155	C0006982
+T156	PROC 5190 5200	traitement
+#156	AnnotatorNotes T156	C0087111
+T157	DISO 5207 5240	maladie de Parkinson idiopathique
+#157	AnnotatorNotes T157	C0030567
+T158	DISO 5207 5214	maladie
+#158	AnnotatorNotes T158	C0012634
+T159	DISO 5250 5262	fluctuations
+#159	AnnotatorNotes T159	C0853574
+T160	CHEM 5287 5295	lévodopa
+#160	AnnotatorNotes T160	C0023570
+T161	CHEM 5331 5337	tasmar
+#161	AnnotatorNotes T161	C0595276
+T162	LIVB 5392 5400	médecins
+#162	AnnotatorNotes T162	C0031831
+T163	PROC 5422 5432	traitement
+#163	AnnotatorNotes T163	C0087111
+T164	DISO 5439 5459	maladie de Parkinson
+#164	AnnotatorNotes T164	C0030567
+T165	DISO 5439 5446	maladie
+#165	AnnotatorNotes T165	C0012634
+T166	CHEM 5495 5501	Tasmar
+#166	AnnotatorNotes T166	C0595276
+T167	CHEM 5567 5575	lévodopa
+#167	AnnotatorNotes T167	C0023570
+T168	CHEM 5578 5589	bensérazide
+#168	AnnotatorNotes T168	C0005014
+T169	CHEM 5598 5606	lévodopa
+#169	AnnotatorNotes T169	C0023570
+T170	CHEM 5609 5618	carbidopa
+#170	AnnotatorNotes T170	C0006982
+T171	PHYS 5753 5771	fonction hépatique
+#171	AnnotatorNotes T171	C0232741
+T172	ANAT 5762 5771	hépatique
+#172	AnnotatorNotes T172	C0023884
+T173	PROC 5810 5820	traitement
+#173	AnnotatorNotes T173	C0087111
+T174	CHEM 5825 5831	Tasmar
+#174	AnnotatorNotes T174	C0595276
+T175	PROC 5901 5911	traitement
+#175	AnnotatorNotes T175	C0087111
+T176	PROC 6004 6014	traitement
+#176	AnnotatorNotes T176	C0087111
+T177	CHEM 6019 6025	Tasmar
+#177	AnnotatorNotes T177	C0595276
+T178	CHEM 6068 6072	ALAT
+#178	AnnotatorNotes T178	C0001899
+T179	CHEM 6075 6100	alanine amino transférase
+#179	AnnotatorNotes T179	C0001899
+T180	CHEM 6075 6082	alanine
+#180	AnnotatorNotes T180	C0001898
+T181	CHEM 6089 6100	transférase
+#181	AnnotatorNotes T181	C0040676
+T182	CHEM 6123 6127	ASAT
+#182	AnnotatorNotes T182	C0004002
+T183	CHEM 6130 6157	aspartate amino transférase
+#183	AnnotatorNotes T183	C0004002
+T184	CHEM 6146 6157	transférase
+#184	AnnotatorNotes T184	C0040676
+T185	DISO 6228 6234	signes
+#185	AnnotatorNotes T185	C0037088
+T186	DISO 6238 6247	symptômes
+#186	AnnotatorNotes T186	C1457887
+T187	DISO 6261 6283	insuffisance hépatique
+#187	AnnotatorNotes T187	C1306571
+T188	ANAT 6274 6283	hépatique
+#188	AnnotatorNotes T188	C0023884
+T189	CHEM 6350 6358	lévodopa
+#189	AnnotatorNotes T189	C0023570
+T190	LIVB 6390 6398	patients
+#190	AnnotatorNotes T190	C0030705
+T191	PROC 6485 6495	traitement
+#191	AnnotatorNotes T191	C0087111
+T192	CHEM 6500 6506	Tasmar
+#192	AnnotatorNotes T192	C0595276
+T193	LIVB 6518 6526	patients
+#193	AnnotatorNotes T193	C0030705
+T194	DISO 6553 6562	symptômes
+#194	AnnotatorNotes T194	C1457887
+T195	DISO 6566 6575	surdosage
+#195	AnnotatorNotes T195	C0029944
+T196	CHEM 6579 6587	lévodopa
+#196	AnnotatorNotes T196	C0023570
+T197	CHEM 6660 6668	lévodopa
+#197	AnnotatorNotes T197	C0023570
+T198	CHEM 6696 6702	Tasmar
+#198	AnnotatorNotes T198	C0595276
+T199	LIVB 6822 6830	patients
+#199	AnnotatorNotes T199	C0030705
+T200	DISO 6856 6865	symptômes
+#200	AnnotatorNotes T200	C1457887
+T201	CHEM 6891 6899	lévodopa
+#201	AnnotatorNotes T201	C0023570
+T202	CHEM 6952 6960	lévodopa
+#202	AnnotatorNotes T202	C0023570
+T203	LIVB 7029 7044	Personnes âgées
+#203	AnnotatorNotes T203	C0001792
+T204	CHEM 7078 7084	Tasmar
+#204	AnnotatorNotes T204	C0595276
+T205	LIVB 7113 7128	personnes âgées
+#205	AnnotatorNotes T205	C0027361
+T104	ANAT 347 356	cérébrale
+#104	AnnotatorNotes T104	C0006104
+T206	DISO 397 419	lenteur des mouvements
+#206	AnnotatorNotes T206	C0233565
+T207	CHEM 105 121	substance active
+#207	AnnotatorNotes T207	C1372955
+T208	PROC 784 794	administré
+#208	AnnotatorNotes T208	C1533734
+T209	CHEM 798 809	association
+#209	AnnotatorNotes T209	C0013162
+T71	DISO 3909 3920	allergiques
+#71	AnnotatorNotes T71	C0020517
+T210	ANAT 3456 3467	musculaires
+#210	AnnotatorNotes T210	C0026845
+T211	PHYS 3512 3519	sommeil
+#211	AnnotatorNotes T211	C0037313
+T212	DISO 3363 3380	perte d ’ appétit
+#212	AnnotatorNotes T212	C0003123
+T213	DISO 3408 3433	mouvements incontrôlables
+#213	AnnotatorNotes T213	C0013384
+T214	DISO 3334 3348	envie de vomir
+#214	AnnotatorNotes T214	C0027497
+T215	DISO 3343 3348	vomir
+#215	AnnotatorNotes T215	C0042963
+T216	PHYS 3373 3380	appétit
+#216	AnnotatorNotes T216	C0003618
+T217	DISO 3648 3699	étourdissement lors du passage à la position debout
+#217	AnnotatorNotes T217	C0234987
+T218	DISO 3582 3616	voir des choses qui ne sont pas là
+#218	AnnotatorNotes T218	C0018524
+T219	CHEM 4105 4123	enzymes hépatiques
+#219	AnnotatorNotes T219	C0443764
+T220	DISO 4248 4266	affection nerveuse
+#220	AnnotatorNotes T220	C0442874
+T221	DISO 4349 4383	destruction des fibres musculaires
+#221	AnnotatorNotes T221	C0035410
+T222	DISO 4154 4183	tumeur de la glande surrénale
+#222	AnnotatorNotes T222	C0001624
+T223	DISO 6876 6887	sous dosage
+#223	AnnotatorNotes T223	C3163906
+T224	PROC 5313 5327	administration
+#224	AnnotatorNotes T224	C1533734
+T225	CHEM 4965 4985	comprimés pelliculés
+#225	AnnotatorNotes T225	C1273643
+T226	CHEM 4995 5013	comprimé pelliculé
+#226	AnnotatorNotes T226	C1273643

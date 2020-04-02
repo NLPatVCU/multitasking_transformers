@@ -1,0 +1,16 @@
+T1	CHEM 16 29	ion potassium
+#1	AnnotatorNotes T1	C0597277
+T2	CHEM 16 19	ion
+#2	AnnotatorNotes T2	C0022023
+T3	CHEM 20 29	potassium
+#3	AnnotatorNotes T3	C0032821
+T4	PHEN 62 70	pressive
+#4	AnnotatorNotes T4	C0033095
+T5	CHEM 77 89	angiotensine
+#5	AnnotatorNotes T5	C0003018
+T6	PROC 103 119	mise en évidence
+#6	AnnotatorNotes T6	C1148554
+T7	PROC 135 144	épuration
+#7	AnnotatorNotes T7	C0011946
+T8	PROC 92 99	in vivo
+#8	AnnotatorNotes T8	C0681829

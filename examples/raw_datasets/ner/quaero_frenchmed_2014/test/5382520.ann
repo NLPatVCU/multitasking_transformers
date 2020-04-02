@@ -1,0 +1,14 @@
+T1	DISO 0 17	Arrêts cardiaques
+#1	AnnotatorNotes T1	C0018790
+T2	ANAT 7 17	cardiaques
+#2	AnnotatorNotes T2	C0018787
+T3	DISO 40 67	intoxication médicamenteuse
+#3	AnnotatorNotes T3	C0749125
+T4	DISO 40 52	intoxication
+#4	AnnotatorNotes T4	C0728899
+T5	CHEM 53 67	médicamenteuse
+#5	AnnotatorNotes T5	C0013227
+T6	DISO 80 91	hypothermie
+#6	AnnotatorNotes T6	C0020672
+T7	PROC 135 145	traitement
+#7	AnnotatorNotes T7	C0087111

@@ -1,0 +1,10 @@
+T1	PROC 0 10	Recherches
+#1	AnnotatorNotes T1	C0242481
+T2	DISO 75 101	cardiomyopathie alcoolique
+#2	AnnotatorNotes T2	C0007192
+T3	DISO 75 90	cardiomyopathie
+#3	AnnotatorNotes T3	C0878544
+T4	CHEM 91 101	alcoolique
+#4	AnnotatorNotes T4	C0001975
+T5	DISO 104 107	CMA
+#5	AnnotatorNotes T5	C0007192

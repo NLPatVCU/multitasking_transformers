@@ -1,0 +1,6 @@
+T1	DISO 0 13	Hypercalcémie
+#1	AnnotatorNotes T1	C0020437
+T2	DISO 40 50	sarcoïdose
+#2	AnnotatorNotes T2	C0036202
+T3	CHEM 87 111	dihydroxycholécalciférol
+#3	AnnotatorNotes T3	C0012328

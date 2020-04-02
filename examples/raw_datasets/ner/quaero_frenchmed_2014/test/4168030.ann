@@ -1,0 +1,10 @@
+T1	DISO 3 19	réaction sérique
+#1	AnnotatorNotes T1	C1409746
+T2	ANAT 12 19	sérique
+#2	AnnotatorNotes T2	C0229671
+T3	CHEM 25 33	mélanine
+#3	AnnotatorNotes T3	C0025196
+T4	ANAT 34 46	choroïdienne
+#4	AnnotatorNotes T4	C0008520
+T5	CHEM 126 142	immunoglobulines
+#5	AnnotatorNotes T5	C0021027

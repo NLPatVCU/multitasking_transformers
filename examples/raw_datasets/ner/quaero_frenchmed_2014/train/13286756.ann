@@ -1,0 +1,6 @@
+T1	PROC 3 8	essai
+#1	AnnotatorNotes T1	C0008976
+T2	CHEM 25 32	drogues
+#2	AnnotatorNotes T2	C0013227
+T3	CHEM 35 44	saponines
+#3	AnnotatorNotes T3	C0520481

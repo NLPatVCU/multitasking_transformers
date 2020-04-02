@@ -1,0 +1,10 @@
+T1	DISO 0 37	Bloc auriculoventriculaire congénital
+#1	AnnotatorNotes T1	C0149530
+T2	DISO 0 26	Bloc auriculoventriculaire
+#2	AnnotatorNotes T2	C0018794
+T3	PROC 52 80	autoanticorps anti-SSA / SSB
+#3	AnnotatorNotes T3	C1168447
+T4	PHYS 81 90	maternels
+#4	AnnotatorNotes T4	C1858460
+T5	PROC 112 124	observations
+#5	AnnotatorNotes T5	C0302523

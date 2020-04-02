@@ -1,0 +1,6 @@
+T1	DISO 0 9	Fractures
+#1	AnnotatorNotes T1	C0016658
+T2	DISO 0 9;18 38	Fractures du plafond orbitaire
+#2	AnnotatorNotes T2	C0029184
+T3	ANAT 29 38	orbitaire
+#3	AnnotatorNotes T3	C0029180

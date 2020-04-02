@@ -1,0 +1,14 @@
+T1	DISO 4 13	hépatites
+#1	AnnotatorNotes T1	C0019158
+T2	LIVB 16 21	virus
+#2	AnnotatorNotes T2	C0042776
+T3	DISO 22 32	herpétique
+#3	AnnotatorNotes T3	C0019340
+T4	LIVB 36 46	nouveau-né
+#4	AnnotatorNotes T4	C0021289
+T5	DISO 49 56	maladie
+#5	AnnotatorNotes T5	C0012634
+T6	DISO 57 67	herpétique
+#6	AnnotatorNotes T6	C0019340
+T7	LIVB 71 81	nouveau-né
+#7	AnnotatorNotes T7	C0021289

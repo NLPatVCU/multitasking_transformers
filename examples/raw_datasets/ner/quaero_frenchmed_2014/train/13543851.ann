@@ -1,0 +1,12 @@
+T1	PROC 13 37	frottis cervico-vaginaux
+#1	AnnotatorNotes T1	C0079104
+T2	DISO 59 79	cancer du col utérin
+#2	AnnotatorNotes T2	C0302592
+T3	DISO 59 65	cancer
+#3	AnnotatorNotes T3	C0012634
+T4	ANAT 69 79	col utérin
+#4	AnnotatorNotes T4	C0007874
+T5	DISO 105 114	résultats
+#5	AnnotatorNotes T5	C2825142
+T6	PROC 46 65	dépistage du cancer
+#6	AnnotatorNotes T6	C0199230

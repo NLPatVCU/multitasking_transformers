@@ -1,0 +1,8 @@
+T1	DISO 4 13	fractures
+#1	AnnotatorNotes T1	C0016658
+T4	ANAT 28 33	sinus
+#4	AnnotatorNotes T4	C1305231
+T5	ANAT 40 44	face
+#5	AnnotatorNotes T5	C0015450
+T2	DISO 24 44;4 13	des sinus de la face fractures
+#2	AnnotatorNotes T2	C0272460

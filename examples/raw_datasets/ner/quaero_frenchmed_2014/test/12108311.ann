@@ -1,0 +1,8 @@
+T1	DISO 0 16	Syndrome de Reye
+#1	AnnotatorNotes T1	C0035400
+T2	DISO 0 8	Syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	PROC 45 59	pris en charge
+#3	AnnotatorNotes T3	C0376636
+T4	OBJC 69 101	unité de réanimation pédiatrique
+#4	AnnotatorNotes T4	C0021710

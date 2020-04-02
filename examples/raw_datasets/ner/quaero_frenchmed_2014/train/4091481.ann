@@ -1,0 +1,12 @@
+T1	PROC 12 24	scanographie
+#1	AnnotatorNotes T1	C0040405
+T2	PROC 43 61	arthroscanographie
+#2	AnnotatorNotes T2	C0203224
+T3	DISO 99 124	traumatismes de l' épaule
+#3	AnnotatorNotes T3	C1456701
+T4	DISO 99 111	traumatismes
+#4	AnnotatorNotes T4	C0175677
+T5	ANAT 118 124	épaule
+#5	AnnotatorNotes T5	C0037004
+T6	PROC 70 94	exploration radiologique
+#6	AnnotatorNotes T6	C1962945

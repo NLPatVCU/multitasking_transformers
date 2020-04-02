@@ -1,0 +1,4 @@
+T1	PROC 0 23	Corticothérapie inhalée
+#1	AnnotatorNotes T1	C3251105
+T2	PROC 29 39	traitement
+#2	AnnotatorNotes T2	C0087111

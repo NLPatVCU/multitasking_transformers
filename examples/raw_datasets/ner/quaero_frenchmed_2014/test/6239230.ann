@@ -1,0 +1,8 @@
+T1	DISO 0 27	Pseudo-syndrome de Barrtter
+#1	AnnotatorNotes T1	C0853277
+T2	DISO 19 27	Barrtter
+#2	AnnotatorNotes T2	C0004775
+T3	PROC 30 40	Traitement
+#3	AnnotatorNotes T3	C0087111
+T4	CHEM 48 60	indométacine
+#4	AnnotatorNotes T4	C0021246

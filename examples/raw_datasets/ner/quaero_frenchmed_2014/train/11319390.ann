@@ -1,0 +1,10 @@
+T1	DISO 0 19	Hydroa vacciniforme
+#1	AnnotatorNotes T1	C0020241
+T2	PROC 22 32	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	CHEM 37 54	huiles de poisson
+#3	AnnotatorNotes T3	C0016157
+T4	LIVB 47 54	poisson
+#4	AnnotatorNotes T4	C0016163
+T5	CHEM 57 63	Maxepa
+#5	AnnotatorNotes T5	C0065756

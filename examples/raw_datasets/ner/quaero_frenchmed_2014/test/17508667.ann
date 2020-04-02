@@ -1,0 +1,10 @@
+T1	PROC 3 17	kinésithérapie
+#1	AnnotatorNotes T1	C1096702
+T2	LIVB 26 32	enfant
+#2	AnnotatorNotes T2	C0008059
+T3	DISO 44 80	pathologies pulmonaires obstructives
+#3	AnnotatorNotes T3	C0600260
+T4	DISO 44 55	pathologies
+#4	AnnotatorNotes T4	C0012634
+T5	ANAT 56 67	pulmonaires
+#5	AnnotatorNotes T5	C0024109

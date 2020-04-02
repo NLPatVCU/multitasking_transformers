@@ -1,0 +1,8 @@
+T1	DISO 0 14	Hémochromatose
+#1	AnnotatorNotes T1	C0018995
+T2	DISO 18 40	anémie mégaloblastique
+#2	AnnotatorNotes T2	C0002888
+T3	DISO 18 24	anémie
+#3	AnnotatorNotes T3	C0002871
+T4	ANAT 25 40	mégaloblastique
+#4	AnnotatorNotes T4	C0025171

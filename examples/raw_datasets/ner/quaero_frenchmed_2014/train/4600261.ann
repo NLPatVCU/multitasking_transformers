@@ -1,0 +1,8 @@
+T1	DISO 0 17	Hyperphosphatémie
+#1	AnnotatorNotes T1	C0085681
+T2	DISO 21 33	hypocalcémie
+#2	AnnotatorNotes T2	C0020598
+T3	PROC 49 59	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 66 81	réticulosarcome
+#4	AnnotatorNotes T4	C0024302

@@ -1,0 +1,6 @@
+T1	CHEM 0 8	Morphine
+#1	AnnotatorNotes T1	C0026549
+T3	PROC 41 53	alimentation
+#3	AnnotatorNotes T3	C0204695
+T4	PROC 62 77	post-césarienne
+#4	AnnotatorNotes T4	C0007876

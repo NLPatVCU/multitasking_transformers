@@ -1,0 +1,12 @@
+T1	PROC 52 62	prévention
+#1	AnnotatorNotes T1	C1706420
+T2	DISO 78 101	surdité professionnelle
+#2	AnnotatorNotes T2	C0241856
+T3	DISO 78 85	surdité
+#3	AnnotatorNotes T3	C0011053
+T4	LIVB 86 101	professionnelle
+#4	AnnotatorNotes T4	C0679924
+T5	PHYS 106 117	Expériences
+#5	AnnotatorNotes T5	C0596545
+T6	OBJC 127 138	entreprises
+#6	AnnotatorNotes T6	C0683757

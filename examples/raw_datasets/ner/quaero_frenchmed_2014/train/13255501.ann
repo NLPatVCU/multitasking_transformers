@@ -1,0 +1,10 @@
+T1	DISO 3 12	anévrysme
+#1	AnnotatorNotes T1	C0002940
+T2	ANAT 16 33	siphon carotidien
+#2	AnnotatorNotes T2	C0226162
+T3	ANAT 56 62	osseux
+#3	AnnotatorNotes T3	C0262950
+T4	ANAT 76 88	trou optique
+#4	AnnotatorNotes T4	C0450102
+T5	ANAT 98 115	fente sphénoidale
+#5	AnnotatorNotes T5	C0222690

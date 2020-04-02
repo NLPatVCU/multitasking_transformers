@@ -1,0 +1,10 @@
+T1	DISO 3 16	malade mental
+#1	AnnotatorNotes T1	C0004936
+T2	LIVB 3 9	malade
+#2	AnnotatorNotes T2	C0030705
+T3	OBJC 39 54	hôpital général
+#3	AnnotatorNotes T3	C0019994
+T4	DISO 17 26	chronique
+#4	AnnotatorNotes T4	C0008679
+T5	PROC 27 33	soigné
+#5	AnnotatorNotes T5	C0087111

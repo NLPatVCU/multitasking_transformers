@@ -1,0 +1,10 @@
+T1	DISO 21 30	séquelles
+#1	AnnotatorNotes T1	C0543419
+T2	PROC 34 46	gastrectomie
+#2	AnnotatorNotes T2	C0017118
+T3	DISO 52 58	ulcère
+#3	AnnotatorNotes T3	C0041582
+T4	GEOG 62 77	Afrique du Nord
+#4	AnnotatorNotes T4	C0001745
+T5	GEOG 62 69	Afrique
+#5	AnnotatorNotes T5	C0001737

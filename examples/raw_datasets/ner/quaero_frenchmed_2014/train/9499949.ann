@@ -1,0 +1,10 @@
+T1	DISO 18 44	hémorragie digestive basse
+#1	AnnotatorNotes T1	C0024050
+T2	DISO 18 28	hémorragie
+#2	AnnotatorNotes T2	C0019080
+T3	DISO 50 73	angiodysplasie du grêle
+#3	AnnotatorNotes T3	C0267367
+T4	DISO 50 64	angiodysplasie
+#4	AnnotatorNotes T4	C0085411
+T5	ANAT 68 73	grêle
+#5	AnnotatorNotes T5	C0021852

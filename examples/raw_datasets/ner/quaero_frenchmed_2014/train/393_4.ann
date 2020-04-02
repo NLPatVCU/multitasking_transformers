@@ -1,0 +1,476 @@
+T1	CHEM 3 9	Tasmar
+#1	AnnotatorNotes T1	C0595276
+T2	CHEM 36 44	comprimé
+#2	AnnotatorNotes T2	C0994475
+T3	CHEM 75 84	tolcapone
+#3	AnnotatorNotes T3	C0246330
+T4	CHEM 131 140	comprimés
+#4	AnnotatorNotes T4	C0039225
+T5	OBJC 147 153	flacon
+#5	AnnotatorNotes T5	C0179376
+T6	OBJC 157 162	verre
+#6	AnnotatorNotes T6	C0017596
+T7	CHEM 181 190	comprimés
+#7	AnnotatorNotes T7	C0039225
+T8	CHEM 195 201	Tasmar
+#8	AnnotatorNotes T8	C0595276
+T9	CHEM 237 245	lévodopa
+#9	AnnotatorNotes T9	C0023570
+T10	CHEM 248 259	bensérazide
+#10	AnnotatorNotes T10	C0005014
+T11	CHEM 266 274	lévodopa
+#11	AnnotatorNotes T11	C0023570
+T12	CHEM 277 286	carbidopa
+#12	AnnotatorNotes T12	C0006982
+T13	CHEM 308 318	médicament
+#13	AnnotatorNotes T13	C0013227
+T14	DISO 350 370	maladie de Parkinson
+#14	AnnotatorNotes T14	C0030567
+T15	DISO 350 357	maladie
+#15	AnnotatorNotes T15	C0012634
+T16	PROC 381 391	traitement
+#16	AnnotatorNotes T16	C0087111
+T17	CHEM 396 402	Tasmar
+#17	AnnotatorNotes T17	C0595276
+T18	LIVB 436 443	médecin
+#18	AnnotatorNotes T18	C0031831
+T19	PROC 455 465	traitement
+#19	AnnotatorNotes T19	C0087111
+T20	DISO 472 492	maladie de Parkinson
+#20	AnnotatorNotes T20	C0030567
+T21	DISO 472 479	maladie
+#21	AnnotatorNotes T21	C0012634
+T22	CHEM 571 599	catéchol-O-méthyltransférase
+#22	AnnotatorNotes T22	C0007407
+T23	CHEM 602 606	COMT
+#23	AnnotatorNotes T23	C0007407
+T24	CHEM 617 623	enzyme
+#24	AnnotatorNotes T24	C0014442
+T25	ANAT 655 667	corps humain
+#25	AnnotatorNotes T25	C0460148
+T26	LIVB 661 667	humain
+#26	AnnotatorNotes T26	C0086418
+T27	CHEM 683 691	lévodopa
+#27	AnnotatorNotes T27	C0023570
+T28	PROC 706 713	traiter
+#28	AnnotatorNotes T28	C0087111
+T29	DISO 720 740	maladie de Parkinson
+#29	AnnotatorNotes T29	C0030567
+T30	DISO 720 727	maladie
+#30	AnnotatorNotes T30	C0012634
+T31	CHEM 807 815	lévodopa
+#31	AnnotatorNotes T31	C0023570
+T32	CHEM 832 840	lévodopa
+#32	AnnotatorNotes T32	C0023570
+T33	CHEM 843 854	bensérazide
+#33	AnnotatorNotes T33	C0005014
+T34	CHEM 861 869	lévodopa
+#34	AnnotatorNotes T34	C0023570
+T35	CHEM 872 881	carbidopa
+#35	AnnotatorNotes T35	C0006982
+T36	DISO 932 955	symptômes parkinsoniens
+#36	AnnotatorNotes T36	C0242422
+T37	DISO 932 941	symptômes
+#37	AnnotatorNotes T37	C1457887
+T38	PROC 991 1001	traitement
+#38	AnnotatorNotes T38	C0087111
+T39	CHEM 1006 1012	Tasmar
+#39	AnnotatorNotes T39	C0595276
+T40	LIVB 1028 1035	médecin
+#40	AnnotatorNotes T40	C0031831
+T42	CHEM 1091 1101	médicament
+#42	AnnotatorNotes T42	C0013227
+T43	DISO 1190 1208	Atteinte hépatique
+#43	AnnotatorNotes T43	C0151763
+T44	ANAT 1199 1208	hépatique
+#44	AnnotatorNotes T44	C0023884
+T45	CHEM 1213 1219	Tasmar
+#45	AnnotatorNotes T45	C0595276
+T46	DISO 1237 1255	atteinte hépatique
+#46	AnnotatorNotes T46	C0151763
+T47	ANAT 1246 1255	hépatique
+#47	AnnotatorNotes T47	C0023884
+T48	LIVB 1329 1335	femmes
+#48	AnnotatorNotes T48	C0015780
+T49	DISO 1376 1394	atteinte hépatique
+#49	AnnotatorNotes T49	C0151763
+T50	ANAT 1385 1394	hépatique
+#50	AnnotatorNotes T50	C0023884
+T51	PROC 1417 1427	traitement
+#51	AnnotatorNotes T51	C0087111
+T52	PROC 1443 1453	traitement
+#52	AnnotatorNotes T52	C0087111
+T53	PROC 1462 1478	examens sanguins
+#53	AnnotatorNotes T53	C0177883
+T54	ANAT 1470 1478	sanguins
+#54	AnnotatorNotes T54	C0005767
+T55	PROC 1544 1554	traitement
+#55	AnnotatorNotes T55	C0087111
+T56	DISO 1640 1649	symptômes
+#56	AnnotatorNotes T56	C1457887
+T57	DISO 1680 1698	atteinte hépatique
+#57	AnnotatorNotes T57	C0151763
+T58	ANAT 1689 1698	hépatique
+#58	AnnotatorNotes T58	C0023884
+T59	LIVB 1748 1755	médecin
+#59	AnnotatorNotes T59	C0031831
+T60	DISO 1758 1766	jaunisse
+#60	AnnotatorNotes T60	C0022346
+T61	ANAT 1788 1792	peau
+#61	AnnotatorNotes T61	C1123023
+T62	ANAT 1800 1804	yeux
+#62	AnnotatorNotes T62	C0015392
+T63	ANAT 1808 1814	urines
+#63	AnnotatorNotes T63	C0042036
+T64	DISO 1825 1847	douleurs à l ’ estomac
+#64	AnnotatorNotes T64	C0221512
+T65	ANAT 1840 1847	estomac
+#65	AnnotatorNotes T65	C0038351
+T66	ANAT 1914 1918	foie
+#66	AnnotatorNotes T66	C0023884
+T67	DISO 1938 1945	nausées
+#67	AnnotatorNotes T67	C0027497
+T68	DISO 1953 1965	vomissements
+#68	AnnotatorNotes T68	C0042963
+T69	DISO 1978 1981	SMN
+#69	AnnotatorNotes T69	C0027849
+T70	DISO 1984 2017	syndrome malin des neuroleptiques
+#70	AnnotatorNotes T70	C0027849
+T71	DISO 1984 1992	syndrome
+#71	AnnotatorNotes T71	C0039082
+T72	DISO 2026 2029	SMN
+#72	AnnotatorNotes T72	C0027849
+T73	DISO 2032 2065	syndrome malin des neuroleptiques
+#73	AnnotatorNotes T73	C0027849
+T74	DISO 2032 2040	syndrome
+#74	AnnotatorNotes T74	C0039082
+T75	DISO 2152 2160	rigidité
+#75	AnnotatorNotes T75	C0026837
+T76	DISO 2163 2207	secousses musculaires des bras ou des jambes
+#76	AnnotatorNotes T76	C0037763
+T77	ANAT 2189 2193	bras
+#77	AnnotatorNotes T77	C0446516
+T78	ANAT 2201 2207	jambes
+#78	AnnotatorNotes T78	C1140621
+T79	DISO 2210 2230	douleurs musculaires
+#79	AnnotatorNotes T79	C0231528
+T80	DISO 2246 2255	symptômes
+#80	AnnotatorNotes T80	C1457887
+T81	DISO 2276 2294	température élevée
+#81	AnnotatorNotes T81	C0015967
+T82	DISO 2302 2319	confusion mentale
+#82	AnnotatorNotes T82	C0009676
+T83	LIVB 2344 2351	médecin
+#83	AnnotatorNotes T83	C0031831
+T84	DISO 2379 2388	symptômes
+#84	AnnotatorNotes T84	C1457887
+T85	PROC 2427 2437	traitement
+#85	AnnotatorNotes T85	C0087111
+T86	CHEM 2442 2448	Tasmar
+#86	AnnotatorNotes T86	C0595276
+T87	CHEM 2465 2476	médicaments
+#87	AnnotatorNotes T87	C0013227
+T88	DISO 2567 2570	SMN
+#88	AnnotatorNotes T88	C0027849
+T89	CHEM 2609 2620	médicaments
+#89	AnnotatorNotes T89	C0013227
+T90	CHEM 2663 2671	dopamine
+#90	AnnotatorNotes T90	C0013030
+T91	CHEM 2681 2691	sérotonine
+#91	AnnotatorNotes T91	C0036751
+T92	ANAT 2727 2735	cérébral
+#92	AnnotatorNotes T92	C0006104
+T93	DISO 2764 2775	dyskinésies
+#93	AnnotatorNotes T93	C0013384
+T94	DISO 2778 2802	mouvements involontaires
+#94	AnnotatorNotes T94	C0427086
+T95	DISO 2834 2882	antécédents de syndrome malin des neuroleptiques
+#95	AnnotatorNotes T95	C0683336
+T96	DISO 2849 2882	syndrome malin des neuroleptiques
+#96	AnnotatorNotes T96	C0027849
+T97	DISO 2849 2857	syndrome
+#97	AnnotatorNotes T97	C0039082
+T98	DISO 2885 2888	SMN
+#98	AnnotatorNotes T98	C0027849
+T99	DISO 2922 2938	Phéochromocytome
+#99	AnnotatorNotes T99	C0031511
+T100	PROC 2957 2967	traitement
+#100	AnnotatorNotes T100	C0087111
+T101	CHEM 3015 3021	Tasmar
+#101	AnnotatorNotes T101	C0595276
+T102	DISO 3038 3066	insuffisance hépatique aiguë
+#102	AnnotatorNotes T102	C0162557
+T103	ANAT 3051 3060	hépatique
+#103	AnnotatorNotes T103	C0023884
+T104	PROC 3078 3088	traitement
+#104	AnnotatorNotes T104	C0087111
+T105	PHYS 3093 3102	Grossesse
+#105	AnnotatorNotes T105	C0032961
+T106	LIVB 3120 3127	médecin
+#106	AnnotatorNotes T106	C0031831
+T107	LIVB 3141 3149	enceinte
+#107	AnnotatorNotes T107	C0033011
+T108	LIVB 3182 3189	médecin
+#108	AnnotatorNotes T108	C0031831
+T109	DISO 3207 3214	risques
+#109	AnnotatorNotes T109	C0184544
+T110	CHEM 3251 3257	Tasmar
+#110	AnnotatorNotes T110	C0595276
+T111	PHYS 3269 3278	grossesse
+#111	AnnotatorNotes T111	C0032961
+T112	LIVB 3321 3327	enfant
+#112	AnnotatorNotes T112	C0021289 C0021270
+T114	PROC 3355 3365	traitement
+#114	AnnotatorNotes T114	C0087111
+T115	CHEM 3370 3376	Tasmar
+#115	AnnotatorNotes T115	C0595276
+T116	CHEM 3381 3387	Tasmar
+#116	AnnotatorNotes T116	C0595276
+T117	DISO 3412 3435	symptômes parkinsoniens
+#117	AnnotatorNotes T117	C1847652
+T118	DISO 3412 3421	symptômes
+#118	AnnotatorNotes T118	C1457887
+T119	PHYS 3452 3460	aptitude
+#119	AnnotatorNotes T119	C0085732
+T120	OBJC 3475 3483	véhicule
+#120	AnnotatorNotes T120	C0175845
+T121	OBJC 3502 3509	machine
+#121	AnnotatorNotes T121	C0336779
+T122	DISO 3535 3555	maladie de Parkinson
+#122	AnnotatorNotes T122	C0030567
+T123	DISO 3535 3542	maladie
+#123	AnnotatorNotes T123	C0012634
+T124	LIVB 3590 3597	médecin
+#124	AnnotatorNotes T124	C0031831
+T125	CHEM 3661 3667	Tasmar
+#125	AnnotatorNotes T125	C0595276
+T126	LIVB 3722 3729	médecin
+#126	AnnotatorNotes T126	C0031831
+T127	CHEM 3759 3767	lévodopa
+#127	AnnotatorNotes T127	C0023570
+T128	PHYS 3814 3843	intolérance à certains sucres
+#128	AnnotatorNotes T128	C0852210
+T129	CHEM 3837 3843	sucres
+#129	AnnotatorNotes T129	C0242209
+T130	LIVB 3862 3869	médecin
+#130	AnnotatorNotes T130	C0031831
+T131	CHEM 3890 3900	médicament
+#131	AnnotatorNotes T131	C0013227
+T132	CHEM 3920 3926	Tasmar
+#132	AnnotatorNotes T132	C0595276
+T133	CHEM 3949 3963	anticoagulants
+#133	AnnotatorNotes T133	C2879145
+T134	PHYS 3983 4002	coagulation du sang
+#134	AnnotatorNotes T134	C0005778
+T135	CHEM 4024 4033	warfarine
+#135	AnnotatorNotes T135	C0043031
+T136	PROC 4040 4056	examens sanguins
+#136	AnnotatorNotes T136	C0177883
+T137	ANAT 4048 4056	sanguins
+#137	AnnotatorNotes T137	C0005767
+T138	PHYS 4087 4098	coagulation
+#138	AnnotatorNotes T138	C0005778
+T139	LIVB 4134 4141	médecin
+#139	AnnotatorNotes T139	C0031831
+T140	CHEM 4207 4217	médicament
+#140	AnnotatorNotes T140	C0013227
+T141	LIVB 4243 4250	médecin
+#141	AnnotatorNotes T141	C0031831
+T142	CHEM 4270 4276	Tasmar
+#142	AnnotatorNotes T142	C0595276
+T143	CHEM 4297 4303	TASMAR
+#143	AnnotatorNotes T143	C0595276
+T144	CHEM 4324 4330	Tasmar
+#144	AnnotatorNotes T144	C0595276
+T145	LIVB 4369 4376	médecin
+#145	AnnotatorNotes T145	C0031831
+T146	LIVB 4444 4451	médecin
+#146	AnnotatorNotes T146	C0031831
+T147	LIVB 4462 4469	médecin
+#147	AnnotatorNotes T147	C0031831
+T148	PROC 4491 4501	traitement
+#148	AnnotatorNotes T148	C0087111
+T149	DISO 4569 4588	effets indésirables
+#149	AnnotatorNotes T149	C0559546
+T150	ANAT 4660 4664	foie
+#150	AnnotatorNotes T150	C0023884
+T151	LIVB 4675 4682	médecin
+#151	AnnotatorNotes T151	C0031831
+T152	PROC 4702 4718	examens sanguins
+#152	AnnotatorNotes T152	C0177883
+T153	ANAT 4710 4718	sanguins
+#153	AnnotatorNotes T153	C0005767
+T154	PHYS 4740 4758	fonction hépatique
+#154	AnnotatorNotes T154	C0232741
+T155	ANAT 4749 4758	hépatique
+#155	AnnotatorNotes T155	C0023884
+T156	PROC 4781 4791	traitement
+#156	AnnotatorNotes T156	C0087111
+T157	PROC 4866 4876	traitement
+#157	AnnotatorNotes T157	C0087111
+T158	CHEM 4998 5004	Tasmar
+#158	AnnotatorNotes T158	C0595276
+T159	CHEM 5044 5052	lévodopa
+#159	AnnotatorNotes T159	C0023570
+T160	CHEM 5090 5096	Tasmar
+#160	AnnotatorNotes T160	C0595276
+T161	CHEM 5148 5156	comprimé
+#161	AnnotatorNotes T161	C0994475
+T162	LIVB 5241 5248	médecin
+#162	AnnotatorNotes T162	C0031831
+T163	LIVB 5362 5369	médecin
+#163	AnnotatorNotes T163	C0031831
+T164	PROC 5518 5528	traitement
+#164	AnnotatorNotes T164	C0087111
+T165	CHEM 5533 5539	Tasmar
+#165	AnnotatorNotes T165	C0595276
+T166	PROC 5601 5611	traitement
+#166	AnnotatorNotes T166	C0087111
+T167	CHEM 5616 5622	Tasmar
+#167	AnnotatorNotes T167	C0595276
+T168	CHEM 5642 5653	médicaments
+#168	AnnotatorNotes T168	C0013227
+T169	CHEM 5656 5662	Tasmar
+#169	AnnotatorNotes T169	C0595276
+T170	LIVB 5699 5706	médecin
+#170	AnnotatorNotes T170	C0031831
+T171	LIVB 5713 5723	pharmacien
+#171	AnnotatorNotes T171	C0031323
+T172	CHEM 5795 5801	Tasmar
+#172	AnnotatorNotes T172	C0595276
+T173	DISO 5810 5844	troubles du fonctionnement du foie
+#173	AnnotatorNotes T173	C0085605
+T174	DISO 5859 5867	hépatite
+#174	AnnotatorNotes T174	C0019158
+T175	LIVB 5959 5966	médecin
+#175	AnnotatorNotes T175	C0031831
+T176	LIVB 6008 6015	médecin
+#176	AnnotatorNotes T176	C0031831
+T177	DISO 6026 6035	diarrhées
+#177	AnnotatorNotes T177	C0947873
+T178	CHEM 6067 6077	médicament
+#178	AnnotatorNotes T178	C0013227
+T179	DISO 6097 6124	coloration jaune des urines
+#179	AnnotatorNotes T179	C0858675
+T180	ANAT 6118 6124	urines
+#180	AnnotatorNotes T180	C0042306
+T181	ANAT 6223 6228	urine
+#181	AnnotatorNotes T181	C0042036
+T182	DISO 6249 6254	signe
+#182	AnnotatorNotes T182	C0037088
+T183	LIVB 6325 6332	médecin
+#183	AnnotatorNotes T183	C0031831
+T184	LIVB 6371 6379	patients
+#184	AnnotatorNotes T184	C0030705
+T185	DISO 6395 6428	syndrome malin des neuroleptiques
+#185	AnnotatorNotes T185	C0027849
+T186	DISO 6395 6403	syndrome
+#186	AnnotatorNotes T186	C0039082
+T187	DISO 6431 6440	symptômes
+#187	AnnotatorNotes T187	C1457887
+T188	DISO 6459 6478	rigidité musculaire
+#188	AnnotatorNotes T188	C0026837
+T189	DISO 6484 6490	fièvre
+#189	AnnotatorNotes T189	C0015967
+T190	DISO 6497 6514	confusion mentale
+#190	AnnotatorNotes T190	C0009676
+T191	PROC 6529 6540	traitements
+#191	AnnotatorNotes T191	C0087111
+T192	CHEM 6541 6558	antiparkinsoniens
+#192	AnnotatorNotes T192	C0003405
+T193	GEOG 6609 6617	Belgique
+#193	AnnotatorNotes T193	C0004950
+T194	GEOG 6663 6673	Luxembourg
+#194	AnnotatorNotes T194	C0024176
+T195	GEOG 6898 6905	Benelux
+#195	AnnotatorNotes T195	C0682368
+T196	GEOG 7157 7163	France
+#196	AnnotatorNotes T196	C0016674
+T197	CHEM 7859 7865	Tasmar
+#197	AnnotatorNotes T197	C0595276
+T198	CHEM 7875 7884	comprimés
+#198	AnnotatorNotes T198	C0039225
+T199	CHEM 7896 7905	Tolcapone
+#199	AnnotatorNotes T199	C0246330
+T200	CHEM 7937 7946	tolcapone
+#200	AnnotatorNotes T200	C0246330
+T201	CHEM 7960 7968	comprimé
+#201	AnnotatorNotes T201	C0994475
+T202	CHEM 7983 7989	Tasmar
+#202	AnnotatorNotes T202	C0595276
+T203	CHEM 8016 8024	comprimé
+#203	AnnotatorNotes T203	C0994475
+T204	CHEM 8055 8064	tolcapone
+#204	AnnotatorNotes T204	C0246330
+T205	CHEM 8111 8120	comprimés
+#205	AnnotatorNotes T205	C0039225
+T206	OBJC 8127 8133	flacon
+#206	AnnotatorNotes T206	C0179376
+T207	OBJC 8137 8142	verre
+#207	AnnotatorNotes T207	C0017596
+T208	CHEM 8150 8159	comprimés
+#208	AnnotatorNotes T208	C0039225
+T209	CHEM 8167 8195	catéchol-O-méthyltransférase
+#209	AnnotatorNotes T209	C0007407
+T210	CHEM 8198 8202	COMT
+#210	AnnotatorNotes T210	C0007407
+T211	CHEM 8213 8219	enzyme
+#211	AnnotatorNotes T211	C0014442
+T212	ANAT 8251 8263	corps humain
+#212	AnnotatorNotes T212	C0460148
+T213	LIVB 8257 8263	humain
+#213	AnnotatorNotes T213	C0086418
+T214	CHEM 8279 8287	lévodopa
+#214	AnnotatorNotes T214	C0023570
+T215	PROC 8302 8309	traiter
+#215	AnnotatorNotes T215	C0087111
+T216	DISO 8316 8336	maladie de Parkinson
+#216	AnnotatorNotes T216	C0030567
+T217	DISO 8316 8323	maladie
+#217	AnnotatorNotes T217	C0012634
+T218	DISO 8345 8379	troubles du fonctionnement du foie
+#218	AnnotatorNotes T218	C0023895
+T219	PHYS 8357 8379	fonctionnement du foie
+#219	AnnotatorNotes T219	C0232741
+T220	ANAT 8375 8379	foie
+#220	AnnotatorNotes T220	C0023884
+T221	DISO 8394 8402	hépatite
+#221	AnnotatorNotes T221	C0019158
+T113	CHEM 7875 7895	comprimés pelliculés
+#113	AnnotatorNotes T113	C1273643
+T222	CHEM 7960 7978	comprimé pelliculé
+#222	AnnotatorNotes T222	C1273643
+T223	CHEM 8016 8034	comprimé pelliculé
+#223	AnnotatorNotes T223	C1273643
+T224	PROC 515 525;535 563	évaluation du rapport bénéfice / risque
+#224	AnnotatorNotes T224	C0524785
+T225	CHEM 36 54	comprimé pelliculé
+#225	AnnotatorNotes T225	C1273643
+T226	OBJC 110 118	blisters
+#226	AnnotatorNotes T226	C1706080
+T227	OBJC 8090 8098	blisters
+#227	AnnotatorNotes T227	C1706080
+T228	DISO 6191 6228	coloration plus foncée de votre urine
+#228	AnnotatorNotes T228	C0426396
+T229	DISO 6263 6282	atteinte musculaire
+#229	AnnotatorNotes T229	C0026848
+T230	DISO 6263 6271;6286 6295	atteinte hépatique
+#230	AnnotatorNotes T230	C0023895
+T231	ANAT 6286 6295	hépatique
+#231	AnnotatorNotes T231	C0023884
+T232	ANAT 5840 5844	foie
+#232	AnnotatorNotes T232	C0023884
+T41	ANAT 3998 4002	sang
+#41	AnnotatorNotes T41	C0005767
+T233	DISO 1808 1822	urines foncées
+#233	AnnotatorNotes T233	C0426396
+T234	DISO 1769 1792	jaunissement de la peau
+#234	AnnotatorNotes T234	C0022346
+T235	DISO 1769 1781;1796 1804	jaunissement des yeux
+#235	AnnotatorNotes T235	C0848416
+T236	ANAT 6272 6282	musculaire
+#236	AnnotatorNotes T236	C0026845
+T237	ANAT 6468 6478	musculaire
+#237	AnnotatorNotes T237	C0026845
+T238	CHEM 217 228	association
+#238	AnnotatorNotes T238	C0013162

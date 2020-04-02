@@ -1,0 +1,12 @@
+T1	DISO 0 23	Syndrome de Budd-Chiari
+#1	AnnotatorNotes T1	C0856761
+T2	DISO 0 8	Syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	DISO 28 48	agénésie congénitale
+#3	AnnotatorNotes T3	C0332907
+T4	DISO 28 36	agénésie
+#4	AnnotatorNotes T4	C0000846
+T5	ANAT 53 59	veines
+#5	AnnotatorNotes T5	C0042449
+T6	ANAT 60 74	sus-hépatiques
+#6	AnnotatorNotes T6	C0227543

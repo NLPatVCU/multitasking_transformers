@@ -1,0 +1,12 @@
+T1	DISO 11 19	syndrome
+#1	AnnotatorNotes T1	C0039082
+T2	ANAT 40 55	interstitielles
+#2	AnnotatorNotes T2	C0596790
+T3	DISO 56 62	aiguës
+#3	AnnotatorNotes T3	C0001314
+T4	DISO 68 74	uvéite
+#4	AnnotatorNotes T4	C0042164
+T5	PROC 93 104	observation
+#5	AnnotatorNotes T5	C0302523
+T6	DISO 26 55	néphropathies interstitielles
+#6	AnnotatorNotes T6	C0027707

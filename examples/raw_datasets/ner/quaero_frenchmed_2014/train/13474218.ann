@@ -1,0 +1,6 @@
+T1	PROC 5 15	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	LIVB 31 36	femme
+#2	AnnotatorNotes T2	C0043210
+T3	DISO 49 66	prolapsus génital
+#3	AnnotatorNotes T3	C0156349

@@ -1,0 +1,12 @@
+T1	DISO 0 25	Insuffisance rénale aiguë
+#1	AnnotatorNotes T1	C1565662
+T2	DISO 0 19	Insuffisance rénale
+#2	AnnotatorNotes T2	C1565489
+T3	ANAT 13 19	rénale
+#3	AnnotatorNotes T3	C0022646
+T4	PROC 32 42	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	CHEM 47 64	acide piromidique
+#5	AnnotatorNotes T5	C0031987
+T6	CHEM 47 52	acide
+#6	AnnotatorNotes T6	C0001128

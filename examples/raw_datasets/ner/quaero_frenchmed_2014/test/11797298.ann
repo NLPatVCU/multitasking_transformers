@@ -1,0 +1,10 @@
+T1	DISO 0 10	Affections
+#1	AnnotatorNotes T1	C0012634
+T2	PROC 23 36	radiothérapie
+#2	AnnotatorNotes T2	C1522449
+T3	GEOG 69 77	Belgique
+#3	AnnotatorNotes T3	C0004950
+T4	PROC 95 108	radiothérapie
+#4	AnnotatorNotes T4	C1522449
+T5	GEOG 112 120	Belgique
+#5	AnnotatorNotes T5	C0004950

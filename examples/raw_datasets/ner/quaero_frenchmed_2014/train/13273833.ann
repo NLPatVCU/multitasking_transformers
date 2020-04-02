@@ -1,0 +1,10 @@
+T1	PHYS 0 10	Inhibition
+#1	AnnotatorNotes T1	C0021469
+T2	ANAT 17 31	moelle osseuse
+#2	AnnotatorNotes T2	C0005953
+T3	ANAT 43 52	splénique
+#3	AnnotatorNotes T3	C0037993
+T4	DISO 68 79	rate mobile
+#4	AnnotatorNotes T4	C1389769
+T5	ANAT 68 72	rate
+#5	AnnotatorNotes T5	C0037993

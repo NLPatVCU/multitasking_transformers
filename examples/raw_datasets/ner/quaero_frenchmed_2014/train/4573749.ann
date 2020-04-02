@@ -1,0 +1,22 @@
+T1	DISO 0 25	Hypersensibilité retardée
+#1	AnnotatorNotes T1	C0020522
+T2	DISO 0 16	Hypersensibilité
+#2	AnnotatorNotes T2	C0020517
+T3	DISO 35 59	affections thyroïdiennes
+#3	AnnotatorNotes T3	C0040128
+T4	DISO 35 45	affections
+#4	AnnotatorNotes T4	C0012634
+T5	ANAT 46 59	thyroïdiennes
+#5	AnnotatorNotes T5	C0040132
+T6	PROC 75 107	test de migration des leucocytes
+#6	AnnotatorNotes T6	C0023514
+T7	PHYS 83 107	migration des leucocytes
+#7	AnnotatorNotes T7	C1326500
+T8	PHYS 83 92	migration
+#8	AnnotatorNotes T8	C1533574
+T9	ANAT 97 107	leucocytes
+#9	AnnotatorNotes T9	C0023516
+T10	CHEM 123 137	thyroglobuline
+#10	AnnotatorNotes T10	C0040123
+T11	LIVB 138 145	humaine
+#11	AnnotatorNotes T11	C0086418

@@ -1,0 +1,16 @@
+T1	PROC 15 26	stimulation
+#1	AnnotatorNotes T1	C1292856
+T2	PROC 27 38	immunitaire
+#2	AnnotatorNotes T2	C0020971
+T3	CHEM 43 52	B . C . G
+#3	AnnotatorNotes T3	C0004886
+T4	PROC 72 82	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	DISO 89 107	lèpre lépromateuse
+#5	AnnotatorNotes T5	C0023348
+T6	DISO 89 94	lèpre
+#6	AnnotatorNotes T6	C0023343
+T7	PROC 118 123	bilan
+#7	AnnotatorNotes T7	C1261322
+T8	LIVB 136 143	malades
+#8	AnnotatorNotes T8	C0030705

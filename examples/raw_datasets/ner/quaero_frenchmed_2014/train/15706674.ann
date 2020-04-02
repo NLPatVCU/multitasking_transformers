@@ -1,0 +1,8 @@
+T1	DISO 0 12	Inflammation
+#1	AnnotatorNotes T1	C0021368
+T2	CHEM 15 19	AINS
+#2	AnnotatorNotes T2	C0003211
+T3	DISO 23 43	maladie d' Alzheimer
+#3	AnnotatorNotes T3	C0002395
+T4	DISO 23 30	maladie
+#4	AnnotatorNotes T4	C0012634

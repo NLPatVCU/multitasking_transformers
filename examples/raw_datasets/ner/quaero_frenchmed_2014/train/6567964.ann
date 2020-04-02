@@ -1,0 +1,10 @@
+T1	PROC 3 15	rhinoplastie
+#1	AnnotatorNotes T1	C0035467
+T2	PROC 18 34	soins infirmiers
+#2	AnnotatorNotes T2	C0028682
+T3	LIVB 24 34	infirmiers
+#3	AnnotatorNotes T3	C0028661
+T4	PROC 18 38;46 57	soins infirmiers pré opératoires
+#4	AnnotatorNotes T4	C0033061
+T5	PROC 18 34;42 57	soins infirmiers postopératoires
+#5	AnnotatorNotes T5	C0032786

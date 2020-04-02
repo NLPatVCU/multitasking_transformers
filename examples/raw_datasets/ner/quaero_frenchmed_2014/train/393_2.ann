@@ -1,0 +1,394 @@
+T1	CHEM 3 9	Tasmar
+#1	AnnotatorNotes T1	C0595276
+T2	LIVB 44 51	enfants
+#2	AnnotatorNotes T2	C0008059
+T3	CHEM 151 160	tolcapone
+#3	AnnotatorNotes T3	C0246330
+T4	CHEM 178 184	Tasmar
+#4	AnnotatorNotes T4	C0595276
+T5	CHEM 253 262	comprimés
+#5	AnnotatorNotes T5	C0039225
+T6	CHEM 266 272	Tasmar
+#6	AnnotatorNotes T6	C0595276
+T7	CHEM 344 353	tolcapone
+#7	AnnotatorNotes T7	C0246330
+T8	CHEM 358 364	Tasmar
+#8	AnnotatorNotes T8	C0595276
+T9	CHEM 396 418	formes pharmaceutiques
+#9	AnnotatorNotes T9	C0013058
+T10	CHEM 422 430	lévodopa
+#10	AnnotatorNotes T10	C0023570
+T11	CHEM 433 444	bensérazide
+#11	AnnotatorNotes T11	C0005014
+T12	CHEM 451 459	lévodopa
+#12	AnnotatorNotes T12	C0023570
+T13	CHEM 462 471	carbidopa
+#13	AnnotatorNotes T13	C0006982
+T14	CHEM 500 506	Tasmar
+#14	AnnotatorNotes T14	C0595276
+T15	LIVB 535 543	patients
+#15	AnnotatorNotes T15	C0030705
+T16	PROC 562 572	traitement
+#16	AnnotatorNotes T16	C0087111
+T17	CHEM 577 583	Tasmar
+#17	AnnotatorNotes T17	C0595276
+T18	LIVB 617 624	médecin
+#18	AnnotatorNotes T18	C0031831
+T19	PROC 645 655	traitement
+#19	AnnotatorNotes T19	C0087111
+T20	DISO 662 682	maladie de Parkinson
+#20	AnnotatorNotes T20	C0030567
+T21	DISO 662 669	maladie
+#21	AnnotatorNotes T21	C0012634
+T22	CHEM 771 777	Tasmar
+#22	AnnotatorNotes T22	C0595276
+T23	LIVB 839 846	patient
+#23	AnnotatorNotes T23	C0030705
+T24	CHEM 901 919	enzymes hépatiques
+#24	AnnotatorNotes T24	C0443764
+T25	CHEM 901 908	enzymes
+#25	AnnotatorNotes T25	C0014442
+T26	ANAT 909 919	hépatiques
+#26	AnnotatorNotes T26	C0023884
+T27	DISO 981 1000	hépatite fulminante
+#27	AnnotatorNotes T27	C0302809
+T28	DISO 1075 1093	atteinte hépatique
+#28	AnnotatorNotes T28	C0151763
+T29	ANAT 1084 1093	hépatique
+#29	AnnotatorNotes T29	C0023884
+T30	CHEM 1094 1108	médicamenteuse
+#30	AnnotatorNotes T30	C0013227
+T31	CHEM 1141 1151	médicament
+#31	AnnotatorNotes T31	C0013227
+T32	PROC 1281 1291	traitement
+#32	AnnotatorNotes T32	C0087111
+T33	CHEM 1296 1302	Tasmar
+#33	AnnotatorNotes T33	C0595276
+T34	LIVB 1339 1345	femmes
+#34	AnnotatorNotes T34	C0015780
+T35	DISO 1386 1404	atteinte hépatique
+#35	AnnotatorNotes T35	C0151763
+T36	ANAT 1395 1404	hépatique
+#36	AnnotatorNotes T36	C0023884
+T37	PROC 1446 1456	traitement
+#37	AnnotatorNotes T37	C0087111
+T38	PROC 1466 1495	tests fonctionnels hépatiques
+#38	AnnotatorNotes T38	C0023901
+T39	ANAT 1485 1495	hépatiques
+#39	AnnotatorNotes T39	C0023884
+T40	DISO 1523 1529	signes
+#40	AnnotatorNotes T40	C0037088
+T41	PROC 1545 1555	traitement
+#41	AnnotatorNotes T41	C0087111
+T42	PHYS 1561 1579	fonction hépatique
+#42	AnnotatorNotes T42	C0232741
+T43	ANAT 1570 1579	hépatique
+#43	AnnotatorNotes T43	C0023884
+T44	PROC 1651 1661	traitement
+#44	AnnotatorNotes T44	C0087111
+T45	PROC 1785 1795	traitement
+#45	AnnotatorNotes T45	C0087111
+T46	LIVB 1832 1840	patients
+#46	AnnotatorNotes T46	C0030705
+T47	LIVB 1854 1862	patients
+#47	AnnotatorNotes T47	C0030705
+T48	DISO 1863 1876	parkinsoniens
+#48	AnnotatorNotes T48	C0030567
+T49	DISO 1882 1885	SMN
+#49	AnnotatorNotes T49	C0027849
+T50	CHEM 1942 1953	médicaments
+#50	AnnotatorNotes T50	C0013227
+T51	CHEM 1976 1991	dopaminergiques
+#51	AnnotatorNotes T51	C0013036
+T52	DISO 2031 2034	SMN
+#52	AnnotatorNotes T52	C0027849
+T53	PROC 2057 2067	traitement
+#53	AnnotatorNotes T53	C0087111
+T54	CHEM 2072 2078	Tasmar
+#54	AnnotatorNotes T54	C0595276
+T55	DISO 2087 2096	symptômes
+#55	AnnotatorNotes T55	C1457887
+T56	PROC 2134 2144	traitement
+#56	AnnotatorNotes T56	C0087111
+T57	CHEM 2149 2155	Tasmar
+#57	AnnotatorNotes T57	C0595276
+T58	DISO 2209 2219	diagnostic
+#58	AnnotatorNotes T58	C0011900
+T59	CHEM 2222 2228	Tasmar
+#59	AnnotatorNotes T59	C0595276
+T60	LIVB 2266 2273	patient
+#60	AnnotatorNotes T60	C0030705
+T61	CHEM 2328 2336	lévodopa
+#61	AnnotatorNotes T61	C0023570
+T62	DISO 2383 2402	effets indésirables
+#62	AnnotatorNotes T62	C0559546
+T63	DISO 2411 2420	diarrhées
+#63	AnnotatorNotes T63	C0947873
+T64	CHEM 2433 2439	Tasmar
+#64	AnnotatorNotes T64	C0595276
+T65	PROC 2501 2511	traitement
+#65	AnnotatorNotes T65	C0087111
+T66	PHYS 2516 2528	Interactions
+#66	AnnotatorNotes T66	C0687133
+T67	CHEM 2537 2548	bensérazide
+#67	AnnotatorNotes T67	C0005014
+T68	PHYS 2568 2579	interaction
+#68	AnnotatorNotes T68	C0687133
+T69	CHEM 2589 2600	bensérazide
+#69	AnnotatorNotes T69	C0005014
+T70	CHEM 2620 2629	tolcapone
+#70	AnnotatorNotes T70	C0246330
+T71	CHEM 2689 2700	bensérazide
+#71	AnnotatorNotes T71	C0005014
+T72	DISO 2777 2796	effets indésirables
+#72	AnnotatorNotes T72	C0559546
+T73	CHEM 2831 2842	Inhibiteurs
+#73	AnnotatorNotes T73	C0003139
+T74	CHEM 2849 2852	MAO
+#74	AnnotatorNotes T74	C0026454
+T75	CHEM 2857 2866	Warfarine
+#75	AnnotatorNotes T75	C0043031
+T76	CHEM 2936 2945	warfarine
+#76	AnnotatorNotes T76	C0043031
+T77	CHEM 2952 2961	tolcapone
+#77	AnnotatorNotes T77	C0246330
+T78	PHYS 2997 3008	coagulation
+#78	AnnotatorNotes T78	C0005778
+T79	LIVB 3069 3077	patients
+#79	AnnotatorNotes T79	C0030705
+T80	DISO 3088 3109	maladies héréditaires
+#80	AnnotatorNotes T80	C0019247
+T81	DISO 3088 3096	maladies
+#81	AnnotatorNotes T81	C0012634
+T82	DISO 3120 3144	intolérance au galactose
+#82	AnnotatorNotes T82	C0865194
+T83	CHEM 3161 3168	lactose
+#83	AnnotatorNotes T83	C0022949
+T84	DISO 3183 3217	malabsorption du glucose-galactose
+#84	AnnotatorNotes T84	C0865194
+T85	CHEM 3200 3217	glucose-galactose
+#85	AnnotatorNotes T85	C0061434
+T86	CHEM 3246 3256	médicament
+#86	AnnotatorNotes T86	C0013227
+T87	CHEM 3261 3267	Tasmar
+#87	AnnotatorNotes T87	C0595276
+T88	CHEM 3281 3291	inhibiteur
+#88	AnnotatorNotes T88	C0003139
+T89	CHEM 3298 3302	COMT
+#89	AnnotatorNotes T89	C0007407
+T90	CHEM 3356 3364	lévodopa
+#90	AnnotatorNotes T90	C0023570
+T91	DISO 3480 3499	effets indésirables
+#91	AnnotatorNotes T91	C0559546
+T92	PROC 3551 3561	traitement
+#92	AnnotatorNotes T92	C0087111
+T93	CHEM 3570 3581	inhibiteurs
+#93	AnnotatorNotes T93	C0003139
+T94	CHEM 3588 3592	COMT
+#94	AnnotatorNotes T94	C0007407
+T95	DISO 3623 3642	effets indésirables
+#95	AnnotatorNotes T95	C0559546
+T96	DISO 3667 3678	dyskinésies
+#96	AnnotatorNotes T96	C0013384
+T97	DISO 3681 3688	nausées
+#97	AnnotatorNotes T97	C0027497
+T98	DISO 3691 3703	vomissements
+#98	AnnotatorNotes T98	C0042963
+T99	DISO 3706 3726	douleurs abdominales
+#99	AnnotatorNotes T99	C0000737
+T100	DISO 3729 3736	syncope
+#100	AnnotatorNotes T100	C0039070
+T101	DISO 3753 3762	symptômes
+#101	AnnotatorNotes T101	C1457887
+T102	DISO 3791 3803	constipation
+#102	AnnotatorNotes T102	C0009806
+T103	DISO 3806 3825	troubles du sommeil
+#103	AnnotatorNotes T103	C0037317
+T104	DISO 3828 3838	somnolence
+#104	AnnotatorNotes T104	C0013144 C2830004
+T106	DISO 3841 3855	hallucinations
+#106	AnnotatorNotes T106	C0018524
+T107	CHEM 3863 3871	lévodopa
+#107	AnnotatorNotes T107	C0023570
+T108	DISO 3893 3903	somnolence
+#108	AnnotatorNotes T108	C0013144 C2830004
+T110	DISO 3913 3929	accès de sommeil
+#110	AnnotatorNotes T110	C0027404
+T111	DISO 3961 3983	endormissement soudain
+#111	AnnotatorNotes T111	C0919582
+T112	DISO 4044 4065	signes avant coureurs
+#112	AnnotatorNotes T112	C3494358
+T113	DISO 4044 4050	signes
+#113	AnnotatorNotes T113	C0037088
+T114	LIVB 4105 4113	patients
+#114	AnnotatorNotes T114	C0030705
+T115	OBJC 4230 4239	véhicules
+#115	AnnotatorNotes T115	C0175845
+T116	OBJC 4262 4270	machines
+#116	AnnotatorNotes T116	C0336779
+T117	PROC 4282 4292	traitement
+#117	AnnotatorNotes T117	C0087111
+T118	CHEM 4297 4305	lévodopa
+#118	AnnotatorNotes T118	C0023570
+T119	CHEM 4352 4360	lévodopa
+#119	AnnotatorNotes T119	C0023570
+T120	DISO 4367 4386	arrêt du traitement
+#120	AnnotatorNotes T120	C1699848
+T121	PROC 4376 4386	traitement
+#121	AnnotatorNotes T121	C0087111
+T122	PHYS 4414 4425	interaction
+#122	AnnotatorNotes T122	C0687133
+T123	CHEM 4434 4445	bensérazide
+#123	AnnotatorNotes T123	C0005014
+T124	CHEM 4511 4522	bensérazide
+#124	AnnotatorNotes T124	C0005014
+T125	CHEM 4533 4543	métabolite
+#125	AnnotatorNotes T125	C0002421
+T126	ANAT 4573 4585	plasmatiques
+#126	AnnotatorNotes T126	C0032105
+T127	CHEM 4589 4600	bensérazide
+#127	AnnotatorNotes T127	C0005014
+T128	CHEM 4641 4650	tolcapone
+#128	AnnotatorNotes T128	C0246330
+T129	CHEM 4657 4668	bensérazide
+#129	AnnotatorNotes T129	C0005014
+T130	CHEM 4679 4687	lévodopa
+#130	AnnotatorNotes T130	C0023570
+T131	DISO 4753 4772	effets indésirables
+#131	AnnotatorNotes T131	C0559546
+T132	ANAT 4821 4833	plasmatiques
+#132	AnnotatorNotes T132	C0032105
+T133	CHEM 4841 4852	médicaments
+#133	AnnotatorNotes T133	C0013227
+T134	CHEM 4879 4885	Tasmar
+#134	AnnotatorNotes T134	C0595276
+T135	PHYS 4894 4906	interactions
+#135	AnnotatorNotes T135	C0687133
+T136	CHEM 4957 4967	cytochrome
+#136	AnnotatorNotes T136	C1256752
+T137	CHEM 4968 4974	CYP2C9
+#137	AnnotatorNotes T137	C0608437
+T138	CHEM 5007 5018	Médicaments
+#138	AnnotatorNotes T138	C0013227
+T139	CHEM 5042 5056	catécholamines
+#139	AnnotatorNotes T139	C0007412
+T140	CHEM 5078 5087	tolcapone
+#140	AnnotatorNotes T140	C0246330
+T141	DISO 5106 5136	métabolisme des catécholamines
+#141	AnnotatorNotes T141	C1156510
+T142	CHEM 5122 5136	catécholamines
+#142	AnnotatorNotes T142	C0007412
+T143	PHYS 5143 5155	interactions
+#143	AnnotatorNotes T143	C0687133
+T144	DISO 5193 5212	effets indésirables
+#144	AnnotatorNotes T144	C0559546
+T145	DISO 5243 5262	effets indésirables
+#145	AnnotatorNotes T145	C0559546
+T146	DISO 5301 5320	effets indésirables
+#146	AnnotatorNotes T146	C0559546
+T147	CHEM 5417 5428	inhibiteurs
+#147	AnnotatorNotes T147	C0003139
+T148	CHEM 5451 5464	noradrénaline
+#148	AnnotatorNotes T148	C0028351
+T149	CHEM 5477 5488	désipramine
+#149	AnnotatorNotes T149	C0011685
+T150	CHEM 5494 5505	maprotiline
+#150	AnnotatorNotes T150	C0024778
+T151	LIVB 5547 5555	patients
+#151	AnnotatorNotes T151	C0030705
+T152	DISO 5571 5591	maladie de Parkinson
+#152	AnnotatorNotes T152	C0030567
+T153	DISO 5571 5578	maladie
+#153	AnnotatorNotes T153	C0012634
+T154	PROC 5592 5599	traités
+#154	AnnotatorNotes T154	C0087111
+T155	CHEM 5604 5610	Tasmar
+#155	AnnotatorNotes T155	C0595276
+T156	CHEM 5617 5625	lévodopa
+#156	AnnotatorNotes T156	C0023570
+T157	PHYS 5639 5648	Grossesse
+#157	AnnotatorNotes T157	C0032961
+T158	LIVB 5659 5662	rat
+#158	AnnotatorNotes T158	C0034721
+T159	LIVB 5669 5674	lapin
+#159	AnnotatorNotes T159	C0178727
+T160	CHEM 5731 5737	Tasmar
+#160	AnnotatorNotes T160	C0595276
+T161	PHYS 5773 5782	grossesse
+#161	AnnotatorNotes T161	C0032961
+T162	ANAT 5855 5860	fœtus
+#162	AnnotatorNotes T162	C0015965
+T163	PROC 5869 5885	essais cliniques
+#163	AnnotatorNotes T163	C1096775
+T164	CHEM 5920 5926	Tasmar
+#164	AnnotatorNotes T164	C0595276
+T165	OBJC 5971 5979	véhicule
+#165	AnnotatorNotes T165	C0175845
+T166	OBJC 5998 6005	machine
+#166	AnnotatorNotes T166	C0336779
+T167	LIVB 6026 6034	patients
+#167	AnnotatorNotes T167	C0030705
+T168	DISO 6107 6130	symptômes parkinsoniens
+#168	AnnotatorNotes T168	C1847652
+T169	DISO 6107 6116	symptômes
+#169	AnnotatorNotes T169	C1457887
+T170	DISO 6139 6158	effets indésirables
+#170	AnnotatorNotes T170	C0559546
+T171	LIVB 6230 6238	patients
+#171	AnnotatorNotes T171	C0030705
+T172	PROC 6239 6246	traités
+#172	AnnotatorNotes T172	C0087111
+T173	CHEM 6255 6262	placebo
+#173	AnnotatorNotes T173	C1696465
+T174	CHEM 6313 6319	Tasmar
+#174	AnnotatorNotes T174	C0595276
+T175	CHEM 6333 6343	inhibiteur
+#175	AnnotatorNotes T175	C0003139
+T176	CHEM 6350 6354	COMT
+#176	AnnotatorNotes T176	C0007407
+T177	CHEM 6408 6416	lévodopa
+#177	AnnotatorNotes T177	C0023570
+T178	LIVB 6456 6464	patients
+#178	AnnotatorNotes T178	C0030705
+T179	PROC 6465 6472	traités
+#179	AnnotatorNotes T179	C0087111
+T180	LIVB 6533 6541	patients
+#180	AnnotatorNotes T180	C0030705
+T181	PROC 6542 6549	traités
+#181	AnnotatorNotes T181	C0087111
+T182	CHEM 6762 6775	transaminases
+#182	AnnotatorNotes T182	C0002594
+T183	LIVB 6839 6847	patients
+#183	AnnotatorNotes T183	C0030705
+T184	PROC 6868 6878	traitement
+#184	AnnotatorNotes T184	C0087111
+T185	PROC 6908 6918	traitement
+#185	AnnotatorNotes T185	C0087111
+T186	CHEM 6951 6964	transaminases
+#186	AnnotatorNotes T186	C0002594
+T187	DISO 7019 7032	rhabdomyolyse
+#187	AnnotatorNotes T187	C0035410
+T188	DISO 7049 7052	SMN
+#188	AnnotatorNotes T188	C0027849
+T189	DISO 7062 7073	dyskinésies
+#189	AnnotatorNotes T189	C0013384
+T190	DISO 7112 7131	effets indésirables
+#190	AnnotatorNotes T190	C0559546
+T191	CHEM 7155 7161	Tasmar
+#191	AnnotatorNotes T191	C0595276
+T192	CHEM 7227 7234	placebo
+#192	AnnotatorNotes T192	C1696465
+T193	DISO 7239 7259	Douleurs thoraciques
+#193	AnnotatorNotes T193	C0008031
+T194	DISO 7262 7303	Infection des voies aériennes supérieures
+#194	AnnotatorNotes T194	C0035243
+T195	ANAT 7276 7303	voies aériennes supérieures
+#195	AnnotatorNotes T195	C0458578
+T196	DISO 7324 7344	surdosage accidentel
+#196	AnnotatorNotes T196	C0151821
+T197	CHEM 7366 7375	tolcapone
+#197	AnnotatorNotes T197	C0246330
+T105	PROC 7193 7212	essais de phase III
+#105	AnnotatorNotes T105	C1096780
+T109	DISO 7324 7333;7348 7360	surdosage intentionnel
+#109	AnnotatorNotes T109	C0151821

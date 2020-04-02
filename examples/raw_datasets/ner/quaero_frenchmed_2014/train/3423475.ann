@@ -1,0 +1,12 @@
+T1	DISO 0 25	Endocardites infectieuses
+#1	AnnotatorNotes T1	C0014121
+T2	DISO 0 12	Endocardites
+#2	AnnotatorNotes T2	C0014118
+T3	DISO 13 25	infectieuses
+#3	AnnotatorNotes T3	C0021311
+T4	DEVI 30 51	prothèses valvulaires
+#4	AnnotatorNotes T4	C0336548
+T5	DEVI 30 39	prothèses
+#5	AnnotatorNotes T5	C0175649
+T6	ANAT 40 51	valvulaires
+#6	AnnotatorNotes T6	C1186983

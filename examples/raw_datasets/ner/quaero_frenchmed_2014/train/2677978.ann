@@ -1,0 +1,10 @@
+T1	DISO 3 21	syndrome de Noonan
+#1	AnnotatorNotes T1	C0028326
+T2	DISO 3 11	syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	DISO 28 37	dysplasie
+#3	AnnotatorNotes T3	C0334044
+T4	ANAT 38 55	cardio-vasculaire
+#4	AnnotatorNotes T4	C0007226
+T5	PROC 73 85	observations
+#5	AnnotatorNotes T5	C0700325

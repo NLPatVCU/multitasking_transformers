@@ -1,0 +1,18 @@
+T1	PROC 32 56	irradiation encéphalique
+#1	AnnotatorNotes T1	C0948319
+T2	ANAT 44 56	encéphalique
+#2	AnnotatorNotes T2	C0006104
+T3	CHEM 74 85	trastuzumab
+#3	AnnotatorNotes T3	C0728747
+T4	DISO 107 128	métastases cérébrales
+#4	AnnotatorNotes T4	C0220650
+T5	DISO 107 117	métastases
+#5	AnnotatorNotes T5	C0027627
+T6	ANAT 118 128	cérébrales
+#6	AnnotatorNotes T6	C0006104
+T7	DISO 135 149	cancer du sein
+#7	AnnotatorNotes T7	C0006142
+T8	DISO 135 141	cancer
+#8	AnnotatorNotes T8	C0027651
+T9	ANAT 145 149	sein
+#9	AnnotatorNotes T9	C0006141

@@ -1,0 +1,8 @@
+T1	DISO 0 7	Tumeurs
+#1	AnnotatorNotes T1	C0027651
+T2	ANAT 26 32	vessie
+#2	AnnotatorNotes T2	C0005682
+T3	PHEN 47 55	récidive
+#3	AnnotatorNotes T3	C0034897
+T4	DISO 58 69	progression
+#4	AnnotatorNotes T4	C0242656

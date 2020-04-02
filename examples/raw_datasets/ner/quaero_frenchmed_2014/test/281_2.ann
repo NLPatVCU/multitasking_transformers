@@ -1,0 +1,377 @@
+T1	LIVB 44 69	populations particulières
+#1	AnnotatorNotes T1	C0242444
+T2	PROC 83 99	essais cliniques
+#2	AnnotatorNotes T2	C2603343
+T3	LIVB 109 122	patients âgés
+#3	AnnotatorNotes T3	C0001792
+T4	LIVB 109 117	patients
+#4	AnnotatorNotes T4	C0030705
+T5	DISO 123 130	déments
+#5	AnnotatorNotes T5	C0860630
+T6	PROC 136 146	traitement
+#6	AnnotatorNotes T6	C0087111
+T7	CHEM 151 161	olanzapine
+#7	AnnotatorNotes T7	C0171023
+T8	PHYS 206 211	décès
+#8	AnnotatorNotes T8	C0011065
+T9	DISO 219 242	événements indésirables
+#9	AnnotatorNotes T9	C0559546
+T10	ANAT 243 254	vasculaires
+#10	AnnotatorNotes T10	C0005847
+T11	ANAT 255 264	cérébraux
+#11	AnnotatorNotes T11	C0006104
+T12	CHEM 280 287	placebo
+#12	AnnotatorNotes T12	C1696465
+T13	DISO 325 334	surdosage
+#13	AnnotatorNotes T13	C0029944
+T14	DISO 341 350	symptômes
+#14	AnnotatorNotes T14	C1457887
+T15	PROC 400 405	étude
+#15	AnnotatorNotes T15	C2603343
+T16	PROC 409 445	tomographie par émission de positron
+#16	AnnotatorNotes T16	C0032743
+T17	PROC 409 420	tomographie
+#17	AnnotatorNotes T17	C0040395
+T18	PROC 448 451	PET
+#18	AnnotatorNotes T18	C0032743
+T19	LIVB 462 472	volontaire
+#19	AnnotatorNotes T19	C1997894
+T20	CHEM 525 535	olanzapine
+#20	AnnotatorNotes T20	C0171023
+T21	CHEM 566 576	récepteurs
+#21	AnnotatorNotes T21	C0597357
+T22	CHEM 606 616	récepteurs
+#22	AnnotatorNotes T22	C0597357
+T23	CHEM 651 661	olanzapine
+#23	AnnotatorNotes T23	C0171023
+T24	CHEM 670 692	protéines plasmatiques
+#24	AnnotatorNotes T24	C0032120
+T25	CHEM 670 679	protéines
+#25	AnnotatorNotes T25	C0033684
+T26	ANAT 680 692	plasmatiques
+#26	AnnotatorNotes T26	C0032105
+T27	PROC 801 807	études
+#27	AnnotatorNotes T27	C2603343
+T28	LIVB 854 860	souris
+#28	AnnotatorNotes T28	C0025929
+T29	LIVB 887 890	rat
+#29	AnnotatorNotes T29	C0086893
+T30	LIVB 897 902	chien
+#30	AnnotatorNotes T30	C0012984
+T31	DISO 909 915	effets
+#31	AnnotatorNotes T31	C1313864
+T32	DISO 939 956	dépression du SNC
+#32	AnnotatorNotes T32	C0151559
+T33	DISO 963 969	effets
+#33	AnnotatorNotes T33	C1313864
+T34	CHEM 970 988	anticholinergiques
+#34	AnnotatorNotes T34	C0242896
+T35	DISO 996 1019	troubles hématologiques
+#35	AnnotatorNotes T35	C0018939
+T36	ANAT 1005 1019	hématologiques
+#36	AnnotatorNotes T36	C0005767
+T37	CHEM 1038 1053	Olanzapine Teva
+#37	AnnotatorNotes T37	C0527258
+T38	CHEM 1065 1085	comprimés pelliculés
+#38	AnnotatorNotes T38	C1273643
+T39	CHEM 1065 1074	comprimés
+#39	AnnotatorNotes T39	C0039225
+T40	CHEM 1095 1113	comprimé pelliculé
+#40	AnnotatorNotes T40	C1273643
+T41	CHEM 1095 1103	comprimé
+#41	AnnotatorNotes T41	C0039225
+T42	CHEM 1137 1144	lactose
+#42	AnnotatorNotes T42	C0022949
+T43	CHEM 1149 1162	Comprimé rond
+#43	AnnotatorNotes T43	C0994475
+T44	CHEM 1149 1157	Comprimé
+#44	AnnotatorNotes T44	C0039225
+T45	DISO 1259 1267	hépatite
+#45	AnnotatorNotes T45	C0019158
+T46	DISO 1274 1287	diagnostiquée
+#46	AnnotatorNotes T46	C0011900
+T47	DISO 1305 1325	atteintes hépatiques
+#47	AnnotatorNotes T47	C0023895
+T48	ANAT 1315 1325	hépatiques
+#48	AnnotatorNotes T48	C0023884
+T49	DISO 1326 1338	cytolytiques
+#49	AnnotatorNotes T49	C0919823
+T50	DISO 1341 1355	cholestatiques
+#50	AnnotatorNotes T50	C0920027
+T51	PROC 1372 1382	traitement
+#51	AnnotatorNotes T51	C0087111
+T52	CHEM 1387 1397	olanzapine
+#52	AnnotatorNotes T52	C0171023
+T53	DISO 1419 1451	Affections musculo-squelettiques
+#53	AnnotatorNotes T53	C0263660
+T54	DISO 1419 1429;1470 1478	Affections osseuses
+#54	AnnotatorNotes T54	C0005940
+T55	ANAT 1470 1478	osseuses
+#55	AnnotatorNotes T55	C0005931
+T56	DISO 1479 1492	Rhabdomyolyse
+#56	AnnotatorNotes T56	C0035410
+T57	DISO 1493 1511	Affections du rein
+#57	AnnotatorNotes T57	C0022658
+T58	ANAT 1507 1511	rein
+#58	AnnotatorNotes T58	C0022646
+T59	DISO 1493 1503;1515 1534	Affections des voies urinaires
+#59	AnnotatorNotes T59	C0042075
+T60	ANAT 1519 1534	voies urinaires
+#60	AnnotatorNotes T60	C0042027
+T61	DISO 1535 1542	Dysurie
+#61	AnnotatorNotes T61	C0013428
+T62	PHYS 1569 1581	reproduction
+#62	AnnotatorNotes T62	C0035150
+T63	DISO 1543 1553;1585 1592	Affections du sein
+#63	AnnotatorNotes T63	C00061145
+T64	ANAT 1588 1592	sein
+#64	AnnotatorNotes T64	C0006141
+T65	DISO 1593 1602	Priapisme
+#65	AnnotatorNotes T65	C0033117
+T66	PROC 1655 1660	étude
+#66	AnnotatorNotes T66	C2603343
+T67	PROC 1664 1700	tomographie par émission de positron
+#67	AnnotatorNotes T67	C0032743
+T68	PROC 1664 1675	tomographie
+#68	AnnotatorNotes T68	C0040395
+T69	PROC 1703 1706	PET
+#69	AnnotatorNotes T69	C0032743
+T70	CHEM 1780 1790	olanzapine
+#70	AnnotatorNotes T70	C0171023
+T71	CHEM 1821 1831	récepteurs
+#71	AnnotatorNotes T71	C0597357
+T72	CHEM 1861 1871	récepteurs
+#72	AnnotatorNotes T72	C0597357
+T73	PROC 1888 1894	études
+#73	AnnotatorNotes T73	C2603343
+T74	LIVB 1941 1947	souris
+#74	AnnotatorNotes T74	C0025929
+T75	LIVB 1974 1977	rat
+#75	AnnotatorNotes T75	C0086893
+T76	LIVB 1984 1989	chien
+#76	AnnotatorNotes T76	C0012984
+T78	DISO 2026 2043	dépression du SNC
+#78	AnnotatorNotes T78	C0151559
+T80	CHEM 2057 2075	anticholinergiques
+#80	AnnotatorNotes T80	C0242896
+T81	DISO 2083 2106	troubles hématologiques
+#81	AnnotatorNotes T81	C0018939
+T82	ANAT 2092 2106	hématologiques
+#82	AnnotatorNotes T82	C0005767
+T83	PROC 2163 2175	conservation
+#83	AnnotatorNotes T83	C0728909
+T84	CHEM 2178 2193	Olanzapine Teva
+#84	AnnotatorNotes T84	C0527258
+T85	CHEM 2202 2222	comprimés pelliculés
+#85	AnnotatorNotes T85	C1273643
+T86	CHEM 2202 2211	comprimés
+#86	AnnotatorNotes T86	C0039225
+T87	CHEM 2232 2250	comprimé pelliculé
+#87	AnnotatorNotes T87	C1273643
+T88	CHEM 2232 2240	comprimé
+#88	AnnotatorNotes T88	C0039225
+T89	CHEM 2274 2281	lactose
+#89	AnnotatorNotes T89	C0022949
+T90	CHEM 2286 2299	Comprimé rond
+#90	AnnotatorNotes T90	C0994475
+T91	CHEM 2286 2294	Comprimé
+#91	AnnotatorNotes T91	C0039225
+T92	LIVB 2373 2381	Patients
+#92	AnnotatorNotes T92	C0030705
+T93	DISO 2412 2434	glaucome à angle fermé
+#93	AnnotatorNotes T93	C0154947
+T94	DISO 2412 2420	glaucome
+#94	AnnotatorNotes T94	C0017601
+T96	PROC 2467 2473	études
+#96	AnnotatorNotes T96	C2603343
+T97	LIVB 2482 2488	souris
+#97	AnnotatorNotes T97	C0025929
+T98	LIVB 2495 2498	rat
+#98	AnnotatorNotes T98	C0086893
+T99	CHEM 2525 2535	olanzapine
+#99	AnnotatorNotes T99	C0171023
+T100	CHEM 2548 2559	carcinogène
+#100	AnnotatorNotes T100	C0007090
+T101	CHEM 2564 2571	Lactose
+#101	AnnotatorNotes T101	C0022949
+T102	CHEM 2584 2606	Hydroxypropylcellulose
+#102	AnnotatorNotes T102	C0063188
+T103	CHEM 2607 2619	Crospovidone
+#103	AnnotatorNotes T103	C0728803
+T104	CHEM 2627 2652	Silice colloïdale anhydre
+#104	AnnotatorNotes T104	C3256094
+T105	CHEM 2653 2679	Cellulose microcristalline
+#105	AnnotatorNotes T105	C0669247
+T106	CHEM 2653 2662	Cellulose
+#106	AnnotatorNotes T106	C0007648
+T107	CHEM 2663 2679	microcristalline
+#107	AnnotatorNotes T107	C3255829
+T108	CHEM 2680 2701	Stéarate de magnésium
+#108	AnnotatorNotes T108	C0126791
+T109	CHEM 2680 2688	Stéarate
+#109	AnnotatorNotes T109	C3496118
+T110	CHEM 2692 2701	magnésium
+#110	AnnotatorNotes T110	C0024467
+T111	CHEM 2704 2719	Olanzapine Teva
+#111	AnnotatorNotes T111	C0527258
+T112	CHEM 2728 2748	comprimés pelliculés
+#112	AnnotatorNotes T112	C1273643
+T113	CHEM 2728 2737	comprimés
+#113	AnnotatorNotes T113	C0039225
+T114	CHEM 2758 2776	comprimé pelliculé
+#114	AnnotatorNotes T114	C1273643
+T115	CHEM 2758 2766	comprimé
+#115	AnnotatorNotes T115	C0039225
+T116	CHEM 2800 2807	lactose
+#116	AnnotatorNotes T116	C0022949
+T117	CHEM 2812 2820	Comprimé
+#117	AnnotatorNotes T117	C0039225
+T118	LIVB 2908 2915	Enfants
+#118	AnnotatorNotes T118	C0008059
+T119	LIVB 2919 2930	adolescents
+#119	AnnotatorNotes T119	C0205653
+T120	CHEM 2954 2964	olanzapine
+#120	AnnotatorNotes T120	C0171023
+T121	LIVB 2974 2981	enfants
+#121	AnnotatorNotes T121	C0008059
+T122	LIVB 2989 3000	adolescents
+#122	AnnotatorNotes T122	C0205653
+T123	PROC 3037 3048	recommandée
+#123	AnnotatorNotes T123	C1136220
+T124	PHEN 3085 3093	sécurité
+#124	AnnotatorNotes T124	C0036043
+T125	DISO 3146 3178	Affections musculo-squelettiques
+#125	AnnotatorNotes T125	C0263660
+T126	DISO 3146 3156;3197 3205	Affections osseuses
+#126	AnnotatorNotes T126	C0005940
+T127	ANAT 3197 3205	osseuses
+#127	AnnotatorNotes T127	C0005931
+T128	DISO 3206 3219	Rhabdomyolyse
+#128	AnnotatorNotes T128	C0035410
+T129	DISO 3220 3238	Affections du rein
+#129	AnnotatorNotes T129	C0022658
+T130	ANAT 3234 3238	rein
+#130	AnnotatorNotes T130	C0022646
+T131	DISO 3220 3230;3242 3261	Affections des voies urinaires
+#131	AnnotatorNotes T131	C0042075
+T132	ANAT 3246 3261	voies urinaires
+#132	AnnotatorNotes T132	C0042027
+T133	DISO 3262 3269	Dysurie
+#133	AnnotatorNotes T133	C0013428
+T134	PHYS 3296 3308	reproduction
+#134	AnnotatorNotes T134	C0035150
+T135	DISO 3270 3280;3312 3319	Affections du sein
+#135	AnnotatorNotes T135	C00061145
+T136	ANAT 3315 3319	sein
+#136	AnnotatorNotes T136	C0006141
+T137	DISO 3320 3329	Priapisme
+#137	AnnotatorNotes T137	C0033117
+T138	LIVB 3415 3440	populations particulières
+#138	AnnotatorNotes T138	C0242444
+T139	PROC 3454 3470	essais cliniques
+#139	AnnotatorNotes T139	C2603343
+T140	LIVB 3480 3493	patients âgés
+#140	AnnotatorNotes T140	C0001792
+T141	LIVB 3480 3488	patients
+#141	AnnotatorNotes T141	C0030705
+T142	DISO 3494 3501	déments
+#142	AnnotatorNotes T142	C0860630
+T143	PROC 3507 3517	traitement
+#143	AnnotatorNotes T143	C0087111
+T144	CHEM 3522 3532	olanzapine
+#144	AnnotatorNotes T144	C0171023
+T145	PHYS 3577 3582	décès
+#145	AnnotatorNotes T145	C0011065
+T146	DISO 3590 3613	événements indésirables
+#146	AnnotatorNotes T146	C0559546
+T147	ANAT 3614 3625	vasculaires
+#147	AnnotatorNotes T147	C0005847
+T148	ANAT 3626 3635	cérébraux
+#148	AnnotatorNotes T148	C0006104
+T149	CHEM 3651 3658	placebo
+#149	AnnotatorNotes T149	C1696465
+T150	PROC 3695 3700	étude
+#150	AnnotatorNotes T150	C2603343
+T151	PROC 3704 3740	tomographie par émission de positron
+#151	AnnotatorNotes T151	C0032743
+T152	PROC 3704 3715	tomographie
+#152	AnnotatorNotes T152	C0040395
+T153	PROC 3743 3746	PET
+#153	AnnotatorNotes T153	C0032743
+T154	LIVB 3757 3767	volontaire
+#154	AnnotatorNotes T154	C1997894
+T155	CHEM 3820 3830	olanzapine
+#155	AnnotatorNotes T155	C0171023
+T156	CHEM 3861 3871	récepteurs
+#156	AnnotatorNotes T156	C0597357
+T157	CHEM 3901 3911	récepteurs
+#157	AnnotatorNotes T157	C0597357
+T158	CHEM 3946 3956	olanzapine
+#158	AnnotatorNotes T158	C0171023
+T159	CHEM 3965 3987	protéines plasmatiques
+#159	AnnotatorNotes T159	C0032120
+T160	CHEM 3965 3974	protéines
+#160	AnnotatorNotes T160	C0033684
+T161	ANAT 3975 3987	plasmatiques
+#161	AnnotatorNotes T161	C0032105
+T162	PROC 4096 4102	études
+#162	AnnotatorNotes T162	C2603343
+T163	LIVB 4149 4155	souris
+#163	AnnotatorNotes T163	C0025929
+T164	LIVB 4182 4185	rat
+#164	AnnotatorNotes T164	C0086893
+T165	LIVB 4192 4197	chien
+#165	AnnotatorNotes T165	C0012984
+T166	DISO 4204 4210	effets
+#166	AnnotatorNotes T166	C1313864
+T167	DISO 4234 4251	dépression du SNC
+#167	AnnotatorNotes T167	C0151559
+T168	DISO 4258 4264	effets
+#168	AnnotatorNotes T168	C1313864
+T169	CHEM 4265 4283	anticholinergiques
+#169	AnnotatorNotes T169	C0242896
+T170	DISO 4291 4314	troubles hématologiques
+#170	AnnotatorNotes T170	C0018939
+T171	ANAT 4300 4314	hématologiques
+#171	AnnotatorNotes T171	C0005767
+T172	CHEM 4333 4345	Hypromellose
+#172	AnnotatorNotes T172	C0063242
+T173	CHEM 4374 4386	polydextrose
+#173	AnnotatorNotes T173	C0071545
+T174	CHEM 4389 4401	hypromellose
+#174	AnnotatorNotes T174	C0063242
+T175	CHEM 4404 4413	diacétate
+#175	AnnotatorNotes T175	C0369114
+T176	CHEM 4417 4425	glycérol
+#176	AnnotatorNotes T176	C0017861
+T177	CHEM 4444 4461	dioxyde de titane
+#177	AnnotatorNotes T177	C0076733
+T178	CHEM 4444 4451	dioxyde
+#178	AnnotatorNotes T178	C0678717
+T179	CHEM 4455 4461	titane
+#179	AnnotatorNotes T179	C0040302
+T180	CHEM 4462 4466	E171
+#180	AnnotatorNotes T180	C3256964
+T181	DISO 3270 3308	Affections des organes de reproduction
+#181	AnnotatorNotes T181	C0178829
+T182	DISO 3146 3156;3182 3193	Affections systémiques
+#182	AnnotatorNotes T182	C0442893
+T95	DISO 1419 1429;1455 1466	Affections systémiques
+#95	AnnotatorNotes T95	C0442893
+T183	DISO 1543 1581	Affections des organes de reproduction
+#183	AnnotatorNotes T183	C00061145
+T184	CHEM 1821 1837	récepteurs 5HT2A
+#184	AnnotatorNotes T184	C0289174
+T185	CHEM 1861 1874	récepteurs D2
+#185	AnnotatorNotes T185	C0058698
+T77	CHEM 566 582	récepteurs 5HT2A
+#77	AnnotatorNotes T77	C0289174
+T79	CHEM 3861 3877	récepteurs 5HT2A
+#79	AnnotatorNotes T79	C0289174
+T186	CHEM 3901 3914	récepteurs D2
+T187	ANAT 953 956	SNC
+#186	AnnotatorNotes T187	C3714787
+T188	ANAT 4248 4251	SNC
+#187	AnnotatorNotes T188	C3714787
+T189	ANAT 2040 2043	SNC
+#188	AnnotatorNotes T189	C3714787

@@ -1,0 +1,12 @@
+T1	ANAT 13 36	tractus génital femelle
+#1	AnnotatorNotes T1	C1443304
+T2	ANAT 13 20	tractus
+#2	AnnotatorNotes T2	C1185740
+T3	ANAT 21 36	génital femelle
+#3	AnnotatorNotes T3	C0017421
+T4	ANAT 39 48	T . G . F
+#4	AnnotatorNotes T4	C1443304
+T5	LIVB 61 71	mammifères
+#5	AnnotatorNotes T5	C0024660
+T6	CHEM 87 97	hormonales
+#6	AnnotatorNotes T6	C0019932

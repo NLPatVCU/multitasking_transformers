@@ -1,0 +1,12 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	CHEM 18 35	immunosuppresseur
+#2	AnnotatorNotes T2	C0021081
+T3	CHEM 38 50	azathioprine
+#3	AnnotatorNotes T3	C0004482
+T4	CHEM 59 71	prednisolone
+#4	AnnotatorNotes T4	C0032950
+T5	DISO 75 106	syndrome d' Adamantiadès-Behçet
+#5	AnnotatorNotes T5	C0004943
+T6	DISO 75 83	syndrome
+#6	AnnotatorNotes T6	C0039082

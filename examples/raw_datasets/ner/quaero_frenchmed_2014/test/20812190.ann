@@ -1,0 +1,12 @@
+T1	DISO 0 9	Anomalies
+#1	AnnotatorNotes T1	C1704258
+T2	PHYS 16 40	perméabilité intestinale
+#2	AnnotatorNotes T2	C0232645
+T3	ANAT 29 40	intestinale
+#3	AnnotatorNotes T3	C0021853
+T4	LIVB 49 63	enfant autiste
+#4	AnnotatorNotes T4	C0175842
+T5	LIVB 49 55	enfant
+#5	AnnotatorNotes T5	C0008059
+T6	DISO 56 63	autiste
+#6	AnnotatorNotes T6	C0004352

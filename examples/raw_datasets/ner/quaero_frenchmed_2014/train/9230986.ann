@@ -1,0 +1,12 @@
+T1	PHYS 0 11	Phagocytose
+#1	AnnotatorNotes T1	C0031308
+T2	ANAT 24 51	polynucléaires neutrophiles
+#2	AnnotatorNotes T2	C0027950
+T3	ANAT 60 71	macrophages
+#3	AnnotatorNotes T3	C0024432
+T4	ANAT 72 83	médullaires
+#4	AnnotatorNotes T4	C1305694
+T5	DISO 87 110	neutropénie auto-immune
+#5	AnnotatorNotes T5	C0340971
+T6	LIVB 117 123	enfant
+#6	AnnotatorNotes T6	C0008059 C0008100

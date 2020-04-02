@@ -1,0 +1,6 @@
+T1	DISO 22 38	tumeurs malignes
+#1	AnnotatorNotes T1	C0006826
+T3	LIVB 45 69	arbre trachéo-bronchique
+#3	AnnotatorNotes T3	C0458580
+T2	PROC 75 85	endoscopie
+#2	AnnotatorNotes T2	C0014245

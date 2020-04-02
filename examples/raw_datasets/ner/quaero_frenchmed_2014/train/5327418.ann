@@ -1,0 +1,8 @@
+T1	PHYS 15 26	métabolique
+#1	AnnotatorNotes T1	C0025519
+T2	PHYS 30 43	hémodynamique
+#2	AnnotatorNotes T2	C0019010
+T3	DISO 47 54	diabete
+#3	AnnotatorNotes T3	C0011847
+T4	ANAT 62 70	myocarde
+#4	AnnotatorNotes T4	C0027061

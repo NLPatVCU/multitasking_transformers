@@ -1,0 +1,14 @@
+T1	PHYS 0 19	Effets métaboliques
+#1	AnnotatorNotes T1	C2945675
+T2	PHYS 7 19	métaboliques
+#2	AnnotatorNotes T2	C0025519
+T3	CHEM 26 34	insuline
+#3	AnnotatorNotes T3	C0021641
+T4	PROC 35 43	injectée
+#4	AnnotatorNotes T4	C1533685
+T5	ANAT 47 53	foetus
+#5	AnnotatorNotes T5	C0015965
+T6	LIVB 57 60	rat
+#6	AnnotatorNotes T6	C0034721
+T7	PHYS 83 92	gestation
+#7	AnnotatorNotes T7	C0032986

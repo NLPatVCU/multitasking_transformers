@@ -1,0 +1,12 @@
+T1	DISO 35 53	tuberculose bovine
+#1	AnnotatorNotes T1	C0041307
+T2	DISO 35 46	tuberculose
+#2	AnnotatorNotes T2	C0041296
+T3	LIVB 47 53	bovine
+#3	AnnotatorNotes T3	C0007452
+T4	DISO 56 75	Mycobacterium bovis
+#4	AnnotatorNotes T4	C0026917
+T5	PROC 78 86	observés
+#5	AnnotatorNotes T5	C0302523
+T6	OBJC 92 100	abattoir
+#6	AnnotatorNotes T6	C0000715

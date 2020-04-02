@@ -1,0 +1,8 @@
+T1	DISO 0 9	Thrombose
+#1	AnnotatorNotes T1	040053
+T2	ANAT 10 25	cave inférieure
+#2	AnnotatorNotes T2	C0042458
+T3	DEVI 40 44	clip
+#3	AnnotatorNotes T3	C0175722
+T4	PROC 95 107	observations
+#4	AnnotatorNotes T4	C0302523

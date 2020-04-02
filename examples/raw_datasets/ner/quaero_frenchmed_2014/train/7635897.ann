@@ -1,0 +1,8 @@
+T1	DISO 0 21	Emphysème sous-cutané
+#1	AnnotatorNotes T1	C0038536
+T2	ANAT 22 30	cervical
+#2	AnnotatorNotes T2	C0027530
+T3	DISO 33 45	complication
+#3	AnnotatorNotes T3	C0009566
+T4	DISO 53 65	constipation
+#4	AnnotatorNotes T4	C0009806

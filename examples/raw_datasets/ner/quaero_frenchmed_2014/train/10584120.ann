@@ -1,0 +1,10 @@
+T1	DISO 0 21	Escarres de décubitus
+#1	AnnotatorNotes T1	C0011127
+T2	DISO 0 8	Escarres
+#2	AnnotatorNotes T2	C1442877
+T3	PROC 48 58	Traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 80 88	escarres
+#4	AnnotatorNotes T4	C1442877
+T5	LIVB 92 101	sujet âgé
+#5	AnnotatorNotes T5	C0001792

@@ -1,0 +1,10 @@
+T1	DISO 0 23	Problèmes de diagnostic
+#1	AnnotatorNotes T1	C0679836
+T3	PROC 13 23	diagnostic
+#3	AnnotatorNotes T3	C0430022
+T4	ANAT 60 78	muqueuse gingivale
+#4	AnnotatorNotes T4	C0227124
+T5	ANAT 60 68	muqueuse
+#5	AnnotatorNotes T5	C0026724
+T6	ANAT 69 78	gingivale
+#6	AnnotatorNotes T6	C0017562

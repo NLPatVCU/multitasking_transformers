@@ -1,0 +1,10 @@
+T1	DISO 13 33	pathologie cervicale
+#1	AnnotatorNotes T1	C0007867
+T2	DISO 13 23	pathologie
+#2	AnnotatorNotes T2	C0030664
+T3	ANAT 24 33	cervicale
+#3	AnnotatorNotes T3	C0027530
+T4	DISO 41 62	syndrome vestibulaire
+#4	AnnotatorNotes T4	C0042594
+T5	DISO 41 49	syndrome
+#5	AnnotatorNotes T5	C0039082

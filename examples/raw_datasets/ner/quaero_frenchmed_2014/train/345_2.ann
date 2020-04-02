@@ -1,0 +1,242 @@
+T1	CHEM 58 68	lépirudine
+#1	AnnotatorNotes T1	C0772394
+T2	PHYS 73 81	excrétée
+#2	AnnotatorNotes T2	C0221102
+T3	PHYS 85 96	métabolisée
+#3	AnnotatorNotes T3	C0025519
+T4	ANAT 122 126	rein
+#4	AnnotatorNotes T4	C0022646
+T5	PROC 353 366	créatininémie
+#5	AnnotatorNotes T5	C0201975
+T6	PROC 385 394	perfusion
+#6	AnnotatorNotes T6	C0031001
+T7	OBJC 540 548	solution
+#7	AnnotatorNotes T7	C0037633
+T8	PROC 592 610	Bolus intraveineux
+#8	AnnotatorNotes T8	C1511237
+T9	PROC 626 644	bolus intraveineux
+#9	AnnotatorNotes T9	C1511237
+T10	OBJC 666 674	solution
+#10	AnnotatorNotes T10	C0037633
+T11	PHYS 736 750	poids corporel
+#11	AnnotatorNotes T11	C0005910
+T12	ANAT 742 750	corporel
+#12	AnnotatorNotes T12	C0242821
+T13	PROC 758 781	perfusion intraveineuse
+#13	AnnotatorNotes T13	C0455142
+T14	OBJC 804 812	solution
+#14	AnnotatorNotes T14	C0037633
+T15	DEVI 863 871	seringue
+#15	AnnotatorNotes T15	C0039142
+T16	PHYS 915 929	poids corporel
+#16	AnnotatorNotes T16	C0005910
+T17	PROC 943 952	perfusion
+#17	AnnotatorNotes T17	C0031001
+T18	DISO 992 1017	réactions anaphylactiques
+#18	AnnotatorNotes T18	C00027921
+T19	CHEM 1088 1096	Refludan
+#19	AnnotatorNotes T19	C0661608
+T20	CHEM 1138 1146	Refludan
+#20	AnnotatorNotes T20	C0661608
+T21	PROC 1171 1184	thérapeutique
+#21	AnnotatorNotes T21	C0087111
+T22	PHYS 1255 1268	immunologique
+#22	AnnotatorNotes T22	C0301873
+T23	LIVB 1275 1283	patients
+#23	AnnotatorNotes T23	C0030705
+T24	PROC 1297 1304	traités
+#24	AnnotatorNotes T24	C0087111
+T25	CHEM 1313 1321	hirudine
+#25	AnnotatorNotes T25	C0019573
+T26	CHEM 1344 1352	hirudine
+#26	AnnotatorNotes T26	C0019573
+T27	LIVB 1387 1395	patients
+#27	AnnotatorNotes T27	C0030705
+T28	DISO 1455 1474	insuffisants rénaux
+#28	AnnotatorNotes T28	C0859242
+T29	ANAT 1468 1474	rénaux
+#29	AnnotatorNotes T29	C0022646
+T30	PROC 1478 1488	traitement
+#30	AnnotatorNotes T30	C0087111
+T31	CHEM 1493 1503	lépirudine
+#31	AnnotatorNotes T31	C0772394
+T32	DISO 1512 1528	cirrhose du foie
+#32	AnnotatorNotes T32	C0023890
+T33	ANAT 1524 1528	foie
+#33	AnnotatorNotes T33	C0023884
+T34	PHYS 1557 1573	excrétion rénale
+#34	AnnotatorNotes T34	C1373187
+T35	ANAT 1567 1573	rénale
+#35	AnnotatorNotes T35	C0022646
+T36	CHEM 1580 1590	lépirudine
+#36	AnnotatorNotes T36	C0772394
+T37	PHYS 1598 1607	tolérance
+#37	AnnotatorNotes T37	C0231197
+T38	LIVB 1635 1641	enfant
+#38	AnnotatorNotes T38	C0008059
+T39	LIVB 1673 1684	Patient âgé
+#39	AnnotatorNotes T39	C0001795 C0001792
+T40	LIVB 1693 1701	patients
+#40	AnnotatorNotes T40	C0030705
+T41	PHYS 1709 1712	âge
+#41	AnnotatorNotes T41	C0001779
+T42	DISO 1734 1740	risque
+#42	AnnotatorNotes T42	C3251812
+T43	DISO 1750 1763	complications
+#43	AnnotatorNotes T43	C0009566
+T44	DISO 1764 1777	hémorragiques
+#44	AnnotatorNotes T44	C0019080
+T45	CHEM 1787 1801	anticoagulants
+#45	AnnotatorNotes T45	C0003280
+T46	DISO 1787 1801	anticoagulants
+#46	AnnotatorNotes T46	C0003280
+T47	LIVB 1871 1880	sujet âgé
+#47	AnnotatorNotes T47	C0001795 C0001792
+T48	LIVB 1871 1876	sujet
+#48	AnnotatorNotes T48	C0681850
+T49	PHYS 1919 1934	fonction rénale
+#49	AnnotatorNotes T49	C0232804
+T50	ANAT 1928 1934	rénale
+#50	AnnotatorNotes T50	C0022646
+T51	PHYS 1940 1945	poids
+#51	AnnotatorNotes T51	C0005910
+T53	PROC 1985 1995	traitement
+#53	AnnotatorNotes T53	C0087111
+T54	CHEM 2041 2056	antivitamines K
+#54	AnnotatorNotes T54	C0052133
+T55	CHEM 2077 2088	médicaments
+#55	AnnotatorNotes T55	C0013227
+T56	PHYS 2106 2127	fonction plaquettaire
+#56	AnnotatorNotes T56	C1254881
+T57	ANAT 2115 2127	plaquettaire
+#57	AnnotatorNotes T57	C0005821
+T58	DISO 2159 2179	risque de saignement
+#58	AnnotatorNotes T58	C3251812
+T59	DISO 2169 2179	saignement
+#59	AnnotatorNotes T59	C0019080
+T60	CHEM 2201 2209	Refludan
+#60	AnnotatorNotes T60	C0661608
+T61	LIVB 2243 2257	femme enceinte
+#61	AnnotatorNotes T61	C0033011
+T62	LIVB 2243 2248	femme
+#62	AnnotatorNotes T62	C0043210
+T63	PHYS 2265 2272	allaite
+#63	AnnotatorNotes T63	C0006147
+T64	DISO 2288 2299	saignements
+#64	AnnotatorNotes T64	C0019080
+T65	DISO 2343 2354	saignements
+#65	AnnotatorNotes T65	C0019080
+T66	ANAT 2355 2368	intracrâniens
+#66	AnnotatorNotes T66	C0230041
+T67	PROC 1952 1955	TCA
+#67	AnnotatorNotes T67	C0030605
+T68	DISO 2400 2409	surdosage
+#68	AnnotatorNotes T68	C0029944
+T69	DISO 2440 2459	risque hémorragique
+#69	AnnotatorNotes T69	C3251812
+T70	DISO 2447 2459	hémorragique
+#70	AnnotatorNotes T70	C0019080
+T71	CHEM 2464 2486	Agent antithrombotique
+#71	AnnotatorNotes T71	C0016018
+T72	CHEM 2470 2486	antithrombotique
+#72	AnnotatorNotes T72	C0003440
+T73	CHEM 2489 2522	inhibiteur direct de la thrombine
+#73	AnnotatorNotes T73	C0003440
+T74	CHEM 2513 2522	thrombine
+#74	AnnotatorNotes T74	C0040018
+T75	CHEM 2541 2551	lépirudine
+#75	AnnotatorNotes T75	C0772394
+T76	CHEM 2601 2609	hirudine
+#76	AnnotatorNotes T76	C0019573
+T77	CHEM 2634 2652	cellules de levure
+#77	AnnotatorNotes T77	C0669253
+T78	ANAT 2634 2642	cellules
+#78	AnnotatorNotes T78	C0007634
+T79	LIVB 2646 2652	levure
+#79	AnnotatorNotes T79	C0043393
+T80	CHEM 2662 2673	polypeptide
+#80	AnnotatorNotes T80	C1305923
+T81	CHEM 2690 2703	acides aminés
+#81	AnnotatorNotes T81	C0002520
+T82	CHEM 2757 2767	lépirudine
+#82	AnnotatorNotes T82	C0772394
+T83	CHEM 2823 2832	thrombine
+#83	AnnotatorNotes T83	C0040018
+T84	PROC 2868 2889	méthode chromogénique
+#84	AnnotatorNotes T84	C02733358
+T85	PHYS 2925 2936	coagulation
+#85	AnnotatorNotes T85	C0005778
+T86	DISO 3039 3053	TIH de type II
+#86	AnnotatorNotes T86	C0877016
+T87	PROC 3110 3126	essais cliniques
+#87	AnnotatorNotes T87	C2603343
+T88	LIVB 3170 3178	patients
+#88	AnnotatorNotes T88	C0030705
+T89	DISO 3191 3205	TIH de type II
+#89	AnnotatorNotes T89	C0877016
+T90	PROC 3206 3213	traités
+#90	AnnotatorNotes T90	C0087111
+T91	CHEM 3218 3226	Refludan
+#91	AnnotatorNotes T91	C0661608
+T92	CHEM 3271 3281	lépirudine
+#92	AnnotatorNotes T92	C0772394
+T93	PROC 3282 3293	administrée
+#93	AnnotatorNotes T93	C1533734
+T94	PROC 3395 3406	administrée
+#94	AnnotatorNotes T94	C1533734
+T95	PHYS 3412 3420	excrétés
+#95	AnnotatorNotes T95	C0221102
+T96	PROC 3450 3456	études
+#96	AnnotatorNotes T96	C2603343
+T97	PROC 3470 3484	administration
+#97	AnnotatorNotes T97	C1533734
+T98	LIVB 3512 3518	souris
+#98	AnnotatorNotes T98	C0025929
+T99	LIVB 3524 3527	rat
+#99	AnnotatorNotes T99	C0034721
+T100	LIVB 3534 3539	singe
+#100	AnnotatorNotes T100	C0026447
+T101	DISO 3564 3582	effets secondaires
+#101	AnnotatorNotes T101	C1313864
+T102	CHEM 3642 3652	lépirudine
+#102	AnnotatorNotes T102	C0772394
+T103	LIVB 3665 3670	singe
+#103	AnnotatorNotes T103	C0026447
+T104	DISO 3690 3713	hémorragies rétiniennes
+#104	AnnotatorNotes T104	C0035317
+T105	DISO 3690 3701	hémorragies
+#105	AnnotatorNotes T105	C0019080
+T106	ANAT 3702 3713	rétiniennes
+#106	AnnotatorNotes T106	C0035298
+T107	CHEM 3718 3726	Mannitol
+#107	AnnotatorNotes T107	C0024730
+T108	CHEM 3729 3748	hydroxyde de sodium
+#108	AnnotatorNotes T108	C0037517
+T109	GEOG 3837 3843	Europe
+#109	AnnotatorNotes T109	C0015176
+T110	GEOG 3906 3917	Royaume Uni
+#110	AnnotatorNotes T110	C0018223
+T111	CHEM 3920 3928	Refludan
+#111	AnnotatorNotes T111	C0661608
+T112	CHEM 3939 3945	poudre
+#112	AnnotatorNotes T112	C0032861
+T113	CHEM 3951 3970	solution injectable
+#113	AnnotatorNotes T113	C0086466
+T114	PROC 3960 3970	injectable
+#114	AnnotatorNotes T114	C0021485
+T115	PROC 3979 3988	perfusion
+#115	AnnotatorNotes T115	C0031001
+T116	OBJC 3998 4004	flacon
+#116	AnnotatorNotes T116	C0179376
+T117	CHEM 4023 4033	lépirudine
+#117	AnnotatorNotes T117	C0772394
+T118	PHYS 4038 4047	Clairance
+#118	AnnotatorNotes T118	C0025515
+T119	PROC 3282 3316	administrée par voie intraveineuse
+#119	AnnotatorNotes T119	C0455142
+T120	PROC 2991 2994	TCA
+#120	AnnotatorNotes T120	C0030605	  
+T122	PROC 500 503	TCA
+#122	AnnotatorNotes T122	C0030605
+T123	ANAT 921 929	corporel
+#123	AnnotatorNotes T123	C0242821

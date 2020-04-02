@@ -1,0 +1,8 @@
+T1	PROC 3 24	traitment chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 3 12	traitment
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 69 90	insuffisance aortique
+#3	AnnotatorNotes T3	C0003504
+T4	ANAT 82 90	aortique
+#4	AnnotatorNotes T4	C0003483

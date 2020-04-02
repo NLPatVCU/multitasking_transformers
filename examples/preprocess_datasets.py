@@ -149,67 +149,67 @@ if not os.path.isdir(save_dir):
                                            BertTokenizer.from_pretrained(bert_weight_directory),
                                            save_directory=save_dir)
 #END I2b2 2014 NER
-#
+
 # #START I2b2 2012 NER
-# from clinical_data.ner import load_i2b2_2012
-#
-# save_dir = I2B2_2012_NER_TRAIN_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving I2B2 2012 Train: {save_dir}")
-#     os.makedirs(save_dir)
-#     inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='train')),
-#                                            BertTokenizer.from_pretrained(bert_weight_directory),
-#                                            save_directory=save_dir)
-#
-# save_dir = I2B2_2012_NER_TEST_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving I2B2 2012 NER Test: {save_dir}")
-#     os.makedirs(save_dir)
-#     inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='test')),
-#                                            BertTokenizer.from_pretrained(bert_weight_directory),
-#                                            save_directory=save_dir)
+from raw_datasets.ner import load_i2b2_2012
+
+save_dir = I2B2_2012_NER_TRAIN_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving I2B2 2012 Train: {save_dir}")
+    os.makedirs(save_dir)
+    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='train')),
+                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                           save_directory=save_dir)
+
+save_dir = I2B2_2012_NER_TEST_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving I2B2 2012 NER Test: {save_dir}")
+    os.makedirs(save_dir)
+    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='test')),
+                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                           save_directory=save_dir)
 # #END I2b2 2012 NER
 #
 #
 # #START FRENCH  NER
-# from clinical_data.ner import load_quaero_frenchmed
-#
-# save_dir = QUAERO_2014_NER_TRAIN_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving QUAERO 2014 Train: {save_dir}")
-#     os.makedirs(save_dir)
-#     inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='train')),
-#                                            BertTokenizer.from_pretrained(bert_weight_directory),
-#                                            save_directory=save_dir)
-#
-# save_dir = QUAERO_2014_NER_TEST_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving QUAERO 2014 NER Test: {save_dir}")
-#     os.makedirs(save_dir)
-#     inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='test')),
-#                                            BertTokenizer.from_pretrained(bert_weight_directory),
-#                                            save_directory=save_dir)
-# #END I2b2 2012 NER
+from raw_datasets.ner import load_quaero_frenchmed
+
+save_dir = QUAERO_2014_NER_TRAIN_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving QUAERO 2014 Train: {save_dir}")
+    os.makedirs(save_dir)
+    inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='train')),
+                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                           save_directory=save_dir)
+
+save_dir = QUAERO_2014_NER_TEST_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving QUAERO 2014 NER Test: {save_dir}")
+    os.makedirs(save_dir)
+    inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='test')),
+                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                           save_directory=save_dir)
+# #END French NER
 #
 #
 # #START N2C2 2019 Similarity
-# from clinical_data.similarity import load_n2c2_2019
-#
-# save_dir = N2C2_2019_SIMILARITY_TRAIN_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving N2C2 2019 Similarity Train Data: {save_dir}")
-#     os.makedirs(save_dir)
-#     bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='train')),
-#                                                        BertTokenizer.from_pretrained(bert_weight_directory),
-#                                                        save_directory=save_dir)
-# save_dir = N2C2_2019_SIMILARITY_TEST_PATH
-# if not os.path.isdir(save_dir):
-#     print(f"Saving N2C2 2019 Similarity Test Data: {save_dir}")
-#     os.makedirs(save_dir)
-#     bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='test')),
-#                                                        BertTokenizer.from_pretrained(bert_weight_directory),
-#                                                        save_directory=save_dir)
-#
+from raw_datasets.similarity import load_n2c2_2019
+
+save_dir = N2C2_2019_SIMILARITY_TRAIN_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving N2C2 2019 Similarity Train Data: {save_dir}")
+    os.makedirs(save_dir)
+    bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='train')),
+                                                       BertTokenizer.from_pretrained(bert_weight_directory),
+                                                       save_directory=save_dir)
+save_dir = N2C2_2019_SIMILARITY_TEST_PATH
+if not os.path.isdir(save_dir):
+    print(f"Saving N2C2 2019 Similarity Test Data: {save_dir}")
+    os.makedirs(save_dir)
+    bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='test')),
+                                                       BertTokenizer.from_pretrained(bert_weight_directory),
+                                                       save_directory=save_dir)
+
 # #END N2C2 2019 Similarity
 #
 # #START MEDRQE 2016 Entailment

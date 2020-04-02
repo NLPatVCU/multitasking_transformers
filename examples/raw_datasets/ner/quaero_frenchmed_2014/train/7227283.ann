@@ -1,0 +1,10 @@
+T2	ANAT 10 22	neurologique
+#2	AnnotatorNotes T2	C0027763
+T3	PROC 29 40	association
+#3	AnnotatorNotes T3	C0013218
+T1	CHEM 41 48	lithium
+#1	AnnotatorNotes T1	C0023870
+T4	PROC 80 98	cures associatives
+#4	AnnotatorNotes T4	C0013218
+T5	CHEM 49 61	psychotropes
+#5	AnnotatorNotes T5	C0033978

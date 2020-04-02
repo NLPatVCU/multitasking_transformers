@@ -1,0 +1,8 @@
+T1	LIVB 30 35	virus
+#1	AnnotatorNotes T1	C0042776
+T2	DISO 42 52	hépatite C
+#2	AnnotatorNotes T2	C0019196
+T3	ANAT 64 75	hépatocytes
+#3	AnnotatorNotes T3	C0227525
+T4	LIVB 76 83	humains
+#4	AnnotatorNotes T4	C0086418

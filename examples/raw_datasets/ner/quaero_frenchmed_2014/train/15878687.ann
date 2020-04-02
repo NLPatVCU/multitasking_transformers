@@ -1,0 +1,14 @@
+T1	PROC 0 10	Monitorage
+#1	AnnotatorNotes T1	C0150369
+T2	DISO 15 32	efforts expulsifs
+#2	AnnotatorNotes T2	C0233210
+T3	PHYS 44 56	accouchement
+#3	AnnotatorNotes T3	C1148523
+T4	PROC 64 80	électromyogramme
+#4	AnnotatorNotes T4	C0013839
+T5	ANAT 85 105	muscles intercostaux
+#5	AnnotatorNotes T5	C0021724
+T6	ANAT 85 92	muscles
+#6	AnnotatorNotes T6	C0026845
+T7	PROC 108 120	étude pilote
+#7	AnnotatorNotes T7	C0031928

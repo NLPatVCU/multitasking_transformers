@@ -1,0 +1,8 @@
+T1	CHEM 10 13	BNP
+#1	AnnotatorNotes T1	C0054015
+T2	DISO 36 69	insuffisance cardiaque congestive
+#2	AnnotatorNotes T2	C0018802
+T3	ANAT 49 58	cardiaque
+#3	AnnotatorNotes T3	C0018787
+T4	DISO 115 123	urgences
+#4	AnnotatorNotes T4	C2745965

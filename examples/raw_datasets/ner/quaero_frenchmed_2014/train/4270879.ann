@@ -1,0 +1,6 @@
+T1	PROC 3 16	arthrographie
+#1	AnnotatorNotes T1	C0003885
+T2	DISO 41 54	traumatologie
+#2	AnnotatorNotes T2	C0175677
+T3	ANAT 79 90	cou-de-pied
+#3	AnnotatorNotes T3	C0003086

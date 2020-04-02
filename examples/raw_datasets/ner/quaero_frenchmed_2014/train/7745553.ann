@@ -1,0 +1,6 @@
+T1	DISO 0 26	Tumeurs du pharyngo-larynx
+#1	AnnotatorNotes T1	C0858635
+T2	DISO 0 7	Tumeurs
+#2	AnnotatorNotes T2	C0027651
+T3	PROC 42 59	tomodensitométrie
+#3	AnnotatorNotes T3	C0040405

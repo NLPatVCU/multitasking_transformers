@@ -1,0 +1,8 @@
+T1	PHYS 0 20	Allaitement maternel
+#1	AnnotatorNotes T1	C0006147
+T2	LIVB 37 47	nouveau-né
+#2	AnnotatorNotes T2	C0021289
+T3	LIVB 54 64	nourrisson
+#3	AnnotatorNotes T3	C0021270
+T4	PHYS 24 33	nutrition
+#4	AnnotatorNotes T4	C0021279

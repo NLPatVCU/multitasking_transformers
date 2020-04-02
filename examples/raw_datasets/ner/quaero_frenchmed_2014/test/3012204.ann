@@ -1,0 +1,14 @@
+T1	CHEM 13 24	nicergoline
+#1	AnnotatorNotes T1	C0028008
+T2	PHYS 32 51	fréquence cardiaque
+#2	AnnotatorNotes T2	C0018810
+T3	ANAT 42 51	cardiaque
+#3	AnnotatorNotes T3	C0018787
+T4	LIVB 60 63	rat
+#4	AnnotatorNotes T4	C0034721
+T5	DISO 91 101	hypertendu
+#5	AnnotatorNotes T5	C0857121
+T6	CHEM 131 141	récepteurs
+#6	AnnotatorNotes T6	C0597357
+T7	CHEM 131 149	récepteurs alpha 1
+#7	AnnotatorNotes T7	C0001638

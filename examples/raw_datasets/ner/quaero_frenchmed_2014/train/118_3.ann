@@ -1,0 +1,386 @@
+T1	CHEM 56 64	comprimé
+#1	AnnotatorNotes T1	C0039225
+T2	CHEM 129 137	comprimé
+#2	AnnotatorNotes T2	C0039225
+T3	PROC 155 169	administration
+#3	AnnotatorNotes T3	C1533734
+T4	CHEM 173 183	lamivudine
+#4	AnnotatorNotes T4	C0209738
+T5	CHEM 343 353	lamivudine
+#5	AnnotatorNotes T5	C0209738
+T6	PHEN 354 362	absorbée
+#6	AnnotatorNotes T6	C0000854
+T7	PHYS 453 462	tolérance
+#7	AnnotatorNotes T7	C0231197
+T8	PHYS 535 546	élimination
+#8	AnnotatorNotes T8	C0221102
+T9	PHYS 583 592	clairance
+#9	AnnotatorNotes T9	C1382187
+T10	CHEM 618 628	lamivudine
+#10	AnnotatorNotes T10	C0209738
+T11	PHYS 674 685	élimination
+#11	AnnotatorNotes T11	C0221102
+T12	ANAT 702 708	rénale
+#12	AnnotatorNotes T12	C0022646
+T13	PROC 733 745	observations
+#13	AnnotatorNotes T13	C0302523
+T14	CHEM 763 773	lamivudine
+#14	AnnotatorNotes T14	C0209738
+T15	ANAT 795 801	hémato
+#15	AnnotatorNotes T15	C0005767
+T16	ANAT 804 812	méningée
+#16	AnnotatorNotes T16	C0025285
+T17	ANAT 832 859	liquide céphalo - rachidien
+#17	AnnotatorNotes T17	C0007806
+T18	ANAT 840 847	céphalo
+#18	AnnotatorNotes T18	C0006104
+T19	ANAT 850 859	rachidien
+#19	AnnotatorNotes T19	C0037925
+T20	ANAT 862 865	LCR
+#20	AnnotatorNotes T20	C0007806
+T21	ANAT 931 937	hémato
+#21	AnnotatorNotes T21	C0005767
+T22	ANAT 940 947	méningé
+#22	AnnotatorNotes T22	C0025285
+T23	CHEM 1021 1031	lamivudine
+#23	AnnotatorNotes T23	C0209738
+T24	CHEM 1034 1044	lamivudine
+#24	AnnotatorNotes T24	C0209738
+T25	CHEM 1051 1063	triphosphate
+#25	AnnotatorNotes T25	C0146894
+T26	ANAT 1145 1156	plasmatique
+#26	AnnotatorNotes T26	C0032105
+T27	CHEM 1163 1173	lamivudine
+#27	AnnotatorNotes T27	C0209738
+T28	PROC 1198 1203	étude
+#28	AnnotatorNotes T28	C2603343
+T29	LIVB 1221 1232	volontaires
+#29	AnnotatorNotes T29	C1997894
+T30	LIVB 1239 1246	adultes
+#30	AnnotatorNotes T30	C0001675
+T31	PHYS 1265 1282	pharmacocinétique
+#31	AnnotatorNotes T31	C0031327
+T32	CHEM 1289 1295	Epivir
+#32	AnnotatorNotes T32	C0678151
+T33	CHEM 1317 1323	Epivir
+#33	AnnotatorNotes T33	C0678151
+T34	CHEM 1438 1450	triphosphaté
+#34	AnnotatorNotes T34	C0146894
+T35	CHEM 1474 1484	lamivudine
+#35	AnnotatorNotes T35	C0209738
+T36	PHYS 1505 1513	éliminée
+#36	AnnotatorNotes T36	C0221102
+T37	PHYS 1518 1527	excrétion
+#37	AnnotatorNotes T37	C0221102
+T38	ANAT 1528 1534	rénale
+#38	AnnotatorNotes T38	C0022646
+T39	PHYS 1579 1591	interactions
+#39	AnnotatorNotes T39	C0687133
+T40	PHYS 1592 1604	métaboliques
+#40	AnnotatorNotes T40	C0025519
+T41	CHEM 1614 1624	lamivudine
+#41	AnnotatorNotes T41	C0209738
+T42	CHEM 1639 1650	médicaments
+#42	AnnotatorNotes T42	C0013227
+T43	PHYS 1679 1690	métabolisme
+#43	AnnotatorNotes T43	C0025519
+T44	ANAT 1691 1700	hépatique
+#44	AnnotatorNotes T44	C0023884
+T45	PHYS 1738 1745	liaison
+#45	AnnotatorNotes T45	C1167622
+T46	CHEM 1750 1759	protéines
+#46	AnnotatorNotes T46	C0033684
+T47	ANAT 1760 1772	plasmatiques
+#47	AnnotatorNotes T47	C0032105
+T48	PHYS 1777 1788	Elimination
+#48	AnnotatorNotes T48	C0221102
+T49	PROC 1806 1817	recommandée
+#49	AnnotatorNotes T49	C1136220
+T50	LIVB 1827 1835	patients
+#50	AnnotatorNotes T50	C0030705
+T51	PHYS 1846 1855	clairance
+#51	AnnotatorNotes T51	C1382187
+T52	CHEM 1862 1872	créatinine
+#52	AnnotatorNotes T52	C0010294
+T53	PROC 1938 1952	administration
+#53	AnnotatorNotes T53	C1533734
+T54	CHEM 1969 1982	triméthoprime
+#54	AnnotatorNotes T54	C0041041
+T55	CHEM 1998 2011	cotrimoxazole
+#55	AnnotatorNotes T55	C0041044
+T56	PHYS 2027 2039	exposition à
+#56	AnnotatorNotes T56	C0332157
+T57	CHEM 2043 2053	lamivudine
+#57	AnnotatorNotes T57	C0209738
+T58	PROC 2072 2086	thérapeutiques
+#58	AnnotatorNotes T58	C0087111
+T59	DISO 2158 2177	insuffisance rénale
+#59	AnnotatorNotes T59	C1565489
+T60	ANAT 2171 2177	rénale
+#60	AnnotatorNotes T60	C0022646
+T61	PROC 2219 2233	administration
+#61	AnnotatorNotes T61	C1533734
+T62	CHEM 2250 2263	cotrimoxazole
+#62	AnnotatorNotes T62	C0041044
+T63	CHEM 2270 2280	lamivudine
+#63	AnnotatorNotes T63	C0209738
+T64	DISO 2326 2345	insuffisance rénale
+#64	AnnotatorNotes T64	C1565489
+T65	ANAT 2339 2345	rénale
+#65	AnnotatorNotes T65	C0022646
+T66	PHYS 2366 2383	pharmacocinétique
+#66	AnnotatorNotes T66	C0031327
+T67	CHEM 2390 2400	lamivudine
+#67	AnnotatorNotes T67	C0209738
+T68	LIVB 2410 2416	enfant
+#68	AnnotatorNotes T68	C0008059
+T69	LIVB 2447 2453	adulte
+#69	AnnotatorNotes T69	C0001675
+T70	PHYS 2473 2490	pharmacocinétique
+#70	AnnotatorNotes T70	C0031327
+T71	LIVB 2500 2506	enfant
+#71	AnnotatorNotes T71	C0021289
+T72	LIVB 2552 2562	nouveau-né
+#72	AnnotatorNotes T72	C0021289
+T73	PHYS 2588 2597	clairance
+#73	AnnotatorNotes T73	C1382187
+T74	CHEM 2610 2620	lamivudine
+#74	AnnotatorNotes T74	C0209738
+T75	LIVB 2674 2681	enfants
+#75	AnnotatorNotes T75	C0008100 C0008059
+T77	LIVB 2751 2757	adulte
+#77	AnnotatorNotes T77	C0001675
+T78	LIVB 2765 2772	enfants
+#78	AnnotatorNotes T78	C0008100 C0008059
+T80	LIVB 2817 2827	nouveau-né
+#80	AnnotatorNotes T80	C0021289
+T81	PROC 2867 2887	administration orale
+#81	AnnotatorNotes T81	C0001563
+T82	PROC 2867 2881	administration
+#82	AnnotatorNotes T82	C1533734
+T83	PHYS 2893 2910	pharmacocinétique
+#83	AnnotatorNotes T83	C0031327
+T84	CHEM 2917 2927	lamivudine
+#84	AnnotatorNotes T84	C0209738
+T85	PHYS 2938 2947	grossesse
+#85	AnnotatorNotes T85	C0032961
+T86	LIVB 2975 2981	femmes
+#86	AnnotatorNotes T86	C0043210
+T87	PHYS 2986 2995	enceintes
+#87	AnnotatorNotes T87	C0032961
+T88	ANAT 3077 3092	globules rouges
+#88	AnnotatorNotes T88	C0014792
+T89	DISO 3100 3111	neutropénie
+#89	AnnotatorNotes T89	C0027947
+T90	CHEM 3154 3163	analogues
+#90	AnnotatorNotes T90	C0243071
+T91	CHEM 3164 3178	nucléosidiques
+#91	AnnotatorNotes T91	C0028621
+T92	DISO 3185 3202	activité mutagène
+#92	AnnotatorNotes T92	C0853802
+T95	DISO 3282 3290	lymphome
+#95	AnnotatorNotes T95	C0024299
+T96	LIVB 3294 3300	souris
+#96	AnnotatorNotes T96	C0025929
+T98	PROC 3323 3348	études de carcinogénicité
+#98	AnnotatorNotes T98	C0007089
+T99	PROC 3323 3329	études
+#99	AnnotatorNotes T99	C2603343
+T100	DISO 3333 3348	carcinogénicité
+#100	AnnotatorNotes T100	C0858970
+T101	LIVB 3380 3383	rat
+#101	AnnotatorNotes T101	C0034721
+T102	LIVB 3390 3396	souris
+#102	AnnotatorNotes T102	C0025929
+T103	CHEM 3401 3413	Hypromellose
+#103	AnnotatorNotes T103	C0063242
+T104	CHEM 3423 3440	Dioxyde de titane
+#104	AnnotatorNotes T104	C0076733
+T105	CHEM 3434 3440	titane
+#105	AnnotatorNotes T105	C0040302
+T106	CHEM 3443 3447	E171
+#106	AnnotatorNotes T106	C3256964
+T107	CHEM 3459 3473	Polysorbate 80
+#107	AnnotatorNotes T107	C0032601
+T108	OBJC 3476 3481	Boîte
+#108	AnnotatorNotes T108	C0179400
+T109	CHEM 3495 3504	comprimés
+#109	AnnotatorNotes T109	C0039225
+T110	DEVI 3523 3530	flacons
+#110	AnnotatorNotes T110	C0179385
+T111	OBJC 3541 3562	fermeture de sécurité
+#111	AnnotatorNotes T111	C0453981
+T112	PHEN 3554 3562	sécurité
+#112	AnnotatorNotes T112	C0036043
+T113	LIVB 3568 3574	enfant
+#113	AnnotatorNotes T113	C0008100 C0008059
+T115	CHEM 3583 3607	plaquettes thermoformées
+#115	AnnotatorNotes T115	C1319688
+T116	CHEM 3611 3614	PVC
+#116	AnnotatorNotes T116	C0032624
+T117	CHEM 3617 3626	aluminium
+#117	AnnotatorNotes T117	C0002367
+T118	CHEM 3713 3723	médicament
+#118	AnnotatorNotes T118	C0013227
+T119	GEOG 3776 3786	européenne
+#119	AnnotatorNotes T119	C0015176
+T120	CHEM 3862 3878	solution buvable
+#120	AnnotatorNotes T120	C0991536
+T121	CHEM 3862 3870	solution
+#121	AnnotatorNotes T121	C1382100
+T122	CHEM 3897 3907	lamivudine
+#122	AnnotatorNotes T122	C0209738
+T123	CHEM 3912 3919	Sucrose
+#123	AnnotatorNotes T123	C0038636
+T124	CHEM 4005 4013	Solution
+#124	AnnotatorNotes T124	C1382100
+T125	PROC 4071 4082	administrée
+#125	AnnotatorNotes T125	C1533734
+T126	LIVB 4234 4242	patients
+#126	AnnotatorNotes T126	C0030705
+T127	LIVB 4411 4418	Enfants
+#127	AnnotatorNotes T127	C0008100 C0008059
+T129	CHEM 4452 4458	Epivir
+#129	AnnotatorNotes T129	C0678151
+T130	CHEM 4542 4548	Epivir
+#130	AnnotatorNotes T130	C0678151
+T131	CHEM 4588 4596	comprimé
+#131	AnnotatorNotes T131	C0039225
+T132	PROC 4669 4684	Recommandations
+#132	AnnotatorNotes T132	C1136220
+T133	LIVB 4700 4707	Adultes
+#133	AnnotatorNotes T133	C0001675
+T134	LIVB 4711 4722	adolescents
+#134	AnnotatorNotes T134	C0205653
+T135	PROC 5041 5056	Recommandations
+#135	AnnotatorNotes T135	C1136220
+T136	LIVB 5072 5098	Enfants de 3 mois à 12 ans
+#136	AnnotatorNotes T136	C0008100 C0008059
+T138	LIVB 5112 5120	patients
+#138	AnnotatorNotes T138	C0030705
+T139	DISO 5121 5140	infectés par le VIH
+#139	AnnotatorNotes T139	C0019693
+T140	DISO 5121 5129	infectés
+#140	AnnotatorNotes T140	C0021311
+T141	LIVB 5137 5140	VIH
+#141	AnnotatorNotes T141	C0019682
+T142	DISO 5158 5177	déficit immunitaire
+#142	AnnotatorNotes T142	C0021051
+T143	PROC 5218 5228	traitement
+#143	AnnotatorNotes T143	C0087111
+T144	CHEM 5233 5264	association d ’ antirétroviraux
+#144	AnnotatorNotes T144	C21983864
+T145	CHEM 5233 5244	association
+#145	AnnotatorNotes T145	C0013162
+T146	CHEM 5249 5264	antirétroviraux
+#146	AnnotatorNotes T146	C0599685
+T147	DISO 5280 5293	inflammatoire
+#147	AnnotatorNotes T147	C0021368
+T148	DISO 5300 5324	infections opportunistes
+#148	AnnotatorNotes T148	C0029118
+T149	DISO 5300 5310	infections
+#149	AnnotatorNotes T149	C0021311
+T150	DISO 5325 5340	asymptomatiques
+#150	AnnotatorNotes T150	C0231221
+T151	DISO 5444 5453	symptômes
+#151	AnnotatorNotes T151	C1457887
+T152	LIVB 5462 5470	patients
+#152	AnnotatorNotes T152	C0030705
+T153	DISO 5471 5482	diabétiques
+#153	AnnotatorNotes T153	C0241863
+T154	CHEM 5556 5566	saccharose
+#154	AnnotatorNotes T154	C0038636
+T155	LIVB 5575 5583	patients
+#155	AnnotatorNotes T155	C0030705
+T156	DISO 5593 5601	problème
+#156	AnnotatorNotes T156	C0033213
+T157	DISO 5623 5646	intolérance au fructose
+#157	AnnotatorNotes T157	C0016751
+T158	CHEM 5638 5646	fructose
+#158	AnnotatorNotes T158	C0016745
+T159	DISO 5652 5665	malabsorption
+#159	AnnotatorNotes T159	C0024523
+T160	CHEM 5666 5673	glucose
+#160	AnnotatorNotes T160	C0017725
+T161	CHEM 5676 5685	galactose
+#161	AnnotatorNotes T161	C0016945
+T162	CHEM 5706 5724	sucrase-isomaltase
+#162	AnnotatorNotes T162	C0038635
+T163	CHEM 5751 5761	médicament
+#163	AnnotatorNotes T163	C0013227
+T164	CHEM 5766 5772	Epivir
+#164	AnnotatorNotes T164	C0678151
+T165	DISO 5869 5881	ostéonécrose
+#165	AnnotatorNotes T165	C0029445
+T166	LIVB 5926 5934	patients
+#166	AnnotatorNotes T166	C0030705
+T167	DISO 6000 6007	maladie
+#167	AnnotatorNotes T167	C0012634
+T168	LIVB 6016 6019	VIH
+#168	AnnotatorNotes T168	C0019682
+T169	PROC 6026 6036	traitement
+#169	AnnotatorNotes T169	C0087111
+T170	CHEM 6041 6052	association
+#170	AnnotatorNotes T170	C0013162
+T171	CHEM 6057 6072	antirétroviraux
+#171	AnnotatorNotes T171	C0599685
+T172	PROC 6095 6109	administration
+#172	AnnotatorNotes T172	C1533734
+T173	CHEM 6126 6139	triméthoprime
+#173	AnnotatorNotes T173	C0041041
+T174	CHEM 6155 6168	cotrimoxazole
+#174	AnnotatorNotes T174	C0041044
+T175	PHYS 6184 6194	exposition
+#175	AnnotatorNotes T175	C0332157
+T176	CHEM 6200 6210	lamivudine
+#176	AnnotatorNotes T176	C0209738
+T177	PROC 6229 6243	thérapeutiques
+#177	AnnotatorNotes T177	C0039796
+T178	PHYS 6248 6265	Pharmacocinétique
+#178	AnnotatorNotes T178	C0031327
+T179	LIVB 6275 6281	enfant
+#179	AnnotatorNotes T179	C0008100 C0008059
+T181	CHEM 6286 6296	Saccharose
+#181	AnnotatorNotes T181	C0038636
+T182	CHEM 6380 6402	Acide citrique anhydre
+#182	AnnotatorNotes T182	C0725616
+T183	CHEM 6380 6394	Acide citrique
+#183	AnnotatorNotes T183	C0055819
+T184	CHEM 6380 6385	Acide
+#184	AnnotatorNotes T184	C0001128
+T185	CHEM 6403 6419	Propylène glycol
+#185	AnnotatorNotes T185	C0072225
+T186	CHEM 6403 6412	Propylène
+#186	AnnotatorNotes T186	C0072221
+T187	CHEM 6413 6419	glycol
+#187	AnnotatorNotes T187	C0017945
+T188	CHEM 6420 6437	Citrate de sodium
+#188	AnnotatorNotes T188	C0142825
+T189	CHEM 6420 6427	Citrate
+#189	AnnotatorNotes T189	C0376259
+T190	CHEM 6431 6437	sodium
+#190	AnnotatorNotes T190	C0037473
+T191	OBJC 6438 6443	Arôme
+#191	AnnotatorNotes T191	C0982164 C0475332
+T193	OBJC 6455 6461	fraise
+#193	AnnotatorNotes T193	C0982164 C0457802
+T195	OBJC 6462 6467	Arôme
+#195	AnnotatorNotes T195	C1337198 C0475332
+T197	OBJC 6479 6485	banane
+#197	AnnotatorNotes T197	C1337198 C0004722
+T199	CHEM 6486 6498	Eau purifiée
+#199	AnnotatorNotes T199	C0991883
+T200	CHEM 6486 6489	Eau
+#200	AnnotatorNotes T200	C0043047
+T76	OBJC 6438 6461	Arôme artificiel fraise
+#76	AnnotatorNotes T76	C0982164
+T79	OBJC 6462 6485	Arôme artificiel banane
+#79	AnnotatorNotes T79	C1337198
+T114	DISO 6000 6019	maladie liée au VIH
+#114	AnnotatorNotes T114	C0019693
+T128	DISO 5593 5613	problème héréditaire
+#128	AnnotatorNotes T128	C0950123
+T137	DISO 5593 5601;5614 5618	problème rare
+#137	AnnotatorNotes T137	C0678236
+T93	PROC 3226 3230;3247 3255	test in vitro
+#93	AnnotatorNotes T93	C0681828

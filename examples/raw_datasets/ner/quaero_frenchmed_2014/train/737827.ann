@@ -1,0 +1,10 @@
+T1	DISO 4 16	complication
+#1	AnnotatorNotes T1	C0009566
+T2	PROC 29 38	opération
+#2	AnnotatorNotes T2	C0543467
+T3	DISO 54 70	dumping-syndrome
+#3	AnnotatorNotes T3	C0013288
+T4	PROC 87 99	observations
+#4	AnnotatorNotes T4	C0302523
+T5	PROC 29 48	opération de Nissen
+#5	AnnotatorNotes T5	C0192499

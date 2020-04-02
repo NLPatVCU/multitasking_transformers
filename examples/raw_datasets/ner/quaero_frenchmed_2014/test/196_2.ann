@@ -1,0 +1,290 @@
+T1	LIVB 8 15	patient
+#1	AnnotatorNotes T1	C0030705
+T2	DEVI 100 110	dispositif
+#2	AnnotatorNotes T2	C0302713
+T3	PROC 212 222	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DEVI 244 255	dispositifs
+#4	AnnotatorNotes T4	C0302713
+T5	LIVB 283 291	patients
+#5	AnnotatorNotes T5	C0030705
+T6	DEVI 332 342	dispositif
+#6	AnnotatorNotes T6	C0302713
+T7	LIVB 351 359	patients
+#7	AnnotatorNotes T7	C0030705
+T8	DEVI 394 404	dispositif
+#8	AnnotatorNotes T8	C0302713
+T9	DEVI 423 434	dispositifs
+#9	AnnotatorNotes T9	C0302713
+T10	LIVB 481 489	patients
+#10	AnnotatorNotes T10	C0030705
+T11	DEVI 517 527	dispositif
+#11	AnnotatorNotes T11	C0302713
+T12	CHEM 528 534	IONSYS
+#12	AnnotatorNotes T12	C1726021
+T13	PHEN 542 549	contact
+#13	AnnotatorNotes T13	C0392367
+T14	CHEM 568 571	eau
+#14	AnnotatorNotes T14	C0043047
+T15	DEVI 607 617	dispositif
+#15	AnnotatorNotes T15	C0302713
+T16	DEVI 672 682	dispositif
+#16	AnnotatorNotes T16	C0302713
+T17	CHEM 687 693	IONSYS
+#17	AnnotatorNotes T17	C1726021
+T18	LIVB 728 756	enfant en de moins de 18 ans
+#18	AnnotatorNotes T18	C0205653
+T19	LIVB 728 756	enfant en de moins de 18 ans
+#19	AnnotatorNotes T19	C0008100
+T20	LIVB 728 756	enfant en de moins de 18 ans
+#20	AnnotatorNotes T20	C0008059
+T21	PHEN 826 834	sécurité
+#21	AnnotatorNotes T21	C0036043
+T22	LIVB 864 874	population
+#22	AnnotatorNotes T22	C0242445
+T23	PHYS 897 914	pharmacocinétique
+#23	AnnotatorNotes T23	C0031327
+T24	PHEN 920 928	sécurité
+#24	AnnotatorNotes T24	C0036043
+T25	CHEM 994 1000	IONSYS
+#25	AnnotatorNotes T25	C1726021
+T26	LIVB 1010 1041	patients âgés de plus de 75 ans
+#26	AnnotatorNotes T26	C0001795
+T27	LIVB 1010 1018	patients
+#27	AnnotatorNotes T27	C0030705
+T28	DISO 1102 1107	signe
+#28	AnnotatorNotes T28	C0037088
+T29	DISO 1111 1119	toxicité
+#29	AnnotatorNotes T29	C0013221
+T30	CHEM 1123 1131	fentanyl
+#30	AnnotatorNotes T30	C0015846
+T31	LIVB 1141 1156	personnes âgées
+#31	AnnotatorNotes T31	C0001792
+T32	PROC 1171 1182	application
+#32	AnnotatorNotes T32	C0185125
+T33	DEVI 1188 1198	dispositif
+#33	AnnotatorNotes T33	C0302713
+T34	CHEM 1199 1205	IONSYS
+#34	AnnotatorNotes T34	C1726021
+T35	CHEM 1237 1243	sachet
+#35	AnnotatorNotes T35	C1319685
+T36	CHEM 1281 1287	IONSYS
+#36	AnnotatorNotes T36	C1726021
+T37	PROC 1298 1306	appliqué
+#37	AnnotatorNotes T37	C0185125
+T38	ANAT 1315 1319	peau
+#38	AnnotatorNotes T38	C1123023
+T39	DISO 1332 1339	irritée
+#39	AnnotatorNotes T39	C1706307
+T40	PHEN 1347 1355	irradiée
+#40	AnnotatorNotes T40	C1282930
+T41	ANAT 1369 1374	torse
+#41	AnnotatorNotes T41	C0817096
+T42	ANAT 1384 1413	partie supéro-externe du bras
+#42	AnnotatorNotes T42	C0446516
+T43	ANAT 1409 1413	bras
+#43	AnnotatorNotes T43	C1269078
+T44	CHEM 1418 1424	IONSYS
+#44	AnnotatorNotes T44	C1726021
+T45	PROC 1442 1447	placé
+#45	AnnotatorNotes T45	C0185125
+T46	ANAT 1462 1470	cutanées
+#46	AnnotatorNotes T46	C1123023
+T47	DISO 1482 1492	cicatrices
+#47	AnnotatorNotes T47	C2004491
+T48	DISO 1495 1503	brûlures
+#48	AnnotatorNotes T48	C0006434
+T49	DISO 1506 1515	tatouages
+#49	AnnotatorNotes T49	C1366940
+T50	ANAT 1530 1535	poils
+#50	AnnotatorNotes T50	C0018494
+T51	PROC 1549 1555	coupés
+#51	AnnotatorNotes T51	C1283248
+T52	PROC 1565 1570	raser
+#52	AnnotatorNotes T52	C0522772
+T53	PROC 1603 1614	application
+#53	AnnotatorNotes T53	C0185125
+T54	DEVI 1618 1628	dispositif
+#54	AnnotatorNotes T54	C0302713
+T55	CHEM 1633 1639	IONSYS
+#55	AnnotatorNotes T55	C1726021
+T56	PROC 1657 1665	appliqué
+#56	AnnotatorNotes T56	C0185125
+T57	PROC 1717 1728	application
+#57	AnnotatorNotes T57	C0185125
+T58	CHEM 1756 1762	tampon
+#58	AnnotatorNotes T58	C1704612
+T59	PROC 1763 1769	imbibé
+#59	AnnotatorNotes T59	C0204774
+T60	CHEM 1774 1780	alcool
+#60	AnnotatorNotes T60	C0001975
+T61	PROC 1800 1806	sécher
+#61	AnnotatorNotes T61	C1879673
+T62	ANAT 1810 1814	peau
+#62	AnnotatorNotes T62	C1123023
+T63	PROC 1838 1849	application
+#63	AnnotatorNotes T63	C0185125
+T64	DEVI 1853 1863	dispositif
+#64	AnnotatorNotes T64	C0302713
+T65	CHEM 1864 1870	IONSYS
+#65	AnnotatorNotes T65	C1726021
+T66	CHEM 1878 1883	savon
+#66	AnnotatorNotes T66	C0037392
+T67	CHEM 1890 1895	huile
+#67	AnnotatorNotes T67	C0028908
+T68	CHEM 1902 1909	lotions
+#68	AnnotatorNotes T68	C0544341
+T69	OBJC 1924 1931	produit
+#69	AnnotatorNotes T69	C1514468
+T70	DISO 1945 1952	irriter
+#70	AnnotatorNotes T70	C1706307
+T71	ANAT 1956 1960	peau
+#71	AnnotatorNotes T71	C1123023
+T72	PHEN 2004 2014	absorption
+#72	AnnotatorNotes T72	C0000854
+T73	CHEM 2051 2057	sachet
+#73	AnnotatorNotes T73	C1319685
+T74	CHEM 2068 2074	IONSYS
+#74	AnnotatorNotes T74	C1726021
+T75	CHEM 2174 2180	sachet
+#75	AnnotatorNotes T75	C1319685
+T76	DEVI 2188 2198	dispositif
+#76	AnnotatorNotes T76	C0302713
+T77	CHEM 2219 2225	sachet
+#77	AnnotatorNotes T77	C1319685
+T78	OBJC 2259 2268	absorbeur
+#78	AnnotatorNotes T78	C1706690
+T79	PHEN 2273 2281	humidité
+#79	AnnotatorNotes T79	C0020167
+T80	CHEM 2316 2322	sachet
+#80	AnnotatorNotes T80	C1319685
+T81	OBJC 2334 2343	absorbeur
+#81	AnnotatorNotes T81	C1706690
+T82	PHEN 2348 2356	humidité
+#82	AnnotatorNotes T82	C0020167
+T83	OBJC 2389 2398	absorbeur
+#83	AnnotatorNotes T83	C1706690
+T84	PHEN 2403 2411	humidité
+#84	AnnotatorNotes T84	C0020167
+T85	DEVI 2447 2457	dispositif
+#85	AnnotatorNotes T85	C0302713
+T86	ANAT 2532 2538	doigts
+#86	AnnotatorNotes T86	C0016129
+T87	PHEN 2570 2578	adhésion
+#87	AnnotatorNotes T87	C0175633
+T88	ANAT 2586 2590	peau
+#88	AnnotatorNotes T88	C1123023
+T89	PROC 2646 2656	Délivrance
+#89	AnnotatorNotes T89	C1533734
+T90	OBJC 2672 2678	bouton
+#90	AnnotatorNotes T90	C0453985
+T91	PROC 2703 2717	administration
+#91	AnnotatorNotes T91	C1533734
+T92	OBJC 2748 2754	voyant
+#92	AnnotatorNotes T92	C1708698
+T93	DEVI 2801 2811	dispositif
+#93	AnnotatorNotes T93	C0302713
+T94	CHEM 2812 2818	IONSYS
+#94	AnnotatorNotes T94	C1726021
+T95	PROC 2840 2854	administration
+#95	AnnotatorNotes T95	C1533734
+T96	CHEM 2871 2879	fentanyl
+#96	AnnotatorNotes T96	C0015846
+T97	LIVB 2885 2892	patient
+#97	AnnotatorNotes T97	C0030705
+T98	OBJC 2937 2943	bouton
+#98	AnnotatorNotes T98	C0453985
+T99	PROC 2948 2962	administration
+#99	AnnotatorNotes T99	C1533734
+T100	PROC 2998 3012	administration
+#100	AnnotatorNotes T100	C1533734
+T101	OBJC 3029 3035	voyant
+#101	AnnotatorNotes T101	C1708698
+T102	PROC 3082 3096	administration
+#102	AnnotatorNotes T102	C1533734
+T103	PROC 3159 3170	administrée
+#103	AnnotatorNotes T103	C1533734
+T104	PROC 3194 3208	administration
+#104	AnnotatorNotes T104	C1533734
+T105	OBJC 3273 3279	bouton
+#105	AnnotatorNotes T105	C0453985
+T106	PROC 3291 3301	délivrance
+#106	AnnotatorNotes T106	C1533734
+T107	PROC 3338 3352	administration
+#107	AnnotatorNotes T107	C1533734
+T108	OBJC 3388 3394	voyant
+#108	AnnotatorNotes T108	C1708698
+T109	PROC 3421 3431	délivrance
+#109	AnnotatorNotes T109	C1533734
+T110	PROC 3507 3516	délivrées
+#110	AnnotatorNotes T110	C1533734
+T111	PROC 3529 3544	administrations
+#111	AnnotatorNotes T111	C1533734
+T112	OBJC 3550 3556	voyant
+#112	AnnotatorNotes T112	C1708698
+T113	PHEN 3563 3571	clignote
+#113	AnnotatorNotes T113	C1764741
+T114	PROC 3671 3683	administrées
+#114	AnnotatorNotes T114	C1533734
+T115	PHEN 3705 3714	lumineuse
+#115	AnnotatorNotes T115	C0023693
+T116	PROC 3748 3762	administration
+#116	AnnotatorNotes T116	C1533734
+T117	PHEN 3813 3822	lumineuse
+#117	AnnotatorNotes T117	C0023693
+T118	PROC 4010 4019	délivrées
+#118	AnnotatorNotes T118	C1533734
+T119	DEVI 4027 4037	dispositif
+#119	AnnotatorNotes T119	C0302713
+T120	PROC 4079 4089	délivrance
+#120	AnnotatorNotes T120	C1533734
+T121	OBJC 4131 4137	bouton
+#121	AnnotatorNotes T121	C0453985
+T122	OBJC 4145 4150	diode
+#122	AnnotatorNotes T122	C1708698
+T123	PROC 4249 4258	délivrées
+#123	AnnotatorNotes T123	C1533734
+T124	PROC 4321 4331	délivrance
+#124	AnnotatorNotes T124	C1533734
+T125	CHEM 4346 4352	IONSYS
+#125	AnnotatorNotes T125	C1726021
+T126	DEVI 4412 4422	dispositif
+#126	AnnotatorNotes T126	C0302713
+T127	PROC 4517 4527	délivrance
+#127	AnnotatorNotes T127	C1533734
+T128	DEVI 4546 4556	dispositif
+#128	AnnotatorNotes T128	C0302713
+T129	CHEM 4557 4563	IONSYS
+#129	AnnotatorNotes T129	C1726021
+T130	DEVI 4638 4648	dispositif
+#130	AnnotatorNotes T130	C0302713
+T131	PROC 4661 4672	application
+#131	AnnotatorNotes T131	C0185125
+T132	LIVB 4683 4690	patient
+#132	AnnotatorNotes T132	C0030705
+T133	DISO 4717 4726	analgésie
+#133	AnnotatorNotes T133	C0344307
+T134	DISO 4754 4763	analgésie
+#134	AnnotatorNotes T134	C0344307
+T135	DEVI 4792 4802	dispositif
+#135	AnnotatorNotes T135	C0302713
+T136	PROC 4815 4823	appliqué
+#136	AnnotatorNotes T136	C0185125
+T137	ANAT 4856 4885	partie supéro-externe du bras
+#137	AnnotatorNotes T137	C0446516
+T138	ANAT 4881 4885	bras
+#138	AnnotatorNotes T138	C1269078
+T139	ANAT 4856 4877;4889 4897	partie supéro-externe du torse
+#139	AnnotatorNotes T139	C0817096
+T140	DEVI 4948 4958	dispositif
+#140	AnnotatorNotes T140	C0302713
+T141	LIVB 4964 4973	personnel
+#141	AnnotatorNotes T141	C0018724
+T142	LIVB 4980 4987	patient
+#142	AnnotatorNotes T142	C0030705
+T143	PHEN 5017 5024	lumière
+#143	AnnotatorNotes T143	C0236018
+T144	OBJC 5031 5036	diode
+#144	AnnotatorNotes T144	C1708698
+T145	PROC 5087 5101	administration
+#145	AnnotatorNotes T145	C1533734

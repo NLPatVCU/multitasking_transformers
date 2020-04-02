@@ -1,0 +1,16 @@
+T1	PROC 14 19	étude
+#1	AnnotatorNotes T1	C2603343
+T2	PHYS 26 50	progestérone plasmatique
+#2	AnnotatorNotes T2	C0364982
+T3	PROC 84 105	stimulation ovarienne
+#3	AnnotatorNotes T3	C0949385
+T4	ANAT 96 105	ovarienne
+#4	AnnotatorNotes T4	C0029939
+T5	PROC 111 131	fécondation in vitro
+#5	AnnotatorNotes T5	C0015915
+T6	CHEM 159 163	LHRH
+#6	AnnotatorNotes T6	C0023610
+T7	CHEM 171 174	hMG
+#7	AnnotatorNotes T7	C0025326
+T8	CHEM 146 155	agonistes
+#8	AnnotatorNotes T8	C0243192

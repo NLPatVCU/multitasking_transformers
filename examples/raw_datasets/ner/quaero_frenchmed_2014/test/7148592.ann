@@ -1,0 +1,8 @@
+T1	DISO 0 6	Kystes
+#1	AnnotatorNotes T1	C0010709
+T2	ANAT 25 33	prostate
+#2	AnnotatorNotes T2	C0033572
+T3	DISO 7 18	congénitaux
+#3	AnnotatorNotes T3	C0242354
+T4	DISO 0 6;19 33	Kystes de la prostate
+#4	AnnotatorNotes T4	C1443972

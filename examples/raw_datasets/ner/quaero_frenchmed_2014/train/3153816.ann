@@ -1,0 +1,16 @@
+T1	PROC 0 18	Tests de la vision
+#1	AnnotatorNotes T1	C0042793
+T2	PHYS 12 18	vision
+#2	AnnotatorNotes T2	C0042789
+T3	PHEN 23 31	couleurs
+#3	AnnotatorNotes T3	C0009393
+T4	PHYS 35 61	potentiels évoqués visuels
+#4	AnnotatorNotes T4	C0015217
+T5	PHYS 35 53	potentiels évoqués
+#5	AnnotatorNotes T5	C0015214
+T6	PHYS 54 61	visuels
+#6	AnnotatorNotes T6	C0042789
+T7	DISO 70 89	sclérose en plaques
+#7	AnnotatorNotes T7	C0026769
+T8	DISO 70 78	sclérose
+#8	AnnotatorNotes T8	C0036429

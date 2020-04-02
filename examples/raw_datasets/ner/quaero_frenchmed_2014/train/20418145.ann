@@ -1,0 +1,14 @@
+T1	LIVB 23 31	patients
+#1	AnnotatorNotes T1	C0030705
+T2	DISO 47 65	cancer prostatique
+#2	AnnotatorNotes T2	C0376358
+T3	DISO 47 53	cancer
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 54 65	prostatique
+#4	AnnotatorNotes T4	C0033572
+T5	PROC 90 97	traités
+#5	AnnotatorNotes T5	C0087111
+T6	DEVI 102 110	implants
+#6	AnnotatorNotes T6	C1704229
+T7	CHEM 125 135	iode - 125
+#7	AnnotatorNotes T7	C0796396

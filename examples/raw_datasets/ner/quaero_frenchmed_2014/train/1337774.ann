@@ -1,0 +1,16 @@
+T1	DISO 0 12	Intoxication
+#1	AnnotatorNotes T1	C0728899
+T2	CHEM 20 38	perchlorure de fer
+#2	AnnotatorNotes T2	C0060229
+T3	CHEM 20 31	perchlorure
+#3	AnnotatorNotes T3	C0008203
+T4	CHEM 35 38	fer
+#4	AnnotatorNotes T4	C0302583
+T5	DISO 39 49	compliquée
+#5	AnnotatorNotes T5	C009566
+T6	DISO 57 74	sténose gastrique
+#6	AnnotatorNotes T6	C0585012
+T7	DISO 57 64	sténose
+#7	AnnotatorNotes T7	C1261287
+T8	ANAT 65 74	gastrique
+#8	AnnotatorNotes T8	C0038351

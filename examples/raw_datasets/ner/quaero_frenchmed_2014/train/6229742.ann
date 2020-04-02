@@ -1,0 +1,10 @@
+T1	DISO 0 12	Leishmaniose
+#1	AnnotatorNotes T1	C0023281
+T2	ANAT 13 21	laryngée
+#2	AnnotatorNotes T2	C0023078
+T3	DISO 60 73	granulomatose
+#3	AnnotatorNotes T3	C0521173
+T4	ANAT 74 86	épithélioïde
+#4	AnnotatorNotes T4	C0014609
+T5	DISO 60 73;90 108	granulomatose giganto-cellulaire
+#5	AnnotatorNotes T5	C0018194

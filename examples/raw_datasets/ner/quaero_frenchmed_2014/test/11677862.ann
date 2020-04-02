@@ -1,0 +1,8 @@
+T1	CHEM 0 26	Spécialités homéopathiques
+#1	AnnotatorNotes T1	C0920324
+T2	CHEM 46 61	benzodiazépines
+#2	AnnotatorNotes T2	C2878140
+T4	PROC 90 97	placebo
+#4	AnnotatorNotes T4	C0032042
+T3	PROC 64 84	étude en double-insu
+#3	AnnotatorNotes T3	C0013072

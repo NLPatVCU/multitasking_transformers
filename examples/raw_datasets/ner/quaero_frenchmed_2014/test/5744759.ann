@@ -1,0 +1,14 @@
+T2	DISO 0 24	Syndrome ischémique aigu
+#2	AnnotatorNotes T2	C0232353
+T4	ANAT 28 44	membre supérieur
+#4	AnnotatorNotes T4	C1140618
+T5	ANAT 28 34	membre
+#5	AnnotatorNotes T5	C0015385
+T6	ANAT 56 64	veineuse
+#6	AnnotatorNotes T6	C0042449
+T7	PROC 81 93	intervention
+#7	AnnotatorNotes T7	C0886296
+T8	ANAT 94 104	thoracique
+#8	AnnotatorNotes T8	C0817096
+T1	DISO 0 44	Syndrome ischémique aigu du membre supérieur
+#1	AnnotatorNotes T1	C2063293

@@ -1,0 +1,6 @@
+T1	PROC 0 22	Électroencéphalogramme
+#1	AnnotatorNotes T1	C0013819
+T2	DISO 49 80	souffrance cérébrale périnatale
+#2	AnnotatorNotes T2	C0475741
+T3	ANAT 60 69	cérébrale
+#3	AnnotatorNotes T3	C0006104

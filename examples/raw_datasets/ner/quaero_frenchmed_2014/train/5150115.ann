@@ -1,0 +1,10 @@
+T1	ANAT 36 51	têtes fémorales
+#1	AnnotatorNotes T1	C0015813
+T2	ANAT 42 51	fémorales
+#2	AnnotatorNotes T2	C0015811
+T3	PROC 71 96	arthroplasties de hanches
+#3	AnnotatorNotes T3	C0186193
+T4	PROC 71 85	arthroplasties
+#4	AnnotatorNotes T4	C0003893
+T5	ANAT 89 96	hanches
+#5	AnnotatorNotes T5	C0019552

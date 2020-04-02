@@ -1,0 +1,10 @@
+T1	PROC 7 21	interprétation
+#1	AnnotatorNotes T1	C0262707
+T2	DISO 45 53	malignes
+#2	AnnotatorNotes T2	C0006826
+T3	ANAT 60 85	petite courbure gastrique
+#3	AnnotatorNotes T3	C0227221
+T4	ANAT 67 85	courbure gastrique
+#4	AnnotatorNotes T4	C0227220
+T5	ANAT 76 85	gastrique
+#5	AnnotatorNotes T5	C0038351

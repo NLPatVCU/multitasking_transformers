@@ -1,0 +1,10 @@
+T1	PROC 7 17	séparation
+#1	AnnotatorNotes T1	C1441514
+T2	CHEM 22 43	acides chlorogéniques
+#2	AnnotatorNotes T2	C0008240
+T3	CHEM 22 28	acides
+#3	AnnotatorNotes T3	C0001128
+T4	OBJC 47 51	Café
+#4	AnnotatorNotes T4	C0009237
+T5	OBJC 59 73	Coffea robusta
+#5	AnnotatorNotes T5	C0678439

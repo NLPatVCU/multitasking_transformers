@@ -1,0 +1,12 @@
+T1	PROC 15 25	neurotomie
+#1	AnnotatorNotes T1	C0196558
+T2	ANAT 36 51	paire cranienne
+#2	AnnotatorNotes T2	C0010268
+T3	ANAT 42 51	cranienne
+#3	AnnotatorNotes T3	C0037303
+T4	ANAT 59 74	fosse temporale
+#4	AnnotatorNotes T4	C0230010
+T5	ANAT 59 64	fosse
+#5	AnnotatorNotes T5	C0836913
+T6	ANAT 65 74	temporale
+#6	AnnotatorNotes T6	C0935456

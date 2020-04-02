@@ -1,0 +1,6 @@
+T1	PROC 14 38	artériographie cérébrale
+#1	AnnotatorNotes T1	C0007767
+T2	ANAT 29 38	cérébrale
+#2	AnnotatorNotes T2	C0006104
+T3	DISO 47 57	hémiplégie
+#3	AnnotatorNotes T3	C0018991

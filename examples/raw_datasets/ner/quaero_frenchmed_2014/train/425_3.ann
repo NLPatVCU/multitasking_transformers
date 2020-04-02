@@ -1,0 +1,458 @@
+T1	PROC 31 42	traitements
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 89 99	exposition
+#2	AnnotatorNotes T2	C2905623
+T3	CHEM 116 127	natalizumab
+#3	AnnotatorNotes T3	C1172734
+T4	DISO 168 178	exposition
+#4	AnnotatorNotes T4	C2905623
+T5	CHEM 213 223	interféron
+#5	AnnotatorNotes T5	C0021747
+T6	CHEM 233 240	acétate
+#6	AnnotatorNotes T6	C0000975
+T7	DISO 360 370	exposition
+#7	AnnotatorNotes T7	C2905623
+T8	CHEM 388 406	immunosuppresseurs
+#8	AnnotatorNotes T8	C0021081
+T9	LIVB 416 424	patients
+#9	AnnotatorNotes T9	C0030705
+T10	DISO 438 441	SEP
+#10	AnnotatorNotes T10	C0026769
+T11	CHEM 469 480	médicaments
+#11	AnnotatorNotes T11	C0013227
+T12	CHEM 504 515	natalizumab
+#12	AnnotatorNotes T12	C1172734
+T13	PROC 721 737	essais cliniques
+#13	AnnotatorNotes T13	C2603343
+T14	PROC 743 753	traitement
+#14	AnnotatorNotes T14	C0087111
+T15	CHEM 775 786	corticoïdes
+#15	AnnotatorNotes T15	C0001617
+T16	DISO 863 873	infections
+#16	AnnotatorNotes T16	C0021311
+T17	CHEM 881 892	natalizumab
+#17	AnnotatorNotes T17	C1172734
+T18	PHYS 936 945	grossesse
+#18	AnnotatorNotes T18	C0032961
+T19	PHYS 993 1002	grossesse
+#19	AnnotatorNotes T19	C0032961
+T20	CHEM 1017 1024	TYSABRI
+#20	AnnotatorNotes T20	C1529600
+T21	CHEM 1040 1047	TYSABRI
+#21	AnnotatorNotes T21	C1529600
+T22	CHEM 1086 1093	TYSABRI
+#22	AnnotatorNotes T22	C1529600
+T23	ANAT 1102 1115	lait maternel
+#23	AnnotatorNotes T23	C0026140
+T24	ANAT 1102 1106	lait
+#24	AnnotatorNotes T24	C0026131
+T25	LIVB 1172 1178	animal
+#25	AnnotatorNotes T25	C0003062
+T26	LIVB 1227 1233	femmes
+#26	AnnotatorNotes T26	C0015780
+T27	PROC 1234 1242	traitées
+#27	AnnotatorNotes T27	C0087111
+T28	CHEM 1247 1254	TYSABRI
+#28	AnnotatorNotes T28	C1529600
+T29	CHEM 1338 1349	natalizumab
+#29	AnnotatorNotes T29	C1172734
+T30	CHEM 1371 1378	TYSABRI
+#30	AnnotatorNotes T30	C1529600
+T31	LIVB 1419 1426	patient
+#31	AnnotatorNotes T31	C0030705
+T32	OBJC 1442 1451	véhicules
+#32	AnnotatorNotes T32	C0175845
+T33	OBJC 1470 1478	machines
+#33	AnnotatorNotes T33	C0336779
+T34	PROC 1492 1498	études
+#34	AnnotatorNotes T34	C2603343
+T35	CHEM 1517 1524	placebo
+#35	AnnotatorNotes T35	C1696465
+T36	LIVB 1546 1554	patients
+#36	AnnotatorNotes T36	C0030705
+T37	DISO 1568 1571	SEP
+#37	AnnotatorNotes T37	C0026769
+T38	PROC 1575 1582	traités
+#38	AnnotatorNotes T38	C0087111
+T39	CHEM 1587 1598	natalizumab
+#39	AnnotatorNotes T39	C1172734
+T40	CHEM 1629 1636	placebo
+#40	AnnotatorNotes T40	C1696465
+T41	DISO 1649 1668	arrêt du traitement
+#41	AnnotatorNotes T41	C1699848
+T42	PROC 1658 1668	traitement
+#42	AnnotatorNotes T42	C0087111
+T43	LIVB 1703 1711	patients
+#43	AnnotatorNotes T43	C0030705
+T44	CHEM 1717 1728	natalizumab
+#44	AnnotatorNotes T44	C1172734
+T45	CHEM 1731 1738	placebo
+#45	AnnotatorNotes T45	C1696465
+T46	PROC 1774 1780	études
+#46	AnnotatorNotes T46	C2603343
+T47	LIVB 1796 1804	patients
+#47	AnnotatorNotes T47	C0030705
+T48	PROC 1805 1812	traités
+#48	AnnotatorNotes T48	C0087111
+T49	CHEM 1820 1831	natalizumab
+#49	AnnotatorNotes T49	C1172734
+T50	DISO 1849 1868	effets indésirables
+#50	AnnotatorNotes T50	C0559546
+T51	CHEM 1877 1887	médicament
+#51	AnnotatorNotes T51	C0013227
+T52	CHEM 1890 1897	placebo
+#52	AnnotatorNotes T52	C1696465
+T53	DISO 1906 1925	effets indésirables
+#53	AnnotatorNotes T53	C0559546
+T54	CHEM 1934 1944	médicament
+#54	AnnotatorNotes T54	C0013227
+T55	CHEM 1962 1973	natalizumab
+#55	AnnotatorNotes T55	C1172734
+T56	CHEM 2030 2037	placebo
+#56	AnnotatorNotes T56	C1696465
+T57	DISO 2144 2191	Affections musculo-squelettiques et systémiques
+#57	AnnotatorNotes T57	C0263660
+T58	PROC 2212 2228	études cliniques
+#58	AnnotatorNotes T58	C0008972
+T59	LIVB 2269 2277	patients
+#59	AnnotatorNotes T59	C0030705
+T60	DISO 2290 2293	SEP
+#60	AnnotatorNotes T60	C0026769
+T61	PROC 2318 2327	perfusion
+#61	AnnotatorNotes T61	C0031001
+T62	DISO 2350 2371	événement indésirable
+#62	AnnotatorNotes T62	C0559546
+T63	PROC 2393 2402	perfusion
+#63	AnnotatorNotes T63	C0031001
+T64	LIVB 2511 2519	patients
+#64	AnnotatorNotes T64	C0030705
+T65	DISO 2520 2529	souffrant
+#65	AnnotatorNotes T65	C0857256
+T66	DISO 2533 2536	SEP
+#66	AnnotatorNotes T66	C0026769
+T67	PROC 2537 2544	traités
+#67	AnnotatorNotes T67	C0087111
+T68	CHEM 2549 2560	natalizumab
+#68	AnnotatorNotes T68	C1172734
+T69	CHEM 2563 2570	placebo
+#69	AnnotatorNotes T69	C1696465
+T70	CHEM 2630 2641	natalizumab
+#70	AnnotatorNotes T70	C1172734
+T71	CHEM 2651 2658	placebo
+#71	AnnotatorNotes T71	C1696465
+T72	DISO 2674 2698	sensations vertigineuses
+#72	AnnotatorNotes T72	C1069915
+T73	DISO 2701 2708	nausées
+#73	AnnotatorNotes T73	C0027497
+T74	DISO 2711 2720	urticaire
+#74	AnnotatorNotes T74	C0042109
+T75	DISO 2724 2732	frissons
+#75	AnnotatorNotes T75	C0036973
+T76	PROC 2750 2766	études cliniques
+#76	AnnotatorNotes T76	C0008972
+T77	LIVB 2807 2815	patients
+#77	AnnotatorNotes T77	C0030705
+T78	DISO 2828 2831	SEP
+#78	AnnotatorNotes T78	C0026769
+T79	DISO 2852 2868	hypersensibilité
+#79	AnnotatorNotes T79	C0020517
+T80	LIVB 2897 2905	patients
+#80	AnnotatorNotes T80	C0030705
+T81	CHEM 2914 2923	anticorps
+#81	AnnotatorNotes T81	C0003241
+T82	CHEM 2931 2942	natalizumab
+#82	AnnotatorNotes T82	C1172734
+T83	LIVB 2973 2981	patients
+#83	AnnotatorNotes T83	C0030705
+T84	PROC 2995 3001	études
+#84	AnnotatorNotes T84	C2603343
+T85	LIVB 3042 3050	patients
+#85	AnnotatorNotes T85	C0030705
+T86	DISO 3063 3066	SEP
+#86	AnnotatorNotes T86	C0026769
+T87	CHEM 3075 3084	anticorps
+#87	AnnotatorNotes T87	C0003241
+T88	LIVB 3135 3143	patients
+#88	AnnotatorNotes T88	C0030705
+T89	CHEM 3164 3173	anticorps
+#89	AnnotatorNotes T89	C0003241
+T90	CHEM 3250 3257	TYSABRI
+#90	AnnotatorNotes T90	C1529600
+T91	DISO 3314 3330	hypersensibilité
+#91	AnnotatorNotes T91	C0020517
+T92	DISO 3346 3355	réactions
+#92	AnnotatorNotes T92	C1114821
+T93	PROC 3367 3376	perfusion
+#93	AnnotatorNotes T93	C0031001
+T94	CHEM 3408 3417	anticorps
+#94	AnnotatorNotes T94	C0003241
+T95	DISO 3445 3453	frissons
+#95	AnnotatorNotes T95	C0036973
+T96	DISO 3456 3463	nausées
+#96	AnnotatorNotes T96	C0027497
+T97	DISO 3466 3478	vomissements
+#97	AnnotatorNotes T97	C0042963
+T98	DISO 3482 3503	bouffées vasomotrices
+#98	AnnotatorNotes T98	C0016382
+T99	PROC 3564 3574	traitement
+#99	AnnotatorNotes T99	C0087111
+T100	CHEM 3593 3602	anticorps
+#100	AnnotatorNotes T100	C0003241
+T101	PROC 3721 3730	perfusion
+#101	AnnotatorNotes T101	C0031001
+T102	CHEM 3751 3760	anticorps
+#102	AnnotatorNotes T102	C0003241
+T103	CHEM 3907 3916	anticorps
+#103	AnnotatorNotes T103	C0003241
+T104	PROC 3974 3984	traitement
+#104	AnnotatorNotes T104	C0087111
+T105	DISO 4025 4041	hypersensibilité
+#105	AnnotatorNotes T105	C0020517
+T106	DISO 4049 4058	réactions
+#106	AnnotatorNotes T106	C1114821
+T107	PROC 4070 4079	perfusion
+#107	AnnotatorNotes T107	C0031001
+T108	PROC 4115 4125	traitement
+#108	AnnotatorNotes T108	C0087111
+T109	LIVB 4135 4143	patients
+#109	AnnotatorNotes T109	C0030705
+T110	CHEM 4157 4166	anticorps
+#110	AnnotatorNotes T110	C0003241
+T111	DISO 4183 4193	Infections
+#111	AnnotatorNotes T111	C0021311
+T112	DISO 4206 4210	LEMP
+#112	AnnotatorNotes T112	C0023524
+T113	DISO 4214 4238	infections opportunistes
+#113	AnnotatorNotes T113	C0029118
+T114	DISO 4214 4224	infections
+#114	AnnotatorNotes T114	C0021311
+T115	PROC 4257 4273	études cliniques
+#115	AnnotatorNotes T115	C0008972
+T116	DISO 4295 4319	infections opportunistes
+#116	AnnotatorNotes T116	C0029118
+T117	DISO 4295 4305	infections
+#117	AnnotatorNotes T117	C0021311
+T118	PROC 4377 4393	études cliniques
+#118	AnnotatorNotes T118	C0008972
+T119	DISO 4412 4422	infections
+#119	AnnotatorNotes T119	C0021311
+T120	DISO 4423 4434	herpétiques
+#120	AnnotatorNotes T120	C0019340
+T121	LIVB 4437 4457	virus Varicelle-Zona
+#121	AnnotatorNotes T121	C0042338
+T122	LIVB 4460 4480	virus Herpès-Simplex
+#122	AnnotatorNotes T122	C0319232
+T123	LIVB 4460 4465	virus
+#123	AnnotatorNotes T123	C0042776
+T124	LIVB 4520 4528	patients
+#124	AnnotatorNotes T124	C0030705
+T125	PROC 4529 4536	traités
+#125	AnnotatorNotes T125	C0087111
+T126	CHEM 4541 4552	natalizumab
+#126	AnnotatorNotes T126	C1172734
+T127	LIVB 4566 4574	patients
+#127	AnnotatorNotes T127	C0030705
+T128	CHEM 4580 4587	placebo
+#128	AnnotatorNotes T128	C1696465
+T129	DISO 4675 4697	encéphalite herpétique
+#129	AnnotatorNotes T129	C0276226
+T130	LIVB 4718 4726	patients
+#130	AnnotatorNotes T130	C0030705
+T131	PROC 4751 4761	traitement
+#131	AnnotatorNotes T131	C0087111
+T132	CHEM 4766 4777	natalizumab
+#132	AnnotatorNotes T132	C1172734
+T133	DISO 4791 4801	infections
+#133	AnnotatorNotes T133	C0021311
+T134	PROC 4840 4850	traitement
+#134	AnnotatorNotes T134	C0087111
+T135	DISO 4876 4880	LEMP
+#135	AnnotatorNotes T135	C0023524
+T136	PROC 4912 4928	études cliniques
+#136	AnnotatorNotes T136	C0008972
+T137	DISO 4939 4959	leucoencéphalopathie
+#137	AnnotatorNotes T137	C0270612
+T138	DISO 4985 4993	handicap
+#138	AnnotatorNotes T138	C0231172
+T139	PHYS 5007 5012	décès
+#139	AnnotatorNotes T139	C0011065
+T140	PROC 5095 5101	études
+#140	AnnotatorNotes T140	C2603343
+T141	LIVB 5118 5126	patients
+#141	AnnotatorNotes T141	C0030705
+T142	DISO 5140 5143	SEP
+#142	AnnotatorNotes T142	C0026769
+T143	PROC 5161 5171	traitement
+#143	AnnotatorNotes T143	C0087111
+T144	CHEM 5188 5208	interféron bêta - 1a
+#144	AnnotatorNotes T144	C0254119
+T145	CHEM 5188 5198	interféron
+#145	AnnotatorNotes T145	C0021747
+T146	PROC 5272 5277	essai
+#146	AnnotatorNotes T146	C2603343
+T147	DISO 5284 5288	LEMP
+#147	AnnotatorNotes T147	C0023524
+T148	PHYS 5307 5312	décès
+#148	AnnotatorNotes T148	C0011065
+T149	LIVB 5334 5341	patient
+#149	AnnotatorNotes T149	C0030705
+T150	DISO 5356 5372	maladie de Crohn
+#150	AnnotatorNotes T150	C0010346
+T151	DISO 5356 5363	maladie
+#151	AnnotatorNotes T151	C0012634
+T152	PROC 5430 5441	traitements
+#152	AnnotatorNotes T152	C0013216
+T153	CHEM 5442 5460	immunosuppresseurs
+#153	AnnotatorNotes T153	C0021081
+T154	DISO 5483 5494	lymphopénie
+#154	AnnotatorNotes T154	C0024312
+T155	DISO 5519 5523	LEMP
+#155	AnnotatorNotes T155	C0023524
+T156	LIVB 5533 5541	patients
+#156	AnnotatorNotes T156	C0030705
+T157	CHEM 5553 5560	TYSABRI
+#157	AnnotatorNotes T157	C1529600
+T158	DISO 5634 5653	troubles hépatiques
+#158	AnnotatorNotes T158	C0086565
+T159	ANAT 5643 5653	hépatiques
+#159	AnnotatorNotes T159	C0023884
+T160	CHEM 5692 5710	enzymes hépatiques
+#160	AnnotatorNotes T160	C0443764
+T161	ANAT 5700 5710	hépatiques
+#161	AnnotatorNotes T161	C0023884
+T162	DISO 5720 5738	hyperbilirubinémie
+#162	AnnotatorNotes T162	C0020433
+T163	CHEM 5804 5811	Tysabri
+#163	AnnotatorNotes T163	C1529600
+T164	ANAT 5976 5987	lymphocytes
+#164	AnnotatorNotes T164	C0024264
+T165	ANAT 5990 5999	monocytes
+#165	AnnotatorNotes T165	C0026473
+T166	ANAT 6002 6014	éosinophiles
+#166	AnnotatorNotes T166	C0014467
+T167	ANAT 6018 6028	basophiles
+#167	AnnotatorNotes T167	C0004827
+T168	PROC 6041 6052	numérations
+#168	AnnotatorNotes T168	C0007584
+T169	PROC 6123 6133	traitement
+#169	AnnotatorNotes T169	C0087111
+T170	CHEM 6138 6145	TYSABRI
+#170	AnnotatorNotes T170	C1529600
+T171	CHEM 6202 6213	hémoglobine
+#171	AnnotatorNotes T171	C0019046
+T172	PROC 6537 6551	administration
+#172	AnnotatorNotes T172	C3469597
+T173	PROC 6261 6272	hématocrite
+#173	AnnotatorNotes T173	C0518014
+T174	ANAT 6309 6321	érythrocytes
+#174	AnnotatorNotes T174	C0014792
+T175	DISO 6413 6432	symptômes cliniques
+#175	AnnotatorNotes T175	C0037088
+T176	DISO 6413 6422	symptômes
+#176	AnnotatorNotes T176	C1457887
+T177	CHEM 6555 6562	TYSABRI
+#177	AnnotatorNotes T177	C1529600
+T178	CHEM 6567 6590	Agent immunosuppresseur
+#178	AnnotatorNotes T178	C0021081
+T179	CHEM 6652 6662	intégrines
+#179	AnnotatorNotes T179	C0021701
+T180	LIVB 6663 6671	humaines
+#180	AnnotatorNotes T180	C0086418
+T181	ANAT 6718 6728	leucocytes
+#181	AnnotatorNotes T181	C0023516
+T182	ANAT 6751 6763	neutrophiles
+#182	AnnotatorNotes T182	C0027950
+T183	CHEM 6793 6804	natalizumab
+#183	AnnotatorNotes T183	C1172734
+T184	CHEM 6818 6827	intégrine
+#184	AnnotatorNotes T184	C0021701
+T185	PHYS 6851 6862	interaction
+#185	AnnotatorNotes T185	C0687133
+T186	CHEM 6890 6899	récepteur
+#186	AnnotatorNotes T186	C0001640
+T187	OBJC 6905 6913	molécule
+#187	AnnotatorNotes T187	C0567416
+T188	CHEM 6914 6922	VCAM - 1
+#188	AnnotatorNotes T188	C0078056
+T189	CHEM 6925 6960	vascular cell adhesion molecule - 1
+#189	AnnotatorNotes T189	C0078056
+T190	CHEM 6970 6977	ligands
+#190	AnnotatorNotes T190	C0023688
+T191	CHEM 6978 6990	ostéopontine
+#191	AnnotatorNotes T191	C0069676
+T192	CHEM 7034 7046	fibronectine
+#192	AnnotatorNotes T192	C0016055
+T193	CHEM 7052 7058	CS - 1
+#193	AnnotatorNotes T193	C0172284
+T194	CHEM 7061 7083	connecting segment - 1
+#194	AnnotatorNotes T194	C0172284
+T195	CHEM 7092 7103	natalizumab
+#195	AnnotatorNotes T195	C1172734
+T196	PHYS 7115 7126	interaction
+#196	AnnotatorNotes T196	C0687133
+T197	CHEM 7168 7178	MadCAM - 1
+#197	AnnotatorNotes T197	C1138490
+T198	CHEM 7181 7225	mucosal addressin cell adhesion molecule - 1
+#198	AnnotatorNotes T198	C1138490
+T199	PHYS 7253 7265	interactions
+#199	AnnotatorNotes T199	C0687133
+T200	ANAT 7309 7331	leucocytes mononucléés
+#200	AnnotatorNotes T200	C0023517
+T201	ANAT 7309 7319	leucocytes
+#201	AnnotatorNotes T201	C0023516
+T202	ANAT 7346 7357	endothélium
+#202	AnnotatorNotes T202	C0014257
+T203	ANAT 7367 7388	tissus parenchymateux
+#203	AnnotatorNotes T203	C2986654
+T204	ANAT 7367 7373	tissus
+#204	AnnotatorNotes T204	C0040300
+T205	CHEM 7441 7452	natalizumab
+#205	AnnotatorNotes T205	C1172734
+T206	PHYS 7484 7508	réactions inflammatoires
+#206	AnnotatorNotes T206	C0021368
+T207	ANAT 7527 7533	tissus
+#207	AnnotatorNotes T207	C0040300
+T208	PHYS 7564 7576	interactions
+#208	AnnotatorNotes T208	C0687133
+T209	ANAT 7581 7591	leucocytes
+#209	AnnotatorNotes T209	C0023516
+T210	CHEM 7631 7638	ligands
+#210	AnnotatorNotes T210	C0023688
+T211	ANAT 7647 7670	matrice extracellulaire
+#211	AnnotatorNotes T211	C0015350
+T212	ANAT 7682 7707	cellules parenchymateuses
+#212	AnnotatorNotes T212	C0227525
+T213	CHEM 7732 7743	natalizumab
+#213	AnnotatorNotes T213	C1172734
+T214	PHYS 7776 7798	activité inflammatoire
+#214	AnnotatorNotes T214	C0021368
+T215	DISO 7813 7820	maladie
+#215	AnnotatorNotes T215	C0012634
+T216	ANAT 7864 7885	cellules immunitaires
+#216	AnnotatorNotes T216	C0312737
+T217	ANAT 7895 7901	tissus
+#217	AnnotatorNotes T217	C0040300
+T218	DISO 7945 7948	SEP
+#218	AnnotatorNotes T218	C0026769
+T219	DISO 7955 7962	lésions
+#219	AnnotatorNotes T219	C0175677
+T220	ANAT 7988 8001	lymphocytes T
+#220	AnnotatorNotes T220	C0039194
+T221	PHYS 8024 8052	barrière hémato-encéphalique
+#221	AnnotatorNotes T221	C1305865
+T222	PHYS 8055 8058	BHE
+#222	AnnotatorNotes T222	C1305865
+T223	PROC 145 161	essais cliniques
+#223	AnnotatorNotes T223	C0008976
+T224	CHEM 233 255	acétate de glatiramère
+#224	AnnotatorNotes T224	C0289884
+T225	CHEM 244 255	glatiramère
+#225	AnnotatorNotes T225	C0717787
+T226	PHYS 1270 1278	allaiter
+#226	AnnotatorNotes T226	C0006147
+T227	LIVB 4437 4442	virus
+#227	AnnotatorNotes T227	C0042776
+T228	CHEM 7134 7150	intégrine α 4β 7
+#228	AnnotatorNotes T228	C0648695
+T229	DISO 7895 7916	tissus inflammatoires
+#229	AnnotatorNotes T229	C0007642

@@ -1,0 +1,8 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 57 81	phosphate de sodium oral
+#2	AnnotatorNotes T2	C3214068
+T3	CHEM 85 104	polyéthylène glycol
+#3	AnnotatorNotes T3	C0032483
+T4	PROC 130 140	coloscopie
+#4	AnnotatorNotes T4	C0009378

@@ -1,0 +1,12 @@
+T1	PROC 0 10	Validation
+#1	AnnotatorNotes T1	C1519941
+T2	DISO 72 83	hypertendus
+#2	AnnotatorNotes T2	C0857121
+T3	DISO 90 101	tachycardes
+#3	AnnotatorNotes T3	C0039231
+T4	DISO 108 116	angoreux
+#4	AnnotatorNotes T4	C0002962
+T5	LIVB 124 130	sujets
+#5	AnnotatorNotes T5	C0027361
+T6	PROC 164 174	validation
+#6	AnnotatorNotes T6	C1519941

@@ -1,0 +1,14 @@
+T1	PROC 0 11	Application
+#1	AnnotatorNotes T1	C0185125
+T2	PHEN 18 27	diffusion
+#2	AnnotatorNotes T2	C0012222
+T3	PHEN 34 41	lumière
+#3	AnnotatorNotes T3	C0023693
+T4	PROC 47 52	étude
+#4	AnnotatorNotes T4	C2603343
+T5	DISO 56 75	volume plaquettaire
+#5	AnnotatorNotes T5	C1562590
+T6	PROC 56 62	volume
+#6	AnnotatorNotes T6	C2700258
+T7	ANAT 63 75	plaquettaire
+#7	AnnotatorNotes T7	C0005821

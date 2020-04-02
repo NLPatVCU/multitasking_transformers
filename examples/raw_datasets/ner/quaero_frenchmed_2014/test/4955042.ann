@@ -1,0 +1,8 @@
+T1	PHEN 24 42	pharmacodynamiques
+#1	AnnotatorNotes T1	C0851347
+T2	CHEM 56 67	analgésique
+#2	AnnotatorNotes T2	C0002771
+T3	CHEM 72 83	morphinique
+#3	AnnotatorNotes T3	C0026549
+T4	CHEM 89 112	p-butoxyphénylacétamide
+#4	AnnotatorNotes T4	C0244488

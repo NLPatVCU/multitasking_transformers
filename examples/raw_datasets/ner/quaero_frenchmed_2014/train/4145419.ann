@@ -1,0 +1,8 @@
+T1	PROC 3 8	étude
+#1	AnnotatorNotes T1	C2603343
+T2	ANAT 31 45	hypothalamique
+#2	AnnotatorNotes T2	C0020663
+T3	LIVB 55 59	rats
+#3	AnnotatorNotes T3	C0034721
+T4	LIVB 60 64	âgés
+#4	AnnotatorNotes T4	C1999167

@@ -1,0 +1,10 @@
+T1	DISO 4 33	troubles moteurs oesophagiens
+#1	AnnotatorNotes T1	C0014858
+T2	DISO 4 20	troubles moteurs
+#2	AnnotatorNotes T2	C0026650
+T3	ANAT 21 33	oesophagiens
+#3	AnnotatorNotes T3	C0014876
+T4	DISO 49 72	sclerodermie systemique
+#4	AnnotatorNotes T4	C0036421
+T5	DISO 49 61	sclerodermie
+#5	AnnotatorNotes T5	C0011644

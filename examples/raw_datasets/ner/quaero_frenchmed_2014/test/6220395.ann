@@ -1,0 +1,20 @@
+T1	DISO 0 17	Méthémoglobinémie
+#1	AnnotatorNotes T1	C0025637
+T2	DISO 23 31	hémolyse
+#2	AnnotatorNotes T2	C0019054
+T3	DISO 41 66	insuffisance rénale aiguë
+#3	AnnotatorNotes T3	C156562
+T4	DISO 41 60	insuffisance rénale
+#4	AnnotatorNotes T4	C1565489
+T5	ANAT 54 60	rénale
+#5	AnnotatorNotes T5	C0022646
+T6	DISO 79 88	infection
+#6	AnnotatorNotes T6	C2959962
+T7	LIVB 98 112	streptocoque D
+#7	AnnotatorNotes T7	C0038404
+T8	LIVB 98 110	streptocoque
+#8	AnnotatorNotes T8	C0038402
+T9	LIVB 142 148	adulte
+#9	AnnotatorNotes T9	C0001675
+T10	DISO 79 88;96 112	infection à streptocoque D
+#10	AnnotatorNotes T10	C0948752

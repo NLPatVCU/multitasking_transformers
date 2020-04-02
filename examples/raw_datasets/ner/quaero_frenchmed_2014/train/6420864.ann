@@ -1,0 +1,10 @@
+T1	DISO 2 20	Hémophilie acquise
+#1	AnnotatorNotes T1	C1096116
+T2	DISO 2 12	Hémophilie
+#2	AnnotatorNotes T2	C0684275
+T3	PROC 27 53	anticorps antifacteur VIII
+#3	AnnotatorNotes T3	C0877535
+T4	CHEM 27 36	anticorps
+#4	AnnotatorNotes T4	C0003241
+T5	PROC 72 84	observations
+#5	AnnotatorNotes T5	C0302523

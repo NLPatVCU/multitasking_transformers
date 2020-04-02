@@ -1,0 +1,10 @@
+T1	PROC 4 15	observation
+#1	AnnotatorNotes T1	C0302523
+T2	DISO 41 46	ulcus
+#2	AnnotatorNotes T2	C0041582
+T3	ANAT 47 56	gastrique
+#3	AnnotatorNotes T3	C0038351
+T4	DISO 60 69	psoriasis
+#4	AnnotatorNotes T4	C0033860
+T5	DISO 41 56	ulcus gastrique
+#5	AnnotatorNotes T5	C0038358

@@ -1,0 +1,6 @@
+T1	PROC 3 22	contrôle glycémique
+#1	AnnotatorNotes T1	C3267174
+T2	CHEM 12 22	glycémique
+#2	AnnotatorNotes T2	C0005802
+T3	LIVB 38 49	pédiatrique
+#3	AnnotatorNotes T3	C0008059

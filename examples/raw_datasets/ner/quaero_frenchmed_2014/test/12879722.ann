@@ -1,0 +1,8 @@
+T1	PROC 0 7	Analyse
+#1	AnnotatorNotes T1	C0936012
+T2	PROC 8 21	tomographique
+#2	AnnotatorNotes T2	C0040395
+T4	DISO 54 68	trou maculaire
+#4	AnnotatorNotes T4	C0024441
+T5	PROC 75 84	chirurgie
+#5	AnnotatorNotes T5	C0543467

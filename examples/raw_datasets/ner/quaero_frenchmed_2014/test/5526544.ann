@@ -1,0 +1,8 @@
+T1	DISO 0 28	Actinomycose cervico-faciale
+#1	AnnotatorNotes T1	C0001264
+T2	DISO 0 12	Actinomycose
+#2	AnnotatorNotes T2	C0001261
+T3	ANAT 13 28	cervico-faciale
+#3	AnnotatorNotes T3	C0440831
+T4	ANAT 40 52	amygdalienne
+#4	AnnotatorNotes T4	C0040421

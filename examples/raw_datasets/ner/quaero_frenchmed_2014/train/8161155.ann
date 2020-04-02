@@ -1,0 +1,8 @@
+T1	PROC 0 10	Réparation
+#1	AnnotatorNotes T1	C0920663
+T2	DISO 35 56	ruptures traumatiques
+#2	AnnotatorNotes T2	C0035955
+T3	ANAT 63 80	urètre postérieur
+#3	AnnotatorNotes T3	C1882430
+T4	ANAT 63 69	urètre
+#4	AnnotatorNotes T4	C0041967

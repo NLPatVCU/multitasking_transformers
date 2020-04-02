@@ -1,0 +1,12 @@
+T1	PROC 13 23	monitorage
+#1	AnnotatorNotes T1	C0150369
+T2	PHYS 58 77	pression artérielle
+#2	AnnotatorNotes T2	C0005823
+T3	PHEN 58 66	pression
+#3	AnnotatorNotes T3	C0033095
+T4	ANAT 67 77	artérielle
+#4	AnnotatorNotes T4	C0003842
+T5	DISO 96 107	hypotension
+#5	AnnotatorNotes T5	C0020649
+T6	DISO 115 133	troubles du rythme
+#6	AnnotatorNotes T6	C0877792

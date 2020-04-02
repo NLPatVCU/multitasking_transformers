@@ -1,0 +1,10 @@
+T1	PROC 0 21	Approche endoscopique
+#1	AnnotatorNotes T1	C0014245
+T2	DISO 26 33	lésions
+#2	AnnotatorNotes T2	C0175677
+T3	ANAT 37 57	troisième ventricule
+#3	AnnotatorNotes T3	C0149555
+T4	DEVI 9 21	endoscopique
+#4	AnnotatorNotes T4	C0014243
+T5	DISO 26 57	lésions du troisième ventricule
+#5	AnnotatorNotes T5	C2198307

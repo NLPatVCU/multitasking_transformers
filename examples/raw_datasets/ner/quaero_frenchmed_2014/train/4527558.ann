@@ -1,0 +1,24 @@
+T1	PHEN 15 35	composition chimique
+#1	AnnotatorNotes T1	C0243176
+T2	PHYS 15 26	composition
+#2	AnnotatorNotes T2	C0486616
+T3	CHEM 27 35	chimique
+#3	AnnotatorNotes T3	C0220806
+T4	CHEM 39 47	minerale
+#4	AnnotatorNotes T4	C0026162
+T5	OBJC 54 63	substance
+#5	AnnotatorNotes T5	C0439861
+T6	CHEM 64 75	inorganique
+#6	AnnotatorNotes T6	C0021521
+T7	ANAT 80 82	os
+#7	AnnotatorNotes T7	C0262950
+T8	ANAT 92 99	dentine
+#8	AnnotatorNotes T8	C0011429
+T9	LIVB 104 113	vertébrés
+#9	AnnotatorNotes T9	C0042567
+T10	OBJC 125 133	fossiles
+#10	AnnotatorNotes T10	C0016614
+T11	LIVB 173 178	grain
+#11	AnnotatorNotes T11	C0086369
+T12	PHYS 205 208	age
+#12	AnnotatorNotes T12	C0001779

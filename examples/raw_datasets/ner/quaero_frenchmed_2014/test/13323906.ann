@@ -1,0 +1,6 @@
+T1	DISO 0 27	Maladie de Paget du mamelon
+#1	AnnotatorNotes T1	C0030185
+T2	DISO 0 7	Maladie
+#2	AnnotatorNotes T2	C0012634
+T3	ANAT 20 27	mamelon
+#3	AnnotatorNotes T3	C0016034

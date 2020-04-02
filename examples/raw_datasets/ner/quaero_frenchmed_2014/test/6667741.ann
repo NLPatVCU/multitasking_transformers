@@ -1,0 +1,10 @@
+T1	PROC 18 23;39 47	étude in vitro
+#1	AnnotatorNotes T1	C1533691	  
+T2	PHYS 27 38	métabolisme
+#2	AnnotatorNotes T2	C0025519
+T3	CHEM 51 76	benzyl - 4 isoquinoleines
+#3	AnnotatorNotes T3	C1257875
+T4	CHEM 95 105	papavérine
+#4	AnnotatorNotes T4	C0030350
+T5	CHEM 79 88	analogues
+#5	AnnotatorNotes T5	C0002776

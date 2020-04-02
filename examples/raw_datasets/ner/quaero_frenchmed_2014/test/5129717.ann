@@ -1,0 +1,12 @@
+T1	PHYS 0 19	Sécrétion gastrique
+#1	AnnotatorNotes T1	C0232539
+T2	PHEN 0 9	Sécrétion
+#2	AnnotatorNotes T2	C0036536
+T3	ANAT 10 19	gastrique
+#3	AnnotatorNotes T3	C0038351
+T4	PROC 23 32	chirurgie
+#4	AnnotatorNotes T4	C0543467
+T5	DISO 39 60	ulcère gastroduodénal
+#5	AnnotatorNotes T5	C0030920
+T6	DISO 39 45	ulcère
+#6	AnnotatorNotes T6	C0041582

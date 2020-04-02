@@ -1,0 +1,10 @@
+T1	PROC 0 19	Etude immunologique
+#1	AnnotatorNotes T1	C0021061
+T2	PROC 0 5	Etude
+#2	AnnotatorNotes T2	C0087111
+T3	CHEM 56 67	sérum bovin
+#3	AnnotatorNotes T3	C0036774
+T4	CHEM 75 81	formol
+#4	AnnotatorNotes T4	C0016584
+T5	PHEN 88 95	chaleur
+#5	AnnotatorNotes T5	C0018837

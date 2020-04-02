@@ -1,0 +1,14 @@
+T1	PROC 11 20	dépistage
+#1	AnnotatorNotes T1	C0199230
+T2	DISO 24 38	cancer du sein
+#2	AnnotatorNotes T2	C0006142
+T3	DISO 24 30	cancer
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 34 38	sein
+#4	AnnotatorNotes T4	C0006141
+T5	DISO 46 68	cancers gynécologiques
+#5	AnnotatorNotes T5	C0699889
+T6	DISO 46 53	cancers
+#6	AnnotatorNotes T6	C0027651
+T7	GEOG 72 78	France
+#7	AnnotatorNotes T7	C0016674

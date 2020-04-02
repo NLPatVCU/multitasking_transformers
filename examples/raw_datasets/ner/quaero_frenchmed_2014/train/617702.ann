@@ -1,0 +1,10 @@
+T1	PROC 19 32	cryochirurgie
+#1	AnnotatorNotes T1	C0010408
+T2	PROC 36 46	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 50 68	cancer prostatique
+#3	AnnotatorNotes T3	C0376358
+T4	DISO 50 56	cancer
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 57 68	prostatique
+#5	AnnotatorNotes T5	C0033572

@@ -1,0 +1,14 @@
+T1	CHEM 14 23	vérapamil
+#1	AnnotatorNotes T1	C0042523
+T2	PROC 32 42	prévention
+#2	AnnotatorNotes T2	C0199176
+T3	DISO 49 75	fibrillation ventriculaire
+#3	AnnotatorNotes T3	C0042510
+T4	DISO 49 61	fibrillation
+#4	AnnotatorNotes T4	C0232197
+T5	DISO 99 120	infarctus du myocarde
+#5	AnnotatorNotes T5	C0027051
+T6	DISO 99 108	infarctus
+#6	AnnotatorNotes T6	C0021308
+T7	ANAT 112 120	myocarde
+#7	AnnotatorNotes T7	C0027061

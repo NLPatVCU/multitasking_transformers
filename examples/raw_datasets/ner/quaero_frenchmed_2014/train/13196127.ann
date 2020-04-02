@@ -1,0 +1,14 @@
+T1	DISO 4 16	déformations
+#1	AnnotatorNotes T1	C1562006
+T2	ANAT 21 42	bronches segmentaires
+#2	AnnotatorNotes T2	C1185580
+T3	DISO 51 73	tuberculose pulmonaire
+#3	AnnotatorNotes T3	C0041327
+T4	ANAT 63 73	pulmonaire
+#4	AnnotatorNotes T4	C0024109
+T5	PROC 84 90	etudes
+#5	AnnotatorNotes T5	C2603343
+T6	DISO 141 151	pathogènie
+#6	AnnotatorNotes T6	C0699748
+T7	DISO 156 167	dilatations
+#7	AnnotatorNotes T7	C0012359

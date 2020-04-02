@@ -1,0 +1,6 @@
+T1	DISO 3 16	hydrocéphalie
+#1	AnnotatorNotes T1	C0020255
+T2	DISO 23 53	hémorragie sous-arachnoïdienne
+#2	AnnotatorNotes T2	C0038525
+T3	DISO 23 33	hémorragie
+#3	AnnotatorNotes T3	C0019080

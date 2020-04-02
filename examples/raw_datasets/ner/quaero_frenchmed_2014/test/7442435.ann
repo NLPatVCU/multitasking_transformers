@@ -1,0 +1,6 @@
+T1	DISO 0 18	Lupus érythémateux
+#1	AnnotatorNotes T1	C0409974
+T2	DISO 37 58	infarctus du myocarde
+#2	AnnotatorNotes T2	C0027051
+T3	ANAT 50 58	myocarde
+#3	AnnotatorNotes T3	C0027061

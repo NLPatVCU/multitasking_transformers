@@ -1,0 +1,8 @@
+T1	DISO 56 81	calcifications coronaires
+#1	AnnotatorNotes T1	C1611184
+T2	PHYS 56 70	calcifications
+#2	AnnotatorNotes T2	C0006660
+T3	ANAT 71 81	coronaires
+#3	AnnotatorNotes T3	C0018787
+T4	ANAT 125 134	coronaire
+#4	AnnotatorNotes T4	C0018787

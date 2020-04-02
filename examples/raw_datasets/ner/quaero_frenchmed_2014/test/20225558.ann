@@ -1,0 +1,10 @@
+T1	PROC 0 9	Dépistage
+#1	AnnotatorNotes T1	C0199230
+T2	PROC 13 23	diagnostic
+#2	AnnotatorNotes T2	C0011900
+T3	DISO 35 52	cancer colorectal
+#3	AnnotatorNotes T3	C0009402
+T4	DISO 35 41	cancer
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 42 52	colorectal
+#5	AnnotatorNotes T5	C1711309

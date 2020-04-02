@@ -1,0 +1,8 @@
+T1	DISO 4 21	maladies du coeur
+#1	AnnotatorNotes T1	C0018799
+T2	DISO 4 12	maladies
+#2	AnnotatorNotes T2	C0012634
+T3	ANAT 16 21	coeur
+#3	AnnotatorNotes T3	C0018787
+T4	DISO 28 34	cancer
+#4	AnnotatorNotes T4	C0027651

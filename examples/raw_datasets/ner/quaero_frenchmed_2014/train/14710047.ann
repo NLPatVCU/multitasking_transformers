@@ -1,0 +1,12 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0011900
+T2	DISO 15 50	adénomes parathyroïdiens ectopiques
+#2	AnnotatorNotes T2	C0346405
+T3	DISO 15 23	adénomes
+#3	AnnotatorNotes T3	C0001430
+T4	PROC 79 92	IRM cardiaque
+#4	AnnotatorNotes T4	C0412692
+T5	PROC 79 82	IRM
+#5	AnnotatorNotes T5	C0024485
+T6	ANAT 83 92	cardiaque
+#6	AnnotatorNotes T6	C0018787

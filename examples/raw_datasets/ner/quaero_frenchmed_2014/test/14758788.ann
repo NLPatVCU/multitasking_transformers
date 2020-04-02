@@ -1,0 +1,8 @@
+T1	CHEM 3 14	paracétamol
+#1	AnnotatorNotes T1	C0000970
+T2	PROC 23 33	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 38 46	douleurs
+#3	AnnotatorNotes T3	C0030193
+T4	DISO 47 59	arthrosiques
+#4	AnnotatorNotes T4	C0022408

@@ -1,0 +1,14 @@
+T1	PROC 10 31	examens radiologiques
+#1	AnnotatorNotes T1	C2985535
+T2	PROC 40 50	diagnostic
+#2	AnnotatorNotes T2	C0430022
+T3	PROC 57 69	surveillance
+#3	AnnotatorNotes T3	C0733511
+T4	DISO 74 86	intolérances
+#4	AnnotatorNotes T4	C1744706
+T5	CHEM 90 96	gluten
+#5	AnnotatorNotes T5	C2362561
+T6	LIVB 103 109	enfant
+#6	AnnotatorNotes T6	C0008059
+T7	DISO 74 96	intolérances au gluten
+#7	AnnotatorNotes T7	C2077992

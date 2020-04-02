@@ -1,0 +1,12 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PROC 38 50	triséquencés
+#2	AnnotatorNotes T2	C0282402
+T3	CHEM 51 146	poly ( gamma-L-glutamate de benzyle )- poly ( oxyéthylńe )- poly ( gamma-L-glutamate de benzyle
+#3	AnnotatorNotes T3	C0644233
+T4	PROC 184 197	détermination
+#4	AnnotatorNotes T4	C1148554
+T5	OBJC 221 230	molécules
+#5	AnnotatorNotes T5	C0567416
+T6	OBJC 234 242	solution
+#6	AnnotatorNotes T6	C0037633

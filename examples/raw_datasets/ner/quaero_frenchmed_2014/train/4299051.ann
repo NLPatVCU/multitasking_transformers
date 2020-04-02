@@ -1,0 +1,6 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	ANAT 12 18	orbite
+#2	AnnotatorNotes T2	C0029180
+T3	CHEM 23 42	moyens de contraste
+#3	AnnotatorNotes T3	C0009924

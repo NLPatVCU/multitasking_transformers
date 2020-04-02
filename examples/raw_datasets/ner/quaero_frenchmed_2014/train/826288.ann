@@ -1,0 +1,28 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0430022
+T2	DISO 17 29	toxoplasmose
+#2	AnnotatorNotes T2	C0040558
+T3	PROC 34 50	héhagglutination
+#3	AnnotatorNotes T3	C0018905
+T4	PROC 67 84	Etude comparative
+#4	AnnotatorNotes T4	C1579762
+T5	PROC 67 72	Etude
+#5	AnnotatorNotes T5	C0008972
+T6	PHYS 91 99	fixation
+#6	AnnotatorNotes T6	C1167622
+T7	CHEM 107 121	glutaraldéhyde
+#7	AnnotatorNotes T7	C0017814
+T8	ANAT 130 145	globules rouges
+#8	AnnotatorNotes T8	C0014792
+T9	CHEM 146 154	formolés
+#9	AnnotatorNotes T9	C0949307
+T10	CHEM 161 177	antigène soluble
+#10	AnnotatorNotes T10	C0301838
+T11	CHEM 161 169	antigène
+#11	AnnotatorNotes T11	C0003320
+T12	CHEM 186 207	antigène particulaire
+#12	AnnotatorNotes T12	C0301837
+T13	CHEM 186 194	antigène
+#13	AnnotatorNotes T13	C0003320
+T14	CHEM 227 235	antigène
+#14	AnnotatorNotes T14	C0003320

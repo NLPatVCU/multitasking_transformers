@@ -1,0 +1,12 @@
+T1	CHEM 13 26	acide borique
+#1	AnnotatorNotes T1	C0006020
+T2	CHEM 13 18	acide
+#2	AnnotatorNotes T2	C0001128
+T3	LIVB 34 42	bactérie
+#3	AnnotatorNotes T3	C0004611
+T4	DISO 46 56	crown-gall
+#4	AnnotatorNotes T4	C0032091
+T5	LIVB 59 84	Agrobacterium tumefaciens
+#5	AnnotatorNotes T5	C0085472
+T6	LIVB 59 72	Agrobacterium
+#6	AnnotatorNotes T6	C0001830

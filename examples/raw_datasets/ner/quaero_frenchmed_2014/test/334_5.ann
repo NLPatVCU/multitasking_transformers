@@ -1,0 +1,146 @@
+T1	CHEM 19 27	QUIXIDAR
+#1	AnnotatorNotes T1	C1098510
+T2	CHEM 83 92	injection
+#2	AnnotatorNotes T2	C0086466
+T3	DEVI 142 151	seringues
+#3	AnnotatorNotes T3	C0039142
+T4	CHEM 234 242	Quixidar
+#4	AnnotatorNotes T4	C1098510
+T5	CHEM 258 266	Quixidar
+#5	AnnotatorNotes T5	C1098510
+T6	DISO 291 304	maladie grave
+#6	AnnotatorNotes T6	C0007397
+T7	DISO 291 298	maladie
+#7	AnnotatorNotes T7	C0012634
+T8	PROC 339 349	traitement
+#8	AnnotatorNotes T8	C0087111
+T9	LIVB 376 383	médecin
+#9	AnnotatorNotes T9	C0031831
+T10	PROC 423 430	injecté
+#10	AnnotatorNotes T10	C1533685
+T11	CHEM 439 447	Quixidar
+#11	AnnotatorNotes T11	C1098510
+T12	LIVB 473 480	médecin
+#12	AnnotatorNotes T12	C0031831
+T13	LIVB 490 500	pharmacien
+#13	AnnotatorNotes T13	C0031323
+T14	CHEM 575 583	Quixidar
+#14	AnnotatorNotes T14	C1098510
+T15	CHEM 717 727	médicament
+#15	AnnotatorNotes T15	C0013227
+T16	LIVB 747 754	médecin
+#16	AnnotatorNotes T16	C0031831
+T17	LIVB 764 774	pharmacien
+#17	AnnotatorNotes T17	C0031323
+T18	CHEM 794 805	médicaments
+#18	AnnotatorNotes T18	C0013227
+T19	CHEM 808 816	Quixidar
+#19	AnnotatorNotes T19	C1098510
+T20	DISO 836 855	effets indésirables
+#20	AnnotatorNotes T20	C0559546
+T21	PROC 917 923	notice
+#21	AnnotatorNotes T21	C0013191
+T22	CHEM 981 991	médicament
+#22	AnnotatorNotes T22	C0013227
+T23	GEOG 1044 1054	Européenne
+#23	AnnotatorNotes T23	C0015176
+T24	CHEM 1058 1068	Médicament
+#24	AnnotatorNotes T24	C0013227
+T25	CHEM 1169 1179	médicament
+#25	AnnotatorNotes T25	C0013227
+T26	GEOG 1293 1310	Belgique / België
+#26	AnnotatorNotes T26	C0004950
+T27	CHEM 1488 1496	Quixidar
+#27	AnnotatorNotes T27	C1098510
+T28	CHEM 1513 1532	solution injectable
+#28	AnnotatorNotes T28	C0086466
+T29	PROC 1522 1532	injectable
+#29	AnnotatorNotes T29	C0021485
+T30	CHEM 1533 1541	Quixidar
+#30	AnnotatorNotes T30	C1098510
+T31	CHEM 1562 1581	solution injectable
+#31	AnnotatorNotes T31	C0086466
+T32	PROC 1571 1581	injectable
+#32	AnnotatorNotes T32	C0021485
+T33	CHEM 1582 1590	Quixidar
+#33	AnnotatorNotes T33	C1098510
+T34	CHEM 1608 1627	solution injectable
+#34	AnnotatorNotes T34	C0086466
+T35	PROC 1617 1627	injectable
+#35	AnnotatorNotes T35	C0021485
+T36	CHEM 1628 1640	fondaparinux
+#36	AnnotatorNotes T36	C1098510
+T37	CHEM 1641 1648	sodique
+#37	AnnotatorNotes T37	C0025870
+T38	DISO 1690 1710	risque de saignement
+#38	AnnotatorNotes T38	C3251812
+T39	DISO 1700 1710	saignement
+#39	AnnotatorNotes T39	C0019080
+T40	DISO 1724 1734	hémorragie
+#40	AnnotatorNotes T40	C0019080
+T41	CHEM 1754 1763	injection
+#41	AnnotatorNotes T41	C0086466
+T42	PROC 1847 1854	injecté
+#42	AnnotatorNotes T42	C1533685
+T43	CHEM 1863 1871	Quixidar
+#43	AnnotatorNotes T43	C1098510
+T44	LIVB 1897 1904	médecin
+#44	AnnotatorNotes T44	C0031831
+T45	LIVB 1914 1924	pharmacien
+#45	AnnotatorNotes T45	C0031323
+T46	CHEM 1988 1996	Quixidar
+#46	AnnotatorNotes T46	C1098510
+T47	PROC 2033 2043	traitement
+#47	AnnotatorNotes T47	C0087111
+T48	LIVB 2089 2096	médecin
+#48	AnnotatorNotes T48	C0031831
+T49	DISO 2102 2109	caillot
+#49	AnnotatorNotes T49	C0302148
+T50	PROC 2127 2133	traité
+#50	AnnotatorNotes T50	C0087111
+T51	DISO 2162 2177	caillot de sang
+#51	AnnotatorNotes T51	C0302148
+T52	ANAT 2173 2177	sang
+#52	AnnotatorNotes T52	C0005767
+T53	ANAT 2202 2208	veines
+#53	AnnotatorNotes T53	C0042449
+T54	ANAT 2216 2222	jambes
+#54	AnnotatorNotes T54	C1140621
+T55	ANAT 2226 2233	poumons
+#55	AnnotatorNotes T55	C0024109
+T56	CHEM 2307 2317	médicament
+#56	AnnotatorNotes T56	C0013227
+T57	LIVB 2337 2344	médecin
+#57	AnnotatorNotes T57	C0031831
+T58	DEVI 2363 2372	seringues
+#58	AnnotatorNotes T58	C0039142
+T59	CHEM 2390 2401	médicaments
+#59	AnnotatorNotes T59	C0013227
+T60	DEVI 2409 2418	seringues
+#60	AnnotatorNotes T60	C0039142
+T61	CHEM 2476 2484	Quixidar
+#61	AnnotatorNotes T61	C1098510
+T62	CHEM 2629 2639	médicament
+#62	AnnotatorNotes T62	C0013227
+T63	DEVI 2895 2903	Seringue
+#63	AnnotatorNotes T63	C0039142
+T64	CHEM 2910 2919	INJECTION
+#64	AnnotatorNotes T64	C0086466
+T65	CHEM 2987 2996	injection
+#65	AnnotatorNotes T65	C0086466
+T66	DEVI 3107 3115	seringue
+#66	AnnotatorNotes T66	C0039142
+T67	LIVB 3213 3223	pharmacien
+#67	AnnotatorNotes T67	C0031323
+T68	LIVB 3250 3257	patient
+#68	AnnotatorNotes T68	C0030705
+T69	CHEM 3267 3273	Ranexa
+#69	AnnotatorNotes T69	C1174784
+T70	CHEM 3329 3335	Ranexa
+#70	AnnotatorNotes T70	C1174784
+T71	LIVB 3340 3348	patients
+#71	AnnotatorNotes T71	C0030705
+T72	CHEM 3382 3393	médicaments
+#72	AnnotatorNotes T72	C0013227
+T73	OBJC 2428 2434	égouts
+#73	AnnotatorNotes T73	C0337139

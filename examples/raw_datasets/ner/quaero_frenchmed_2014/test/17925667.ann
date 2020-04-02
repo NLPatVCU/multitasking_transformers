@@ -1,0 +1,18 @@
+T1	DISO 0 7	Empyème
+#1	AnnotatorNotes T1	C0014009
+T2	PROC 14 23	chirurgie
+#2	AnnotatorNotes T2	C0543467
+T3	PROC 14 34	chirurgie d' exérèse
+#3	AnnotatorNotes T3	C0919588
+T4	ANAT 35 45	pulmonaire
+#4	AnnotatorNotes T4	C0024109
+T5	PROC 48 53	étude
+#5	AnnotatorNotes T5	C2603343
+T6	ANAT 70 78	pleurale
+#6	AnnotatorNotes T6	C0032225
+T7	CHEM 85 97	amoxicilline
+#7	AnnotatorNotes T7	C0002645
+T8	CHEM 107 118	vancomycine
+#8	AnnotatorNotes T8	C0042313
+T9	PHYS 60 69	diffusion
+#9	AnnotatorNotes T9	C0012222

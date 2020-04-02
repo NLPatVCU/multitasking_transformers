@@ -1,0 +1,16 @@
+T1	PROC 0 10	Evaluation
+#1	AnnotatorNotes T1	C1261322
+T2	LIVB 100 107	MRSA-ID
+#2	AnnotatorNotes T2	C0343401
+T3	PROC 116 130	identification
+#3	AnnotatorNotes T3	C0679807
+T4	LIVB 134 182	Staphylococcus aureus résistant à la méticilline
+#4	AnnotatorNotes T4	C1828267
+T5	LIVB 134 155	Staphylococcus aureus
+#5	AnnotatorNotes T5	C0857858
+T6	LIVB 134 148	Staphylococcus
+#6	AnnotatorNotes T6	C0038170
+T7	CHEM 171 182	méticilline
+#7	AnnotatorNotes T7	C0025643
+T8	PROC 208 217	dépistage
+#8	AnnotatorNotes T8	C0220908

@@ -1,0 +1,7 @@
+T1	DISO 27 34	lésions
+#1	AnnotatorNotes T1	C0175677
+T2	ANAT 56 66	col utérin
+#2	AnnotatorNotes T2	C0007874
+T3	PROC 12 22	diagnostic
+#3	AnnotatorNotes T3	C0430022
+T4	DISO 27 34;53 66	lésions du col utérin

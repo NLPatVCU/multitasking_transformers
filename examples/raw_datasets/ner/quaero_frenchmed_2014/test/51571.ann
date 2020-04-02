@@ -1,0 +1,8 @@
+T1	DISO 4 20	tumeurs malignes
+#1	AnnotatorNotes T1	C0006826
+T2	DISO 4 11	tumeurs
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 36 51	voies biliaires
+#3	AnnotatorNotes T3	C0005400
+T5	ANAT 42 51	biliaires
+#5	AnnotatorNotes T5	C0005388

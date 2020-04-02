@@ -1,0 +1,10 @@
+T1	CHEM 0 11	Nicergoline
+#1	AnnotatorNotes T1	C0028008
+T2	DISO 55 64	hypodébit
+#2	AnnotatorNotes T2	C1695782
+T4	DISO 84 95	ischémiques
+#4	AnnotatorNotes T4	C0007786
+T5	ANAT 96 105	cérébraux
+#5	AnnotatorNotes T5	C0006111
+T6	DISO 74 105	accidents ischémiques cérébraux
+#6	AnnotatorNotes T6	C0007787

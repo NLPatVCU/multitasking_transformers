@@ -1,0 +1,14 @@
+T2	ANAT 47 69	ligaments de l' utérus
+#2	AnnotatorNotes T2	C0230316
+T3	ANAT 47 56	ligaments
+#3	AnnotatorNotes T3	C0023685
+T4	ANAT 63 69	utérus
+#4	AnnotatorNotes T4	C0042149
+T5	PROC 83 105	techniques opératoires
+#5	AnnotatorNotes T5	C0011918
+T6	PROC 114 124	traitement
+#6	AnnotatorNotes T6	C0087111
+T7	DISO 128 144	prolapsus utérin
+#7	AnnotatorNotes T7	C0042140
+T8	ANAT 138 144	utérin
+#8	AnnotatorNotes T8	C0042149

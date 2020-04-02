@@ -1,0 +1,10 @@
+T1	ANAT 32 38	tibial
+#1	AnnotatorNotes T1	C0040184
+T2	DEVI 46 70	prothèse totale de genou
+#2	AnnotatorNotes T2	C0182477
+T3	ANAT 65 70	genou
+#3	AnnotatorNotes T3	C0022742
+T4	ANAT 24 38	plateau tibial
+#4	AnnotatorNotes T4	C0584640
+T5	PROC 0 5	Etude
+#5	AnnotatorNotes T5	C0008972

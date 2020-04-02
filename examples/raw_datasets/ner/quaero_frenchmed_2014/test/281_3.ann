@@ -1,0 +1,360 @@
+T1	DEVI 34 43	emballage
+#1	AnnotatorNotes T1	C0013194
+T2	CHEM 56 71	Olanzapine Teva
+#2	AnnotatorNotes T2	C0527258
+T3	CHEM 80 100	comprimés pelliculés
+#3	AnnotatorNotes T3	C1273643
+T4	CHEM 80 89	comprimés
+#4	AnnotatorNotes T4	C0039225
+T5	CHEM 110 128	comprimé pelliculé
+#5	AnnotatorNotes T5	C1273643
+T6	CHEM 110 118	comprimé
+#6	AnnotatorNotes T6	C0039225
+T7	CHEM 152 159	lactose
+#7	AnnotatorNotes T7	C0022949
+T8	CHEM 164 172	Comprimé
+#8	AnnotatorNotes T8	C0039225
+T9	LIVB 254 261	Enfants
+#9	AnnotatorNotes T9	C0008059
+T10	LIVB 265 276	adolescents
+#10	AnnotatorNotes T10	C0205653
+T11	CHEM 300 310	olanzapine
+#11	AnnotatorNotes T11	C0171023
+T12	LIVB 320 327	enfants
+#12	AnnotatorNotes T12	C0008059
+T13	LIVB 335 346	adolescents
+#13	AnnotatorNotes T13	C0205653
+T14	PROC 383 394	recommandée
+#14	AnnotatorNotes T14	C1136220
+T15	PHEN 431 439	sécurité
+#15	AnnotatorNotes T15	C0036043
+T16	DISO 492 524	Affections musculo-squelettiques
+#16	AnnotatorNotes T16	C0263660
+T17	DISO 492 502;543 551	Affections osseuses
+#17	AnnotatorNotes T17	C0005940
+T18	ANAT 543 551	osseuses
+#18	AnnotatorNotes T18	C0005931
+T19	DISO 552 565	Rhabdomyolyse
+#19	AnnotatorNotes T19	C0035410
+T20	DISO 566 584	Affections du rein
+#20	AnnotatorNotes T20	C0022658
+T21	ANAT 580 584	rein
+#21	AnnotatorNotes T21	C0022646
+T22	DISO 566 576;588 607	Affections des voies urinaires
+#22	AnnotatorNotes T22	C0042075
+T23	ANAT 592 607	voies urinaires
+#23	AnnotatorNotes T23	C0042027
+T24	DISO 608 615	Dysurie
+#24	AnnotatorNotes T24	C0013428
+T25	PHYS 642 654	reproduction
+#25	AnnotatorNotes T25	C0035150
+T26	DISO 616 626;658 665	Affections du sein
+#26	AnnotatorNotes T26	C00061145
+T27	ANAT 661 665	sein
+#27	AnnotatorNotes T27	C0006141
+T28	DISO 666 675	Priapisme
+#28	AnnotatorNotes T28	C0033117
+T29	LIVB 761 786	populations particulières
+#29	AnnotatorNotes T29	C0242444
+T30	PROC 800 816	essais cliniques
+#30	AnnotatorNotes T30	C2603343
+T31	LIVB 826 839	patients âgés
+#31	AnnotatorNotes T31	C0001792
+T32	LIVB 826 834	patients
+#32	AnnotatorNotes T32	C0030705
+T33	DISO 840 847	déments
+#33	AnnotatorNotes T33	C0860630
+T34	PROC 853 863	traitement
+#34	AnnotatorNotes T34	C0087111
+T35	CHEM 868 878	olanzapine
+#35	AnnotatorNotes T35	C0171023
+T36	PHYS 923 928	décès
+#36	AnnotatorNotes T36	C0011065
+T37	DISO 936 959	événements indésirables
+#37	AnnotatorNotes T37	C0559546
+T38	ANAT 960 971	vasculaires
+#38	AnnotatorNotes T38	C0005847
+T39	ANAT 972 981	cérébraux
+#39	AnnotatorNotes T39	C0006104
+T40	CHEM 997 1004	placebo
+#40	AnnotatorNotes T40	C1696465
+T41	CHEM 1032 1044	Hypromellose
+#41	AnnotatorNotes T41	C0063242
+T42	CHEM 1073 1085	polydextrose
+#42	AnnotatorNotes T42	C0071545
+T43	CHEM 1088 1100	hypromellose
+#43	AnnotatorNotes T43	C0063242
+T44	CHEM 1103 1112	diacétate
+#44	AnnotatorNotes T44	C0369114
+T45	CHEM 1116 1124	glycérol
+#45	AnnotatorNotes T45	C0017861
+T46	CHEM 1143 1160	dioxyde de titane
+#46	AnnotatorNotes T46	C0076733
+T47	CHEM 1143 1150	dioxyde
+#47	AnnotatorNotes T47	C0678717
+T48	CHEM 1154 1160	titane
+#48	AnnotatorNotes T48	C0040302
+T49	CHEM 1161 1165	E171
+#49	AnnotatorNotes T49	C3256964
+T50	CHEM 1168 1186	oxyde de fer rouge
+#50	AnnotatorNotes T50	C3256884
+T51	CHEM 1168 1180	oxyde de fer
+#51	AnnotatorNotes T51	C0060240
+T52	CHEM 1168 1173	oxyde
+#52	AnnotatorNotes T52	C0030015
+T53	CHEM 1177 1180	fer
+#53	AnnotatorNotes T53	C0302583
+T54	CHEM 1196 1211	Olanzapine Teva
+#54	AnnotatorNotes T54	C0527258
+T55	CHEM 1219 1244	comprimés orodispersibles
+#55	AnnotatorNotes T55	C2960508
+T56	CHEM 1219 1228	comprimés
+#56	AnnotatorNotes T56	C0039225
+T57	CHEM 1254 1277	comprimé orodispersible
+#57	AnnotatorNotes T57	C2960508
+T58	CHEM 1254 1262	comprimé
+#58	AnnotatorNotes T58	C0039225
+T59	CHEM 1296 1306	olanzapine
+#59	AnnotatorNotes T59	C0171023
+T60	CHEM 1318 1341	comprimé orodispersible
+#60	AnnotatorNotes T60	C2960508
+T61	CHEM 1318 1326	comprimé
+#61	AnnotatorNotes T61	C0039225
+T62	CHEM 1371 1381	tartrazine
+#62	AnnotatorNotes T62	C0039329
+T63	OBJC 1382 1387	laque
+#63	AnnotatorNotes T63	C0022902
+T64	CHEM 1407 1430	comprimé orodispersible
+#64	AnnotatorNotes T64	C2960508
+T65	CHEM 1407 1415	comprimé
+#65	AnnotatorNotes T65	C0039225
+T66	CHEM 1462 1475	Comprimé rond
+#66	AnnotatorNotes T66	C0994475
+T67	CHEM 1462 1470	Comprimé
+#67	AnnotatorNotes T67	C0039225
+T68	PHEN 1484 1491	couleur
+#68	AnnotatorNotes T68	C0009393
+T69	PROC 1557 1564	retirer
+#69	AnnotatorNotes T69	C0015252
+T70	CHEM 1575 1598	comprimé orodispersible
+#70	AnnotatorNotes T70	C2960508
+T71	CHEM 1575 1583	comprimé
+#71	AnnotatorNotes T71	C0039225
+T72	CHEM 1606 1629	comprimé orodispersible
+#72	AnnotatorNotes T72	C2960508
+T73	CHEM 1606 1614	comprimé
+#73	AnnotatorNotes T73	C0039225
+T74	PROC 1659 1669	administré
+#74	AnnotatorNotes T74	C1533734
+T75	CHEM 1706 1728	plaquette thermoformée
+#75	AnnotatorNotes T75	C1319688
+T76	PROC 1756 1763	dissous
+#76	AnnotatorNotes T76	C1285147
+T77	DEVI 1778 1783	verre
+#77	AnnotatorNotes T77	C1947936
+T78	CHEM 1788 1791	eau
+#78	AnnotatorNotes T78	C0043047
+T79	OBJC 1812 1819	boisson
+#79	AnnotatorNotes T79	C0524819
+T80	OBJC 1830 1844	jus d ’ orange
+#80	AnnotatorNotes T80	C0452458
+T81	OBJC 1830 1833	jus
+#81	AnnotatorNotes T81	C1268568
+T82	OBJC 1838 1844	orange
+#82	AnnotatorNotes T82	C0440277
+T83	OBJC 1847 1859	jus de pomme
+#83	AnnotatorNotes T83	C0452454
+T84	OBJC 1847 1850	jus
+#84	AnnotatorNotes T84	C1268568
+T85	OBJC 1854 1859	pomme
+#85	AnnotatorNotes T85	C1095830
+T86	OBJC 1862 1866	lait
+#86	AnnotatorNotes T86	C0349374
+T87	OBJC 1870 1874	café
+#87	AnnotatorNotes T87	C0009237
+T88	PROC 1897 1911	administration
+#88	AnnotatorNotes T88	C1533734
+T89	CHEM 1920 1930	olanzapine
+#89	AnnotatorNotes T89	C0171023
+T90	CHEM 1931 1954	comprimé orodispersible
+#90	AnnotatorNotes T90	C2960508
+T91	CHEM 1931 1939	comprimé
+#91	AnnotatorNotes T91	C0039225
+T92	CHEM 2006 2021	comprimé enrobé
+#92	AnnotatorNotes T92	C1273642
+T93	CHEM 2006 2014	comprimé
+#93	AnnotatorNotes T93	C0039225
+T94	CHEM 2111 2126	Olanzapine Teva
+#94	AnnotatorNotes T94	C0527258
+T95	CHEM 2129 2149	comprimés pelliculés
+#95	AnnotatorNotes T95	C1273643
+T96	CHEM 2129 2138	comprimés
+#96	AnnotatorNotes T96	C0039225
+T97	CHEM 2213 2229	antipsychotiques
+#97	AnnotatorNotes T97	C0040615
+T98	PROC 2239 2249	recommandé
+#98	AnnotatorNotes T98	C1136220
+T99	PHYS 2279 2298	pression artérielle
+#99	AnnotatorNotes T99	C0871470
+T100	ANAT 2288 2298	artérielle
+#100	AnnotatorNotes T100	C0003842
+T101	LIVB 2303 2329	patients de plus de 65 ans
+#101	AnnotatorNotes T101	C0001792
+T102	LIVB 2303 2311	patients
+#102	AnnotatorNotes T102	C0030705
+T103	CHEM 2338 2347	comprimés
+#103	AnnotatorNotes T103	C0039225
+T104	CHEM 2408 2430	plaquette thermoformée
+#104	AnnotatorNotes T104	C1319688
+T105	OBJC 2438 2442	film
+#105	AnnotatorNotes T105	C1561572
+T106	CHEM 2457 2466	plaquette
+#106	AnnotatorNotes T106	C1319688
+T107	PROC 2477 2484	retirée
+#107	AnnotatorNotes T107	C0015252
+T108	CHEM 2500 2508	comprimé
+#108	AnnotatorNotes T108	C0039225
+T109	LIVB 2517 2525	patients
+#109	AnnotatorNotes T109	C0030705
+T110	DISO 2539 2560	troubles héréditaires
+#110	AnnotatorNotes T110	C0019247
+T111	DISO 2570 2604	malabsorption du glucose-galactose
+#111	AnnotatorNotes T111	C0865194
+T112	DISO 2570 2583	malabsorption
+#112	AnnotatorNotes T112	C0024523
+T113	CHEM 2631 2641	médicament
+#113	AnnotatorNotes T113	C0013227
+T114	ANAT 2664 2676	plasmatiques
+#114	AnnotatorNotes T114	C0032105
+T115	CHEM 2680 2689	valproate
+#115	AnnotatorNotes T115	C0080356
+T116	CHEM 2748 2757	valproate
+#116	AnnotatorNotes T116	C0080356
+T117	PROC 2788 2798	traitement
+#117	AnnotatorNotes T117	C0087111
+T118	CHEM 2807 2817	olanzapine
+#118	AnnotatorNotes T118	C0171023
+T119	DISO 2842 2874	Affections musculo-squelettiques
+#119	AnnotatorNotes T119	C0263660
+T120	DISO 2842 2852;2893 2901	Affections osseuses
+#120	AnnotatorNotes T120	C0005940
+T121	ANAT 2893 2901	osseuses
+#121	AnnotatorNotes T121	C0005931
+T122	DISO 2902 2915	Rhabdomyolyse
+#122	AnnotatorNotes T122	C0035410
+T123	DISO 2916 2934	Affections du rein
+#123	AnnotatorNotes T123	C0022658
+T124	ANAT 2930 2934	rein
+#124	AnnotatorNotes T124	C0022646
+T125	DISO 2916 2926;2938 2957	Affections des voies urinaires
+#125	AnnotatorNotes T125	C0042075
+T126	ANAT 2942 2957	voies urinaires
+#126	AnnotatorNotes T126	C0042027
+T127	DISO 2958 2965	Dysurie
+#127	AnnotatorNotes T127	C0013428
+T128	PHYS 2992 3004	reproduction
+#128	AnnotatorNotes T128	C0035150
+T129	DISO 2966 2976;3008 3015	Affections du sein
+#129	AnnotatorNotes T129	C00061145
+T130	ANAT 3011 3015	sein
+#130	AnnotatorNotes T130	C0006141
+T131	DISO 3016 3025	Priapisme
+#131	AnnotatorNotes T131	C0033117
+T132	LIVB 3111 3136	populations particulières
+#132	AnnotatorNotes T132	C0242444
+T133	PROC 3150 3166	essais cliniques
+#133	AnnotatorNotes T133	C2603343
+T134	LIVB 3176 3189	patients âgés
+#134	AnnotatorNotes T134	C0001792
+T135	LIVB 3176 3184	patients
+#135	AnnotatorNotes T135	C0030705
+T136	DISO 3190 3197	déments
+#136	AnnotatorNotes T136	C0860630
+T137	PROC 3203 3213	traitement
+#137	AnnotatorNotes T137	C0087111
+T138	CHEM 3218 3228	olanzapine
+#138	AnnotatorNotes T138	C0171023
+T139	PHYS 3273 3278	décès
+#139	AnnotatorNotes T139	C0011065
+T140	DISO 3286 3309	événements indésirables
+#140	AnnotatorNotes T140	C0559546
+T141	ANAT 3310 3321	vasculaires
+#141	AnnotatorNotes T141	C0005847
+T142	ANAT 3322 3331	cérébraux
+#142	AnnotatorNotes T142	C0006104
+T143	CHEM 3347 3354	placebo
+#143	AnnotatorNotes T143	C1696465
+T144	PROC 3391 3410	études précliniques
+#144	AnnotatorNotes T144	C1709631
+T145	PROC 3391 3397	études
+#145	AnnotatorNotes T145	C2603343
+T146	CHEM 3417 3427	olanzapine
+#146	AnnotatorNotes T146	C0171023
+T147	CHEM 3464 3474	récepteurs
+#147	AnnotatorNotes T147	C0597357
+T148	PROC 3491 3496	étude
+#148	AnnotatorNotes T148	C2603343
+T149	PROC 3500 3536	tomographie par émission de positron
+#149	AnnotatorNotes T149	C0032743
+T150	PROC 3500 3511	tomographie
+#150	AnnotatorNotes T150	C0040395
+T151	PROC 3539 3542	PET
+#151	AnnotatorNotes T151	C0032743
+T152	LIVB 3553 3563	volontaire
+#152	AnnotatorNotes T152	C1997894
+T153	CHEM 3616 3626	olanzapine
+#153	AnnotatorNotes T153	C0171023
+T154	CHEM 3657 3667	récepteurs
+#154	AnnotatorNotes T154	C0597357
+T155	CHEM 3697 3707	récepteurs
+#155	AnnotatorNotes T155	C0597357
+T156	DISO 3719 3730	neutropénie
+#156	AnnotatorNotes T156	C0027947
+T157	DISO 3748 3764	thrombocytopénie
+#157	AnnotatorNotes T157	C0040034
+T158	DISO 3785 3791	anémie
+#158	AnnotatorNotes T158	C0002871
+T159	LIVB 3821 3827	chiens
+#159	AnnotatorNotes T159	C0012984
+T160	PROC 3828 3835	traités
+#160	AnnotatorNotes T160	C0087111
+T161	DISO 3866 3876	exposition
+#161	AnnotatorNotes T161	C2905623
+T162	CHEM 3890 3900	olanzapine
+#162	AnnotatorNotes T162	C0171023
+T163	LIVB 3973 3978	homme
+#163	AnnotatorNotes T163	C0086418
+T164	CHEM 4013 4021	Mannitol
+#164	AnnotatorNotes T164	C0024730
+T165	CHEM 4024 4028	E421
+#165	AnnotatorNotes T165	C0024730
+T166	CHEM 4031 4061	Glycolate d ’ amidon de sodium
+#166	AnnotatorNotes T166	C0142927
+T167	CHEM 4031 4040	Glycolate
+#167	AnnotatorNotes T167	C0017948
+T168	CHEM 4045 4061	amidon de sodium
+#168	AnnotatorNotes T168	C3256938
+T169	CHEM 4045 4051	amidon
+#169	AnnotatorNotes T169	C0038179
+T170	CHEM 4055 4061	sodium
+#170	AnnotatorNotes T170	C0037473
+T171	OBJC 4083 4088	Arôme
+#171	AnnotatorNotes T171	C0475332
+T172	LIVB 4089 4096	vanille
+#172	AnnotatorNotes T172	C1015855
+T173	CHEM 4097 4107	Tartrazine
+#173	AnnotatorNotes T173	C0039329
+T174	OBJC 4108 4113	laque
+#174	AnnotatorNotes T174	C0022902
+T175	CHEM 3657 3673	récepteurs 5HT2A
+#175	AnnotatorNotes T175	C0289174
+T176	CHEM 3697 3710	récepteurs D2
+#176	AnnotatorNotes T176	C0058698
+T177	DISO 492 502;528 539	Affections systémiques
+#177	AnnotatorNotes T177	C0442893
+T178	DISO 2842 2852;2878 2889	Affections systémiques
+#178	AnnotatorNotes T178	C0442893
+T179	DISO 616 654	Affections des organes de reproduction
+#179	AnnotatorNotes T179	C0178829
+T180	DISO 2966 3004	Affections des organes de reproduction
+#180	AnnotatorNotes T180	C0178829

@@ -1,0 +1,10 @@
+T1	CHEM 0 13	Pénicilline G
+#1	AnnotatorNotes T1	C0030827
+T2	CHEM 0 11	Pénicilline
+#2	AnnotatorNotes T2	C0220892
+T3	PROC 16 25	Recherche
+#3	AnnotatorNotes T3	C0557959
+T4	PHEN 30 39	impuretés
+#4	AnnotatorNotes T4	C1136006
+T5	DISO 40 53	allergisantes
+#5	AnnotatorNotes T5	C0020517

@@ -1,0 +1,14 @@
+T1	DISO 0 19	Metastase cerebrale
+#1	AnnotatorNotes T1	C0220650
+T2	DISO 0 9	Metastase
+#2	AnnotatorNotes T2	C0027627
+T3	ANAT 10 19	cerebrale
+#3	AnnotatorNotes T3	C0006104
+T4	DISO 38 69	carinome epidermoide pulmonaire
+#4	AnnotatorNotes T4	C0684249
+T5	DISO 38 46	carinome
+#5	AnnotatorNotes T5	C0007097
+T6	ANAT 59 69	pulmonaire
+#6	AnnotatorNotes T6	C0024109
+T7	PROC 85 107	imagerie multinodalite
+#7	AnnotatorNotes T7	C1513743

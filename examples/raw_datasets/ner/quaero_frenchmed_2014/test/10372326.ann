@@ -1,0 +1,8 @@
+T1	DISO 0 34	Ostéomyélite chronique multifocale
+#1	AnnotatorNotes T1	C0410422
+T2	DISO 0 12	Ostéomyélite
+#2	AnnotatorNotes T2	C0029443
+T3	PROC 48 61	scintigraphie
+#3	AnnotatorNotes T3	C0034606
+T4	PROC 65 68	IRM
+#4	AnnotatorNotes T4	C0024485

@@ -1,0 +1,8 @@
+T1	PROC 0 14	Essai clinique
+#1	AnnotatorNotes T1	C0008972
+T2	CHEM 21 33	mesoridazine
+#2	AnnotatorNotes T2	C0025497
+T3	LIVB 56 64	patients
+#3	AnnotatorNotes T3	C0030705
+T4	DISO 65 77	psychotiques
+#4	AnnotatorNotes T4	C0033975

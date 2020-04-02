@@ -1,0 +1,14 @@
+T1	PROC 3 28	artèriographie bronchique
+#1	AnnotatorNotes T1	C0412247
+T2	PROC 3 17	artèriographie
+#2	AnnotatorNotes T2	C0003844
+T3	ANAT 18 28	bronchique
+#3	AnnotatorNotes T3	C006255
+T5	DISO 62 81	cancers pulmonaires
+#5	AnnotatorNotes T5	C0242379
+T6	DISO 62 69	cancers
+#6	AnnotatorNotes T6	C0027651
+T7	ANAT 70 81	pulmonaires
+#7	AnnotatorNotes T7	C0024109
+T4	PROC 47 57	diagnositc
+#4	AnnotatorNotes T4	C0430022

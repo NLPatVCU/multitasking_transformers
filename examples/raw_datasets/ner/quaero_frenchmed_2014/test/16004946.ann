@@ -1,0 +1,8 @@
+T1	DISO 18 41	infections nosocomiales
+#1	AnnotatorNotes T1	C0205721
+T2	LIVB 44 66	Pseudomonas aeruginosa
+#2	AnnotatorNotes T2	C0033809
+T3	LIVB 69 89	Burkholderia cepacia
+#3	AnnotatorNotes T3	C0085469
+T4	LIVB 93 121	Stenotrophomonas maltophilia
+#4	AnnotatorNotes T4	C0318290

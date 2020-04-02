@@ -1,0 +1,22 @@
+T2	CHEM 10 34	substances sulfhydrilées
+#2	AnnotatorNotes T2	C0038734
+T3	CHEM 37 45	cystéine
+#3	AnnotatorNotes T3	C0010654
+T4	CHEM 48 60	homocystéine
+#4	AnnotatorNotes T4	C0019878
+T5	CHEM 64 77	pénicillamine
+#5	AnnotatorNotes T5	C0030817
+T6	PHYS 87 100	développement
+#6	AnnotatorNotes T6	C0243107
+T7	ANAT 107 111	oeuf
+#7	AnnotatorNotes T7	C0029974
+T8	LIVB 118 124	oursin
+#8	AnnotatorNotes T8	C0036488
+T9	LIVB 125 146	Paracentrotus lividus
+#9	AnnotatorNotes T9	C0998694
+T10	LIVB 125 138	Paracentrotus
+#10	AnnotatorNotes T10	C0998693
+T11	CHEM 173 186	acides aminés
+#11	AnnotatorNotes T11	C0002520
+T12	CHEM 173 179	acides
+#12	AnnotatorNotes T12	C0001128

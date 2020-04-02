@@ -1,0 +1,8 @@
+T1	DISO 0 33	Pathologie otorhinolaryngologique
+#1	AnnotatorNotes T1	C0029896
+T2	LIVB 43 50	malades
+#2	AnnotatorNotes T2	C0008942
+T3	DISO 63 79	asthme bronchial
+#3	AnnotatorNotes T3	C0004096
+T4	ANAT 70 79	bronchial
+#4	AnnotatorNotes T4	C0006255

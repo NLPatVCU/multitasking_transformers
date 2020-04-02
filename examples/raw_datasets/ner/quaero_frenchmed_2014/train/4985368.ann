@@ -1,0 +1,14 @@
+T1	DISO 11 18	lésions
+#1	AnnotatorNotes T1	C0221198
+T2	DISO 19 32	épileptogènes
+#2	AnnotatorNotes T2	C0014544
+T3	ANAT 44 55	occipitales
+#3	AnnotatorNotes T3	C1184145
+T4	LIVB 84 95	Papio papio
+#4	AnnotatorNotes T4	C1263339
+T5	LIVB 84 89	Papio
+#5	AnnotatorNotes T5	C0030362
+T6	LIVB 90 95	papio
+#6	AnnotatorNotes T6	C0030362
+T7	DISO 33 43	chroniques
+#7	AnnotatorNotes T7	C0008679

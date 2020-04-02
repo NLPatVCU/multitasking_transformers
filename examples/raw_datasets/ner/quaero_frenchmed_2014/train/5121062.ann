@@ -1,0 +1,10 @@
+T1	PROC 0 14	Etude clinique
+#1	AnnotatorNotes T1	C0008972
+T2	PROC 0 5	Etude
+#2	AnnotatorNotes T2	C2603343
+T3	DISO 38 54	sarcomes utérins
+#3	AnnotatorNotes T3	C0338113
+T4	DISO 38 46	sarcomes
+#4	AnnotatorNotes T4	C1261473
+T5	ANAT 47 54	utérins
+#5	AnnotatorNotes T5	C0042149

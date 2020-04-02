@@ -1,0 +1,10 @@
+T1	DISO 14 26	malpositions
+#1	AnnotatorNotes T1	C0206231
+T2	DISO 47 53	plaque
+#2	AnnotatorNotes T2	C0011389
+T3	DISO 60 72	inflammation
+#3	AnnotatorNotes T3	C0021368
+T4	ANAT 73 82	gingivale
+#4	AnnotatorNotes T4	C0017562
+T5	DISO 60 82	inflammation gingivale
+#5	AnnotatorNotes T5	C0017574

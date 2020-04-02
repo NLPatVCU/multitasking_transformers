@@ -1,0 +1,22 @@
+T1	PROC 0 12	Remplacement
+#1	AnnotatorNotes T1	C0035139
+T2	ANAT 19 26	uretère
+#2	AnnotatorNotes T2	C0041951
+T3	DEVI 35 43	prothèse
+#3	AnnotatorNotes T3	C0175649
+T4	CHEM 47 57	élastomère
+#4	AnnotatorNotes T4	C0013766
+T5	CHEM 61 69	silicone
+#5	AnnotatorNotes T5	C0037114
+T6	PROC 72 91	Etude experimentale
+#6	AnnotatorNotes T6	C0681814
+T7	PROC 72 77	Etude
+#7	AnnotatorNotes T7	C2603343
+T8	PROC 78 91	experimentale
+#8	AnnotatorNotes T8	C0678323
+T9	PROC 107 120	remplacements
+#9	AnnotatorNotes T9	C0035139
+T10	ANAT 121 130	uretéraux
+#10	AnnotatorNotes T10	C0041951
+T11	LIVB 139 145	chiens
+#11	AnnotatorNotes T11	C0012984

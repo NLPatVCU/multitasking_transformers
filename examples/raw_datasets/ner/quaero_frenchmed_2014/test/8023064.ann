@@ -1,0 +1,14 @@
+T1	DISO 0 28	Maladie de Creutzfeldt-Jakob
+#1	AnnotatorNotes T1	C0022336
+T2	DISO 0 7	Maladie
+#2	AnnotatorNotes T2	C0012634
+T3	PROC 35 45	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	CHEM 53 74	hormone de croissance
+#4	AnnotatorNotes T4	C0037663
+T5	CHEM 53 60	hormone
+#5	AnnotatorNotes T5	C0019932
+T6	LIVB 86 93	humaine
+#6	AnnotatorNotes T6	C0086418
+T7	PROC 96 101	étude
+#7	AnnotatorNotes T7	C2603343

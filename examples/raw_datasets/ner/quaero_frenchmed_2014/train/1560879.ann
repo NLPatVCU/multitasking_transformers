@@ -1,0 +1,18 @@
+T1	DISO 0 31	Anévrysmes géants intracrâniens
+#1	AnnotatorNotes T1	C0751004
+T2	DISO 0 10	Anévrysmes
+#2	AnnotatorNotes T2	C0002940
+T3	DISO 11 17	géants
+#3	AnnotatorNotes T3	C0017547
+T4	ANAT 18 31	intracrâniens
+#4	AnnotatorNotes T4	C0524466
+T5	PROC 34 67	Traitement endovasculaire électif
+#5	AnnotatorNotes T5	C0815154
+T6	PROC 34 44	Traitement
+#6	AnnotatorNotes T6	C0087111
+T7	ANAT 45 59	endovasculaire
+#7	AnnotatorNotes T7	C0524425
+T8	CHEM 83 94	métalliques
+#8	AnnotatorNotes T8	C0025552
+T9	DEVI 76 94	spires métalliques
+#9	AnnotatorNotes T9	C1961523

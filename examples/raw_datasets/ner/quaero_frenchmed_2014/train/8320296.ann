@@ -1,0 +1,6 @@
+T1	PROC 0 20	Colectomie subtotale
+#1	AnnotatorNotes T1	C0149750
+T2	PROC 0 10	Colectomie
+#2	AnnotatorNotes T2	C0009274
+T3	PROC 26 38	coelioscopie
+#3	AnnotatorNotes T3	C0031150

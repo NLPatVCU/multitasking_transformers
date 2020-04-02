@@ -1,0 +1,484 @@
+T1	CHEM 3 10	TYSABRI
+#1	AnnotatorNotes T1	C1529600
+T2	PROC 36 59	perfusion intraveineuse
+#2	AnnotatorNotes T2	C0455142
+T3	CHEM 95 102	TYSABRI
+#3	AnnotatorNotes T3	C1529600
+T4	LIVB 135 141	sujets
+#4	AnnotatorNotes T4	C0027361
+T5	LIVB 212 222	population
+#5	AnnotatorNotes T5	C0242445
+T6	CHEM 227 234	TYSABRI
+#6	AnnotatorNotes T6	C1529600
+T7	LIVB 263 270	enfants
+#7	AnnotatorNotes T7	C0008059
+T8	LIVB 278 289	adolescents
+#8	AnnotatorNotes T8	C0205653
+T9	PROC 324 329	étude
+#9	AnnotatorNotes T9	C2603343
+T10	DISO 383 402	insuffisance rénale
+#10	AnnotatorNotes T10	C1565489
+T11	ANAT 396 402	rénale
+#11	AnnotatorNotes T11	C0022646
+T12	DISO 406 415	hépatique
+#12	AnnotatorNotes T12	C1306571
+T13	ANAT 406 415	hépatique
+#13	AnnotatorNotes T13	C0023884
+T14	PROC 470 476	études
+#14	AnnotatorNotes T14	C2603343
+T15	DISO 590 609	insuffisance rénale
+#15	AnnotatorNotes T15	C1565489
+T16	ANAT 603 609	rénale
+#16	AnnotatorNotes T16	C0022646
+T17	DISO 613 622	hépatique
+#17	AnnotatorNotes T17	C1306571
+T18	ANAT 613 622	hépatique
+#18	AnnotatorNotes T18	C0023884
+T19	PHEN 712 718	emploi
+#19	AnnotatorNotes T19	C0014007
+T20	DISO 743 759	Hypersensibilité
+#20	AnnotatorNotes T20	C0020517
+T21	CHEM 763 774	natalizumab
+#21	AnnotatorNotes T21	C1172734
+T22	CHEM 791 801	excipients
+#22	AnnotatorNotes T22	C0015237
+T23	DISO 806 850	Leucoencéphalopathie multifocale progressive
+#23	AnnotatorNotes T23	C0023524
+T24	DISO 853 857	LEMP
+#24	AnnotatorNotes T24	C0023524
+T25	LIVB 863 871	Patients
+#25	AnnotatorNotes T25	C0030705
+T26	DISO 903 927	infections opportunistes
+#26	AnnotatorNotes T26	C0029118
+T27	LIVB 940 948	patients
+#27	AnnotatorNotes T27	C0030705
+T28	LIVB 966 974	patients
+#28	AnnotatorNotes T28	C0030705
+T29	PROC 980 990	traitement
+#29	AnnotatorNotes T29	C0087111
+T30	LIVB 1012 1020	patients
+#30	AnnotatorNotes T30	C0030705
+T31	PROC 1044 1054	traitement
+#31	AnnotatorNotes T31	C0087111
+T32	CHEM 1082 1094	mitoxantrone
+#32	AnnotatorNotes T32	C0026259
+T33	CHEM 1098 1114	cyclophosphamide
+#33	AnnotatorNotes T33	C0010583
+T34	PHYS 1166 1177	Association
+#34	AnnotatorNotes T34	C0004083
+T35	CHEM 1187 1203	interférons bêta
+#35	AnnotatorNotes T35	C0015980
+T36	CHEM 1211 1233	acétate de glatiramère
+#36	AnnotatorNotes T36	C0289884
+T37	CHEM 1211 1218	acétate
+#37	AnnotatorNotes T37	C0000975
+T38	DISO 1238 1245	Cancers
+#38	AnnotatorNotes T38	C0027651
+T39	DISO 1295 1330	carcinomes cutanés baso-cellulaires
+#39	AnnotatorNotes T39	C0007117
+T40	DISO 1295 1305	carcinomes
+#40	AnnotatorNotes T40	C0007097
+T41	ANAT 1306 1313	cutanés
+#41	AnnotatorNotes T41	C1123023
+T42	DISO 1335 1379	Leucoencéphalopathie multifocale progressive
+#42	AnnotatorNotes T42	C0023524
+T43	DISO 1382 1386	LEMP
+#43	AnnotatorNotes T43	C0023524
+T44	PROC 1405 1438	imagerie par résonance magnétique
+#44	AnnotatorNotes T44	C0024485
+T45	PROC 1441 1444	IRM
+#45	AnnotatorNotes T45	C0024485
+T46	PROC 1564 1574	traitement
+#46	AnnotatorNotes T46	C0087111
+T47	CHEM 1579 1586	TYSABRI
+#47	AnnotatorNotes T47	C1529600
+T48	LIVB 1595 1603	patients
+#48	AnnotatorNotes T48	C0030705
+T49	DISO 1708 1717	symptômes
+#49	AnnotatorNotes T49	C1457887
+T50	DISO 1724 1744	signes neurologiques
+#50	AnnotatorNotes T50	C0751378
+T51	DISO 1765 1769	LEMP
+#51	AnnotatorNotes T51	C0023524
+T52	LIVB 1777 1784	médecin
+#52	AnnotatorNotes T52	C0031831
+T53	LIVB 1817 1824	patient
+#53	AnnotatorNotes T53	C0030705
+T54	DISO 1848 1857	symptômes
+#54	AnnotatorNotes T54	C1457887
+T55	DISO 1871 1901	dysfonctionnement neurologique
+#55	AnnotatorNotes T55	C0751377
+T56	DISO 1949 1958	symptômes
+#56	AnnotatorNotes T56	C1457887
+T57	DISO 1981 1984	SEP
+#57	AnnotatorNotes T57	C0026769
+T58	DISO 2007 2011	LEMP
+#58	AnnotatorNotes T58	C0023524
+T59	PROC 2078 2081	IRM
+#59	AnnotatorNotes T59	C0024485
+T60	CHEM 2103 2123	produit de contraste
+#60	AnnotatorNotes T60	C0009924
+T61	PROC 2146 2149	IRM
+#61	AnnotatorNotes T61	C0024485
+T62	PROC 2165 2175	traitement
+#62	AnnotatorNotes T62	C0087111
+T63	ANAT 2198 2201	ADN
+#63	AnnotatorNotes T63	C0012854
+T64	LIVB 2205 2213	virus JC
+#64	AnnotatorNotes T64	C0022369
+T65	LIVB 2205 2210	virus
+#65	AnnotatorNotes T65	C0042776
+T66	CHEM 2222 2225	LCR
+#66	AnnotatorNotes T66	C0007806
+T67	ANAT 2222 2225	LCR
+#67	AnnotatorNotes T67	C0007806
+T68	PROC 2240 2261	examens neurologiques
+#68	AnnotatorNotes T68	C0027853
+T69	LIVB 2370 2378	patients
+#69	AnnotatorNotes T69	C0030705
+T70	DISO 2394 2413	sclérose en plaques
+#70	AnnotatorNotes T70	C0026769
+T71	PROC 2417 2424	traités
+#71	AnnotatorNotes T71	C0087111
+T72	CHEM 2429 2436	TYSABRI
+#72	AnnotatorNotes T72	C1529600
+T73	PROC 2471 2481	traitement
+#73	AnnotatorNotes T73	C0087111
+T74	CHEM 2486 2497	natalizumab
+#74	AnnotatorNotes T74	C1172734
+T75	DISO 2557 2561	LEMP
+#75	AnnotatorNotes T75	C0023524
+T76	DISO 2602 2619	examens cliniques
+#76	AnnotatorNotes T76	C1456356
+T77	PROC 2626 2634	imagerie
+#77	AnnotatorNotes T77	C0011923
+T78	PROC 2643 2654	biologiques
+#78	AnnotatorNotes T78	C0525044
+T79	LIVB 2693 2700	médecin
+#79	AnnotatorNotes T79	C0031831
+T80	DISO 2758 2767	symptômes
+#80	AnnotatorNotes T80	C1457887
+T81	DISO 2787 2791	LEMP
+#81	AnnotatorNotes T81	C0023524
+T82	LIVB 2799 2806	patient
+#82	AnnotatorNotes T82	C0030705
+T83	DISO 2849 2886	symptômes cognitifs ou psychiatriques
+#83	AnnotatorNotes T83	C0525041
+T84	DISO 2849 2858	symptômes
+#84	AnnotatorNotes T84	C1457887
+T85	DISO 2922 2926	LEMP
+#85	AnnotatorNotes T85	C0023524
+T86	PROC 2932 2942	traitement
+#86	AnnotatorNotes T86	C0087111
+T87	CHEM 2947 2954	TYSABRI
+#87	AnnotatorNotes T87	C1529600
+T88	ANAT 3016 3035	système immunitaire
+#88	AnnotatorNotes T88	C0020962
+T89	LIVB 3045 3053	patients
+#89	AnnotatorNotes T89	C0030705
+T90	DISO 3079 3083	LEMP
+#90	AnnotatorNotes T90	C0023524
+T91	DISO 3241 3245	LEMP
+#91	AnnotatorNotes T91	C0023524
+T92	DISO 3253 3272	arrêt du traitement
+#92	AnnotatorNotes T92	C1699848
+T93	PROC 3262 3272	traitement
+#93	AnnotatorNotes T93	C0087111
+T94	CHEM 3277 3284	TYSABRI
+#94	AnnotatorNotes T94	C1529600
+T95	DISO 3372 3396	infections opportunistes
+#95	AnnotatorNotes T95	C0029118
+T96	DISO 3372 3382	infections
+#96	AnnotatorNotes T96	C0021311
+T97	DISO 3403 3427	infections opportunistes
+#97	AnnotatorNotes T97	C0029118
+T98	DISO 3403 3413	infections
+#98	AnnotatorNotes T98	C0021311
+T99	LIVB 3464 3472	patients
+#99	AnnotatorNotes T99	C0030705
+T100	DISO 3473 3482	souffrant
+#100	AnnotatorNotes T100	C0857256
+T101	DISO 3486 3489	SEP
+#101	AnnotatorNotes T101	C0026769
+T102	PROC 3493 3500	traités
+#102	AnnotatorNotes T102	C0087111
+T103	CHEM 3505 3512	TYSABRI
+#103	AnnotatorNotes T103	C1529600
+T104	DISO 3580 3602	infection opportuniste
+#104	AnnotatorNotes T104	C0029118
+T105	DISO 3580 3589	infection
+#105	AnnotatorNotes T105	C0021311
+T106	PROC 3608 3618	traitement
+#106	AnnotatorNotes T106	C0087111
+T107	CHEM 3623 3630	TYSABRI
+#107	AnnotatorNotes T107	C1529600
+T108	DISO 3694 3703	infection
+#108	AnnotatorNotes T108	C0021311
+T109	PROC 3731 3738	examens
+#109	AnnotatorNotes T109	C0582103
+T110	DISO 3779 3801	infection opportuniste
+#110	AnnotatorNotes T110	C0029118
+T111	DISO 3779 3788	infection
+#111	AnnotatorNotes T111	C0021311
+T112	CHEM 3807 3814	TYSABRI
+#112	AnnotatorNotes T112	C1529600
+T113	PROC 3854 3864	traitement
+#113	AnnotatorNotes T113	C0087111
+T114	LIVB 3880 3888	médecins
+#114	AnnotatorNotes T114	C0031831
+T115	CHEM 3922 3929	TYSABRI
+#115	AnnotatorNotes T115	C1529600
+T116	LIVB 4015 4023	patients
+#116	AnnotatorNotes T116	C0030705
+T117	DISO 4039 4058	sclérose en plaques
+#117	AnnotatorNotes T117	C0026769
+T118	PROC 4062 4069	traités
+#118	AnnotatorNotes T118	C0087111
+T119	CHEM 4074 4081	TYSABRI
+#119	AnnotatorNotes T119	C1529600
+T120	LIVB 4090 4098	patients
+#120	AnnotatorNotes T120	C0030705
+T121	DISO 4167 4176	infection
+#121	AnnotatorNotes T121	C0021311
+T122	LIVB 4205 4212	médecin
+#122	AnnotatorNotes T122	C0031831
+T123	PROC 4227 4234	traités
+#123	AnnotatorNotes T123	C0087111
+T124	CHEM 4239 4246	TYSABRI
+#124	AnnotatorNotes T124	C1529600
+T125	LIVB 4255 4263	médecins
+#125	AnnotatorNotes T125	C0031831
+T126	LIVB 4285 4293	patients
+#126	AnnotatorNotes T126	C0030705
+T127	PROC 4337 4347	traitement
+#127	AnnotatorNotes T127	C0087111
+T128	PROC 4393 4403	traitement
+#128	AnnotatorNotes T128	C0087111
+T129	DISO 4420 4436	Hypersensibilité
+#129	AnnotatorNotes T129	C0020517
+T130	DISO 4460 4476	hypersensibilité
+#130	AnnotatorNotes T130	C0020517
+T131	CHEM 4516 4523	TYSABRI
+#131	AnnotatorNotes T131	C1529600
+T132	PHYS 4549 4570	réactions systémiques
+#132	AnnotatorNotes T132	C1710276
+T133	PROC 4655 4664	perfusion
+#133	AnnotatorNotes T133	C0031001
+T134	PROC 4705 4714	perfusion
+#134	AnnotatorNotes T134	C0031001
+T135	DISO 4746 4762	hypersensibilité
+#135	AnnotatorNotes T135	C0020517
+T136	PROC 4807 4817	perfusions
+#136	AnnotatorNotes T136	C0031001
+T137	LIVB 4837 4845	patients
+#137	AnnotatorNotes T137	C0030705
+T138	CHEM 4866 4873	TYSABRI
+#138	AnnotatorNotes T138	C1529600
+T139	DISO 4884 4894	exposition
+#139	AnnotatorNotes T139	C2905623
+T140	PROC 4925 4935	perfusions
+#140	AnnotatorNotes T140	C0031001
+T141	PROC 4976 4986	traitement
+#141	AnnotatorNotes T141	C0087111
+T142	DISO 5050 5066	hypersensibilité
+#142	AnnotatorNotes T142	C0020517
+T143	PROC 5095 5104	perfusion
+#143	AnnotatorNotes T143	C0031001
+T144	DISO 5183 5199	hypersensibilité
+#144	AnnotatorNotes T144	C0020517
+T145	PROC 5229 5239	traitement
+#145	AnnotatorNotes T145	C0087111
+T146	CHEM 5244 5251	TYSABRI
+#146	AnnotatorNotes T146	C1529600
+T147	PROC 5280 5290	traitement
+#147	AnnotatorNotes T147	C0087111
+T148	DISO 5338 5344	signes
+#148	AnnotatorNotes T148	C0037088
+T149	DISO 5348 5357	symptômes
+#149	AnnotatorNotes T149	C1457887
+T150	DISO 5362 5378	hypersensibilité
+#150	AnnotatorNotes T150	C0020517
+T151	LIVB 5387 5395	patients
+#151	AnnotatorNotes T151	C0030705
+T152	DISO 5428 5444	hypersensibilité
+#152	AnnotatorNotes T152	C0020517
+T153	PROC 5479 5489	traitement
+#153	AnnotatorNotes T153	C0087111
+T154	CHEM 5494 5501	TYSABRI
+#154	AnnotatorNotes T154	C1529600
+T155	PROC 5506 5516	Traitement
+#155	AnnotatorNotes T155	C0087111
+T156	PROC 5528 5538	traitement
+#156	AnnotatorNotes T156	C0087111
+T157	CHEM 5553 5571	immunosuppresseurs
+#157	AnnotatorNotes T157	C0021081
+T158	CHEM 5608 5615	TYSABRI
+#158	AnnotatorNotes T158	C1529600
+T159	PROC 5644 5655	traitements
+#159	AnnotatorNotes T159	C0087111
+T160	CHEM 5656 5674	immunosuppresseurs
+#160	AnnotatorNotes T160	C0021081
+T161	CHEM 5678 5691	anticancéreux
+#161	AnnotatorNotes T161	C0003392
+T162	CHEM 5768 5779	médicaments
+#162	AnnotatorNotes T162	C0013227
+T163	CHEM 5785 5792	TYSABRI
+#163	AnnotatorNotes T163	C1529600
+T164	DISO 5834 5844	infections
+#164	AnnotatorNotes T164	C0021311
+T165	DISO 5861 5885	infections opportunistes
+#165	AnnotatorNotes T165	C0029118
+T166	DISO 5861 5871	infections
+#166	AnnotatorNotes T166	C0021311
+T167	LIVB 5957 5965	patients
+#167	AnnotatorNotes T167	C0030705
+T168	PROC 5980 5990	traitement
+#168	AnnotatorNotes T168	C0087111
+T169	CHEM 6005 6023	immunosuppresseurs
+#169	AnnotatorNotes T169	C0021081
+T170	CHEM 6033 6049	cyclophosphamide
+#170	AnnotatorNotes T170	C0010583
+T171	CHEM 6053 6065	mitoxantrone
+#171	AnnotatorNotes T171	C0026259
+T172	PHYS 6091 6108	immunosuppression
+#172	AnnotatorNotes T172	C0021080
+T173	DISO 6146 6150	LEMP
+#173	AnnotatorNotes T173	C0023524
+T174	LIVB 6164 6172	patients
+#174	AnnotatorNotes T174	C0030705
+T175	PROC 6187 6197	traitement
+#175	AnnotatorNotes T175	C0087111
+T176	CHEM 6212 6229	immunosuppresseur
+#176	AnnotatorNotes T176	C0021081
+T177	ANAT 6315 6334	système immunitaire
+#177	AnnotatorNotes T177	C0020962
+T178	PROC 6359 6369	traitement
+#178	AnnotatorNotes T178	C0087111
+T179	CHEM 6374 6381	TYSABRI
+#179	AnnotatorNotes T179	C1529600
+T180	LIVB 6388 6396	médecins
+#180	AnnotatorNotes T180	C0031831
+T181	PHYS 6480 6497	immunosuppression
+#181	AnnotatorNotes T181	C0021080
+T182	PROC 6538 6544	études
+#182	AnnotatorNotes T182	C2603343
+T183	DISO 6584 6587	SEP
+#183	AnnotatorNotes T183	C0026769
+T184	PROC 6593 6603	traitement
+#184	AnnotatorNotes T184	C0087111
+T185	CHEM 6637 6648	corticoïdes
+#185	AnnotatorNotes T185	C0001617
+T186	DISO 6725 6735	infections
+#186	AnnotatorNotes T186	C0021311
+T187	CHEM 6761 6772	corticoïdes
+#187	AnnotatorNotes T187	C0001617
+T188	CHEM 6819 6826	TYSABRI
+#188	AnnotatorNotes T188	C1529600
+T189	DISO 6835 6860	aggravation de la maladie
+#189	AnnotatorNotes T189	C0242656
+T190	DISO 6853 6860	maladie
+#190	AnnotatorNotes T190	C0012634
+T191	PROC 6901 6910	perfusion
+#191	AnnotatorNotes T191	C0031001
+T192	CHEM 6956 6965	anticorps
+#192	AnnotatorNotes T192	C0003241
+T193	CHEM 6973 6984	natalizumab
+#193	AnnotatorNotes T193	C1172734
+T194	LIVB 7012 7020	patients
+#194	AnnotatorNotes T194	C0030705
+T195	CHEM 7049 7058	anticorps
+#195	AnnotatorNotes T195	C0003241
+T196	PROC 7079 7089	traitement
+#196	AnnotatorNotes T196	C0087111
+T197	PROC 7182 7192	traitement
+#197	AnnotatorNotes T197	C0087111
+T198	DISO 7231 7250	troubles hépatiques
+#198	AnnotatorNotes T198	C0023895
+T199	ANAT 7240 7250	hépatiques
+#199	AnnotatorNotes T199	C0023884
+T200	CHEM 7321 7328	Tysabri
+#200	AnnotatorNotes T200	C1529600
+T201	DISO 7337 7356	troubles hépatiques
+#201	AnnotatorNotes T201	C0086565
+T202	ANAT 7346 7356	hépatiques
+#202	AnnotatorNotes T202	C0023884
+T203	PROC 7400 7410	traitement
+#203	AnnotatorNotes T203	C0087111
+T204	PROC 7436 7445	perfusion
+#204	AnnotatorNotes T204	C0031001
+T205	PHYS 7453 7482	fonction biologique hépatique
+#205	AnnotatorNotes T205	C0232740
+T206	ANAT 7473 7482	hépatique
+#206	AnnotatorNotes T206	C0023884
+T207	LIVB 7487 7495	patients
+#207	AnnotatorNotes T207	C0030705
+T208	PROC 7496 7503	traités
+#208	AnnotatorNotes T208	C0087111
+T209	LIVB 7551 7559	patients
+#209	AnnotatorNotes T209	C0030705
+T210	LIVB 7615 7622	médecin
+#210	AnnotatorNotes T210	C0031831
+T211	DISO 7645 7651	signes
+#211	AnnotatorNotes T211	C0037088
+T212	DISO 7655 7664	symptômes
+#212	AnnotatorNotes T212	C1457887
+T213	DISO 7679 7698	troubles hépatiques
+#213	AnnotatorNotes T213	C0086565
+T214	ANAT 7688 7698	hépatiques
+#214	AnnotatorNotes T214	C0023884
+T215	DISO 7719 7738	troubles hépatiques
+#215	AnnotatorNotes T215	C0086565
+T216	ANAT 7728 7738	hépatiques
+#216	AnnotatorNotes T216	C0023884
+T217	PROC 7758 7768	traitement
+#217	AnnotatorNotes T217	C0087111
+T218	CHEM 7773 7780	TYSABRI
+#218	AnnotatorNotes T218	C1529600
+T219	DISO 7803 7822	Arrêt du traitement
+#219	AnnotatorNotes T219	C1699848
+T220	PROC 7812 7822	traitement
+#220	AnnotatorNotes T220	C0087111
+T221	CHEM 7827 7834	TYSABRI
+#221	AnnotatorNotes T221	C1529600
+T222	DISO 7860 7879	arrêt du traitement
+#222	AnnotatorNotes T222	C1699848
+T223	PROC 7869 7879	traitement
+#223	AnnotatorNotes T223	C0087111
+T224	LIVB 7885 7892	médecin
+#224	AnnotatorNotes T224	C0031831
+T225	CHEM 7917 7928	natalizumab
+#225	AnnotatorNotes T225	C1172734
+T226	ANAT 7951 7955	sang
+#226	AnnotatorNotes T226	C0005767
+T227	ANAT 8024 8035	lymphocytes
+#227	AnnotatorNotes T227	C0024264
+T228	PROC 22 32	administré
+#228	AnnotatorNotes T228	C3469597
+T229	LIVB 135 164	sujets âgés de plus de 65 ans
+#229	AnnotatorNotes T229	C0001792 C0001795
+T231	PROC 2038 2061	examens complémentaires
+#231	AnnotatorNotes T231	C1522577
+T232	PROC 2350 2365	prise en charge
+#232	AnnotatorNotes T232	C0030677
+T233	DISO 3054 3068	immunodéprimés
+#233	AnnotatorNotes T233	C1334159
+T234	PROC 6786 6798	administrées
+#234	AnnotatorNotes T234	C3469597
+T235	CHEM 6956 6984	anticorps anti - natalizumab
+#235	AnnotatorNotes T235	C1977362
+T236	DISO 7758 7768;7781 7798	traitement devra être arrêté
+#236	AnnotatorNotes T236	C1699848
+T237	DISO 5453 5489	arrêter définitivement le traitement
+#237	AnnotatorNotes T237	C1699848
+T238	DISO 4322 4347	interrompre le traitement
+#238	AnnotatorNotes T238	C1699848
+T239	DISO 3835 3864	arrêt définitif du traitement
+#239	AnnotatorNotes T239	C1699848
+T240	DISO 2932 2942;2966 2987	traitement arrêté définitivement
+#240	AnnotatorNotes T240	C1699848
+T241	PROC 3995 4010	prise en charge
+#241	AnnotatorNotes T241	C0030677
+T242	PROC 5137 5152	prise en charge
+#242	AnnotatorNotes T242	C0030677
+T243	PROC 8084 8098	administration
+#243	AnnotatorNotes T243	C3469597

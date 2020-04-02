@@ -1,0 +1,4 @@
+T1	PROC 80 102	relation thérapeutique
+#1	AnnotatorNotes T1	C0547392
+T2	DISO 0 10	Chronicité
+#2	AnnotatorNotes T2	C0008679

@@ -1,0 +1,8 @@
+T1	DISO 0 12	Endométriome
+#1	AnnotatorNotes T1	C0269102
+T2	ANAT 13 20	ovarien
+#2	AnnotatorNotes T2	C0029939
+T3	DISO 35 46	infertilité
+#3	AnnotatorNotes T3	C0021359
+T4	PROC 75 99	abstention thérapeutique
+#4	AnnotatorNotes T4	C0871549

@@ -1,0 +1,14 @@
+T1	DISO 0 14	Neuromyopathie
+#1	AnnotatorNotes T1	C0442874
+T2	CHEM 24 35	chloroquine
+#2	AnnotatorNotes T2	C0008269
+T3	DISO 48 66	lupus érythémateux
+#3	AnnotatorNotes T3	C0409974
+T4	PROC 84 96	observations
+#4	AnnotatorNotes T4	C0302523
+T5	PROC 129 134	étude
+#5	AnnotatorNotes T5	C0008972
+T6	PROC 158 165	biopsie
+#6	AnnotatorNotes T6	C0005558
+T7	ANAT 166 176	musculaire
+#7	AnnotatorNotes T7	C0026845

@@ -1,0 +1,10 @@
+T1	DISO 10 24	méga-oesophage
+#1	AnnotatorNotes T1	C0025164
+T2	DISO 31 39	sclérose
+#2	AnnotatorNotes T2	C0036429
+T3	DISO 43 65	varices oesophagiennes
+#3	AnnotatorNotes T3	C0014867
+T4	DISO 43 50	varices
+#4	AnnotatorNotes T4	C0042345
+T5	ANAT 51 65	oesophagiennes
+#5	AnnotatorNotes T5	C0014876

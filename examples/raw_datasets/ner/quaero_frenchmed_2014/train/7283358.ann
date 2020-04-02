@@ -1,0 +1,10 @@
+T1	PROC 0 22	Traitement chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 0 10	Traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 29 36	embolie
+#3	AnnotatorNotes T3	C1704212
+T4	ANAT 37 47	pulmonarie
+#4	AnnotatorNotes T4	C0024109
+T5	DISO 29 47	embolie pulmonarie
+#5	AnnotatorNotes T5	C0034065

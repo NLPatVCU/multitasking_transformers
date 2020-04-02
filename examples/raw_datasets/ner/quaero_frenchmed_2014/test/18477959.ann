@@ -1,0 +1,4 @@
+T1	PROC 0 10	Pathologie
+#1	AnnotatorNotes T1	C0919386
+T2	ANAT 14 27	ligament rond
+#2	AnnotatorNotes T2	C3241921

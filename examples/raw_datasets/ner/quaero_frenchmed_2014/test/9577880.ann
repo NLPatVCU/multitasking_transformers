@@ -1,0 +1,10 @@
+T1	ANAT 11 15	sang
+#1	AnnotatorNotes T1	C0005767
+T2	ANAT 11 25	sang de cordon
+#2	AnnotatorNotes T2	C0162371
+T3	OBJC 0 15	Banques de sang
+#3	AnnotatorNotes T3	C0005770
+T4	ANAT 19 25	cordon
+#4	AnnotatorNotes T4	C0041633
+T5	PROC 29 36	greffes
+#5	AnnotatorNotes T5	C0040732

@@ -1,0 +1,6 @@
+T1	CHEM 4 31	médicaments anti-coagulants
+#1	AnnotatorNotes T1	C0003280
+T2	CHEM 4 15	médicaments
+#2	AnnotatorNotes T2	C0013227
+T3	PROC 35 55	chirurgie urologique
+#3	AnnotatorNotes T3	C0038913

@@ -1,0 +1,8 @@
+T1	DISO 0 25	Carcinome neuro-endocrine
+#1	AnnotatorNotes T1	C0206695
+T2	DISO 0 9	Carcinome
+#2	AnnotatorNotes T2	C0007097
+T3	ANAT 10 25	neuro-endocrine
+#3	AnnotatorNotes T3	C1518275
+T4	ANAT 32 41	oesophage
+#4	AnnotatorNotes T4	C2833052

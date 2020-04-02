@@ -1,0 +1,12 @@
+T1	PROC 0 19	Etude expérimentale
+#1	AnnotatorNotes T1	C0681814
+T2	PROC 0 5	Etude
+#2	AnnotatorNotes T2	C2603343
+T4	CHEM 23 29	L 5818
+#4	AnnotatorNotes T4	C0602990
+T5	CHEM 52 68	vasoconstricteur
+#5	AnnotatorNotes T5	C0042397
+T6	PROC 72 84	instillation
+#6	AnnotatorNotes T6	C0184959
+T7	ANAT 85 91	nasale
+#7	AnnotatorNotes T7	C0028429

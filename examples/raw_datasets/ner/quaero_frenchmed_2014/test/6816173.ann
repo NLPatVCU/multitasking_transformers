@@ -1,0 +1,10 @@
+T1	DISO 4 28	anévrysmes intracrâniens
+#1	AnnotatorNotes T1	C0007766
+T2	DISO 4 14	anévrysmes
+#2	AnnotatorNotes T2	C0002940
+T3	ANAT 15 28	intracrâniens
+#3	AnnotatorNotes T3	C0524466
+T4	DISO 33 58	endocardites bactériennes
+#4	AnnotatorNotes T4	C0014121
+T5	PROC 75 87	observations
+#5	AnnotatorNotes T5	C0302523

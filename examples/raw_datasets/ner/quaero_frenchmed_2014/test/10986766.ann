@@ -1,0 +1,16 @@
+T1	PROC 0 22	Traitement chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 0 10	Traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 29 62	maladie de Crohn du gros intestin
+#3	AnnotatorNotes T3	C0156147
+T4	DISO 29 45	maladie de Crohn
+#4	AnnotatorNotes T4	C0010346
+T6	ANAT 49 62	gros intestin
+#6	AnnotatorNotes T6	C0021851
+T7	DISO 68 84	atteinte rectale
+#7	AnnotatorNotes T7	C0860504
+T8	ANAT 77 84	rectale
+#8	AnnotatorNotes T8	C0034896
+T10	PROC 122 144	anastomose iléorectale
+#10	AnnotatorNotes T10	C0192754

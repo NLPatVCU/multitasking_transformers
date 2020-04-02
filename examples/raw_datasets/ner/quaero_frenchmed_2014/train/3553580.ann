@@ -1,0 +1,8 @@
+T1	ANAT 4 17	artère rénale
+#1	AnnotatorNotes T1	C0035065
+T2	ANAT 4 10	artère
+#2	AnnotatorNotes T2	C0003842
+T3	ANAT 11 17	rénale
+#3	AnnotatorNotes T3	C0022646
+T4	DISO 18 27;4 10	ectopique artère
+#4	AnnotatorNotes T4	C1253939

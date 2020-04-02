@@ -1,0 +1,10 @@
+T1	LIVB 25 31	malade
+#1	AnnotatorNotes T1	C0030705
+T2	DISO 39 73	neurophacomatose de Recklinghausen
+#2	AnnotatorNotes T2	C0027831
+T3	DISO 59 73	Recklinghausen
+#3	AnnotatorNotes T3	C1406030
+T4	DISO 84 104	myotonie de Steinert
+#4	AnnotatorNotes T4	C0027126
+T5	DISO 84 92	myotonie
+#5	AnnotatorNotes T5	C0027125

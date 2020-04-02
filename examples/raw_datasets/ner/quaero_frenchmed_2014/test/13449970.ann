@@ -1,0 +1,6 @@
+T1	DISO 12 33	cancer de la prostate
+#1	AnnotatorNotes T1	C0376358
+T2	DISO 12 18	cancer
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 25 33	prostate
+#3	AnnotatorNotes T3	C0033572

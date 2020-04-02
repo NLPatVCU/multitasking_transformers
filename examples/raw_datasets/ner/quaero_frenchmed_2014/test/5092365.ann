@@ -1,0 +1,6 @@
+T1	PROC 0 14	Physiothérapie
+#1	AnnotatorNotes T1	C0949766
+T2	DISO 19 28	arthrites
+#2	AnnotatorNotes T2	C0003864
+T3	DISO 36 45	arthroses
+#3	AnnotatorNotes T3	C0086743

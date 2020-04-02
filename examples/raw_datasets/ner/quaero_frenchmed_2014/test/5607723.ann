@@ -1,0 +1,10 @@
+T1	DISO 3 23	mésothéliome pleural
+#1	AnnotatorNotes T1	C1377913
+T2	DISO 3 15	mésothéliome
+#2	AnnotatorNotes T2	C0025500
+T3	ANAT 16 23	pleural
+#3	AnnotatorNotes T3	C0032225
+T4	DISO 54 75	pneumothorax spontané
+#4	AnnotatorNotes T4	C0149781
+T5	DISO 54 66	pneumothorax
+#5	AnnotatorNotes T5	C0032326

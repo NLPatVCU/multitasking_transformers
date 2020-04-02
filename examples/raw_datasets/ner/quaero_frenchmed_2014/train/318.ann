@@ -1,0 +1,1790 @@
+T1	CHEM 21 27	PRIALT
+#1	AnnotatorNotes T1	C1530575
+T2	CHEM 46 52	Prialt
+#2	AnnotatorNotes T2	C1530575
+T3	CHEM 57 63	Prialt
+#3	AnnotatorNotes T3	C1530575
+T4	CHEM 72 80	solution
+#4	AnnotatorNotes T4	C1382100
+T5	PROC 86 95	perfusion
+#5	AnnotatorNotes T5	C0204704
+T6	CHEM 109 123	principe actif
+#6	AnnotatorNotes T6	C1372955
+T7	CHEM 124 134	ziconotide
+#7	AnnotatorNotes T7	C0211011
+T8	CHEM 217 223	Prialt
+#8	AnnotatorNotes T8	C1530575
+T9	CHEM 243 249	Prialt
+#9	AnnotatorNotes T9	C1530575
+T10	DISO 254 261	indiqué
+#10	AnnotatorNotes T10	C1444656
+T11	PROC 270 280	traitement
+#11	AnnotatorNotes T11	C0087111
+T12	DISO 285 302	douleurs intenses
+#12	AnnotatorNotes T12	C0278140
+T13	DISO 285 293	douleurs
+#13	AnnotatorNotes T13	C0030193
+T14	DISO 285 293;305 315	douleurs chroniques
+#14	AnnotatorNotes T14	C0150055
+T15	DISO 285 293;318 331	douleurs de long terme
+#15	AnnotatorNotes T15	C0150055
+T16	LIVB 343 351	patients
+#16	AnnotatorNotes T16	C0030705
+T17	PROC 368 394	analgésie intrarachidienne
+#17	AnnotatorNotes T17	C0262672
+T18	ANAT 378 394	intrarachidienne
+#18	AnnotatorNotes T18	C1370196
+T19	PROC 397 406	injection
+#19	AnnotatorNotes T19	C1533685
+T20	ANAT 438 453	moelle épinière
+#20	AnnotatorNotes T20	C0037925
+T21	ANAT 438 444	moelle
+#21	AnnotatorNotes T21	C0376152
+T22	ANAT 460 467	cerveau
+#22	AnnotatorNotes T22	C0006104
+T23	LIVB 492 500	patients
+#23	AnnotatorNotes T23	C0030705
+T24	DISO 514 533	douleurs chroniques
+#24	AnnotatorNotes T24	C0150055
+T25	DISO 514 522	douleurs
+#25	AnnotatorNotes T25	C0030193
+T26	PROC 550 576	analgésie intrarachidienne
+#26	AnnotatorNotes T26	C0262672
+T27	ANAT 560 576	intrarachidienne
+#27	AnnotatorNotes T27	C1370196
+T28	CHEM 579 591	analgésiques
+#28	AnnotatorNotes T28	C0002771
+T29	PROC 592 600	injectés
+#29	AnnotatorNotes T29	C1533685
+T30	ANAT 621 627	moelle
+#30	AnnotatorNotes T30	C0037925
+T31	DISO 646 653	maladie
+#31	AnnotatorNotes T31	C0012634
+T32	CHEM 687 693	Prialt
+#32	AnnotatorNotes T32	C1530575
+T33	CHEM 721 740	médicament orphelin
+#33	AnnotatorNotes T33	C0013232
+T34	CHEM 721 731	médicament
+#34	AnnotatorNotes T34	C0013227
+T35	CHEM 745 755	médicament
+#35	AnnotatorNotes T35	C0013227
+T36	DISO 773 787	maladies rares
+#36	AnnotatorNotes T36	C0678236
+T37	DISO 773 781	maladies
+#37	AnnotatorNotes T37	C0012634
+T38	CHEM 820 826	Prialt
+#38	AnnotatorNotes T38	C1530575
+T39	PROC 849 859	traitement
+#39	AnnotatorNotes T39	C0087111
+T40	CHEM 864 870	Prialt
+#40	AnnotatorNotes T40	C1530575
+T41	LIVB 903 910	médecin
+#41	AnnotatorNotes T41	C0031831
+T42	PROC 939 953	administration
+#42	AnnotatorNotes T42	C1533734
+T43	CHEM 957 968	médicaments
+#43	AnnotatorNotes T43	C0013227
+T44	ANAT 978 994	intrarachidienne
+#44	AnnotatorNotes T44	C1370196
+T45	CHEM 999 1005	Prialt
+#45	AnnotatorNotes T45	C1530575
+T46	PROC 1016 1026	administré
+#46	AnnotatorNotes T46	C1533734
+T47	PROC 1030 1039	perfusion
+#47	AnnotatorNotes T47	C0204704
+T48	DEVI 1089 1097	cathéter
+#48	AnnotatorNotes T48	C0085590
+T49	ANAT 1098 1112	intrarachidien
+#49	AnnotatorNotes T49	C1370196
+T50	DEVI 1115 1119	tube
+#50	AnnotatorNotes T50	C0175730
+T51	ANAT 1135 1150	canal rachidien
+#51	AnnotatorNotes T51	C0037922
+T52	ANAT 1135 1140	canal
+#52	AnnotatorNotes T52	C0687028
+T53	ANAT 1141 1150	rachidien
+#53	AnnotatorNotes T53	C0037925
+T54	DEVI 1162 1167	pompe
+#54	AnnotatorNotes T54	C0182537
+T55	PROC 1170 1179	perfusion
+#55	AnnotatorNotes T55	C0204704
+T56	PROC 1188 1196	délivrer
+#56	AnnotatorNotes T56	C1533734
+T57	PROC 1210 1219	perfusion
+#57	AnnotatorNotes T57	C0204704
+T58	CHEM 1264 1270	Prialt
+#58	AnnotatorNotes T58	C1530575
+T59	PROC 1310 1320	traitement
+#59	AnnotatorNotes T59	C0087111
+T60	PROC 1453 1478	soulagement de la douleur
+#60	AnnotatorNotes T60	C0451615
+T61	DISO 1471 1478	douleur
+#61	AnnotatorNotes T61	C0030193
+T62	DISO 1486 1505	effets indésirables
+#62	AnnotatorNotes T62	C0559546
+T63	LIVB 1535 1543	patients
+#63	AnnotatorNotes T63	C0030705
+T64	CHEM 1681 1687	Prialt
+#64	AnnotatorNotes T64	C1530575
+T65	LIVB 1722 1728	enfant
+#65	AnnotatorNotes T65	C0008059
+T66	CHEM 1741 1747	Prialt
+#66	AnnotatorNotes T66	C1530575
+T67	CHEM 1771 1785	principe actif
+#67	AnnotatorNotes T67	C1372955
+T68	CHEM 1789 1795	Prialt
+#68	AnnotatorNotes T68	C1530575
+T69	CHEM 1801 1811	ziconotide
+#69	AnnotatorNotes T69	C0211011
+T70	OBJC 1822 1827	copie
+#70	AnnotatorNotes T70	C1948062
+T71	OBJC 1836 1845	substance
+#71	AnnotatorNotes T71	C0439861
+T72	PROC 1881 1889	extraite
+#72	AnnotatorNotes T72	C0185115
+T73	CHEM 1893 1898	venin
+#73	AnnotatorNotes T73	C0042479
+T74	LIVB 1914 1927	limace de mer
+#74	AnnotatorNotes T74	C0599688
+T75	LIVB 1914 1920	limace
+#75	AnnotatorNotes T75	C0324024
+T76	GEOG 1924 1927	mer
+#76	AnnotatorNotes T76	C0036493
+T77	CHEM 1935 1945	ziconotide
+#77	AnnotatorNotes T77	C0211011
+T78	ANAT 1970 1976	canaux
+#78	AnnotatorNotes T78	C0687028
+T79	CHEM 1992 2008	canaux calciques
+#79	AnnotatorNotes T79	C0006685
+T80	ANAT 1992 1998	canaux
+#80	AnnotatorNotes T80	C0687028
+T81	ANAT 2028 2046	cellules nerveuses
+#81	AnnotatorNotes T81	C0027882
+T82	ANAT 2028 2036	cellules
+#82	AnnotatorNotes T82	C0007634
+T83	ANAT 2037 2046	nerveuses
+#83	AnnotatorNotes T83	C0027740
+T84	PHEN 2051 2063	transmettent
+#84	AnnotatorNotes T84	C1521797
+T85	PHEN 2068 2075	signaux
+#85	AnnotatorNotes T85	C1710082
+T86	DISO 2082 2089	douleur
+#86	AnnotatorNotes T86	C0030193
+T87	PHEN 2109 2113	flux
+#87	AnnotatorNotes T87	C0806140
+T88	CHEM 2117 2124	calcium
+#88	AnnotatorNotes T88	C0006675
+T89	ANAT 2134 2152	cellules nerveuses
+#89	AnnotatorNotes T89	C0027882
+T90	ANAT 2134 2142	cellules
+#90	AnnotatorNotes T90	C0007634
+T91	ANAT 2143 2152	nerveuses
+#91	AnnotatorNotes T91	C0027740
+T92	CHEM 2158 2168	ziconotide
+#92	AnnotatorNotes T92	C0211011
+T93	PHEN 2187 2199	transmission
+#93	AnnotatorNotes T93	C1521797
+T94	PHEN 2204 2211	signaux
+#94	AnnotatorNotes T94	C1710082
+T95	DISO 2215 2222	douleur
+#95	AnnotatorNotes T95	C0030193
+T96	ANAT 2231 2237	moelle
+#96	AnnotatorNotes T96	C0376152
+T97	PROC 2251 2259	soulager
+#97	AnnotatorNotes T97	C0002766
+T98	DISO 2263 2270	douleur
+#98	AnnotatorNotes T98	C0030193
+T99	PROC 2288 2293	étude
+#99	AnnotatorNotes T99	C2603343
+T100	CHEM 2325 2335	médicament
+#100	AnnotatorNotes T100	C0013227
+T101	LIVB 2364 2372	patients
+#101	AnnotatorNotes T101	C0030705
+T102	LIVB 2373 2380	adultes
+#102	AnnotatorNotes T102	C0001675
+T103	DISO 2393 2410	douleurs intenses
+#103	AnnotatorNotes T103	C0278140
+T104	DISO 2393 2401	douleurs
+#104	AnnotatorNotes T104	C0030193
+T105	DISO 2393 2401;2413 2423	douleurs chroniques
+#105	AnnotatorNotes T105	C0150055
+T106	PROC 2443 2449	études
+#106	AnnotatorNotes T106	C2603343
+T107	PROC 2521 2580	intensité de la douleur sur l ’ échelle visuelle analogique
+#107	AnnotatorNotes T107	C0042815
+T108	DISO 2537 2544	douleur
+#108	AnnotatorNotes T108	C0030193
+T109	PROC 2583 2586	EVA
+#109	AnnotatorNotes T109	C0042815
+T110	CHEM 2634 2640	Prialt
+#110	AnnotatorNotes T110	C1530575
+T111	PROC 2654 2660	études
+#111	AnnotatorNotes T111	C2603343
+T112	CHEM 2665 2671	Prialt
+#112	AnnotatorNotes T112	C1530575
+T113	CHEM 2699 2706	placebo
+#113	AnnotatorNotes T113	C1696465
+T114	PROC 2731 2737	études
+#114	AnnotatorNotes T114	C2603343
+T115	PROC 2751 2761	traitement
+#115	AnnotatorNotes T115	C0087111
+T116	LIVB 2768 2776	patients
+#116	AnnotatorNotes T116	C0030705
+T117	DISO 2816 2823	douleur
+#117	AnnotatorNotes T117	C0030193
+T118	DISO 2836 2855	effets indésirables
+#118	AnnotatorNotes T118	C0559546
+T119	LIVB 2902 2909	patient
+#119	AnnotatorNotes T119	C0030705
+T120	DISO 2927 2944	état confusionnel
+#120	AnnotatorNotes T120	C0856480
+T121	DISO 2951 2975	sensations vertigineuses
+#121	AnnotatorNotes T121	C0012833
+T122	DISO 2981 2990	nystagmus
+#122	AnnotatorNotes T122	C0028738
+T123	PHYS 2993 3011	mouvement oculaire
+#123	AnnotatorNotes T123	C0015413
+T124	ANAT 3003 3011	oculaire
+#124	AnnotatorNotes T124	C0015392
+T125	DISO 3030 3048	troubles mnésiques
+#125	AnnotatorNotes T125	C0025261
+T126	PHYS 3039 3048	mnésiques
+#126	AnnotatorNotes T126	C0025260
+T127	DISO 3051 3067	perte de mémoire
+#127	AnnotatorNotes T127	C0751295
+T128	PHYS 3060 3067	mémoire
+#128	AnnotatorNotes T128	C0025260
+T129	DISO 3075 3084	céphalées
+#129	AnnotatorNotes T129	C0018681
+T130	DISO 3091 3101	somnolence
+#130	AnnotatorNotes T130	C0013144 C2830004
+T132	DISO 3104 3118	endormissement
+#132	AnnotatorNotes T132	C0013144
+T133	DISO 3125 3136	flou visuel
+#133	AnnotatorNotes T133	C0344232
+T134	PHYS 3130 3136	visuel
+#134	AnnotatorNotes T134	C0042789
+T135	DISO 3143 3150	nausées
+#135	AnnotatorNotes T135	C0027497
+T136	DISO 3153 3164	mal au cœur
+#136	AnnotatorNotes T136	C0027497
+T137	ANAT 3160 3164	cœur
+#137	AnnotatorNotes T137	C0018787
+T138	DISO 3172 3184	vomissements
+#138	AnnotatorNotes T138	C0042963
+T139	DISO 3191 3214	troubles de la démarche
+#139	AnnotatorNotes T139	C0575081
+T140	DISO 3206 3214	démarche
+#140	AnnotatorNotes T140	C0016928
+T141	DISO 3217 3240	difficulté pour marcher
+#141	AnnotatorNotes T141	C0575081
+T142	DISO 3233 3240	marcher
+#142	AnnotatorNotes T142	C0016928
+T143	DISO 3250 3258	asthénie
+#143	AnnotatorNotes T143	C0004093
+T144	DISO 3261 3270	faiblesse
+#144	AnnotatorNotes T144	C0015672
+T145	DISO 3310 3329	effets indésirables
+#145	AnnotatorNotes T145	C0559546
+T146	CHEM 3344 3350	Prialt
+#146	AnnotatorNotes T146	C1530575
+T147	PROC 3381 3387	notice
+#147	AnnotatorNotes T147	C0013191
+T148	CHEM 3392 3398	Prialt
+#148	AnnotatorNotes T148	C1530575
+T149	LIVB 3433 3441	patients
+#149	AnnotatorNotes T149	C0030705
+T150	DISO 3464 3480	hypersensibilité
+#150	AnnotatorNotes T150	C0020517
+T151	DISO 3483 3491	allergie
+#151	AnnotatorNotes T151	C0020517
+T152	CHEM 3497 3507	ziconotide
+#152	AnnotatorNotes T152	C0211011
+T153	CHEM 3531 3542	ingrédients
+#153	AnnotatorNotes T153	C1550600
+T154	CHEM 3547 3553	Prialt
+#154	AnnotatorNotes T154	C1530575
+T155	LIVB 3588 3596	patients
+#155	AnnotatorNotes T155	C0030705
+T156	PROC 3602 3633	chimiothérapie intrarachidienne
+#156	AnnotatorNotes T156	C1517560
+T157	ANAT 3617 3633	intrarachidienne
+#157	AnnotatorNotes T157	C1370196
+T158	CHEM 3636 3650	anti-cancéreux
+#158	AnnotatorNotes T158	C0003392
+T159	PROC 3651 3659	injectés
+#159	AnnotatorNotes T159	C1533685
+T160	ANAT 3668 3683	canal rachidien
+#160	AnnotatorNotes T160	C0037922
+T161	ANAT 3668 3673	canal
+#161	AnnotatorNotes T161	C0687028
+T162	ANAT 3674 3683	rachidien
+#162	AnnotatorNotes T162	C0037925
+T163	CHEM 3698 3704	Prialt
+#163	AnnotatorNotes T163	C1530575
+T164	CHEM 3743 3754	médicaments
+#164	AnnotatorNotes T164	C0013227
+T165	LIVB 3763 3769	humain
+#165	AnnotatorNotes T165	C0086418
+T166	CHEM 3792 3798	Prialt
+#166	AnnotatorNotes T166	C1530575
+T167	CHEM 3832 3844	analgésiques
+#167	AnnotatorNotes T167	C0002771
+T168	ANAT 3845 3860	intrarachidiens
+#168	AnnotatorNotes T168	C1370196
+T169	CHEM 3873 3881	opioïdes
+#169	AnnotatorNotes T169	C0242402
+T170	CHEM 3953 3959	Prialt
+#170	AnnotatorNotes T170	C1530575
+T171	CHEM 3988 3994	Prialt
+#171	AnnotatorNotes T171	C1530575
+T172	PROC 4020 4025	étude
+#172	AnnotatorNotes T172	C2603343
+T173	CHEM 4062 4072	médicament
+#173	AnnotatorNotes T173	C0013227
+T174	DISO 4144 4153	tolérance
+#174	AnnotatorNotes T174	C0013220
+T175	PROC 4157 4167	traitement
+#175	AnnotatorNotes T175	C0087111
+T176	CHEM 4195 4205	médicament
+#176	AnnotatorNotes T176	C0013227
+T177	CHEM 4311 4317	Prialt
+#177	AnnotatorNotes T177	C1530575
+T178	CHEM 4351 4357	Prialt
+#178	AnnotatorNotes T178	C1530575
+T179	CHEM 4364 4383	médicament orphelin
+#179	AnnotatorNotes T179	C0013232
+T180	CHEM 4364 4374	médicament
+#180	AnnotatorNotes T180	C0013227
+T181	CHEM 4497 4503	Prialt
+#181	AnnotatorNotes T181	C1530575
+T182	CHEM 4616 4622	Prialt
+#182	AnnotatorNotes T182	C1530575
+T183	CHEM 4647 4655	solution
+#183	AnnotatorNotes T183	C1382100
+T184	PROC 4661 4670	perfusion
+#184	AnnotatorNotes T184	C0204704
+T185	CHEM 4684 4692	solution
+#185	AnnotatorNotes T185	C1382100
+T186	CHEM 4713 4723	ziconotide
+#186	AnnotatorNotes T186	C0211011
+T187	CHEM 4741 4749	Solution
+#187	AnnotatorNotes T187	C1382100
+T188	CHEM 4788 4798	particules
+#188	AnnotatorNotes T188	C0597177
+T189	CHEM 4815 4825	ziconotide
+#189	AnnotatorNotes T189	C0211011
+T190	DISO 4830 4837	indiqué
+#190	AnnotatorNotes T190	C1444656
+T191	PROC 4846 4856	traitement
+#191	AnnotatorNotes T191	C0087111
+T192	DISO 4861 4878	douleurs intenses
+#192	AnnotatorNotes T192	C0278140
+T193	DISO 4861 4869	douleurs
+#193	AnnotatorNotes T193	C0030193
+T194	DISO 4861 4869;4881 4891	douleurs chroniques
+#194	AnnotatorNotes T194	C0150055
+T195	LIVB 4901 4909	patients
+#195	AnnotatorNotes T195	C0030705
+T196	PROC 4926 4952	analgésie intrarachidienne
+#196	AnnotatorNotes T196	C0262672
+T197	ANAT 4936 4952	intrarachidienne
+#197	AnnotatorNotes T197	C1370196
+T198	PROC 4960 4970	traitement
+#198	AnnotatorNotes T198	C0087111
+T199	CHEM 4975 4985	ziconotide
+#199	AnnotatorNotes T199	C0211011
+T200	LIVB 5019 5027	médecins
+#200	AnnotatorNotes T200	C0031831
+T201	PROC 5056 5070	administration
+#201	AnnotatorNotes T201	C1533734
+T202	CHEM 5074 5085	médicaments
+#202	AnnotatorNotes T202	C0013227
+T203	ANAT 5095 5111	intrarachidienne
+#203	AnnotatorNotes T203	C1370196
+T204	CHEM 5116 5122	Prialt
+#204	AnnotatorNotes T204	C1530575
+T205	LIVB 5155 5162	Adultes
+#205	AnnotatorNotes T205	C0001675
+T206	LIVB 5175 5181	sujets
+#206	AnnotatorNotes T206	C0027361
+T207	PROC 5203 5213	traitement
+#207	AnnotatorNotes T207	C0087111
+T208	CHEM 5218 5228	ziconotide
+#208	AnnotatorNotes T208	C0211011
+T209	PHYS 5323 5330	réponse
+#209	AnnotatorNotes T209	C0871261
+T210	CHEM 5331 5342	analgésique
+#210	AnnotatorNotes T210	C0002771
+T211	LIVB 5346 5353	patient
+#211	AnnotatorNotes T211	C0030705
+T212	DISO 5376 5399	événements indésirables
+#212	AnnotatorNotes T212	C0559546
+T213	LIVB 5421 5429	patients
+#213	AnnotatorNotes T213	C0030705
+T214	PROC 5466 5476	traitement
+#214	AnnotatorNotes T214	C0087111
+T215	DISO 5539 5548	méningite
+#215	AnnotatorNotes T215	C0025289
+T216	DEVI 5618 5626	cathéter
+#216	AnnotatorNotes T216	C0085590
+T217	ANAT 5627 5644	sous-arachnoïdien
+#217	AnnotatorNotes T217	C0038527
+T218	PROC 5661 5670	perfusion
+#218	AnnotatorNotes T218	C0204704
+T219	PROC 5694 5703	implantés
+#219	AnnotatorNotes T219	C0021107
+T220	PROC 5709 5719	préconisés
+#220	AnnotatorNotes T220	C1444656
+T221	PROC 5729 5743	administration
+#221	AnnotatorNotes T221	C1533734
+T222	CHEM 5747 5757	ziconotide
+#222	AnnotatorNotes T222	C0211011
+T223	DEVI 5808 5816	cathéter
+#223	AnnotatorNotes T223	C0085590
+T224	PROC 5890 5898	implanté
+#224	AnnotatorNotes T224	C0021107
+T225	CHEM 5903 5909	Prialt
+#225	AnnotatorNotes T225	C1530575
+T226	LIVB 5944 5971	enfant en dessous de 18 ans
+#226	AnnotatorNotes T226	C0008059 C0205653
+T227	PHEN 6015 6023	sécurité
+#227	AnnotatorNotes T227	C0036043
+T228	PHEN 6076 6084	sécurité
+#228	AnnotatorNotes T228	C0036043
+T229	CHEM 6112 6122	ziconotide
+#229	AnnotatorNotes T229	C0211011
+T230	PROC 6131 6137	étudié
+#230	AnnotatorNotes T230	C2603343
+T231	PROC 6151 6167	essais cliniques
+#231	AnnotatorNotes T231	C2603343
+T232	PROC 6186 6191	essai
+#232	AnnotatorNotes T232	C2603343
+T233	DISO 6307 6322	effets toxiques
+#233	AnnotatorNotes T233	C0600688
+T234	ANAT 6359 6374	moelle épinière
+#234	AnnotatorNotes T234	C0037925
+T235	ANAT 6359 6365	moelle
+#235	AnnotatorNotes T235	C0376152
+T236	PROC 6515 6525	traitement
+#236	AnnotatorNotes T236	C0087111
+T237	LIVB 6548 6556	patients
+#237	AnnotatorNotes T237	C0030705
+T238	LIVB 6564 6572	médecins
+#238	AnnotatorNotes T238	C0031831
+T239	DISO 6625 6634	symptômes
+#239	AnnotatorNotes T239	C1457887
+T240	DISO 6638 6644	signes
+#240	AnnotatorNotes T240	C0037088
+T241	DISO 6657 6666	méningite
+#241	AnnotatorNotes T241	C0025289
+T242	ANAT 6689 6700	intrathécal
+#242	AnnotatorNotes T242	C1370196
+T243	DEVI 6712 6720	cathéter
+#243	AnnotatorNotes T243	C0085590
+T244	DEVI 6767 6775	cathéter
+#244	AnnotatorNotes T244	C0085590
+T245	ANAT 6814 6822	lombaire
+#245	AnnotatorNotes T245	C0024090
+T246	DISO 6857 6880	réactions neurologiques
+#246	AnnotatorNotes T246	C0559546
+T247	ANAT 6867 6880	neurologiques
+#247	AnnotatorNotes T247	C0027740
+T248	CHEM 6903 6913	ziconotide
+#248	AnnotatorNotes T248	C0211011
+T249	DEVI 6939 6947	cathéter
+#249	AnnotatorNotes T249	C0085590
+T250	PROC 6963 6969	évalué
+#250	AnnotatorNotes T250	C1261322
+T251	ANAT 7029 7040	nociceptifs
+#251	AnnotatorNotes T251	C0028246
+T252	ANAT 7041 7051	rachidiens
+#252	AnnotatorNotes T252	C0037925
+T253	CHEM 7092 7102	médicament
+#253	AnnotatorNotes T253	C0013227
+T254	ANAT 7113 7121	cérébral
+#254	AnnotatorNotes T254	C0006104
+T255	LIVB 7139 7147	patients
+#255	AnnotatorNotes T255	C0030705
+T256	PROC 7163 7188	chimiothérapie systémique
+#256	AnnotatorNotes T256	C1883256
+T257	CHEM 7195 7205	ziconotide
+#257	AnnotatorNotes T257	C0211011
+T258	ANAT 7215 7231	intrarachidienne
+#258	AnnotatorNotes T258	C1370196
+T259	CHEM 7284 7306	créatine phosphokinase
+#259	AnnotatorNotes T259	C0010287
+T260	CHEM 7284 7292	créatine
+#260	AnnotatorNotes T260	C0010286
+T261	CHEM 7309 7312	CPK
+#261	AnnotatorNotes T261	C0010287
+T262	DISO 7329 7344	asymptomatiques
+#262	AnnotatorNotes T262	C0231221
+T263	LIVB 7372 7380	patients
+#263	AnnotatorNotes T263	C0030705
+T264	PROC 7381 7388	traités
+#264	AnnotatorNotes T264	C0087111
+T265	CHEM 7393 7403	ziconotide
+#265	AnnotatorNotes T265	C0211011
+T266	ANAT 7413 7429	intrarachidienne
+#266	AnnotatorNotes T266	C1370196
+T267	CHEM 7466 7488	créatine phosphokinase
+#267	AnnotatorNotes T267	C0010287
+T268	CHEM 7466 7474	créatine
+#268	AnnotatorNotes T268	C0010286
+T269	PROC 7531 7543	surveillance
+#269	AnnotatorNotes T269	C0581528
+T270	CHEM 7556 7578	créatine phosphokinase
+#270	AnnotatorNotes T270	C0010287
+T271	CHEM 7556 7564	créatine
+#271	AnnotatorNotes T271	C0010286
+T272	PROC 7593 7604	recommandée
+#272	AnnotatorNotes T272	C1136220
+T273	DISO 7613 7635	réactions indésirables
+#273	AnnotatorNotes T273	C0559546
+T274	DISO 7691 7700	confusion
+#274	AnnotatorNotes T274	C0009676
+T275	LIVB 7741 7749	patients
+#275	AnnotatorNotes T275	C0030705
+T276	CHEM 7755 7765	ziconotide
+#276	AnnotatorNotes T276	C0211011
+T277	DISO 7774 7792	troubles cognitifs
+#277	AnnotatorNotes T277	C0009241
+T278	PROC 7846 7856	traitement
+#278	AnnotatorNotes T278	C0087111
+T279	DISO 7877 7900	troubles psychiatriques
+#279	AnnotatorNotes T279	C0004936
+T280	DISO 7918 7932	hallucinations
+#280	AnnotatorNotes T280	C0018524
+T281	DISO 7935 7955	réactions paranoïdes
+#281	AnnotatorNotes T281	C0151836
+T282	PHYS 7958 7967	hostilité
+#282	AnnotatorNotes T282	C0020039
+T283	DISO 7970 7976	délire
+#283	AnnotatorNotes T283	C0011206
+T284	DISO 7979 7987	psychose
+#284	AnnotatorNotes T284	C0033958
+T285	LIVB 8038 8046	patients
+#285	AnnotatorNotes T285	C0030705
+T286	PROC 8047 8054	traités
+#286	AnnotatorNotes T286	C0087111
+T287	CHEM 8062 8072	ziconotide
+#287	AnnotatorNotes T287	C0211011
+T288	LIVB 8081 8089	patients
+#288	AnnotatorNotes T288	C0030705
+T289	DISO 8107 8132	troubles de la conscience
+#289	AnnotatorNotes T289	C0009792
+T290	CHEM 8138 8148	ziconotide
+#290	AnnotatorNotes T290	C0211011
+T291	CHEM 8174 8184	ziconotide
+#291	AnnotatorNotes T291	C0211011
+T292	LIVB 8211 8219	patients
+#292	AnnotatorNotes T292	C0030705
+T293	LIVB 8233 8241	patients
+#293	AnnotatorNotes T293	C0030705
+T294	DISO 8257 8285	douleurs chroniques intenses
+#294	AnnotatorNotes T294	C0278140
+T295	DISO 8257 8276	douleurs chroniques
+#295	AnnotatorNotes T295	C0150055
+T296	DISO 8257 8265	douleurs
+#296	AnnotatorNotes T296	C0030193
+T297	DISO 8305 8313	suicides
+#297	AnnotatorNotes T297	C0038661
+T298	DISO 8321 8342	tentatives de suicide
+#298	AnnotatorNotes T298	C0038663
+T299	DISO 8335 8342	suicide
+#299	AnnotatorNotes T299	C0038661
+T300	LIVB 8371 8381	population
+#300	AnnotatorNotes T300	C1257890
+T301	CHEM 8398 8408	ziconotide
+#301	AnnotatorNotes T301	C0211011
+T302	DISO 8427 8435	aggraver
+#302	AnnotatorNotes T302	C0541889
+T303	DISO 8440 8450	dépression
+#303	AnnotatorNotes T303	C0011570
+T304	DISO 8471 8478	suicide
+#304	AnnotatorNotes T304	C0038661
+T305	LIVB 8493 8501	patients
+#305	AnnotatorNotes T305	C0030705
+T306	PROC 8513 8527	étude clinique
+#306	AnnotatorNotes T306	C0008972
+T307	PHYS 8547 8575	interactions médicamenteuses
+#307	AnnotatorNotes T307	C0687133
+T308	CHEM 8560 8575	médicamenteuses
+#308	AnnotatorNotes T308	C0013227
+T309	ANAT 8629 8641	plasmatiques
+#309	AnnotatorNotes T309	C0032105
+T310	CHEM 8645 8655	ziconotide
+#310	AnnotatorNotes T310	C0211011
+T311	PHYS 8665 8676	métabolisme
+#311	AnnotatorNotes T311	C0025519
+T312	CHEM 8692 8702	peptidases
+#312	AnnotatorNotes T312	C0030940
+T313	CHEM 8758 8780	protéines plasmatiques
+#313	AnnotatorNotes T313	C0032120
+T314	CHEM 8758 8767	protéines
+#314	AnnotatorNotes T314	C0033684
+T315	ANAT 8768 8780	plasmatiques
+#315	AnnotatorNotes T315	C0032105
+T316	PHYS 8810 8838	interactions médicamenteuses
+#316	AnnotatorNotes T316	C0687133
+T317	CHEM 8823 8838	médicamenteuses
+#317	AnnotatorNotes T317	C0013227
+T318	PHYS 8848 8859	métabolisme
+#318	AnnotatorNotes T318	C0025519
+T319	CHEM 8882 8899	sites de fixation
+#319	AnnotatorNotes T319	C0005456
+T320	CHEM 8900 8909	protéique
+#320	AnnotatorNotes T320	C0033684
+T321	CHEM 8938 8948	ziconotide
+#321	AnnotatorNotes T321	C0211011
+T322	CHEM 8963 8974	médicaments
+#322	AnnotatorNotes T322	C0013227
+T323	LIVB 8992 9000	patients
+#323	AnnotatorNotes T323	C0030705
+T324	PROC 9016 9041	chimiothérapie systémique
+#324	AnnotatorNotes T324	C1883256
+T325	CHEM 9048 9058	ziconotide
+#325	AnnotatorNotes T325	C0211011
+T326	ANAT 9068 9084	intrarachidienne
+#326	AnnotatorNotes T326	C1370196
+T327	CHEM 9120 9131	médicaments
+#327	AnnotatorNotes T327	C0013227
+T328	CHEM 9153 9163	peptidases
+#328	AnnotatorNotes T328	C0030940
+T329	CHEM 9166 9175	protéases
+#329	AnnotatorNotes T329	C0030940
+T330	ANAT 9233 9245	plasmatiques
+#330	AnnotatorNotes T330	C0032105
+T331	CHEM 9249 9259	ziconotide
+#331	AnnotatorNotes T331	C0211011
+T332	CHEM 9267 9277	ziconotide
+#332	AnnotatorNotes T332	C0211011
+T333	PHYS 9314 9323	grossesse
+#333	AnnotatorNotes T333	C0032961
+T334	PHEN 9364 9372	sécurité
+#334	AnnotatorNotes T334	C0036043
+T335	CHEM 9387 9397	ziconotide
+#335	AnnotatorNotes T335	C0211011
+T336	PROC 9398 9408	administré
+#336	AnnotatorNotes T336	C1533734
+T337	PROC 9412 9421	perfusion
+#337	AnnotatorNotes T337	C0204704
+T338	ANAT 9422 9438	intrarachidienne
+#338	AnnotatorNotes T338	C1370196
+T339	PROC 9454 9461	évaluée
+#339	AnnotatorNotes T339	C1261322
+T340	LIVB 9480 9488	patients
+#340	AnnotatorNotes T340	C0030705
+T341	PROC 9507 9523	études cliniques
+#341	AnnotatorNotes T341	C0008972
+T342	PROC 9524 9532	évaluant
+#342	AnnotatorNotes T342	C1261322
+T343	DISO 9536 9549	douleur aiguë
+#343	AnnotatorNotes T343	C0184567
+T344	DISO 9536 9543	douleur
+#344	AnnotatorNotes T344	C0030193
+T345	DISO 9536 9543;9553 9562	douleur chronique
+#345	AnnotatorNotes T345	C0150055
+T346	PROC 9579 9589	traitement
+#346	AnnotatorNotes T346	C0087111
+T347	PROC 9617 9626	perfusion
+#347	AnnotatorNotes T347	C0204704
+T348	PHYS 9630 9635	bolus
+#348	AnnotatorNotes T348	C1631798
+T349	PROC 9693 9709	études cliniques
+#349	AnnotatorNotes T349	C0008972
+T350	LIVB 9721 9729	patients
+#350	AnnotatorNotes T350	C0030705
+T351	DISO 9747 9766	effets indésirables
+#351	AnnotatorNotes T351	C0559546
+T352	DISO 9775 9794	effets indésirables
+#352	AnnotatorNotes T352	C0559546
+T353	PROC 9835 9851	études cliniques
+#353	AnnotatorNotes T353	C0008972
+T354	DISO 9888 9912	sensations vertigineuses
+#354	AnnotatorNotes T354	C0012833
+T355	DISO 9922 9929	nausées
+#355	AnnotatorNotes T355	C0027497
+T356	DISO 9939 9948	nystagmus
+#356	AnnotatorNotes T356	C0028738
+T357	DISO 9958 9975	état confusionnel
+#357	AnnotatorNotes T357	C0856480
+T358	DISO 9985 10008	troubles de la démarche
+#358	AnnotatorNotes T358	C0575081
+T359	DISO 10000 10008	démarche
+#359	AnnotatorNotes T359	C0016928
+T360	DISO 10018 10041	troubles mnésiques ( 13
+#360	AnnotatorNotes T360	C0025261
+T361	PHYS 10027 10041	mnésiques ( 13
+#361	AnnotatorNotes T361	C0025260
+T362	DISO 10046 10057	flou visuel
+#362	AnnotatorNotes T362	C0344232
+T363	PHYS 10051 10057	visuel
+#363	AnnotatorNotes T363	C0042789
+T364	DISO 10067 10076	céphalées
+#364	AnnotatorNotes T364	C0018681
+T365	DISO 10086 10094	asthénie
+#365	AnnotatorNotes T365	C0004093
+T366	DISO 10104 10116	vomissements
+#366	AnnotatorNotes T366	C0042963
+T367	DISO 10128 10138	somnolence
+#367	AnnotatorNotes T367	C0013144 C2830004
+T369	DISO 10168 10174	effets
+#369	AnnotatorNotes T369	C0559546
+T370	DISO 10256 10275	effets indésirables
+#370	AnnotatorNotes T370	C0559546
+T371	PROC 10293 10309	études cliniques
+#371	AnnotatorNotes T371	C0008972
+T372	CHEM 10333 10343	ziconotide
+#372	AnnotatorNotes T372	C0211011
+T373	PROC 10350 10360	administré
+#373	AnnotatorNotes T373	C1533734
+T374	ANAT 10370 10386	intrarachidienne
+#374	AnnotatorNotes T374	C1370196
+T375	PROC 10389 10403	administration
+#375	AnnotatorNotes T375	C1533734
+T376	DISO 10494 10501	anxiété
+#376	AnnotatorNotes T376	C0700613
+T377	DISO 10504 10528	hallucinations auditives
+#377	AnnotatorNotes T377	C0233762
+T378	DISO 10504 10518	hallucinations
+#378	AnnotatorNotes T378	C0018524
+T379	PHYS 10519 10528	auditives
+#379	AnnotatorNotes T379	C0004309
+T380	DISO 10531 10539	insomnie
+#380	AnnotatorNotes T380	C0917801
+T381	DISO 10542 10551	agitation
+#381	AnnotatorNotes T381	C0085631
+T382	DISO 10554 10568	désorientation
+#382	AnnotatorNotes T382	C0233407
+T383	DISO 10571 10584	hallucination
+#383	AnnotatorNotes T383	C0018524
+T384	DISO 10587 10611	hallucinations visuelles
+#384	AnnotatorNotes T384	C0233763
+T385	DISO 10587 10601	hallucinations
+#385	AnnotatorNotes T385	C0018524
+T386	PHYS 10602 10611	visuelles
+#386	AnnotatorNotes T386	C0042789
+T387	DISO 10614 10624	dépression
+#387	AnnotatorNotes T387	C0011570
+T388	DISO 10627 10635	paranoïa
+#388	AnnotatorNotes T388	C1456784
+T389	DISO 10638 10650	irritabilité
+#389	AnnotatorNotes T389	C0022107
+T390	DISO 10653 10672	dépression aggravée
+#390	AnnotatorNotes T390	C0235876
+T391	DISO 10653 10663	dépression
+#391	AnnotatorNotes T391	C0011570
+T392	DISO 10664 10672	aggravée
+#392	AnnotatorNotes T392	C0541889
+T393	DISO 10675 10684	nervosité
+#393	AnnotatorNotes T393	C0027769
+T394	DISO 10687 10708	labilité émotionnelle
+#394	AnnotatorNotes T394	C0085633
+T395	DISO 10748 10754	délire
+#395	AnnotatorNotes T395	C0011206
+T396	DISO 10757 10778	troubles psychotiques
+#396	AnnotatorNotes T396	C0033975
+T397	DISO 10781 10798	idées suicidaires
+#397	AnnotatorNotes T397	C0424000
+T398	DISO 10787 10798	suicidaires
+#398	AnnotatorNotes T398	C0038661
+T399	DISO 10801 10821	tentative de suicide
+#399	AnnotatorNotes T399	C0038663
+T400	DISO 10814 10821	suicide
+#400	AnnotatorNotes T400	C0038661
+T401	DISO 10824 10844	blocage de la pensée
+#401	AnnotatorNotes T401	C0233660
+T402	DISO 10847 10861	rêves anormaux
+#402	AnnotatorNotes T402	C0234458
+T403	DISO 10866 10895	Affections du système nerveux
+#403	AnnotatorNotes T403	C0027765
+T404	ANAT 10880 10895	système nerveux
+#404	AnnotatorNotes T404	C0027763
+T405	DISO 10915 10939	sensations vertigineuses
+#405	AnnotatorNotes T405	C0012833
+T406	DISO 10942 10951	nystagmus
+#406	AnnotatorNotes T406	C0028738
+T407	DISO 10954 10972	troubles mnésiques
+#407	AnnotatorNotes T407	C0025261
+T408	PHYS 10963 10972	mnésiques
+#408	AnnotatorNotes T408	C0025260
+T409	DISO 10975 10984	céphalées
+#409	AnnotatorNotes T409	C0018681
+T410	DISO 10987 10997	somnolence
+#410	AnnotatorNotes T410	C0013144 C2830004
+T412	DISO 11016 11027	incohérence
+#412	AnnotatorNotes T412	C0233643
+T413	DISO 11030 11049	perte de conscience
+#413	AnnotatorNotes T413	C0039070
+T414	DISO 11052 11056	coma
+#414	AnnotatorNotes T414	C0860634
+T415	DISO 11059 11066	stupeur
+#415	AnnotatorNotes T415	C0085628
+T416	DISO 11069 11080	convulsions
+#416	AnnotatorNotes T416	C0009951
+T417	DISO 11083 11111	accident vasculaire cérébral
+#417	AnnotatorNotes T417	C0038454
+T418	ANAT 11092 11102	vasculaire
+#418	AnnotatorNotes T418	C0005847
+T419	ANAT 11103 11111	cérébral
+#419	AnnotatorNotes T419	C2882690
+T420	DISO 11114 11129	encéphalopathie
+#420	AnnotatorNotes T420	C0085584
+T421	DISO 11144 11152	diplopie
+#421	AnnotatorNotes T421	C0012569
+T422	DISO 11155 11176	troubles de la vision
+#422	AnnotatorNotes T422	C0547030
+T423	PHYS 11170 11176	vision
+#423	AnnotatorNotes T423	C0042789
+T424	DISO 11179 11190	photophobie
+#424	AnnotatorNotes T424	C0085636
+T425	DISO 11205 11212	vertige
+#425	AnnotatorNotes T425	C0042571
+T426	DISO 11215 11225	acouphènes
+#426	AnnotatorNotes T426	C0040264
+T427	DISO 11240 11265	hypotension orthostatique
+#427	AnnotatorNotes T427	C0020651
+T428	DISO 11240 11251	hypotension
+#428	AnnotatorNotes T428	C0020649
+T429	DISO 11268 11279	hypotension
+#429	AnnotatorNotes T429	C0020649
+T430	DISO 11294 11302	diarrhée
+#430	AnnotatorNotes T430	C0011991
+T431	DISO 11305 11323	sécheresse buccale
+#431	AnnotatorNotes T431	C0043352
+T432	ANAT 11316 11323	buccale
+#432	AnnotatorNotes T432	C0230028
+T433	DISO 11326 11338	constipation
+#433	AnnotatorNotes T433	C0009806
+T434	DISO 11341 11352	aggravation
+#434	AnnotatorNotes T434	C0541889
+T435	DISO 11357 11364	nausées
+#435	AnnotatorNotes T435	C0027497
+T436	DISO 11367 11387	douleurs abdominales
+#436	AnnotatorNotes T436	C0000737
+T437	DISO 11367 11375	douleurs
+#437	AnnotatorNotes T437	C0030193
+T438	ANAT 11376 11387	abdominales
+#438	AnnotatorNotes T438	C0000726
+T439	DISO 11409 11415	prurit
+#439	AnnotatorNotes T439	C0033774
+T440	DISO 11418 11431	hypersudation
+#440	AnnotatorNotes T440	C0020458
+T441	DISO 11446 11471	douleurs dans les membres
+#441	AnnotatorNotes T441	C0030196
+T442	DISO 11446 11454	douleurs
+#442	AnnotatorNotes T442	C0030193
+T443	ANAT 11464 11471	membres
+#443	AnnotatorNotes T443	C1280090
+T444	DISO 11474 11481	myalgie
+#444	AnnotatorNotes T444	C0231528
+T445	DISO 11484 11491	spasmes
+#445	AnnotatorNotes T445	C0037763
+T446	ANAT 11492 11503	musculaires
+#446	AnnotatorNotes T446	C0026845
+T447	DISO 11506 11525	crampes musculaires
+#447	AnnotatorNotes T447	C0026821
+T448	DISO 11506 11513	crampes
+#448	AnnotatorNotes T448	C0010263
+T449	ANAT 11514 11525	musculaires
+#449	AnnotatorNotes T449	C0026845
+T450	DISO 11528 11548	faiblesse musculaire
+#450	AnnotatorNotes T450	C0151786
+T451	DISO 11528 11537	faiblesse
+#451	AnnotatorNotes T451	C0004093
+T452	ANAT 11538 11548	musculaire
+#452	AnnotatorNotes T452	C0026845
+T453	DISO 11551 11561	arthralgie
+#453	AnnotatorNotes T453	C0003862
+T454	DISO 11564 11584	œdèmes périphériques
+#454	AnnotatorNotes T454	C0085649
+T455	DISO 11564 11570	œdèmes
+#455	AnnotatorNotes T455	C0013604
+T456	DISO 11603 11616	rhabdomyolyse
+#456	AnnotatorNotes T456	C0035410
+T457	DISO 11619 11626	myosite
+#457	AnnotatorNotes T457	C0027121
+T458	DISO 11629 11639	dorsalgies
+#458	AnnotatorNotes T458	C0004604
+T459	DISO 11652 11664	cervicalgies
+#459	AnnotatorNotes T459	C0007859
+T460	DISO 11667 11685	Affections du rein
+#460	AnnotatorNotes T460	C0022658
+T461	ANAT 11681 11685	rein
+#461	AnnotatorNotes T461	C0022646
+T462	DISO 11693 11708	voies urinaires
+#462	AnnotatorNotes T462	C0042075
+T463	ANAT 11693 11708	voies urinaires
+#463	AnnotatorNotes T463	C0042027
+T464	DISO 11727 11752	insuffisance rénale aiguë
+#464	AnnotatorNotes T464	C0022660
+T465	DISO 11727 11746	insuffisance rénale
+#465	AnnotatorNotes T465	C1565489
+T466	ANAT 11740 11746	rénale
+#466	AnnotatorNotes T466	C0022646
+T467	DISO 11772 11796	anomalies de la démarche
+#467	AnnotatorNotes T467	C0575081
+T468	DISO 11788 11796	démarche
+#468	AnnotatorNotes T468	C0016928
+T469	DISO 11799 11807	asthénie
+#469	AnnotatorNotes T469	C0004093
+T470	DISO 11822 11829	fatigue
+#470	AnnotatorNotes T470	C0015672
+T471	DISO 11832 11839	pyrexie
+#471	AnnotatorNotes T471	C0015967
+T472	DISO 11842 11851	léthargie
+#472	AnnotatorNotes T472	C0023380
+T473	DISO 11854 11874	œdèmes périphériques
+#473	AnnotatorNotes T473	C0085649
+T474	DISO 11854 11860	œdèmes
+#474	AnnotatorNotes T474	C0013604
+T475	DISO 11877 11885	frissons
+#475	AnnotatorNotes T475	C0036973
+T476	DISO 11888 11894	chutes
+#476	AnnotatorNotes T476	C0085639
+T477	DISO 11897 11917	douleurs thoraciques
+#477	AnnotatorNotes T477	C0008031
+T478	DISO 11897 11905	douleurs
+#478	AnnotatorNotes T478	C0030193
+T479	ANAT 11906 11917	thoraciques
+#479	AnnotatorNotes T479	C0817096
+T480	PHYS 11920 11938	sensation de froid
+#480	AnnotatorNotes T480	C0234192
+T481	ANAT 11989 11997	sanguins
+#481	AnnotatorNotes T481	C0005767
+T482	CHEM 12001 12023	créatine phosphokinase
+#482	AnnotatorNotes T482	C0010287
+T483	CHEM 12001 12009	créatine
+#483	AnnotatorNotes T483	C0010286
+T484	DISO 12026 12045	diminution du poids
+#484	AnnotatorNotes T484	C0936227
+T485	PHYS 12040 12045	poids
+#485	AnnotatorNotes T485	C0005910
+T486	DISO 12064 12091	électrocardiogramme anormal
+#486	AnnotatorNotes T486	C0236140
+T487	DISO 12064 12083	électrocardiogramme
+#487	AnnotatorNotes T487	C0013798
+T488	CHEM 12094 12120	aspartate aminotransférase
+#488	AnnotatorNotes T488	C0004002
+T489	CHEM 12123 12145	créatine phosphokinase
+#489	AnnotatorNotes T489	C0010287
+T490	CHEM 12123 12131	créatine
+#490	AnnotatorNotes T490	C0010286
+T491	PHYS 12170 12192	température corporelle
+#491	AnnotatorNotes T491	C0005903
+T492	LIVB 12182 12192	corporelle
+#492	AnnotatorNotes T492	C0242821
+T493	PROC 12231 12246	recommandations
+#493	AnnotatorNotes T493	C1136220
+T494	DISO 12273 12282	méningite
+#494	AnnotatorNotes T494	C0025289
+T495	CHEM 12311 12333	créatine phosphokinase
+#495	AnnotatorNotes T495	C0010287
+T496	CHEM 12311 12319	créatine
+#496	AnnotatorNotes T496	C0010286
+T497	DISO 12341 12360	effets indésirables
+#497	AnnotatorNotes T497	C0559546
+T498	ANAT 12368 12371	SNC
+#498	AnnotatorNotes T498	C0927232
+T499	PROC 12414 12420	études
+#499	AnnotatorNotes T499	C2603343
+T500	PROC 12424 12433	perfusion
+#500	AnnotatorNotes T500	C0204704
+T501	LIVB 12454 12465	volontaires
+#501	AnnotatorNotes T501	C0020155
+T502	PHYS 12475 12488	sexe masculin
+#502	AnnotatorNotes T502	C0229991
+T503	CHEM 12501 12511	ziconotide
+#503	AnnotatorNotes T503	C0211011
+T504	PROC 12597 12608	recommandée
+#504	AnnotatorNotes T504	C1136220
+T505	ANAT 12618 12634	intrarachidienne
+#505	AnnotatorNotes T505	C1370196
+T506	DISO 12643 12668	hypotension orthostatique
+#506	AnnotatorNotes T506	C0020651
+T507	DISO 12643 12654	hypotension
+#507	AnnotatorNotes T507	C0020649
+T508	LIVB 12706 12712	sujets
+#508	AnnotatorNotes T508	C0027361
+T509	CHEM 12758 12768	ziconotide
+#509	AnnotatorNotes T509	C0211011
+T510	PROC 12795 12806	recommandée
+#510	AnnotatorNotes T510	C1136220
+T511	ANAT 12816 12832	intrarachidienne
+#511	AnnotatorNotes T511	C1370196
+T512	PROC 12870 12886	études cliniques
+#512	AnnotatorNotes T512	C0008972
+T513	CHEM 12916 12926	ziconotide
+#513	AnnotatorNotes T513	C0211011
+T514	PROC 12927 12937	administré
+#514	AnnotatorNotes T514	C1533734
+T515	ANAT 12947 12963	intrarachidienne
+#515	AnnotatorNotes T515	C1370196
+T516	LIVB 13053 13061	patients
+#516	AnnotatorNotes T516	C0030705
+T517	DISO 13067 13078	observation
+#517	AnnotatorNotes T517	C0941132
+T518	PHYS 13083 13091	récupéré
+#518	AnnotatorNotes T518	C2004454
+T519	CHEM 13148 13158	médicament
+#519	AnnotatorNotes T519	C0013227
+T520	PROC 13168 13178	réévaluera
+#520	AnnotatorNotes T520	C1261322
+T521	LIVB 13304 13312	patients
+#521	AnnotatorNotes T521	C0030705
+T522	PROC 13326 13336	traitement
+#522	AnnotatorNotes T522	C0087111
+T523	DISO 7991 8010	réactions maniaques
+#523	AnnotatorNotes T523	C0338831
+T524	DISO 13515 13534	effets indésirables
+#524	AnnotatorNotes T524	C0559546
+T525	ANAT 13535 13548	neurologiques
+#525	AnnotatorNotes T525	C0027740
+T526	DISO 13565 13589	sensations vertigineuses
+#526	AnnotatorNotes T526	C0012833
+T527	DISO 13596 13603	nausées
+#527	AnnotatorNotes T527	C0027497
+T528	DISO 13611 13634	troubles de la démarche
+#528	AnnotatorNotes T528	C0575081
+T529	DISO 13626 13634	démarche
+#529	AnnotatorNotes T529	C0016928
+T530	DISO 13764 13783	effets indésirables
+#530	AnnotatorNotes T530	C0559546
+T531	PROC 13800 13810	recommandé
+#531	AnnotatorNotes T531	C1136220
+T532	PROC 13872 13888	études cliniques
+#532	AnnotatorNotes T532	C0008972
+T533	LIVB 13912 13920	patients
+#533	AnnotatorNotes T533	C0030705
+T534	PHYS 13925 13933	tolèrent
+#534	AnnotatorNotes T534	C0231197
+T535	PHYS 14053 14061	tolèrent
+#535	AnnotatorNotes T535	C0231197
+T536	DISO 14221 14233	accoutumance
+#536	AnnotatorNotes T536	C0085281
+T537	PHEN 14261 14273	perméabilité
+#537	AnnotatorNotes T537	C0031164
+T538	DEVI 14277 14285	cathéter
+#538	AnnotatorNotes T538	C0085590
+T539	ANAT 14286 14300	intrarachidien
+#539	AnnotatorNotes T539	C1370196
+T540	CHEM 14383 14393	ziconotide
+#540	AnnotatorNotes T540	C0211011
+T541	PROC 14404 14420	études cliniques
+#541	AnnotatorNotes T541	C0008972
+T542	CHEM 14424 14434	ziconotide
+#542	AnnotatorNotes T542	C0211011
+T543	ANAT 14435 14449	intrarachidien
+#543	AnnotatorNotes T543	C1370196
+T544	CHEM 14468 14475	placebo
+#544	AnnotatorNotes T544	C1696465
+T545	PROC 14504 14507	EVA
+#545	AnnotatorNotes T545	C0042815
+T546	CHEM 14636 14643	Placebo
+#546	AnnotatorNotes T546	C1696465
+T547	DISO 14677 14684	douleur
+#547	AnnotatorNotes T547	C0030193
+T548	PROC 14694 14700	études
+#548	AnnotatorNotes T548	C2603343
+T549	DISO 14712 14730	douleur cancéreuse
+#549	AnnotatorNotes T549	C0596240
+T550	DISO 14712 14719	douleur
+#550	AnnotatorNotes T550	C0030193
+T551	DISO 14747 14754	douleur
+#551	AnnotatorNotes T551	C0030193
+T552	DISO 14795 14812	douleurs osseuses
+#552	AnnotatorNotes T552	C0151825
+T553	DISO 14795 14803	douleurs
+#553	AnnotatorNotes T553	C0030193
+T554	ANAT 14804 14812	osseuses
+#554	AnnotatorNotes T554	C0005931
+T555	DISO 14851 14870	métastases osseuses
+#555	AnnotatorNotes T555	C0153690
+T556	DISO 14851 14861	métastases
+#556	AnnotatorNotes T556	C0027627
+T557	ANAT 14862 14870	osseuses
+#557	AnnotatorNotes T557	C0005931
+T558	DISO 14887 14898	myélopathie
+#558	AnnotatorNotes T558	C0037928
+T559	DISO 14940 14951	traumatisme
+#559	AnnotatorNotes T559	C0043250
+T560	ANAT 14952 14962	médullaire
+#560	AnnotatorNotes T560	C1550278
+T561	DISO 14968 14977	paralysie
+#561	AnnotatorNotes T561	C0522224
+T562	DISO 14990 15001	neuropathie
+#562	AnnotatorNotes T562	C0442874
+T563	DISO 15014 15028	radiculopathie
+#563	AnnotatorNotes T563	C0700594
+T564	DISO 15041 15048	douleur
+#564	AnnotatorNotes T564	C0030193
+T565	ANAT 15049 15059	médullaire
+#565	AnnotatorNotes T565	C1550278
+T566	DISO 15110 15135	intervention chirurgicale
+#566	AnnotatorNotes T566	C0549433
+T567	ANAT 15146 15152	dorsal
+#567	AnnotatorNotes T567	C0004600
+T568	LIVB 15208 15216	patients
+#568	AnnotatorNotes T568	C0030705
+T569	DISO 15250 15257	douleur
+#569	AnnotatorNotes T569	C0030193
+T570	PROC 15338 15341	EVA
+#570	AnnotatorNotes T570	C0042815
+T571	PROC 15368 15382	administration
+#571	AnnotatorNotes T571	C1533734
+T572	ANAT 15383 15399	intrarachidienne
+#572	AnnotatorNotes T572	C1370196
+T573	CHEM 15403 15413	ziconotide
+#573	AnnotatorNotes T573	C0211011
+T574	PROC 15423 15428	étude
+#574	AnnotatorNotes T574	C2603343
+T575	PROC 15469 15475	études
+#575	AnnotatorNotes T575	C2603343
+T576	DISO 15538 15557	effets indésirables
+#576	AnnotatorNotes T576	C0559546
+T577	CHEM 15593 15603	Ziconotide
+#577	AnnotatorNotes T577	C0211011
+T578	CHEM 15618 15625	Placebo
+#578	AnnotatorNotes T578	C1696465
+T579	PHYS 15655 15673	pharmacocinétiques
+#579	AnnotatorNotes T579	C0031327
+T580	ANAT 15674 15686	plasmatiques
+#580	AnnotatorNotes T580	C0032105
+T581	PROC 15705 15712	étudiés
+#581	AnnotatorNotes T581	C2603343
+T582	PROC 15719 15733	administration
+#582	AnnotatorNotes T582	C1533734
+T583	PHYS 15793 15811	pharmacocinétiques
+#583	AnnotatorNotes T583	C0031327
+T584	CHEM 15815 15825	ziconotide
+#584	AnnotatorNotes T584	C0211011
+T585	ANAT 15834 15840	plasma
+#585	AnnotatorNotes T585	C0032105
+T586	ANAT 15847 15850	LCR
+#586	AnnotatorNotes T586	C0007806
+T587	OBJC 15914 15921	liquide
+#587	AnnotatorNotes T587	C0302908
+T588	ANAT 15940 15946	Plasma
+#588	AnnotatorNotes T588	C0032105
+T589	PHYS 15954 15963	clairance
+#589	AnnotatorNotes T589	C1382187
+T590	PHYS 15981 15993	distribution
+#590	AnnotatorNotes T590	C1378698
+T591	PROC 16018 16032	administration
+#591	AnnotatorNotes T591	C1533734
+T592	ANAT 16033 16049	intrarachidienne
+#592	AnnotatorNotes T592	C1370196
+T593	DISO 16220 16232	accumulation
+#593	AnnotatorNotes T593	C0424337
+T594	ANAT 16233 16244	plasmatique
+#594	AnnotatorNotes T594	C0032105
+T595	CHEM 16248 16258	ziconotide
+#595	AnnotatorNotes T595	C0211011
+T596	PROC 16265 16279	administration
+#596	AnnotatorNotes T596	C1533734
+T597	ANAT 16280 16296	intrarachidienne
+#597	AnnotatorNotes T597	C1370196
+T598	CHEM 16323 16333	ziconotide
+#598	AnnotatorNotes T598	C0211011
+T599	CHEM 16341 16348	peptide
+#599	AnnotatorNotes T599	C0030956
+T600	CHEM 16365 16378	acides aminés
+#600	AnnotatorNotes T600	C0002520
+T601	PHYS 16432 16442	métabolisé
+#601	AnnotatorNotes T601	C0025519
+T602	ANAT 16473 16476	LCR
+#602	AnnotatorNotes T602	C0007806
+T603	CHEM 16485 16498	acides aminés
+#603	AnnotatorNotes T603	C0002520
+T604	PHYS 16559 16580	transport cellulaires
+#604	AnnotatorNotes T604	C0005528
+T605	ANAT 16569 16580	cellulaires
+#605	AnnotatorNotes T605	C0007634
+T606	PHYS 16609 16620	métabolisme
+#606	AnnotatorNotes T606	C0025519
+T607	PHYS 16694 16705	biosynthèse
+#607	AnnotatorNotes T607	C0596074
+T608	CHEM 16740 16750	ziconotide
+#608	AnnotatorNotes T608	C0211011
+T609	ANAT 16812 16815	LCR
+#609	AnnotatorNotes T609	C0007806
+T610	LIVB 16825 16836	Populations
+#610	AnnotatorNotes T610	C1257890
+T611	DISO 16920 16925	effet
+#611	AnnotatorNotes T611	C1313864
+T612	LIVB 16944 16952	race , l
+#612	AnnotatorNotes T612	C0034510
+T613	PHYS 16959 16965	taille
+#613	AnnotatorNotes T613	C0005890
+T614	PHYS 16971 16976	poids
+#614	AnnotatorNotes T614	C0005910
+T615	PHYS 16982 16986	sexe
+#615	AnnotatorNotes T615	C1522384
+T616	DISO 17001 17007	effets
+#616	AnnotatorNotes T616	C1313864
+T617	PHEN 17032 17056	actions pharmacologiques
+#617	AnnotatorNotes T617	C0600511
+T618	CHEM 17071 17081	ziconotide
+#618	AnnotatorNotes T618	C0211011
+T619	DISO 17097 17104	lésions
+#619	AnnotatorNotes T619	C0221198
+T620	DISO 17105 17118	neurotoxiques
+#620	AnnotatorNotes T620	C0235032
+T621	DISO 17126 17134	toxicité
+#621	AnnotatorNotes T621	C0600688
+T622	ANAT 17154 17161	organes
+#622	AnnotatorNotes T622	C0178784
+T623	PROC 17177 17189	observations
+#623	AnnotatorNotes T623	C0302523
+T624	PHYS 17205 17225	effets neurologiques
+#624	AnnotatorNotes T624	C1518287
+T625	ANAT 17212 17225	neurologiques
+#625	AnnotatorNotes T625	C0027740
+T626	DISO 17266 17278	tremblements
+#626	AnnotatorNotes T626	C0234369
+T627	DISO 17281 17295	incoordination
+#627	AnnotatorNotes T627	C0520966
+T628	PHYS 17300 17310	mouvements
+#628	AnnotatorNotes T628	C0026649
+T629	DISO 17314 17319	hyper
+#629	AnnotatorNotes T629	C0424295
+T630	DISO 17325 17337	hypoactivité
+#630	AnnotatorNotes T630	C0086439
+T631	PHEN 17378 17390	transmission
+#631	AnnotatorNotes T631	C1521797
+T632	PHEN 17395 17402	signaux
+#632	AnnotatorNotes T632	C1710082
+T633	ANAT 17403 17416	neurologiques
+#633	AnnotatorNotes T633	C0027740
+T634	CHEM 17426 17436	Méthionine
+#634	AnnotatorNotes T634	C0025646
+T635	CHEM 17437 17455	Chlorure de sodium
+#635	AnnotatorNotes T635	C0037494
+T636	CHEM 17437 17445	Chlorure
+#636	AnnotatorNotes T636	C0008203
+T637	CHEM 17449 17455	sodium
+#637	AnnotatorNotes T637	C0037473
+T638	CHEM 17456 17459	Eau
+#638	AnnotatorNotes T638	C0043047
+T639	CHEM 17465 17484	solution injectable
+#639	AnnotatorNotes T639	C0086466
+T640	PROC 17474 17484	injectable
+#640	AnnotatorNotes T640	C0021485
+T641	CHEM 17485 17504	Acide chlorhydrique
+#641	AnnotatorNotes T641	C0020259
+T642	CHEM 17485 17490	Acide
+#642	AnnotatorNotes T642	C0001128
+T643	PHEN 17521 17523	pH
+#643	AnnotatorNotes T643	C1304686
+T644	CHEM 17526 17545	Hydroxyde de sodium
+#644	AnnotatorNotes T644	C0037517
+T645	CHEM 17526 17535	Hydroxyde
+#645	AnnotatorNotes T645	C0020315
+T646	CHEM 17539 17545	sodium
+#646	AnnotatorNotes T646	C0037473
+T647	PHEN 17562 17564	pH
+#647	AnnotatorNotes T647	C1304686
+T648	OBJC 17602 17609	produit
+#648	AnnotatorNotes T648	C1514468
+T649	OBJC 17719 17726	produit
+#649	AnnotatorNotes T649	C1514468
+T650	PROC 17731 17736	dilué
+#650	AnnotatorNotes T650	C0079240
+T651	DEVI 17784 17789	pompe
+#651	AnnotatorNotes T651	C0182537
+T652	PROC 17793 17802	perfusion
+#652	AnnotatorNotes T652	C0204704
+T653	DEVI 17807 17814	Flacons
+#653	AnnotatorNotes T653	C0179385
+T654	OBJC 17818 17823	verre
+#654	AnnotatorNotes T654	C0017596
+T655	OBJC 17856 17863	bouchon
+#655	AnnotatorNotes T655	C0179586
+T656	CHEM 17867 17887	caoutchouc butylique
+#656	AnnotatorNotes T656	C0054283
+T657	CHEM 17867 17877	caoutchouc
+#657	AnnotatorNotes T657	C0035918
+T658	CHEM 17902 17917	polymère fluoré
+#658	AnnotatorNotes T658	C0303986
+T659	CHEM 17902 17910	polymère
+#659	AnnotatorNotes T659	C0032521
+T660	CHEM 17911 17917	fluoré
+#660	AnnotatorNotes T660	C0016330
+T661	DEVI 17929 17935	flacon
+#661	AnnotatorNotes T661	C0179385
+T662	CHEM 17962 17970	solution
+#662	AnnotatorNotes T662	C1382100
+T663	PROC 17976 17985	perfusion
+#663	AnnotatorNotes T663	C0204704
+T664	PROC 17997 18005	dilution
+#664	AnnotatorNotes T664	C0079240
+T665	CHEM 18076 18084	solution
+#665	AnnotatorNotes T665	C1382100
+T666	CHEM 18088 18106	chlorure de sodium
+#666	AnnotatorNotes T666	C0037494
+T667	CHEM 18088 18096	chlorure
+#667	AnnotatorNotes T667	C0008203
+T668	CHEM 18100 18106	sodium
+#668	AnnotatorNotes T668	C0037473
+T669	CHEM 18135 18154	solution injectable
+#669	AnnotatorNotes T669	C0086466
+T670	PROC 18144 18154	injectable
+#670	AnnotatorNotes T670	C0021485
+T671	CHEM 18160 18173	conservateurs
+#671	AnnotatorNotes T671	C0033086
+T672	CHEM 18221 18229	solution
+#672	AnnotatorNotes T672	C1382100
+T673	DEVI 18247 18252	pompe
+#673	AnnotatorNotes T673	C0182537
+T674	PROC 18255 18264	perfusion
+#674	AnnotatorNotes T674	C0204704
+T675	CHEM 18308 18318	ziconotide
+#675	AnnotatorNotes T675	C0211011
+T676	DEVI 18328 18333	pompe
+#676	AnnotatorNotes T676	C0182537
+T677	DEVI 18368 18373	pompe
+#677	AnnotatorNotes T677	C0182537
+T678	CHEM 18493 18501	solution
+#678	AnnotatorNotes T678	C1382100
+T679	PROC 18507 18516	perfusion
+#679	AnnotatorNotes T679	C0204704
+T680	DEVI 18541 18546	pompe
+#680	AnnotatorNotes T680	C0182537
+T681	LIVB 18554 18561	patient
+#681	AnnotatorNotes T681	C0030705
+T682	LIVB 18568 18586	personnel soignant
+#682	AnnotatorNotes T682	C0025106
+T683	DEVI 18648 18653	pompe
+#683	AnnotatorNotes T683	C0182537
+T684	CHEM 18761 18767	Prialt
+#684	AnnotatorNotes T684	C1530575
+T685	DEVI 18820 18825	pompe
+#685	AnnotatorNotes T685	C0182537
+T686	PROC 18826 18837	implantable
+#686	AnnotatorNotes T686	C0021107
+T687	DEVI 18855 18860	pompe
+#687	AnnotatorNotes T687	C0182537
+T688	OBJC 18887 18894	produit
+#688	AnnotatorNotes T688	C1514468
+T689	DEVI 18971 18976	pompe
+#689	AnnotatorNotes T689	C0182537
+T690	CHEM 18981 18987	Prialt
+#690	AnnotatorNotes T690	C1530575
+T691	DEVI 19042 19047	pompe
+#691	AnnotatorNotes T691	C0182537
+T692	CHEM 19075 19085	médicament
+#692	AnnotatorNotes T692	C0013227
+T693	DEVI 19098 19103	pompe
+#693	AnnotatorNotes T693	C0182537
+T694	OBJC 19120 19127	produit
+#694	AnnotatorNotes T694	C1514468
+T695	CHEM 19236 19242	Prialt
+#695	AnnotatorNotes T695	C1530575
+T696	OBJC 19248 19257	réservoir
+#696	AnnotatorNotes T696	C0337123
+T697	DEVI 19335 19340	pompe
+#697	AnnotatorNotes T697	C0182537
+T698	CHEM 19393 19399	Prialt
+#698	AnnotatorNotes T698	C1530575
+T699	CHEM 19408 19416	solution
+#699	AnnotatorNotes T699	C1382100
+T700	CHEM 19444 19452	solution
+#700	AnnotatorNotes T700	C1382100
+T701	CHEM 19535 19545	particules
+#701	AnnotatorNotes T701	C0597177
+T702	OBJC 19555 19562	produit
+#702	AnnotatorNotes T702	C1514468
+T703	GEOG 19676 19687	Royaume-Uni
+#703	AnnotatorNotes T703	C0041700
+T704	CHEM 19725 19735	médicament
+#704	AnnotatorNotes T704	C0013227
+T705	CHEM 19802 19812	médicament
+#705	AnnotatorNotes T705	C0013227
+T706	CHEM 19849 19855	Prialt
+#706	AnnotatorNotes T706	C1530575
+T707	CHEM 19879 19887	solution
+#707	AnnotatorNotes T707	C1382100
+T708	PROC 19893 19902	perfusion
+#708	AnnotatorNotes T708	C0204704
+T709	CHEM 19916 19924	solution
+#709	AnnotatorNotes T709	C1382100
+T710	CHEM 19944 19954	ziconotide
+#710	AnnotatorNotes T710	C0211011
+T711	DISO 19976 19998	réactions indésirables
+#711	AnnotatorNotes T711	C0559546
+T712	DISO 20054 20063	confusion
+#712	AnnotatorNotes T712	C0009676
+T713	LIVB 20104 20112	patients
+#713	AnnotatorNotes T713	C0030705
+T714	CHEM 20118 20128	ziconotide
+#714	AnnotatorNotes T714	C0211011
+T715	DISO 20149 20172	troubles psychiatriques
+#715	AnnotatorNotes T715	C0004936
+T716	DISO 20190 20204	hallucinations
+#716	AnnotatorNotes T716	C0018524
+T717	DISO 20207 20227	réactions paranoïdes
+#717	AnnotatorNotes T717	C0151836
+T718	PHYS 20230 20239	hostilité
+#718	AnnotatorNotes T718	C0020039
+T719	DISO 20242 20248	délire
+#719	AnnotatorNotes T719	C0011206
+T720	DISO 20251 20259	psychose
+#720	AnnotatorNotes T720	C0033958
+T721	LIVB 20310 20318	patients
+#721	AnnotatorNotes T721	C0030705
+T722	PROC 20319 20326	traités
+#722	AnnotatorNotes T722	C0087111
+T723	CHEM 20334 20344	ziconotide
+#723	AnnotatorNotes T723	C0211011
+T724	PHYS 20355 20364	Grossesse
+#724	AnnotatorNotes T724	C0032961
+T725	PHYS 20368 20379	allaitement
+#725	AnnotatorNotes T725	C0006147
+T726	DISO 20382 20400	Affections du rein
+#726	AnnotatorNotes T726	 C0022658
+T727	ANAT 20396 20400	rein
+#727	AnnotatorNotes T727	C0022646
+T728	DISO 20382 20392;20408 20423	Affections voies urinaires
+#728	AnnotatorNotes T728	C0042075
+T729	ANAT 20408 20423	voies urinaires
+#729	AnnotatorNotes T729	C0042027
+T730	DEVI 20457 20466	emballage
+#730	AnnotatorNotes T730	C0013194
+T731	DEVI 20486 20492	flacon
+#731	AnnotatorNotes T731	C0179385
+T732	CHEM 20511 20519	solution
+#732	AnnotatorNotes T732	C1382100
+T733	PROC 20525 20534	perfusion
+#733	AnnotatorNotes T733	C0204704
+T734	GEOG 20630 20641	Royaume-Uni
+#734	AnnotatorNotes T734	C0041700
+T735	LIVB 20656 20664	patients
+#735	AnnotatorNotes T735	C0030705
+T736	LIVB 20692 20700	patients
+#736	AnnotatorNotes T736	C0030705
+T737	PROC 20701 20708	traités
+#737	AnnotatorNotes T737	C0087111
+T738	CHEM 20736 20742	PRIALT
+#738	AnnotatorNotes T738	C153057
+T739	PHEN 20829 20837	sécurité
+#739	AnnotatorNotes T739	C0036043
+T740	CHEM 20852 20862	ziconotide
+#740	AnnotatorNotes T740	C0211011
+T741	PROC 20866 20880	administration
+#741	AnnotatorNotes T741	C1533734
+T742	ANAT 20881 20893	intrathécale
+#742	AnnotatorNotes T742	C1370196
+T743	LIVB 20919 20927	patients
+#743	AnnotatorNotes T743	C0030705
+T744	DISO 20943 20983	douleurs intenses chroniques cancéreuses
+#744	AnnotatorNotes T744	C0596240
+T745	DISO 20943 20971	douleurs intenses chroniques
+#745	AnnotatorNotes T745	C0150055
+T746	DISO 20943 20960	douleurs intenses
+#746	AnnotatorNotes T746	C0278140
+T747	DISO 20943 20951	douleurs
+#747	AnnotatorNotes T747	C0030193
+T748	LIVB 21040 21048	patients
+#748	AnnotatorNotes T748	C0030705
+T749	DISO 21180 21187	douleur
+#749	AnnotatorNotes T749	C0030193
+T750	PROC 21196 21199	EVA
+#750	AnnotatorNotes T750	C0042815
+T751	CHEM 21309 21319	ziconotide
+#751	AnnotatorNotes T751	C0211011
+T752	DISO 21418 21430	accoutumance
+#752	AnnotatorNotes T752	C0085281
+T753	CHEM 21465 21475	ziconotide
+#753	AnnotatorNotes T753	C0211011
+T754	PHYS 21479 21490	association
+#754	AnnotatorNotes T754	C0004083
+T755	CHEM 21499 21507	morphine
+#755	AnnotatorNotes T755	C0026549
+T756	CHEM 21514 21523	baclofène
+#756	AnnotatorNotes T756	C0004609
+T757	CHEM 21540 21551	médicaments
+#757	AnnotatorNotes T757	C0013227
+T758	DISO 21579 21598	effets indésirables
+#758	AnnotatorNotes T758	C0559546
+T759	PROC 21625 21633	analysés
+#759	AnnotatorNotes T759	C0936012
+T760	LIVB 21705 21713	patients
+#760	AnnotatorNotes T760	C0030705
+T761	PROC 21734 21746	réévaluation
+#761	AnnotatorNotes T761	C1261322
+T762	PROC 21920 21928	analyses
+#762	AnnotatorNotes T762	C0936012
+T763	PROC 21954 21959	étude
+#763	AnnotatorNotes T763	C2603343
+T764	PROC 22072 22077	étude
+#764	AnnotatorNotes T764	C2603343
+T765	CHEM 22177 22187	médicament
+#765	AnnotatorNotes T765	C0013227
+T766	CHEM 22192 22198	Prialt
+#766	AnnotatorNotes T766	C1530575
+T767	CHEM 22223 22231	solution
+#767	AnnotatorNotes T767	C1382100
+T768	PROC 22237 22246	perfusion
+#768	AnnotatorNotes T768	C0204704
+T769	CHEM 22249 22259	ziconotide
+#769	AnnotatorNotes T769	C0211011
+T770	CHEM 22284 22292	solution
+#770	AnnotatorNotes T770	C1382100
+T771	CHEM 22322 22332	ziconotide
+#771	AnnotatorNotes T771	C0211011
+T772	CHEM 22372 22380	solution
+#772	AnnotatorNotes T772	C1382100
+T773	CHEM 22410 22420	ziconotide
+#773	AnnotatorNotes T773	C0211011
+T774	CHEM 22460 22468	solution
+#774	AnnotatorNotes T774	C1382100
+T775	CHEM 22498 22508	ziconotide
+#775	AnnotatorNotes T775	C0211011
+T776	CHEM 22526 22536	méthionine
+#776	AnnotatorNotes T776	C0025646
+T777	CHEM 22539 22557	chlorure de sodium
+#777	AnnotatorNotes T777	C0037494
+T778	CHEM 22539 22547	chlorure
+#778	AnnotatorNotes T778	C0008203
+T779	CHEM 22551 22557	sodium
+#779	AnnotatorNotes T779	C0037473
+T780	CHEM 22560 22563	eau
+#780	AnnotatorNotes T780	C0043047
+T781	CHEM 22569 22591	préparation injectable
+#781	AnnotatorNotes T781	C0086466
+T782	PROC 22581 22591	injectable
+#782	AnnotatorNotes T782	C0021485
+T783	CHEM 22594 22613	acide chlorhydrique
+#783	AnnotatorNotes T783	C0020259
+T784	DISO 21095 21105	cancéreuse
+#784	AnnotatorNotes T784	C0006826
+T785	CHEM 22594 22599	acide
+#785	AnnotatorNotes T785	C0001128
+T786	CHEM 22617 22636	hydroxyde de sodium
+#786	AnnotatorNotes T786	C0037517
+T787	CHEM 22617 22626	hydroxyde
+#787	AnnotatorNotes T787	C0020315
+T788	CHEM 22630 22636	sodium
+#788	AnnotatorNotes T788	C0037473
+T789	DEVI 22657 22663	flacon
+#789	AnnotatorNotes T789	C0179385
+T790	DEVI 22684 22690	flacon
+#790	AnnotatorNotes T790	C0179385
+T791	DEVI 22711 22717	flacon
+#791	AnnotatorNotes T791	C0179385
+T792	ANAT 22742 22758	intrarachidienne
+#792	AnnotatorNotes T792	C1370196
+T793	GEOG 22788 22799	Royaume-Uni
+#793	AnnotatorNotes T793	C0041700
+T794	CHEM 22802 22808	Prialt
+#794	AnnotatorNotes T794	C1530575
+T795	PROC 22824 22833	Perfusion
+#795	AnnotatorNotes T795	C0204704
+T796	ANAT 22834 22850	intrarachidienne
+#796	AnnotatorNotes T796	C1370196
+T797	CHEM 22853 22859	Prialt
+#797	AnnotatorNotes T797	C1530575
+T798	CHEM 22883 22891	solution
+#798	AnnotatorNotes T798	C1382100
+T799	PROC 22897 22906	perfusion
+#799	AnnotatorNotes T799	C0204704
+T800	CHEM 22909 22919	ziconotide
+#800	AnnotatorNotes T800	C0211011
+T801	CHEM 22935 22943	solution
+#801	AnnotatorNotes T801	C1382100
+T802	CHEM 22972 22982	ziconotide
+#802	AnnotatorNotes T802	C0211011
+T803	CHEM 23000 23007	acétate
+#803	AnnotatorNotes T803	C0000975
+T804	DEVI 23034 23040	flacon
+#804	AnnotatorNotes T804	C0179385
+T805	DEVI 23064 23070	flacon
+#805	AnnotatorNotes T805	C0179385
+T806	CHEM 23075 23081	Prialt
+#806	AnnotatorNotes T806	C1530575
+T807	CHEM 23176 23182	Prialt
+#807	AnnotatorNotes T807	C1530575
+T808	OBJC 23196 23205	substance
+#808	AnnotatorNotes T808	C0439861
+T809	CHEM 23214 23224	ziconotide
+#809	AnnotatorNotes T809	C0211011
+T810	CHEM 23257 23268	médicaments
+#810	AnnotatorNotes T810	C0013227
+T811	CHEM 23278 23289	antalgiques
+#811	AnnotatorNotes T811	C0002771
+T812	CHEM 23295 23301	Prialt
+#812	AnnotatorNotes T812	C1530575
+T813	PROC 23322 23332	traitement
+#813	AnnotatorNotes T813	C0087111
+T814	DISO 23337 23356	douleurs chroniques
+#814	AnnotatorNotes T814	C0150055
+T815	DISO 23337 23345	douleurs
+#815	AnnotatorNotes T815	C0030193
+T816	PROC 23368 23378	traitement
+#816	AnnotatorNotes T816	C0087111
+T817	DISO 23392 23399	douleur
+#817	AnnotatorNotes T817	C0030193
+T818	PHEN 23403 23413	écoulement
+#818	AnnotatorNotes T818	C0806140
+T819	LIVB 23461 23468	médecin
+#819	AnnotatorNotes T819	C0031831
+T820	PROC 23478 23487	prescrira
+#820	AnnotatorNotes T820	C0033080
+T821	PROC 23491 23501	traitement
+#821	AnnotatorNotes T821	C0087111
+T822	LIVB 23529 23536	médecin
+#822	AnnotatorNotes T822	C0031831
+T823	PHEN 23577 23604	augmentation de sensibilité
+#823	AnnotatorNotes T823	C2346484
+T824	DISO 23626 23631	signe
+#824	AnnotatorNotes T824	C0037088
+T825	DISO 23636 23643	fatigue
+#825	AnnotatorNotes T825	C0015672
+T826	DISO 23646 23655	confusion
+#826	AnnotatorNotes T826	C0009676
+T827	DISO 23658 23678	sensation de malaise
+#827	AnnotatorNotes T827	C0231218
+T828	DISO 23681 23693	vomissements
+#828	AnnotatorNotes T828	C0042963
+T829	DISO 23697 23712	évanouissements
+#829	AnnotatorNotes T829	C0039070
+T830	CHEM 23737 23743	Prialt
+#830	AnnotatorNotes T830	C1530575
+T831	PHYS 23780 23789	grossesse
+#831	AnnotatorNotes T831	C0032961
+T832	LIVB 23827 23834	médecin
+#832	AnnotatorNotes T832	C0031831
+T833	OBJC 23861 23869	véhicule
+#833	AnnotatorNotes T833	C0348005
+T834	OBJC 23886 23893	machine
+#834	AnnotatorNotes T834	C0336779
+T835	CHEM 23915 23921	PRIALT
+#835	AnnotatorNotes T835	C1530575
+T836	LIVB 23930 23937	médecin
+#836	AnnotatorNotes T836	C0031831
+T837	DEVI 23969 23974	pompe
+#837	AnnotatorNotes T837	C0182537
+T838	DEVI 24035 24040	pompe
+#838	AnnotatorNotes T838	C0182537
+T839	PROC 24112 24122	traitement
+#839	AnnotatorNotes T839	C0087111
+T840	LIVB 24128 24135	médecin
+#840	AnnotatorNotes T840	C0031831
+T841	PROC 24213 24223	traitement
+#841	AnnotatorNotes T841	C0087111
+T842	DISO 24265 24284	effets indésirables
+#842	AnnotatorNotes T842	C0559546
+T843	LIVB 24336 24343	médecin
+#843	AnnotatorNotes T843	C0031831
+T844	PROC 24356 24367	administrer
+#844	AnnotatorNotes T844	C1533734
+T845	CHEM 24368 24374	Prialt
+#845	AnnotatorNotes T845	C1530575
+T846	PROC 24404 24415	administrer
+#846	AnnotatorNotes T846	C1533734
+T847	CHEM 24420 24427	opiacés
+#847	AnnotatorNotes T847	C0376196
+T848	ANAT 24437 24475	espace entourant votre moelle épinière
+#848	AnnotatorNotes T848	C1370196
+T849	ANAT 24460 24475	moelle épinière
+#849	AnnotatorNotes T849	C0037925
+T850	ANAT 24460 24466	moelle
+#850	AnnotatorNotes T850	C0376152
+T851	CHEM 24515 24526	médicaments
+#851	AnnotatorNotes T851	C0013227
+T852	DISO 24537 24544	douleur
+#852	AnnotatorNotes T852	C0030193
+T853	PROC 24557 24566	CONSERVER
+#853	AnnotatorNotes T853	C0728909
+T854	CHEM 24567 24573	PRIALT
+#854	AnnotatorNotes T854	C1530575
+T855	PROC 24576 24585	Conserver
+#855	AnnotatorNotes T855	C0728909
+T856	OBJC 24589 24602	réfrigérateur
+#856	AnnotatorNotes T856	C0034958
+T857	DEVI 24611 24617	flacon
+#857	AnnotatorNotes T857	C0179385
+T858	CHEM 24659 24665	Prialt
+#858	AnnotatorNotes T858	C1530575
+T859	CHEM 24671 24687	substance active
+#859	AnnotatorNotes T859	C0574031
+T860	OBJC 24671 24680	substance
+#860	AnnotatorNotes T860	C0439861
+T861	CHEM 24695 24705	ziconotide
+#861	AnnotatorNotes T861	C0211011
+T862	CHEM 24719 24727	solution
+#862	AnnotatorNotes T862	C1382100
+T863	CHEM 24757 24767	ziconotide
+#863	AnnotatorNotes T863	C0211011
+T864	DEVI 24788 24794	flacon
+#864	AnnotatorNotes T864	C0179385
+T865	DEVI 24834 24840	flacon
+#865	AnnotatorNotes T865	C0179385
+T866	CHEM 24921 24931	méthionine
+#866	AnnotatorNotes T866	C0025646
+T867	CHEM 24934 24952	chlorure de sodium
+#867	AnnotatorNotes T867	C0037494
+T868	CHEM 24934 24942	chlorure
+#868	AnnotatorNotes T868	C0008203
+T869	CHEM 24946 24952	sodium
+#869	AnnotatorNotes T869	C0037473
+T870	CHEM 24955 24958	eau
+#870	AnnotatorNotes T870	C0043047
+T871	CHEM 24964 24988	préparations injectables
+#871	AnnotatorNotes T871	C0086466
+T872	PROC 24977 24988	injectables
+#872	AnnotatorNotes T872	C0021485
+T873	CHEM 24991 25010	acide chlorhydrique
+#873	AnnotatorNotes T873	C0020259
+T874	CHEM 24991 24996	acide
+#874	AnnotatorNotes T874	C0001128
+T875	CHEM 25014 25033	hydroxyde de sodium
+#875	AnnotatorNotes T875	C0037517
+T876	CHEM 25014 25023	hydroxyde
+#876	AnnotatorNotes T876	C0020315
+T877	CHEM 25027 25033	sodium
+#877	AnnotatorNotes T877	C0037473
+T878	CHEM 25038 25044	Prialt
+#878	AnnotatorNotes T878	C1530575
+T879	DEVI 25094 25100	flacon
+#879	AnnotatorNotes T879	C0179385
+T880	GEOG 25310 25318	Portugal
+#880	AnnotatorNotes T880	C0032729
+T881	PROC 25475 25481	notice
+#881	AnnotatorNotes T881	C0013191
+T882	DISO 25567 25574	maladie
+#882	AnnotatorNotes T882	C0012634
+T883	CHEM 25639 25649	médicament
+#883	AnnotatorNotes T883	C0013227
+T884	CHEM 25654 25660	Prialt
+#884	AnnotatorNotes T884	C1530575
+T885	CHEM 25686 25694	solution
+#885	AnnotatorNotes T885	C1382100
+T886	DEVI 25724 25731	flacons
+#886	AnnotatorNotes T886	C0179385
+T887	DEVI 25754 25760	flacon
+#887	AnnotatorNotes T887	C0179385
+T888	CHEM 25800 25806	Prialt
+#888	AnnotatorNotes T888	C1530575
+T889	DEVI 25856 25862	flacon
+#889	AnnotatorNotes T889	C0179385
+T890	DISO 646 653;677 681	maladie rare
+#890	AnnotatorNotes T890	C0678236
+T891	PROC 939 993	administration de médicaments par voie intrarachidienn
+#891	AnnotatorNotes T891	C0262672
+T892	CHEM 24515 24544	médicaments contre la douleur
+#892	AnnotatorNotes T892	C0002771
+T893	DISO 21131 21144	neuropathique
+#893	AnnotatorNotes T893	C0442874
+T894	DISO 20263 20282	réactions maniaques
+#894	AnnotatorNotes T894	C0338831
+T895	DISO 14759 14769	cancéreuse
+#895	AnnotatorNotes T895	C0006826
+T896	LIVB 5175 5195	sujets âgés ≥ 65 ans
+#896	AnnotatorNotes T896	C0001795 C0001792
+T899	PROC 5056 5111	administration de médicaments par voie intrarachidienne
+#899	AnnotatorNotes T899	C0262672
+T900	DISO 2993 3022	mouvement oculaire incontrôlé
+#900	AnnotatorNotes T900	C0028850

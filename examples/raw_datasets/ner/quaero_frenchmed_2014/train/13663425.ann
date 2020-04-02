@@ -1,0 +1,8 @@
+T1	PROC 0 11	Observation
+#1	AnnotatorNotes T1	C0302523
+T2	DEVI 15 25	microscope
+#2	AnnotatorNotes T2	C0181839
+T3	LIVB 61 67	souche
+#3	AnnotatorNotes T3	C1518614
+T4	LIVB 68 86	Pasteurella pestis
+#4	AnnotatorNotes T4	C0043408

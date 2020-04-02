@@ -1,0 +1,10 @@
+T1	PHYS 31 64	inhibition de la corticosurrenale
+#1	AnnotatorNotes T1	C2610262
+T2	PHYS 31 41	inhibition
+#2	AnnotatorNotes T2	C0021469
+T3	CHEM 48 64	corticosurrenale
+#3	AnnotatorNotes T3	C0001617
+T4	PROC 86 97	traitements
+#4	AnnotatorNotes T4	C0087111
+T5	CHEM 102 111	cortisone
+#5	AnnotatorNotes T5	C0010137

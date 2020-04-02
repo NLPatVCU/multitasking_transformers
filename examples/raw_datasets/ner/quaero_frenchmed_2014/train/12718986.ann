@@ -1,0 +1,6 @@
+T1	PROC 0 11	Comparaison
+#1	AnnotatorNotes T1	C0683958
+T2	PROC 32 48	cryoconservation
+#2	AnnotatorNotes T2	C0010405
+T3	ANAT 52 66	spermatozoïdes
+#3	AnnotatorNotes T3	C0037868

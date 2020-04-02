@@ -1,0 +1,12 @@
+T1	CHEM 13 29	antituberculeuse
+#1	AnnotatorNotes T1	C0003448
+T2	CHEM 36 51	streptovaricine
+#2	AnnotatorNotes T2	C0038430
+T3	LIVB 80 86	cobaye
+#3	AnnotatorNotes T3	C0085979
+T4	PROC 52 60	in vitro
+#4	AnnotatorNotes T4	C0681828
+T5	PROC 64 71	in vivo
+#5	AnnotatorNotes T5	C0681829
+T6	PROC 89 99	prévention
+#6	AnnotatorNotes T6	C0679698

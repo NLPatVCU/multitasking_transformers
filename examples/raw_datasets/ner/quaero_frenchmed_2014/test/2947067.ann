@@ -1,0 +1,8 @@
+T1	DISO 0 25	Maladie de Recklinghausen
+#1	AnnotatorNotes T1	C0027831
+T2	DISO 0 7	Maladie
+#2	AnnotatorNotes T2	C0012634
+T3	DISO 29 56	prolapsus valvulaire mitral
+#3	AnnotatorNotes T3	C0026267
+T4	ANAT 39 56	valvulaire mitral
+#4	AnnotatorNotes T4	C0026264

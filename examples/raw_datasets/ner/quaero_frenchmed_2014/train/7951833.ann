@@ -1,0 +1,8 @@
+T1	PROC 0 17	Pharmacocinétique
+#1	AnnotatorNotes T1	C0201734
+T2	CHEM 24 35	nétilmicine
+#2	AnnotatorNotes T2	C0027780
+T3	LIVB 76 86	nouveau-né
+#3	AnnotatorNotes T3	C0021289
+T4	PHYS 113 122	gestation
+#4	AnnotatorNotes T4	C0032961

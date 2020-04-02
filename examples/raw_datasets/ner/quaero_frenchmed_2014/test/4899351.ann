@@ -1,0 +1,10 @@
+T1	PROC 15 37	transplants cardiaques
+#1	AnnotatorNotes T1	C0018823
+T2	PROC 15 26	transplants
+#2	AnnotatorNotes T2	C0040732
+T3	ANAT 27 37	cardiaques
+#3	AnnotatorNotes T3	C0018787
+T4	PROC 38 51	expérimentaux
+#4	AnnotatorNotes T4	C0678323
+T5	PROC 68 79	traitements
+#5	AnnotatorNotes T5	C0087111

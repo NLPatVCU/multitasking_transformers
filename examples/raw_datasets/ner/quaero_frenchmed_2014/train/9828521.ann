@@ -1,0 +1,12 @@
+T1	PROC 13 35	duodénopancréatectomie
+#1	AnnotatorNotes T1	C0085162
+T2	PROC 41 50	résection
+#2	AnnotatorNotes T2	C0015252
+T3	DISO 75 81	cancer
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 88 104	tête du pancréas
+#4	AnnotatorNotes T4	C0227579
+T5	DISO 75 104	cancer de la tête du pancréas
+#5	AnnotatorNotes T5	C0153458
+T6	ANAT 51 69	mésentéricoportale
+#6	AnnotatorNotes T6	C0226742

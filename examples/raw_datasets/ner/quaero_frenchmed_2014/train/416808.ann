@@ -1,0 +1,12 @@
+T1	PHYS 46 75	fonction ventriculaire gauche
+#1	AnnotatorNotes T1	C0080310
+T2	PHYS 46 68	fonction ventriculaire
+#2	AnnotatorNotes T2	C0080309
+T3	ANAT 55 68	ventriculaire
+#3	AnnotatorNotes T3	C0018827
+T4	DISO 84 105	rétrécissement mitral
+#4	AnnotatorNotes T4	C0026269
+T5	DISO 84 98	rétrécissement
+#5	AnnotatorNotes T5	C1261287
+T6	ANAT 99 105	mitral
+#6	AnnotatorNotes T6	C0036364

@@ -1,0 +1,14 @@
+T1	LIVB 40 47	enfants
+#1	AnnotatorNotes T1	C0021289
+T2	PHYS 51 69	poids de naissance
+#2	AnnotatorNotes T2	C0005612
+T3	PHYS 51 56	poids
+#3	AnnotatorNotes T3	C0005910
+T4	PHYS 60 69	naissance
+#4	AnnotatorNotes T4	C0005615
+T5	PROC 11 26	prise en charge
+#5	AnnotatorNotes T5	C0030677
+T6	LIVB 40 97	enfants de poids de naissance inférieur ou égal à 1 500 g
+#6	AnnotatorNotes T6	C0282667
+T7	DISO 51 97	poids de naissance inférieur ou égal à 1 500 g
+#7	AnnotatorNotes T7	C0024032

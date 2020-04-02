@@ -1,0 +1,8 @@
+T1	PROC 14 41	prise en charge pédiatrique
+#1	AnnotatorNotes T1	C0008078
+T2	LIVB 30 41	pédiatrique
+#2	AnnotatorNotes T2	C0008059
+T3	DISO 56 73	hémophilie sévère
+#3	AnnotatorNotes T3	C0272322
+T4	DISO 56 66	hémophilie
+#4	AnnotatorNotes T4	C0684275

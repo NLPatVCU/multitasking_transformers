@@ -1,0 +1,10 @@
+T1	PROC 9 22	expérimentale
+#1	AnnotatorNotes T1	C0678323
+T2	DISO 29 39	pathogénie
+#2	AnnotatorNotes T2	C0699748
+T3	DISO 43 61	lupus érythémateux
+#3	AnnotatorNotes T3	C2887041
+T4	DISO 43 48	lupus
+#4	AnnotatorNotes T4	C0024131
+T5	DISO 49 61	érythémateux
+#5	AnnotatorNotes T5	C0041834

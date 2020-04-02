@@ -1,0 +1,12 @@
+T1	PROC 12 22	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	PROC 23 39	chimiothérapique
+#2	AnnotatorNotes T2	C0870057
+T3	PROC 44 72	circulation extra-corporelle
+#3	AnnotatorNotes T3	C0015354
+T4	DISO 77 84	tumeurs
+#4	AnnotatorNotes T4	C0027651
+T5	DISO 85 96	cancéreuses
+#5	AnnotatorNotes T5	C0027651
+T6	ANAT 101 108	membres
+#6	AnnotatorNotes T6	C0015385

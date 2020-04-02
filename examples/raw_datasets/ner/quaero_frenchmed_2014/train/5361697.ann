@@ -1,0 +1,10 @@
+T1	DISO 11 18	blocage
+#1	AnnotatorNotes T1	C1706968
+T2	CHEM 23 33	récepteurs
+#2	AnnotatorNotes T2	C0597357
+T3	PROC 73 95	traitement chirurgical
+#3	AnnotatorNotes T3	C0543467
+T4	PROC 73 83	traitement
+#4	AnnotatorNotes T4	C0087111
+T5	DISO 99 115	phéochromocytome
+#5	AnnotatorNotes T5	C0031511

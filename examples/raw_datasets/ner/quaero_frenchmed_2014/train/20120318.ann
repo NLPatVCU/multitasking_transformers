@@ -1,0 +1,8 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 17 36	arthrite rhumatoïde
+#2	AnnotatorNotes T2	C0003873
+T3	DISO 17 25	arthrite
+#3	AnnotatorNotes T3	C0003864
+T4	CHEM 75 87	méthotrexate
+#4	AnnotatorNotes T4	C0025677

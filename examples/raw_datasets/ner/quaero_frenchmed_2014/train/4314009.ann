@@ -1,0 +1,18 @@
+T1	PROC 0 6	Essais
+#1	AnnotatorNotes T1	C3258064
+T2	PROC 10 21	vaccination
+#2	AnnotatorNotes T2	C0042196
+T3	DISO 32 43	hypodermose
+#3	AnnotatorNotes T3	C0020607
+T4	LIVB 44 50	bovine
+#4	AnnotatorNotes T4	C0007452
+T5	CHEM 59 65	vaccin
+#5	AnnotatorNotes T5	C0042210
+T6	CHEM 80 91	collagénase
+#6	AnnotatorNotes T6	C0162745
+T7	LIVB 111 117	larves
+#7	AnnotatorNotes T7	C0023047
+T8	LIVB 134 152	Hypoderma lineatum
+#8	AnnotatorNotes T8	C0323157
+T9	LIVB 134 143	Hypoderma
+#9	AnnotatorNotes T9	C0323156

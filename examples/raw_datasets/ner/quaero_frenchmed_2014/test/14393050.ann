@@ -1,0 +1,10 @@
+T1	DISO 12 46	maladie de Besnier-Boeck-Schaumann
+#1	AnnotatorNotes T1	C0036202
+T2	DISO 12 19	maladie
+#2	AnnotatorNotes T2	C0012634
+T3	DISO 75 116	anémie pernicieuse sévère mégaloblastique
+#3	AnnotatorNotes T3	C0002888
+T4	DISO 75 81	anémie
+#4	AnnotatorNotes T4	C0002871
+T5	CHEM 145 154	cortisone
+#5	AnnotatorNotes T5	C0010137

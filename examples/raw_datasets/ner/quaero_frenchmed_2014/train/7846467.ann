@@ -1,0 +1,12 @@
+T1	PROC 3 23	conisation cervicale
+#1	AnnotatorNotes T1	C1533906
+T2	ANAT 14 23	cervicale
+#2	AnnotatorNotes T2	C0007874
+T3	DISO 32 41	dysplasie
+#3	AnnotatorNotes T3	C0334044
+T4	DISO 48 65	carcinome in situ
+#4	AnnotatorNotes T4	C0007099
+T5	PROC 77 92	curetage utérin
+#5	AnnotatorNotes T5	C0012358
+T6	ANAT 86 92	utérin
+#6	AnnotatorNotes T6	C0042149

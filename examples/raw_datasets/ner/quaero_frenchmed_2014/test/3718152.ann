@@ -1,0 +1,8 @@
+T1	PHYS 0 16	Age gestationnel
+#1	AnnotatorNotes T1	C0017504
+T2	PHYS 0 3	Age
+#2	AnnotatorNotes T2	C0001779
+T3	ANAT 17 23	osseux
+#3	AnnotatorNotes T3	C0262950
+T4	LIVB 27 37	nouveau-né
+#4	AnnotatorNotes T4	C0021289

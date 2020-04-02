@@ -1,0 +1,12 @@
+T1	DISO 13 24	indications
+#1	AnnotatorNotes T1	C1444656
+T2	PROC 31 51	analgésie péridurale
+#2	AnnotatorNotes T2	C0002769
+T3	PROC 31 40	analgésie
+#3	AnnotatorNotes T3	C3202977
+T4	ANAT 41 51	péridurale
+#4	AnnotatorNotes T4	C0228134
+T5	LIVB 66 75	vieillard
+#5	AnnotatorNotes T5	C0001792
+T6	PROC 94 106	observations
+#6	AnnotatorNotes T6	C0700325

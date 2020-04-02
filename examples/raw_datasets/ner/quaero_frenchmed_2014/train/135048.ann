@@ -1,0 +1,8 @@
+T1	PROC 14 33	anesthesie generale
+#1	AnnotatorNotes T1	C0002915
+T2	PROC 14 24	anesthesie
+#2	AnnotatorNotes T2	C0002903
+T3	LIVB 76 82	enfant
+#3	AnnotatorNotes T3	C0008059 C0008100
+T4	PROC 43 67	examens endo-bronchiques
+#4	AnnotatorNotes T4	C0006290

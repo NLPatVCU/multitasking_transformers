@@ -1,0 +1,8 @@
+T2	PROC 39 59	résection-anastomose
+#2	AnnotatorNotes T2	C0161901
+T3	DISO 80 107	obstruction du côlon gauche
+#3	AnnotatorNotes T3	C0029640
+T4	ANAT 95 107	côlon gauche
+#4	AnnotatorNotes T4	C0227388
+T1	PROC 3 32	lavage colique pre-opératoire
+#1	AnnotatorNotes T1	C0455052

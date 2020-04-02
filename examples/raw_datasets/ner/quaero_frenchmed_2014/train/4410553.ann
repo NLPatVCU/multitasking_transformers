@@ -1,0 +1,18 @@
+T1	PROC 0 9	Détection
+#1	AnnotatorNotes T1	C1511790
+T2	DISO 14 42	perturbations du métabolisme
+#2	AnnotatorNotes T2	C0025517
+T3	DISO 14 27	perturbations
+#3	AnnotatorNotes T3	C0012634
+T4	PHYS 31 42	métabolisme
+#4	AnnotatorNotes T4	C0025519
+T5	CHEM 47 60	sels biliares
+#5	AnnotatorNotes T5	C0005404
+T6	CHEM 47 51	sels
+#6	AnnotatorNotes T6	C0036140
+T7	ANAT 52 60	biliares
+#7	AnnotatorNotes T7	C0005388
+T8	DISO 70 96	syndromes de malabsorption
+#8	AnnotatorNotes T8	C0024523
+T9	DISO 70 79	syndromes
+#9	AnnotatorNotes T9	C0039082

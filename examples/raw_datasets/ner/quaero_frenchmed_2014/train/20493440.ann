@@ -1,0 +1,12 @@
+T1	DISO 0 14	Cancer du rein
+#1	AnnotatorNotes T1	C0740457
+T2	DISO 0 6	Cancer
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 10 14	rein
+#3	AnnotatorNotes T3	C0022646
+T4	PROC 17 47	traitements anti-angiogéniques
+#4	AnnotatorNotes T4	C2363719
+T5	PROC 17 28	traitements
+#5	AnnotatorNotes T5	C0087111
+T6	DISO 63 76	complications
+#6	AnnotatorNotes T6	C0009566

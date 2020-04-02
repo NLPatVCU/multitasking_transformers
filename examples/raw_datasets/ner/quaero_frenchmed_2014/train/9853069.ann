@@ -1,0 +1,8 @@
+T1	PROC 0 26	Traitement pharmacologique
+#1	AnnotatorNotes T1	C0013216
+T2	PROC 0 10	Traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 33 53	ictère du nouveau-né
+#3	AnnotatorNotes T3	C0022353
+T4	LIVB 43 53	nouveau-né
+#4	AnnotatorNotes T4	C0021289

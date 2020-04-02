@@ -1,0 +1,8 @@
+T1	PROC 3 13	rhéogramme
+#1	AnnotatorNotes T1	C0175932
+T2	ANAT 14 21	crânien
+#2	AnnotatorNotes T2	C0037303
+T3	ANAT 50 59	cérébrale
+#3	AnnotatorNotes T3	C0006104
+T4	DISO 39 59	pathologie cérébrale
+#4	AnnotatorNotes T4	C0006111

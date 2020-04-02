@@ -1,0 +1,8 @@
+T1	DISO 0 23	Hyperglycémie chronique
+#1	AnnotatorNotes T1	C0342300
+T2	DISO 0 13	Hyperglycémie
+#2	AnnotatorNotes T2	C0020456
+T3	DISO 14 23	chronique
+#3	AnnotatorNotes T3	C0008679
+T4	LIVB 50 56	enfant
+#4	AnnotatorNotes T4	C0008059

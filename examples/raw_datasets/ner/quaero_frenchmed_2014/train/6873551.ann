@@ -1,0 +1,10 @@
+T1	PROC 27 49	traitement chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 27 37	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 59 82	pancréatites chroniques
+#3	AnnotatorNotes T3	C0149521
+T4	PROC 85 90	Etude
+#4	AnnotatorNotes T4	C2603343
+T5	LIVB 111 118	malades
+#5	AnnotatorNotes T5	C0030705

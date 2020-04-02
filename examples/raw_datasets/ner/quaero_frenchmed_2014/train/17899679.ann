@@ -1,0 +1,6 @@
+T1	DISO 3 17	retinoblastome
+#1	AnnotatorNotes T1	C0035335
+T2	ANAT 70 80	pupillaire
+#2	AnnotatorNotes T2	C0034121
+T3	DISO 87 96	strabisme
+#3	AnnotatorNotes T3	C0152223

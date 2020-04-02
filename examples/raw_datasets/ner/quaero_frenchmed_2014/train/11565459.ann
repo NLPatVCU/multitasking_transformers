@@ -1,0 +1,6 @@
+T1	PROC 11 17	traite
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 41 48	diabète
+#2	AnnotatorNotes T2	C0011849
+T3	LIVB 52 57	sujet
+#3	AnnotatorNotes T3	C2349001

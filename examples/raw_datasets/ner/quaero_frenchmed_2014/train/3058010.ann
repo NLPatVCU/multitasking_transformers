@@ -1,0 +1,8 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 37	leishmanioses cutanées
+#2	AnnotatorNotes T2	C0023283
+T3	DISO 15 28	leishmanioses
+#3	AnnotatorNotes T3	C0023281
+T4	ANAT 29 37	cutanées
+#4	AnnotatorNotes T4	C1123023

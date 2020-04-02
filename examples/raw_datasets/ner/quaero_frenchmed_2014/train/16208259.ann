@@ -1,0 +1,8 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	CHEM 15 26	kétoprofène
+#2	AnnotatorNotes T2	C0022635
+T3	DISO 47 55	polyurie
+#3	AnnotatorNotes T3	C0032617
+T4	DISO 88 111	intoxication au lithium
+#4	AnnotatorNotes T4	C0568180

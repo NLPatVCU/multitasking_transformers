@@ -1,0 +1,12 @@
+T1	PROC 4 13	injection
+#1	AnnotatorNotes T1	C0021485
+T2	PROC 25 37	keratoplasty
+#2	AnnotatorNotes T2	C0010042
+T3	PROC 48 73	Evaluation kératométrique
+#3	AnnotatorNotes T3	C3494755
+T4	PROC 59 73	kératométrique
+#4	AnnotatorNotes T4	C0430885
+T5	ANAT 86 94	cadavres
+#5	AnnotatorNotes T5	C0006629
+T6	ANAT 78 82	yeux
+#6	AnnotatorNotes T6	C0015392

@@ -1,0 +1,6 @@
+T1	PROC 83 93	monitorage
+#1	AnnotatorNotes T1	C0150369
+T2	PROC 112 121	hémostase
+#2	AnnotatorNotes T2	C0740166
+T3	PROC 125 136	réanimation
+#3	AnnotatorNotes T3	C0035273

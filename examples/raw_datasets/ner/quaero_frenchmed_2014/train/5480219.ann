@@ -1,0 +1,4 @@
+T1	PROC 3 17	artériographie
+#1	AnnotatorNotes T1	C0003844
+T2	ANAT 18 28	médullaire
+#2	AnnotatorNotes T2	C1305694

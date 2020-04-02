@@ -1,0 +1,18 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 17 39	hypertrophie gingivale
+#2	AnnotatorNotes T2	C0017567
+T3	DISO 17 29	hypertrophie
+#3	AnnotatorNotes T3	C0020564
+T4	ANAT 30 39	gingivale
+#4	AnnotatorNotes T4	C0017562
+T5	DEVI 70 96	dispositifs orthodontiques
+#5	AnnotatorNotes T5	C0029331
+T6	OBJC 70 81	dispositifs
+#6	AnnotatorNotes T6	C0243112
+T7	PROC 101 126	lambeau de Widman modifié
+#7	AnnotatorNotes T7	C0398959
+T8	PROC 101 126	lambeau de Widman modifié
+#8	AnnotatorNotes T8	C0398959
+T9	ANAT 101 108	lambeau
+#9	AnnotatorNotes T9	C0038925

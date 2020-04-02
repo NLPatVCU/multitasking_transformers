@@ -1,0 +1,12 @@
+T1	PROC 3 43	cholangiographie rétrograde endoscopique
+#1	AnnotatorNotes T1	C0193504
+T2	PROC 3 19	cholangiographie
+#2	AnnotatorNotes T2	C0008307
+T3	PROC 31 43	endoscopique
+#3	AnnotatorNotes T3	C0014245
+T4	PROC 50 68	chirurgie biliaire
+#4	AnnotatorNotes T4	C0005427
+T5	PROC 50 59	chirurgie
+#5	AnnotatorNotes T5	C0543467
+T6	ANAT 60 68	biliaire
+#6	AnnotatorNotes T6	C0005423

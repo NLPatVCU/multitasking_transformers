@@ -1,0 +1,20 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C0947630
+T2	DEVI 9 32	microscope électronique
+#2	AnnotatorNotes T2	C0181845
+T3	DEVI 9 19	microscope
+#3	AnnotatorNotes T3	C0181839
+T4	ANAT 51 60	nerveuses
+#4	AnnotatorNotes T4	C0027740
+T5	ANAT 61 78	intra-thoraciques
+#5	AnnotatorNotes T5	C0817096
+T6	DISO 85 110	maladie de Recklinghausen
+#6	AnnotatorNotes T6	C1314735
+T7	DISO 85 92	maladie
+#7	AnnotatorNotes T7	C0012634
+T8	DISO 115 128	neurofibromes
+#8	AnnotatorNotes T8	C0027830
+T9	DISO 131 142	schwannomes
+#9	AnnotatorNotes T9	C1834327
+T10	DISO 145 158	neurosarcomes
+#10	AnnotatorNotes T10	C2062550

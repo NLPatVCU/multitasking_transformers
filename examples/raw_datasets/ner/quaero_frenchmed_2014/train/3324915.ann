@@ -1,0 +1,12 @@
+T1	DISO 0 26	Infarctus du myocarde aigu
+#1	AnnotatorNotes T1	C0155626
+T2	DISO 0 21	Infarctus du myocarde
+#2	AnnotatorNotes T2	C0027051
+T3	DISO 0 9	Infarctus
+#3	AnnotatorNotes T3	C0021308
+T4	ANAT 13 21	myocarde
+#4	AnnotatorNotes T4	C0027061
+T5	PROC 35 45	traitement
+#5	AnnotatorNotes T5	C0087111
+T6	PROC 54 63	pronostic
+#6	AnnotatorNotes T6	C0033325

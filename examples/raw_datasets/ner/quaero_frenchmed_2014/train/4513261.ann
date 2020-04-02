@@ -1,0 +1,8 @@
+T1	DISO 0 28	Hypophosphatasie congénitale
+#1	AnnotatorNotes T1	C0268412
+T2	DISO 0 16	Hypophosphatasie
+#2	AnnotatorNotes T2	C0020630
+T3	PHEN 32 44	organogenèse
+#3	AnnotatorNotes T3	C0240090
+T4	ANAT 45 53	dentaire
+#4	AnnotatorNotes T4	C0040426

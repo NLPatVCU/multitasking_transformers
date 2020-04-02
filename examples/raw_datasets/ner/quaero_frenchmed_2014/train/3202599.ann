@@ -1,0 +1,8 @@
+T1	DISO 0 6	Ulcère
+#1	AnnotatorNotes T1	C0041582
+T2	DISO 24 38	asymptomatique
+#2	AnnotatorNotes T2	C0231221
+T3	DISO 45 66	angle gauche du côlon
+#3	AnnotatorNotes T3	C0496862
+T4	ANAT 61 66	côlon
+#4	AnnotatorNotes T4	C0009368

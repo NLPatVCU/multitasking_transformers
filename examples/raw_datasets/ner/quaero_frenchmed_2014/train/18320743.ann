@@ -1,0 +1,6 @@
+T1	DISO 0 29	Pneumopathies interstitielles
+#1	AnnotatorNotes T1	C0206061
+T2	DISO 0 13	Pneumopathies
+#2	AnnotatorNotes T2	C0024115
+T3	ANAT 34 47	connectivites
+#3	AnnotatorNotes T3	C0009780

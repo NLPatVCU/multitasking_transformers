@@ -1,0 +1,8 @@
+T1	DISO 0 13	Intoxications
+#1	AnnotatorNotes T1	C0032343
+T2	PROC 14 28	expérimentales
+#2	AnnotatorNotes T2	C0678323
+T3	CHEM 43 50	sulfate
+#3	AnnotatorNotes T3	C0038720
+T4	CHEM 54 61	gallium
+#4	AnnotatorNotes T4	C0016980

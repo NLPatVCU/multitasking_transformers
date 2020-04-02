@@ -1,0 +1,12 @@
+T2	ANAT 34 42	conduits
+#2	AnnotatorNotes T2	C0687028
+T3	ANAT 43 51	génitaux
+#3	AnnotatorNotes T3	C0559522
+T4	ANAT 78 86	embryons
+#4	AnnotatorNotes T4	C0013935
+T5	LIVB 90 98	reptiles
+#5	AnnotatorNotes T5	C0035161
+T1	CHEM 13 25	testostérone
+#1	AnnotatorNotes T1	C0039601
+T6	ANAT 34 51	conduits génitaux
+#6	AnnotatorNotes T6	C0927235

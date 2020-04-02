@@ -1,0 +1,6 @@
+T1	PROC 9 22	diagnostiques
+#1	AnnotatorNotes T1	C0011900
+T2	DISO 39 58	sclérose en plaques
+#2	AnnotatorNotes T2	C0026769
+T3	PROC 75 108	imagerie par résonance magnétique
+#3	AnnotatorNotes T3	C0024485

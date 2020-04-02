@@ -1,0 +1,14 @@
+T1	DISO 13 27	bronchopathies
+#1	AnnotatorNotes T1	C0006261
+T2	DISO 40 62	tuberculose pulmonaire
+#2	AnnotatorNotes T2	C0041327
+T3	DISO 40 51	tuberculose
+#3	AnnotatorNotes T3	C0041296
+T4	ANAT 52 62	pulmonaire
+#4	AnnotatorNotes T4	C0024109
+T5	PROC 92 98	examen
+#5	AnnotatorNotes T5	C0582103
+T6	PHYS 105 126	fonction respiratoire
+#6	AnnotatorNotes T6	C0035203
+T7	PROC 0 8	Thérapie
+#7	AnnotatorNotes T7	C0087111

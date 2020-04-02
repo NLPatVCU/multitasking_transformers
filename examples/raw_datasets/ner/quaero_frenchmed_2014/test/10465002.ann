@@ -1,0 +1,10 @@
+T1	DISO 0 26	Syndrome thrombo-embolique
+#1	AnnotatorNotes T1	C0040038
+T2	DISO 0 8	Syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	GEOG 144 149	Paris
+#3	AnnotatorNotes T3	C0030561
+T4	DISO 33 57	station assise prolongée
+#4	AnnotatorNotes T4	C2114792
+T5	DISO 61 81	vols de longue durée
+#5	AnnotatorNotes T5	C2169581

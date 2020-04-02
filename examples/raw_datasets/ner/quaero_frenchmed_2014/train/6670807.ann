@@ -1,0 +1,10 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 17 23	lésion
+#2	AnnotatorNotes T2	C0221198
+T3	DISO 42 62	cancers de la langue
+#3	AnnotatorNotes T3	C0153349
+T4	DISO 42 49	cancers
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 56 62	langue
+#5	AnnotatorNotes T5	C0040408

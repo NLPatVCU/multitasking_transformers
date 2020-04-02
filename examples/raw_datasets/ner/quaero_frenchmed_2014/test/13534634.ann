@@ -1,0 +1,10 @@
+T1	PROC 18 23	étude
+#1	AnnotatorNotes T1	C2603343
+T2	PHYS 30 41	innervation
+#2	AnnotatorNotes T2	C0026828
+T3	ANAT 46 77	muscles sterno-cléidomastoïdien
+#3	AnnotatorNotes T3	C0224153
+T4	LIVB 97 102	homme
+#4	AnnotatorNotes T4	C0086418
+T5	LIVB 120 130	mammifères
+#5	AnnotatorNotes T5	C0024660

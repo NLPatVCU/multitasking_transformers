@@ -1,0 +1,24 @@
+T1	PROC 18 31	modifications
+#1	AnnotatorNotes T1	C0579005
+T2	PROC 32 45	chirurgicales
+#2	AnnotatorNotes T2	C0543467
+T3	ANAT 52 66	intestin grêle
+#3	AnnotatorNotes T3	C0021852
+T4	ANAT 52 60	intestin
+#4	AnnotatorNotes T4	C0021853
+T5	CHEM 74 88	renouvellement
+#5	AnnotatorNotes T5	C2916969
+T6	ANAT 93 104	entérocytes
+#6	AnnotatorNotes T6	C0682610
+T7	LIVB 108 111	rat
+#7	AnnotatorNotes T7	C0034721
+T8	DISO 134 146	anse aveugle
+#8	AnnotatorNotes T8	C0005750
+T9	LIVB 155 158	rat
+#9	AnnotatorNotes T9	C0034721
+T10	PROC 179 187	ablation
+#10	AnnotatorNotes T10	C0547070
+T11	ANAT 191 197	caecum
+#11	AnnotatorNotes T11	C0007531
+T12	LIVB 206 209	rat
+#12	AnnotatorNotes T12	C0034721

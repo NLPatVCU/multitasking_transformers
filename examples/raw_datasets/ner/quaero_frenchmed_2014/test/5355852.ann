@@ -1,0 +1,10 @@
+T1	PROC 0 19	Hépatectomie droite
+#1	AnnotatorNotes T1	C0400435
+T2	PROC 0 12	Hépatectomie
+#2	AnnotatorNotes T2	C0019144
+T3	DISO 25 50	traumatisme fermé du foie
+#3	AnnotatorNotes T3	C0160392
+T4	ANAT 46 50	foie
+#4	AnnotatorNotes T4	C0023884
+T5	LIVB 59 65	garçon
+#5	AnnotatorNotes T5	C0870221

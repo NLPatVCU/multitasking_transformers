@@ -1,0 +1,10 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PROC 18 30	explorations
+#2	AnnotatorNotes T2	C1280903
+T3	PROC 75 85	évaluation
+#3	AnnotatorNotes T3	C1261322
+T4	DISO 89 115	syndrome post-commotionnel
+#4	AnnotatorNotes T4	C0546983
+T5	DISO 89 97	syndrome
+#5	AnnotatorNotes T5	C0039082

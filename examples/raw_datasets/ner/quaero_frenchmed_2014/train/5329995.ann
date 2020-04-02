@@ -1,0 +1,10 @@
+T1	DISO 3 25	carcinogenèse chimique
+#1	AnnotatorNotes T1	C0596321
+T2	DISO 3 16	carcinogenèse
+#2	AnnotatorNotes T2	C0596263
+T3	CHEM 17 25	chimique
+#3	AnnotatorNotes T3	C0220806
+T4	ANAT 29 33	foie
+#4	AnnotatorNotes T4	C0023884
+T5	LIVB 37 40	Rat
+#5	AnnotatorNotes T5	C0034721

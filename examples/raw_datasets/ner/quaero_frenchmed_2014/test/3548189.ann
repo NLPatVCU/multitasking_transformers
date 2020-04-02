@@ -1,0 +1,14 @@
+T1	ANAT 13 23	lymphoïdes
+#1	AnnotatorNotes T1	C1184173
+T2	DISO 41 66	maladies autoimmunitaires
+#2	AnnotatorNotes T2	C0004364
+T3	DISO 41 49	maladies
+#3	AnnotatorNotes T3	C0012634
+T4	DISO 50 66	autoimmunitaires
+#4	AnnotatorNotes T4	C0443146
+T5	PROC 70 96	transplantation d' organes
+#5	AnnotatorNotes T5	C0029216
+T6	PROC 70 85	transplantation
+#6	AnnotatorNotes T6	C0040732
+T7	ANAT 88 96	 organes
+#7	AnnotatorNotes T7	C0178784

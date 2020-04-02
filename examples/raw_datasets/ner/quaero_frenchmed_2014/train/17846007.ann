@@ -1,0 +1,8 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	CHEM 11 28	anti-angiogénique
+#2	AnnotatorNotes T2	C0596087
+T3	DISO 32 49	cancer colorectal
+#3	AnnotatorNotes T3	C0009402
+T4	DISO 32 38	cancer
+#4	AnnotatorNotes T4	C0027651

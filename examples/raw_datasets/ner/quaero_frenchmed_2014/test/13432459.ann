@@ -1,0 +1,14 @@
+T1	PROC 3 25	traitement chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 3 13	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 29 56	diverticule de l' oesophage
+#3	AnnotatorNotes T3	C0014854
+T4	DISO 29 40	diverticule
+#4	AnnotatorNotes T4	C0012817
+T5	ANAT 46 56	 oesophage
+#5	AnnotatorNotes T5	C0014876
+T6	ANAT 57 65	cervical
+#6	AnnotatorNotes T6	C0027530
+T7	LIVB 74 83	vieillard
+#7	AnnotatorNotes T7	C0001792

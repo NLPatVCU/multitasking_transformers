@@ -1,0 +1,6 @@
+T1	PROC 3 13	traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 20 42	insuffisance cardiaque
+#2	AnnotatorNotes T2	C0018801
+T3	ANAT 33 42	cardiaque
+#3	AnnotatorNotes T3	C0018787

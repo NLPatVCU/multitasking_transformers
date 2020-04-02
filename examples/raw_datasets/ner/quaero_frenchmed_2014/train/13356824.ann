@@ -1,0 +1,14 @@
+T1	PROC 18 23	étude
+#1	AnnotatorNotes T1	C2603343
+T2	ANAT 27 37	cytoplasme
+#2	AnnotatorNotes T2	C0010834
+T3	PROC 45 56	microscopie
+#3	AnnotatorNotes T3	C0026018
+T4	LIVB 129 135	vivant
+#4	AnnotatorNotes T4	C0029235
+T5	PROC 145 153	fixation
+#5	AnnotatorNotes T5	C0185023
+T6	ANAT 165 173	cellules
+#6	AnnotatorNotes T6	C0007634
+T7	PROC 184 192	in vitro
+#7	AnnotatorNotes T7	C0681828

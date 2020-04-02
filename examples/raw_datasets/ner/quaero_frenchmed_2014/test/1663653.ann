@@ -1,0 +1,10 @@
+T1	DISO 0 19	Cancers bronchiques
+#1	AnnotatorNotes T1	C0007121
+T2	DISO 0 7	Cancers
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 8 19	bronchiques
+#3	AnnotatorNotes T3	C0205039
+T4	DISO 0 42	Cancers bronchiques non à petites cellules
+#4	AnnotatorNotes T4	C0007131
+T5	ANAT 34 42	cellules
+#5	AnnotatorNotes T5	C0007634

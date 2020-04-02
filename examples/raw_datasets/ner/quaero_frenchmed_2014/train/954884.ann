@@ -1,0 +1,12 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C0008976
+T2	ANAT 56 75	cellule de Purkinje
+#2	AnnotatorNotes T2	C0034143
+T3	ANAT 56 63	cellule
+#3	AnnotatorNotes T3	C0007634
+T4	LIVB 108 111	rat
+#4	AnnotatorNotes T4	C0086893
+T5	DISO 122 136	hypothyroïdien
+#5	AnnotatorNotes T5	C0020696
+T6	PHYS 137 141	agés
+#6	AnnotatorNotes T6	C0001779

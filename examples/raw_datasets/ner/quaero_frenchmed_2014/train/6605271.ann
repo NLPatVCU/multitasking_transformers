@@ -1,0 +1,20 @@
+T1	PHYS 13 22	clairance
+#1	AnnotatorNotes T1	C1382187
+T2	ANAT 23 34	intestinale
+#2	AnnotatorNotes T2	C0021853
+T3	CHEM 41 63	alpha 1 - antitrypsine
+#3	AnnotatorNotes T3	C0002191
+T4	CHEM 75 85	potassique
+#4	AnnotatorNotes T4	C0032821
+T5	LIVB 107 120	patients âgés
+#5	AnnotatorNotes T5	C0001792
+T6	LIVB 107 115	patients
+#6	AnnotatorNotes T6	C0030705
+T7	CHEM 139 167	glucosides anthraquinoniques
+#7	AnnotatorNotes T7	C0937596
+T8	CHEM 139 149	glucosides
+#8	AnnotatorNotes T8	C0017765
+T9	CHEM 150 167	anthraquinoniques
+#9	AnnotatorNotes T9	C0003174
+T10	PROC 123 130	traités
+#10	AnnotatorNotes T10	C0087111

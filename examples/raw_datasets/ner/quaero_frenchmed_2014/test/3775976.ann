@@ -1,0 +1,10 @@
+T1	ANAT 3 11	sédiment
+#1	AnnotatorNotes T1	C1550099
+T2	ANAT 12 22	péritonéal
+#2	AnnotatorNotes T2	C0442034
+T3	PROC 31 50	dialyse péritonéale
+#3	AnnotatorNotes T3	C0031139
+T4	PROC 31 38	dialyse
+#4	AnnotatorNotes T4	C0011946
+T5	PROC 31 72	dialyse péritonéale ambulatoire chronique
+#5	AnnotatorNotes T5	C1410088

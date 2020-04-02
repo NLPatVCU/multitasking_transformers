@@ -1,0 +1,6 @@
+T1	PROC 0 11	Exploration
+#1	AnnotatorNotes T1	C1280903
+T2	ANAT 18 32	intestin grêle
+#2	AnnotatorNotes T2	C15184798
+T3	PROC 41 73	techniques d' imagerie en coupes
+#3	AnnotatorNotes T3	C0010362

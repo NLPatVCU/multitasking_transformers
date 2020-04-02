@@ -1,0 +1,10 @@
+T1	DISO 32 41	tolérance
+#1	AnnotatorNotes T1	C0013220
+T2	CHEM 48 57	prazosine
+#2	AnnotatorNotes T2	C0032912
+T3	LIVB 90 98	patients
+#3	AnnotatorNotes T3	C0030705
+T4	DISO 99 110	hypertendus
+#4	AnnotatorNotes T4	C0020538
+T5	DISO 114 148	diabétiques non insulinodépendants
+#5	AnnotatorNotes T5	C0011860

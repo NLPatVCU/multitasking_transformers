@@ -1,0 +1,6 @@
+T1	ANAT 20 50	artère mésentérique supérieure
+#1	AnnotatorNotes T1	C0162861
+T2	ANAT 20 26	artère
+#2	AnnotatorNotes T2	C0003842
+T3	PROC 66 88	duodénopancréatectomie
+#3	AnnotatorNotes T3	C0085162

@@ -1,0 +1,10 @@
+T1	DISO 3 15	embolisation
+#1	AnnotatorNotes T1	C1332335
+T2	ANAT 22 47	artère maxillaire interne
+#2	AnnotatorNotes T2	C0024949
+T3	ANAT 22 39	artère maxillaire
+#3	AnnotatorNotes T3	C0024949
+T4	ANAT 22 28	artère
+#4	AnnotatorNotes T4	C0003842
+T5	DISO 57 66	épistaxis
+#5	AnnotatorNotes T5	C0014591

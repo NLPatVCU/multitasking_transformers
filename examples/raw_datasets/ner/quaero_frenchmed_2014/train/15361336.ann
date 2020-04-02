@@ -1,0 +1,8 @@
+T1	DISO 0 17	Sténose du pylore
+#1	AnnotatorNotes T1	C0034194
+T2	DISO 0 7	Sténose
+#2	AnnotatorNotes T2	C1261287
+T3	ANAT 11 17	pylore
+#3	AnnotatorNotes T3	C0034196
+T4	CHEM 21 25	nNOS
+#4	AnnotatorNotes T4	C0669368

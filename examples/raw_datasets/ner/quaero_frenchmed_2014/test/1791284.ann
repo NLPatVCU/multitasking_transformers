@@ -1,0 +1,16 @@
+T1	PHYS 0 9	Mortalité
+#1	AnnotatorNotes T1	C0011065
+T2	LIVB 10 20	maternelle
+#2	AnnotatorNotes T2	C0026591
+T3	PHYS 120 125	décès
+#3	AnnotatorNotes T3	C0011065
+T4	LIVB 128 145	Groupe d' Experts
+#4	AnnotatorNotes T4	C0009817
+T5	PHYS 153 162	Mortalité
+#5	AnnotatorNotes T5	C0011065
+T6	LIVB 163 173	Maternelle
+#6	AnnotatorNotes T6	C0026591
+T7	GEOG 24 30	France
+#7	AnnotatorNotes T7	C0016674
+T8	DISO 100 125	causes médicales de décès
+#8	AnnotatorNotes T8	C0007465

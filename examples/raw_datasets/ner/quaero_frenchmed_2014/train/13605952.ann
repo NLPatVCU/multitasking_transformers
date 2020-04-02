@@ -1,0 +1,12 @@
+T1	PROC 3 18	épididymectomie
+#1	AnnotatorNotes T1	C01948903
+T2	DISO 24 44	tuberculose génitale
+#2	AnnotatorNotes T2	C0559523
+T3	DISO 24 35	tuberculose
+#3	AnnotatorNotes T3	C0041296
+T4	ANAT 73 85	épididymaire
+#4	AnnotatorNotes T4	C0014533
+T5	ANAT 106 118	testiculaire
+#5	AnnotatorNotes T5	C0039597
+T6	ANAT 101 118	hile testiculaire
+#6	AnnotatorNotes T6	C0228002

@@ -1,0 +1,16 @@
+T1	DISO 3 17	leucémie aiguë
+#1	AnnotatorNotes T1	C0085669
+T2	DISO 3 11	leucémie
+#2	AnnotatorNotes T2	C0023465
+T3	LIVB 24 30	enfant
+#3	AnnotatorNotes T3	C0008059
+T4	DISO 37 55	sarcome de Burkitt
+#4	AnnotatorNotes T4	C0006413
+T5	DISO 37 44	sarcome
+#5	AnnotatorNotes T5	C1261473
+T6	DISO 76 89	complications
+#6	AnnotatorNotes T6	C0009566
+T7	DISO 90 95	rares
+#7	AnnotatorNotes T7	C0678236
+T8	DISO 99 109	infections
+#8	AnnotatorNotes T8	C0021311

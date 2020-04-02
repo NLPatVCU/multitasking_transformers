@@ -1,0 +1,12 @@
+T1	DISO 3 15	intoxication
+#1	AnnotatorNotes T1	C0032343
+T2	PROC 42 63	traitement d' urgence
+#2	AnnotatorNotes T2	C0013969
+T3	PROC 42 52	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	PHEN 56 63	urgence
+#4	AnnotatorNotes T4	C0013956
+T5	DISO 3 28	intoxication cyanhydrique
+#5	AnnotatorNotes T5	C3646846
+T6	CHEM 16 28	cyanhydrique
+#6	AnnotatorNotes T6	C0020270

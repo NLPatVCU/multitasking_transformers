@@ -1,0 +1,10 @@
+T1	PHEN 0 8	Fracture
+#1	AnnotatorNotes T1	C1880851
+T2	OBJC 22 31	céramique
+#2	AnnotatorNotes T2	C0007742
+T3	DEVI 41 68	prothèses totales de hanche
+#3	AnnotatorNotes T3	C1282256
+T4	DEVI 41 50	prothèses
+#4	AnnotatorNotes T4	C0175649
+T5	ANAT 62 68	hanche
+#5	AnnotatorNotes T5	C0019552

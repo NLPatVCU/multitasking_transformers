@@ -1,0 +1,8 @@
+T1	PHYS 0 24	Métabolisme du collagène
+#1	AnnotatorNotes T1	C2246342
+T2	PHYS 0 11	Métabolisme
+#2	AnnotatorNotes T2	C0025519
+T3	CHEM 15 24	collagène
+#3	AnnotatorNotes T3	C0009325
+T4	LIVB 33 37	rate
+#4	AnnotatorNotes T4	C0034721

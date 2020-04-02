@@ -1,0 +1,10 @@
+T1	CHEM 15 32	phosphatase acide
+#1	AnnotatorNotes T1	C0001109
+T2	ANAT 41 51	hémolymphe
+#2	AnnotatorNotes T2	C0019051
+T3	LIVB 58 64	mouche
+#3	AnnotatorNotes T3	C1704307
+T4	PHYS 106 118	métamorphose
+#4	AnnotatorNotes T4	C0025558
+T5	LIVB 65 90	Calliphora erythrocephala
+#5	AnnotatorNotes T5	C0323124

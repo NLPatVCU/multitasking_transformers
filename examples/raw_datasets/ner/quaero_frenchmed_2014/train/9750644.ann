@@ -1,0 +1,8 @@
+T1	PROC 0 10	Anesthésie
+#1	AnnotatorNotes T1	C0002903
+T2	DISO 14 35	agents transmissibles
+#2	AnnotatorNotes T2	C0009450
+T3	DISO 60 77	maladies à prions
+#3	AnnotatorNotes T3	C0162534
+T4	DISO 60 68	maladies
+#4	AnnotatorNotes T4	C0012634

@@ -1,0 +1,20 @@
+T1	DISO 0 7	Absence
+#1	AnnotatorNotes T1	C1689985
+T2	PHYS 11 27	immunité croisée
+#2	AnnotatorNotes T2	C0178575
+T3	PHYS 11 19	immunité
+#3	AnnotatorNotes T3	C0020964
+T4	DISO 51 58	souches
+#4	AnnotatorNotes T4	C0038045
+T5	LIVB 91 121	virus de bronchite infectieuse
+#5	AnnotatorNotes T5	C0004419
+T6	DISO 91 109	virus de bronchite
+#6	AnnotatorNotes T6	C0276141
+T7	LIVB 91 96	virus
+#7	AnnotatorNotes T7	C0042776
+T8	DISO 100 109	bronchite
+#8	AnnotatorNotes T8	C0006277
+T9	DISO 110 121	infectieuse
+#9	AnnotatorNotes T9	C0021311
+T10	LIVB 126 137	galliformes
+#10	AnnotatorNotes T10	C0325589

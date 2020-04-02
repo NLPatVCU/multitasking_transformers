@@ -1,0 +1,22 @@
+T1	DISO 0 10	Hydramnios
+#1	AnnotatorNotes T1	C0020224
+T2	DISO 14 31	rupture spontanée
+#2	AnnotatorNotes T2	C0035956
+T3	DISO 14 21	rupture
+#3	AnnotatorNotes T3	C3203359
+T4	ANAT 38 44	utérus
+#4	AnnotatorNotes T4	C0042149
+T5	DISO 45 56	cicatriciel
+#5	AnnotatorNotes T5	C2004491
+T6	PHYS 77 86	grossesse
+#6	AnnotatorNotes T6	C0032961
+T7	PROC 99 126	transfusion foetalein utero
+#7	AnnotatorNotes T7	C0005843
+T8	PROC 99 110	transfusion
+#8	AnnotatorNotes T8	C1879316
+T9	ANAT 111 118	foetale
+#9	AnnotatorNotes T9	C0015965
+T10	LIVB 121 126	utero
+#10	AnnotatorNotes T10	C1708480
+T11	DISO 38 56	utérus cicatriciel
+#11	AnnotatorNotes T11	C0426015

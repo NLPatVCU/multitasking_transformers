@@ -1,0 +1,12 @@
+T1	DISO 0 17	Maladie de Refsum
+#1	AnnotatorNotes T1	C0034960
+T2	DISO 0 7	Maladie
+#2	AnnotatorNotes T2	C0012634
+T3	PROC 44 53	pronostic
+#3	AnnotatorNotes T3	C0033325
+T4	PROC 84 108	thérapeutique diététique
+#4	AnnotatorNotes T4	C0012159
+T5	PROC 84 97	thérapeutique
+#5	AnnotatorNotes T5	C0087111
+T6	OBJC 98 108	diététique
+#6	AnnotatorNotes T6	C0012155

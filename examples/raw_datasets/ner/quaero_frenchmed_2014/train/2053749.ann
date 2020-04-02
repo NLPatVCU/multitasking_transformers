@@ -1,0 +1,8 @@
+T1	ANAT 15 36	fosse infra-temporale
+#1	AnnotatorNotes T1	C0230011
+T2	DISO 41 57	tumeurs malignes
+#2	AnnotatorNotes T2	C0006826
+T3	DISO 41 48	tumeurs
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 61 74	massif facial
+#4	AnnotatorNotes T4	C0015455

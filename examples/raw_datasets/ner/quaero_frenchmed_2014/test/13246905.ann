@@ -1,0 +1,12 @@
+T1	CHEM 3 12	isoniazid
+#1	AnnotatorNotes T1	C0022209
+T2	PROC 21 31	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 38 59	tuberculose infantile
+#3	AnnotatorNotes T3	C1407568
+T4	DISO 38 49	tuberculose
+#4	AnnotatorNotes T4	C0041296
+T5	LIVB 50 59	infantile
+#5	AnnotatorNotes T5	C0008059
+T6	LIVB 50 59	infantile
+#6	AnnotatorNotes T6	C0008100

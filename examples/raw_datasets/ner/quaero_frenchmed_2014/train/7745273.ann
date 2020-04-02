@@ -1,0 +1,8 @@
+T1	DISO 0 22	Adénocarcinome colique
+#1	AnnotatorNotes T1	C0338106
+T2	ANAT 15 22	colique
+#2	AnnotatorNotes T2	C0009368
+T3	PROC 29 41	intervention
+#3	AnnotatorNotes T3	C0543467
+T4	PROC 29 51	intervention de Coffey
+#4	AnnotatorNotes T4	C0195395

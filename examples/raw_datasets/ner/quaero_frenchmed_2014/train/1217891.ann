@@ -1,0 +1,10 @@
+T1	ANAT 38 53	hypothalamiques
+#1	AnnotatorNotes T1	C0020663
+T2	LIVB 57 60	rat
+#2	AnnotatorNotes T2	C0086893
+T3	LIVB 61 65	mâle
+#3	AnnotatorNotes T3	C0086582
+T4	CHEM 70 79	stéroïdes
+#4	AnnotatorNotes T4	C0038317
+T5	ANAT 80 88	génitaux
+#5	AnnotatorNotes T5	C0559522

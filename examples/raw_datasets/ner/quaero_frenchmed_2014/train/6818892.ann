@@ -1,0 +1,8 @@
+T2	PROC 13 35	traitement chirurgical
+#2	AnnotatorNotes T2	C0543767
+T3	PROC 13 23	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 42 60	maladie de Basedow
+#4	AnnotatorNotes T4	C0018213
+T5	DISO 42 49	maladie
+#5	AnnotatorNotes T5	C0012634

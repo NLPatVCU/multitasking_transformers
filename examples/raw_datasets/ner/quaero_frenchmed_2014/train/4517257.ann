@@ -1,0 +1,10 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 15 47	leucémies aiguës myéloblastiques
+#2	AnnotatorNotes T2	C0023467
+T3	DISO 15 31	leucémies aiguës
+#3	AnnotatorNotes T3	C0085669
+T4	DISO 15 24	leucémies
+#4	AnnotatorNotes T4	C0023418
+T5	ANAT 32 47	myéloblastiques
+#5	AnnotatorNotes T5	C0229633

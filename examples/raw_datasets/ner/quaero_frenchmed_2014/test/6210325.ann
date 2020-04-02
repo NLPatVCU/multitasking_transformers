@@ -1,0 +1,8 @@
+T1	PROC 0 9	Résection
+#1	AnnotatorNotes T1	C0015252
+T2	DISO 30 49	adénome prostatique
+#2	AnnotatorNotes T2	C0520477
+T3	DISO 30 37	adénome
+#3	AnnotatorNotes T3	C0001430
+T4	ANAT 38 49	prostatique
+#4	AnnotatorNotes T4	C0033572

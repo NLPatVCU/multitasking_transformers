@@ -1,0 +1,10 @@
+T1	PROC 64 74	injectable
+#1	AnnotatorNotes T1	C1533685
+T2	DISO 83 105	insuffisant coronarien
+#2	AnnotatorNotes T2	C0542052
+T3	CHEM 40 63	dinitrate d' isosorbide
+#3	AnnotatorNotes T3	C0022252
+T4	ANAT 25 36	coronariens
+#4	AnnotatorNotes T4	C0010075
+T5	ANAT 95 105	coronarien
+#5	AnnotatorNotes T5	C0010075

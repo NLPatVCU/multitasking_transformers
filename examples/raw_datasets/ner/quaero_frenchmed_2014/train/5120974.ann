@@ -1,0 +1,12 @@
+T2	ANAT 31 49	chaîne ossiculaire
+#2	AnnotatorNotes T2	C0013450
+T3	ANAT 70 82	cochléarires
+#3	AnnotatorNotes T3	C0009195
+T4	PHEN 91 96	bruit
+#4	AnnotatorNotes T4	C0028263
+T5	PROC 99 118	etude expérimentale
+#5	AnnotatorNotes T5	C0681814
+T6	PROC 99 104	etude
+#6	AnnotatorNotes T6	C2603343
+T7	PROC 105 118	expérimentale
+#7	AnnotatorNotes T7	C0678323

@@ -1,0 +1,14 @@
+T1	PROC 4 18	synoviorthèses
+#1	AnnotatorNotes T1	C0877084
+T2	CHEM 24 37	acide osmique
+#2	AnnotatorNotes T2	C0029385
+T3	CHEM 24 29	acide
+#3	AnnotatorNotes T3	C0001128
+T4	CHEM 30 37	osmique
+#4	AnnotatorNotes T4	C0029383
+T5	PROC 46 56	traitement
+#5	AnnotatorNotes T5	C0087111
+T6	DISO 63 70	maladie
+#6	AnnotatorNotes T6	C0012634
+T7	DISO 71 82	rheumatoïde
+#7	AnnotatorNotes T7	C0035435

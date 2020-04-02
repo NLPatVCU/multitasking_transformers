@@ -1,0 +1,20 @@
+T1	PHEN 0 7	Actions
+#1	AnnotatorNotes T1	C0600512
+T2	CHEM 24 36	testostérone
+#2	AnnotatorNotes T2	C0039601
+T3	CHEM 45 67	déhydroépiandrostérone
+#3	AnnotatorNotes T3	C0011185
+T4	CHEM 70 73	DHA
+#4	AnnotatorNotes T4	C0011185
+T5	CHEM 82 115	sulfate de déhydroépiandrostérone
+#5	AnnotatorNotes T5	C0057277
+T6	CHEM 82 89	sulfate
+#6	AnnotatorNotes T6	C0038720
+T7	CHEM 93 115	déhydroépiandrostérone
+#7	AnnotatorNotes T7	C0011185
+T8	ANAT 132 143	gonadotrope
+#8	AnnotatorNotes T8	C1708248
+T9	ANAT 144 156	hypophysaire
+#9	AnnotatorNotes T9	C0032005
+T10	LIVB 163 168	ratte
+#10	AnnotatorNotes T10	C0034721

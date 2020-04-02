@@ -1,0 +1,8 @@
+T1	DISO 0 27	Tumeurs cardiaques malignes
+#1	AnnotatorNotes T1	C0153500
+T2	DISO 0 18	Tumeurs cardiaques
+#2	AnnotatorNotes T2	C0018809
+T3	DISO 0 7	Tumeurs
+#3	AnnotatorNotes T3	C0006826
+T4	ANAT 8 18	cardiaques
+#4	AnnotatorNotes T4	C0018787

@@ -1,0 +1,10 @@
+T1	PROC 0 19	Etude expérimentale
+#1	AnnotatorNotes T1	C0681814
+T2	PROC 0 5	Etude
+#2	AnnotatorNotes T2	C2603343
+T3	PROC 6 19	expérimentale
+#3	AnnotatorNotes T3	C0678323
+T4	PHYS 25 47	 activité cholérétique
+#4	AnnotatorNotes T4	C1371472
+T5	CHEM 35 47	cholérétique
+#5	AnnotatorNotes T5	C0008362

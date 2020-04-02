@@ -1,0 +1,10 @@
+T1	CHEM 9 24	antibacterienne
+#1	AnnotatorNotes T1	C0279516
+T2	PHYS 27 44	pharmacocinétique
+#2	AnnotatorNotes T2	C0031327
+T3	CHEM 82 94	antibiotique
+#3	AnnotatorNotes T3	C0003232
+T4	CHEM 95 112	céphalosporanique
+#4	AnnotatorNotes T4	C2266959
+T5	CHEM 118 130	céphacétrile
+#5	AnnotatorNotes T5	C0007714

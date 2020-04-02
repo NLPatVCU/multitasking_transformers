@@ -1,0 +1,6 @@
+T1	PROC 25 39	chimiothérapie
+#1	AnnotatorNotes T1	C0013216
+T2	DISO 44 54	affections
+#2	AnnotatorNotes T2	C0012634
+T3	DISO 55 73	tumorales malignes
+#3	AnnotatorNotes T3	C0006826

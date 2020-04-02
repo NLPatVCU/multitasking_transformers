@@ -1,0 +1,6 @@
+T1	PROC 0 13	Ostéosynthèse
+#1	AnnotatorNotes T1	C0016642
+T2	DISO 18 44	fractures trochantériennes
+#2	AnnotatorNotes T2	C0162387
+T3	DEVI 49 70	plaque de compression
+#3	AnnotatorNotes T3	C0598026

@@ -1,0 +1,10 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PHYS 29 49	fonction gonadotrope
+#2	AnnotatorNotes T2	C1295672
+T3	LIVB 58 61	rat
+#3	AnnotatorNotes T3	C0034721
+T5	PROC 85 95	castration
+#5	AnnotatorNotes T5	C0007344
+T4	LIVB 62 66	mâle
+#4	AnnotatorNotes T4	C0024554

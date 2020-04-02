@@ -1,0 +1,12 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 10 19	marqueurs
+#2	AnnotatorNotes T2	C0034551
+T3	DISO 26 29	HBV
+#3	AnnotatorNotes T3	C0019163
+T4	ANAT 49 63	lymphocytaires
+#4	AnnotatorNotes T4	C0024264
+T5	DISO 87 101	asymptomatique
+#5	AnnotatorNotes T5	C0231221
+T6	LIVB 72 86	polytoxicomane
+#6	AnnotatorNotes T6	C0338666

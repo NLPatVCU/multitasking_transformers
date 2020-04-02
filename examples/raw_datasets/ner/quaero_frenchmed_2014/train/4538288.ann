@@ -1,0 +1,14 @@
+T1	DISO 0 9	Dysplasie
+#1	AnnotatorNotes T1	C0334044
+T2	ANAT 10 20	vasculaire
+#2	AnnotatorNotes T2	C0005847
+T3	DISO 46 55	Dysplasie
+#3	AnnotatorNotes T3	C0334044
+T4	ANAT 56 66	vasculaire
+#4	AnnotatorNotes T4	C0005847
+T5	DISO 92 108	artério-veineuse
+#5	AnnotatorNotes T5	C0729993
+T6	DISO 122 140	arrêt circulatoire
+#6	AnnotatorNotes T6	C0444720
+T7	PROC 109 116	traitée
+#7	AnnotatorNotes T7	C0087111

@@ -1,0 +1,14 @@
+T1	PROC 8 42	technique de culture organotypique
+#1	AnnotatorNotes T1	C0029205
+T2	PROC 8 28	technique de culture
+#2	AnnotatorNotes T2	C1449619
+T3	PROC 21 28	culture
+#3	AnnotatorNotes T3	C0430400
+T4	ANAT 29 42	organotypique
+#4	AnnotatorNotes T4	C0178784
+T5	ANAT 46 65	îlots de Langerhans
+#5	AnnotatorNotes T5	C0022131
+T6	ANAT 46 51	îlots
+#6	AnnotatorNotes T6	C1522529
+T7	LIVB 69 79	mammifères
+#7	AnnotatorNotes T7	C0024660

@@ -1,0 +1,10 @@
+T1	CHEM 14 36	protéines alimentaires
+#1	AnnotatorNotes T1	C0012177
+T2	CHEM 50 63	acides aminés
+#2	AnnotatorNotes T2	C0002520
+T3	LIVB 107 111	rats
+#3	AnnotatorNotes T3	C0034721
+T4	PROC 112 129	surrénalectomisés
+#4	AnnotatorNotes T4	C0001632
+T5	LIVB 136 140	rats
+#5	AnnotatorNotes T5	C0034721

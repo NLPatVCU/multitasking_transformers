@@ -1,0 +1,12 @@
+T1	CHEM 0 11	Hydroxyzine
+#1	AnnotatorNotes T1	C0020404
+T2	DISO 15 43	troubles du rythme cardiaque
+#2	AnnotatorNotes T2	C0003811
+T3	DISO 15 23	troubles
+#3	AnnotatorNotes T3	C0012634
+T4	PHYS 27 43	rythme cardiaque
+#4	AnnotatorNotes T4	C0232187
+T5	PHYS 27 33	rythme
+#5	AnnotatorNotes T5	C1523018
+T6	ANAT 34 43	cardiaque
+#6	AnnotatorNotes T6	C0018787

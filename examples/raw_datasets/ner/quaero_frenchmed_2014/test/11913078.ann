@@ -1,0 +1,10 @@
+T1	DISO 0 12	Légionellose
+#1	AnnotatorNotes T1	C0023240
+T2	LIVB 22 30	patients
+#2	AnnotatorNotes T2	C0030705
+T3	DISO 31 39	infectés
+#3	AnnotatorNotes T3	C0021311
+T4	LIVB 47 54	VIH - 1
+#4	AnnotatorNotes T4	C0019704
+T5	PROC 59 71	observations
+#5	AnnotatorNotes T5	C0302523

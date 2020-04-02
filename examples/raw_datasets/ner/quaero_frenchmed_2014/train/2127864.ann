@@ -1,0 +1,16 @@
+T1	DISO 0 32	Déficit en glutathion-peroxydase
+#1	AnnotatorNotes T1	C0398747
+T2	CHEM 11 32	glutathion-peroxydase
+#2	AnnotatorNotes T2	C0017822
+T3	LIVB 42 50	patients
+#3	AnnotatorNotes T3	C0030705
+T4	DISO 54 58	coma
+#4	AnnotatorNotes T4	C0009421
+T5	DISO 59 68	chronique
+#5	AnnotatorNotes T5	C0008679
+T6	PHYS 82 94	alimentation
+#6	AnnotatorNotes T6	C0013470
+T7	ANAT 95 103	entérale
+#7	AnnotatorNotes T7	C0021853
+T8	PROC 82 103	alimentation entérale
+#8	AnnotatorNotes T8	C0086225

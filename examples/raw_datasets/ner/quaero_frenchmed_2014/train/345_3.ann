@@ -1,0 +1,448 @@
+T1	GEOG 107 116	Allemagne
+#1	AnnotatorNotes T1	C0017480
+T2	DEVI 154 163	EMBALLAGE
+#2	AnnotatorNotes T2	C0013194
+T3	OBJC 213 219	flacon
+#3	AnnotatorNotes T3	C0179376
+T4	CHEM 238 248	lépirudine
+#4	AnnotatorNotes T4	C0772394
+T5	CHEM 274 282	mannitol
+#5	AnnotatorNotes T5	C0024730
+T6	CHEM 285 304	hydroxyde de sodium
+#6	AnnotatorNotes T6	C0037517
+T7	OBJC 311 317	flacon
+#7	AnnotatorNotes T7	C0179376
+T8	CHEM 321 327	poudre
+#8	AnnotatorNotes T8	C0032861
+T9	CHEM 333 352	solution injectable
+#9	AnnotatorNotes T9	C0086466
+T10	PROC 342 352	injectable
+#10	AnnotatorNotes T10	C0021485
+T11	PROC 361 370	perfusion
+#11	AnnotatorNotes T11	C0031001
+T12	OBJC 391 397	flacon
+#12	AnnotatorNotes T12	C0179376
+T13	CHEM 409 419	lépirudine
+#13	AnnotatorNotes T13	C0772394
+T14	CHEM 440 443	eau
+#14	AnnotatorNotes T14	C0043047
+T15	CHEM 449 473	préparations injectables
+#15	AnnotatorNotes T15	C0086466
+T16	PROC 462 473	injectables
+#16	AnnotatorNotes T16	C0021485
+T17	OBJC 485 515	solution de chlorure de sodium
+#17	AnnotatorNotes T17	C0036082
+T18	CHEM 497 515	chlorure de sodium
+#18	AnnotatorNotes T18	C0037494
+T19	PROC 546 554	dilution
+#19	AnnotatorNotes T19	C0029740
+T20	CHEM 606 627	solution reconstituée
+#20	AnnotatorNotes T20	C3199333
+T21	CHEM 684 693	solutions
+#21	AnnotatorNotes T21	C0037633
+T22	CHEM 726 736	particules
+#22	AnnotatorNotes T22	C0597177
+T23	DEVI 776 785	EMBALLAGE
+#23	AnnotatorNotes T23	C0013194
+T24	OBJC 840 846	flacon
+#24	AnnotatorNotes T24	C0179376
+T25	CHEM 850 856	poudre
+#25	AnnotatorNotes T25	C0032861
+T26	CHEM 862 881	solution injectable
+#26	AnnotatorNotes T26	C0086466
+T27	PROC 871 881	injectable
+#27	AnnotatorNotes T27	C0021485
+T28	PROC 890 899	perfusion
+#28	AnnotatorNotes T28	C0031001
+T29	CHEM 904 912	Refludan
+#29	AnnotatorNotes T29	C0661608
+T30	CHEM 922 928	poudre
+#30	AnnotatorNotes T30	C0032861
+T31	CHEM 934 953	solution injectable
+#31	AnnotatorNotes T31	C0086466
+T32	PROC 943 953	injectable
+#32	AnnotatorNotes T32	C0021485
+T33	PROC 962 971	perfusion
+#33	AnnotatorNotes T33	C0031001
+T34	CHEM 974 984	lépirudine
+#34	AnnotatorNotes T34	C0772394
+T35	CHEM 1006 1014	Refludan
+#35	AnnotatorNotes T35	C0661608
+T36	CHEM 1024 1030	poudre
+#36	AnnotatorNotes T36	C0032861
+T37	CHEM 1036 1055	solution injectable
+#37	AnnotatorNotes T37	C0086466
+T38	PROC 1045 1055	injectable
+#38	AnnotatorNotes T38	C0021485
+T39	PROC 1064 1073	perfusion
+#39	AnnotatorNotes T39	C0031001
+T40	CHEM 1074 1084	lépirudine
+#40	AnnotatorNotes T40	C0772394
+T41	OBJC 1089 1095	flacon
+#41	AnnotatorNotes T41	C0179376
+T42	CHEM 1114 1124	lépirudine
+#42	AnnotatorNotes T42	C0772394
+T43	OBJC 1145 1151	flacon
+#43	AnnotatorNotes T43	C0179376
+T44	CHEM 1163 1173	lépirudine
+#44	AnnotatorNotes T44	C0772394
+T45	CHEM 1190 1193	eau
+#45	AnnotatorNotes T45	C0043047
+T46	CHEM 1199 1223	préparations injectables
+#46	AnnotatorNotes T46	C0086466
+T47	PROC 1212 1223	injectables
+#47	AnnotatorNotes T47	C0021485
+T48	CHEM 1261 1267	sodium
+#48	AnnotatorNotes T48	C0037473
+T49	CHEM 1292 1300	Refludan
+#49	AnnotatorNotes T49	C0661608
+T50	CHEM 1310 1316	poudre
+#50	AnnotatorNotes T50	C0032861
+T51	CHEM 1322 1341	solution injectable
+#51	AnnotatorNotes T51	C0086466
+T52	PROC 1331 1341	injectable
+#52	AnnotatorNotes T52	C0021485
+T53	PROC 1350 1359	perfusion
+#53	AnnotatorNotes T53	C0031001
+T54	CHEM 1360 1370	lépirudine
+#54	AnnotatorNotes T54	C0772394
+T55	CHEM 1392 1400	Refludan
+#55	AnnotatorNotes T55	C0661608
+T56	CHEM 1410 1416	poudre
+#56	AnnotatorNotes T56	C0032861
+T57	CHEM 1422 1441	solution injectable
+#57	AnnotatorNotes T57	C0086466
+T58	PROC 1431 1441	injectable
+#58	AnnotatorNotes T58	C0021485
+T59	PROC 1450 1459	perfusion
+#59	AnnotatorNotes T59	C0031001
+T60	CHEM 1460 1470	Lepirudine
+#60	AnnotatorNotes T60	C0772394
+T61	CHEM 1489 1497	REFLUDAN
+#61	AnnotatorNotes T61	C0661608
+T62	CHEM 1532 1540	Refludan
+#62	AnnotatorNotes T62	C0661608
+T63	CHEM 1548 1564	antithrombotique
+#63	AnnotatorNotes T63	C1704311
+T64	CHEM 1573 1590	antithrombotiques
+#64	AnnotatorNotes T64	C1704311
+T65	CHEM 1600 1611	médicaments
+#65	AnnotatorNotes T65	C0013227
+T66	DISO 1648 1665	caillots sanguins
+#66	AnnotatorNotes T66	C0302148
+T67	DISO 1668 1677	thrombose
+#67	AnnotatorNotes T67	C0040053
+T68	CHEM 1683 1691	Refludan
+#68	AnnotatorNotes T68	C0661608
+T69	PHYS 1720 1731	coagulation
+#69	AnnotatorNotes T69	C0005778
+T70	LIVB 1741 1757	patients adultes
+#70	AnnotatorNotes T70	C0001765
+T71	LIVB 1741 1749	patients
+#71	AnnotatorNotes T71	C0030705
+T72	DISO 1775 1787	thrombopénie
+#72	AnnotatorNotes T72	C0040034
+T73	CHEM 1804 1812	héparine
+#73	AnnotatorNotes T73	C0019134
+T74	DISO 1775 1812;1821 1831	thrombopénie induite par l ’ héparine de type II
+#74	AnnotatorNotes T74	C0877016
+T75	DISO 1838 1863	maladie thrombo-embolique
+#75	AnnotatorNotes T75	C0040038
+T76	DISO 1838 1845	maladie
+#76	AnnotatorNotes T76	C0012634
+T77	PROC 1879 1889	traitement
+#77	AnnotatorNotes T77	C0087111
+T78	CHEM 1890 1906	antithrombotique
+#78	AnnotatorNotes T78	C1704311
+T79	PROC 1907 1917	injectable
+#79	AnnotatorNotes T79	C1533685
+T80	DISO 1925 1937	thrombopénie
+#80	AnnotatorNotes T80	C0040034
+T81	CHEM 1954 1962	héparine
+#81	AnnotatorNotes T81	C0019134
+T82	DISO 1925 1962;1971 1981	thrombopénie induite par l ’ héparine de type II
+#82	AnnotatorNotes T82	C0877016
+T83	DISO 1990 1997	maladie
+#83	AnnotatorNotes T83	C0012634
+T84	CHEM 2045 2056	médicaments
+#84	AnnotatorNotes T84	C0013227
+T85	CHEM 2074 2082	héparine
+#85	AnnotatorNotes T85	C0019134
+T86	DISO 2132 2140	caillots
+#86	AnnotatorNotes T86	C0302148
+T87	ANAT 2155 2162	organes
+#87	AnnotatorNotes T87	C0178784
+T88	LIVB 2201 2208	médecin
+#88	AnnotatorNotes T88	C0031831
+T89	DISO 2230 2249	insuffisance rénale
+#89	AnnotatorNotes T89	C1565489
+T90	ANAT 2243 2249	rénale
+#90	AnnotatorNotes T90	C0022646
+T91	DISO 2261 2277	cirrhose du foie
+#91	AnnotatorNotes T91	C0023890
+T92	ANAT 2273 2277	foie
+#92	AnnotatorNotes T92	C0023884
+T93	DISO 2280 2295	maladie du foie
+#93	AnnotatorNotes T93	C0023895
+T94	DISO 2280 2287	maladie
+#94	AnnotatorNotes T94	C0012634
+T95	ANAT 2291 2295	foie
+#95	AnnotatorNotes T95	C0023884
+T96	CHEM 2367 2375	Refludan
+#96	AnnotatorNotes T96	C0661608
+T97	LIVB 2416 2423	médecin
+#97	AnnotatorNotes T97	C0031831
+T98	CHEM 2457 2465	Refludan
+#98	AnnotatorNotes T98	C0661608
+T99	CHEM 2478 2486	hirudine
+#99	AnnotatorNotes T99	C0019573
+T100	CHEM 2509 2517	hirudine
+#100	AnnotatorNotes T100	C0019573
+T101	CHEM 2526 2537	médicaments
+#101	AnnotatorNotes T101	C0013227
+T102	DISO 2562 2579	caillots sanguins
+#102	AnnotatorNotes T102	C0302148
+T103	ANAT 2571 2579	sanguins
+#103	AnnotatorNotes T103	C0005767
+T104	CHEM 2587 2596	comprimés
+#104	AnnotatorNotes T104	C0039225
+T105	DISO 2671 2691	risque de saignement
+#105	AnnotatorNotes T105	C3251812
+T106	DISO 2681 2691	saignement
+#106	AnnotatorNotes T106	C0019080
+T107	PROC 2710 2721	administrés
+#107	AnnotatorNotes T107	C1533734
+T108	CHEM 2740 2748	Refludan
+#108	AnnotatorNotes T108	C0661608
+T109	CHEM 2753 2761	Refludan
+#109	AnnotatorNotes T109	C0661608
+T110	PROC 2779 2789	administré
+#110	AnnotatorNotes T110	C1533734
+T111	LIVB 2794 2810	femmes enceintes
+#111	AnnotatorNotes T111	C0033011
+T112	LIVB 2794 2800	femmes
+#112	AnnotatorNotes T112	C0043210
+T113	PHYS 2818 2827	allaitent
+#113	AnnotatorNotes T113	C0006147
+T114	CHEM 2847 2855	REFLUDAN
+#114	AnnotatorNotes T114	C0661608
+T115	LIVB 2864 2871	médecin
+#115	AnnotatorNotes T115	C0031831
+T116	PROC 2932 2942	traitement
+#116	AnnotatorNotes T116	C0087111
+T117	CHEM 2947 2955	Refludan
+#117	AnnotatorNotes T117	C0661608
+T118	PHYS 3002 3016	poids corporel
+#118	AnnotatorNotes T118	C0005910
+T119	CHEM 3104 3112	Refludan
+#119	AnnotatorNotes T119	C0661608
+T120	DISO 3135 3141	faible
+#120	AnnotatorNotes T120	C0004093
+T121	LIVB 3160 3167	médecin
+#121	AnnotatorNotes T121	C0031831
+T122	LIVB 3177 3187	pharmacien
+#122	AnnotatorNotes T122	C0031323
+T123	CHEM 3192 3200	Refludan
+#123	AnnotatorNotes T123	C0661608
+T124	CHEM 3232 3239	solvant
+#124	AnnotatorNotes T124	C0037638
+T125	PROC 3257 3267	administré
+#125	AnnotatorNotes T125	C1533734
+T126	ANAT 3277 3282	veine
+#126	AnnotatorNotes T126	C0042449
+T127	CHEM 3289 3298	injection
+#127	AnnotatorNotes T127	C0086466
+T128	PROC 3314 3323	perfusion
+#128	AnnotatorNotes T128	C0031001
+T129	DISO 3378 3384	Anémie
+#129	AnnotatorNotes T129	C0002871
+T130	CHEM 3407 3418	hémoglobine
+#130	AnnotatorNotes T130	C0019046
+T131	DISO 3434 3444	saignement
+#131	AnnotatorNotes T131	C0019080
+T132	DISO 3457 3466	contusion
+#132	AnnotatorNotes T132	C0009938
+T133	DISO 3469 3479	saignement
+#133	AnnotatorNotes T133	C0019080
+T134	PROC 3503 3511	ponction
+#134	AnnotatorNotes T134	C0034117
+T135	DISO 3514 3530	saignement nasal
+#135	AnnotatorNotes T135	C0014591
+T136	ANAT 3525 3530	nasal
+#136	AnnotatorNotes T136	C0028429
+T137	ANAT 3533 3537	sang
+#137	AnnotatorNotes T137	C0005767
+T138	ANAT 3547 3553	urines
+#138	AnnotatorNotes T138	C0042036
+T139	DISO 3556 3583	saignement gastrointestinal
+#139	AnnotatorNotes T139	C0017181
+T140	DISO 3556 3566	saignement
+#140	AnnotatorNotes T140	C0019080
+T141	DISO 3586 3604	saignement vaginal
+#141	AnnotatorNotes T141	C0151706
+T142	DISO 3586 3596	saignement
+#142	AnnotatorNotes T142	C0019080
+T143	ANAT 3597 3604	vaginal
+#143	AnnotatorNotes T143	C0042232
+T144	DISO 3607 3624	saignement rectal
+#144	AnnotatorNotes T144	C0267596
+T145	DISO 3607 3617	saignement
+#145	AnnotatorNotes T145	C0019080
+T146	ANAT 3618 3624	rectal
+#146	AnnotatorNotes T146	C0034896
+T147	DISO 3627 3648	hémorragie pulmonaire
+#147	AnnotatorNotes T147	C0151701
+T148	DISO 3627 3637	hémorragie
+#148	AnnotatorNotes T148	C0019080
+T149	ANAT 3638 3648	pulmonaire
+#149	AnnotatorNotes T149	C0024109
+T150	DISO 3651 3661	saignement
+#150	AnnotatorNotes T150	C0019080
+T151	ANAT 3678 3686	poitrine
+#151	AnnotatorNotes T151	C0817096
+T152	ANAT 3700 3704	cœur
+#152	AnnotatorNotes T152	C0018787
+T153	DISO 3717 3742	intervention chirurgicale
+#153	AnnotatorNotes T153	C0549433
+T154	DISO 3745 3755	saignement
+#154	AnnotatorNotes T154	C0019080
+T155	ANAT 3769 3776	cerveau
+#155	AnnotatorNotes T155	C0006104
+T156	DISO 3785 3795	hémorragie
+#156	AnnotatorNotes T156	C0019080
+T157	DISO 3829 3854	hémorragie intracrânienne
+#157	AnnotatorNotes T157	C0151699
+T158	DISO 3829 3839	hémorragie
+#158	AnnotatorNotes T158	C0019080
+T159	ANAT 3840 3854	intracrânienne
+#159	AnnotatorNotes T159	C0230041
+T160	DISO 3935 3949	TIH de type II
+#160	AnnotatorNotes T160	C0877016
+T161	DISO 3975 3986	hémorragies
+#161	AnnotatorNotes T161	C0019080
+T162	LIVB 4008 4016	patients
+#162	AnnotatorNotes T162	C0030705
+T163	DISO 4024 4051	hémorragies intracrâniennes
+#163	AnnotatorNotes T163	C0151699
+T164	DISO 4024 4035	hémorragies
+#164	AnnotatorNotes T164	C0019080
+T165	ANAT 4036 4051	intracrâniennes
+#165	AnnotatorNotes T165	C0230041
+T166	LIVB 4069 4077	patients
+#166	AnnotatorNotes T166	C0030705
+T167	DISO 4086 4096	hémorragie
+#167	AnnotatorNotes T167	C0019080
+T168	ANAT 4147 4151	sang
+#168	AnnotatorNotes T168	C0005767
+T169	DISO 4168 4193	pression artérielle basse
+#169	AnnotatorNotes T169	C0020649
+T170	DISO 4199 4211	état de choc
+#170	AnnotatorNotes T170	C0036974
+T171	CHEM 4280 4288	REFLUDAN
+#171	AnnotatorNotes T171	C0661608
+T172	OBJC 4304 4310	flacon
+#172	AnnotatorNotes T172	C0179376
+T173	DEVI 4320 4329	emballage
+#173	AnnotatorNotes T173	C0013194
+T174	CHEM 4360 4368	Refludan
+#174	AnnotatorNotes T174	C0661608
+T175	OBJC 4375 4383	solution
+#175	AnnotatorNotes T175	C0037633
+T176	CHEM 4425 4435	particules
+#176	AnnotatorNotes T176	C0597177
+T177	CHEM 4463 4471	Refludan
+#177	AnnotatorNotes T177	C0661608
+T178	OBJC 4514 4522	solution
+#178	AnnotatorNotes T178	C0037633
+T179	CHEM 4605 4615	lépirudine
+#179	AnnotatorNotes T179	C0772394
+T180	CHEM 4666 4681	ADN recombinant
+#180	AnnotatorNotes T180	C0012931
+T181	CHEM 4694 4712	cellules de levure
+#181	AnnotatorNotes T181	C0669253
+T182	ANAT 4694 4702	cellules
+#182	AnnotatorNotes T182	C0007634
+T183	LIVB 4706 4712	levure
+#183	AnnotatorNotes T183	C0043393
+T184	CHEM 4747 4755	mannitol
+#184	AnnotatorNotes T184	C0024730
+T185	CHEM 4773 4792	hydroxyde de sodium
+#185	AnnotatorNotes T185	C0037517
+T186	CHEM 4839 4847	REFLUDAN
+#186	AnnotatorNotes T186	C0661608
+T187	DEVI 4866 4875	emballage
+#187	AnnotatorNotes T187	C0013194
+T188	CHEM 4886 4894	Refludan
+#188	AnnotatorNotes T188	C0661608
+T189	CHEM 4903 4909	poudre
+#189	AnnotatorNotes T189	C0032861
+T190	CHEM 4923 4942	solution injectable
+#190	AnnotatorNotes T190	C0086466
+T191	PROC 4932 4942	injectable
+#191	AnnotatorNotes T191	C0021485
+T192	PROC 4946 4955	perfusion
+#192	AnnotatorNotes T192	C0031001
+T193	OBJC 4972 4978	flacon
+#193	AnnotatorNotes T193	C0179376
+T194	CHEM 4998 5008	lépirudine
+#194	AnnotatorNotes T194	C0772394
+T195	CHEM 5013 5021	Refludan
+#195	AnnotatorNotes T195	C0661608
+T196	OBJC 5040 5046	boîtes
+#196	AnnotatorNotes T196	C0179400
+T197	OBJC 5058 5065	flacons
+#197	AnnotatorNotes T197	C0179376
+T198	ANAT 1657 1665	sanguins
+#198	AnnotatorNotes T198	C0005767
+T199	CHEM 5156 5164	Refludan
+#199	AnnotatorNotes T199	C0661608
+T200	CHEM 5174 5180	poudre
+#200	AnnotatorNotes T200	C0032861
+T201	CHEM 5186 5205	solution injectable
+#201	AnnotatorNotes T201	C0086466
+T202	PROC 5195 5205	injectable
+#202	AnnotatorNotes T202	C0021485
+T203	PROC 5214 5223	perfusion
+#203	AnnotatorNotes T203	C0031001
+T204	CHEM 5224 5234	Lepirudine
+#204	AnnotatorNotes T204	C0772394
+T205	CHEM 5267 5275	mannitol
+#205	AnnotatorNotes T205	C0024730
+T206	CHEM 5293 5312	hydroxyde de sodium
+#206	AnnotatorNotes T206	C0037517
+T207	CHEM 5359 5367	REFLUDAN
+#207	AnnotatorNotes T207	C0661608
+T208	DEVI 5386 5395	emballage
+#208	AnnotatorNotes T208	C0013194
+T209	CHEM 5406 5414	Refludan
+#209	AnnotatorNotes T209	C0661608
+T210	CHEM 5423 5429	poudre
+#210	AnnotatorNotes T210	C0032861
+T211	CHEM 5443 5462	solution injectable
+#211	AnnotatorNotes T211	C0086466
+T212	PROC 5452 5462	injectable
+#212	AnnotatorNotes T212	C0021485
+T213	PROC 5466 5475	perfusion
+#213	AnnotatorNotes T213	C0031001
+T214	OBJC 5492 5498	flacon
+#214	AnnotatorNotes T214	C0179376
+T215	CHEM 5518 5528	lépirudine
+#215	AnnotatorNotes T215	C0772394
+T216	DISO 1965 1968	TIH
+#216	AnnotatorNotes T216	C0272285
+T217	DISO 1815 1818	TIH
+#217	AnnotatorNotes T217	C0272285
+T218	DISO 3533 3553	sang dans les urines
+#218	AnnotatorNotes T218	C0018965
+T219	DISO 3745 3776	saignement au niveau du cerveau
+#219	AnnotatorNotes T219	C0553692
+T220	DISO 3651 3661;3690 3704	saignement autour du cœur
+#220	AnnotatorNotes T220	C1390172
+T221	DISO 3651 3686	saignement au niveau de la poitrine
+#221	AnnotatorNotes T221	C1390061
+T222	CHEM 2634 2647	coumariniques
+#222	AnnotatorNotes T222	C0010206
+T223	CHEM 5278 5283	E 421
+#223	AnnotatorNotes T223	C0024730
+T224	CHEM 4758 4763	E 421
+#224	AnnotatorNotes T224	C0024730

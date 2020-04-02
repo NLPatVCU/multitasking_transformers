@@ -1,0 +1,10 @@
+T1	PROC 0 10	Diagnostic
+#1	AnnotatorNotes T1	C0430022
+T2	LIVB 43 51	patients
+#2	AnnotatorNotes T2	C0030705
+T3	PROC 52 58	opérés
+#3	AnnotatorNotes T3	C0543467
+T4	DISO 65 80	adénome de Conn
+#4	AnnotatorNotes T4	C0009777
+T5	PROC 83 88	Etude
+#5	AnnotatorNotes T5	C2603343

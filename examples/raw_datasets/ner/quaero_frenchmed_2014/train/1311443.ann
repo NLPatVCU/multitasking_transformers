@@ -1,0 +1,10 @@
+T1	LIVB 0 30	Populations et sujets à risque
+#1	AnnotatorNotes T1	C0242444
+T2	LIVB 0 11	Populations
+#2	AnnotatorNotes T2	C1257890
+T3	LIVB 15 21	sujets
+#3	AnnotatorNotes T3	C0027361
+T4	DISO 34 51	cancer colorectal
+#4	AnnotatorNotes T4	C1527249
+T5	DISO 34 40	cancer
+#5	AnnotatorNotes T5	C0027651

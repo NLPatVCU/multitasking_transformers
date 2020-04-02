@@ -1,0 +1,6 @@
+T1	PROC 0 9	Analgésie
+#1	AnnotatorNotes T1	C0002766
+T2	ANAT 13 28	voies biliaires
+#2	AnnotatorNotes T2	C0005400
+T3	ANAT 19 28	biliaires
+#3	AnnotatorNotes T3	C0005388

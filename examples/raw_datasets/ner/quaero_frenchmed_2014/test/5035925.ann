@@ -1,0 +1,14 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 17 35	angine de poitrine
+#2	AnnotatorNotes T2	C0002962
+T3	ANAT 27 35	poitrine
+#3	AnnotatorNotes T3	C0817096
+T4	PROC 40 62	stimulation électrique
+#4	AnnotatorNotes T4	C0013787
+T5	PROC 40 51	stimulation
+#5	AnnotatorNotes T5	C1292856
+T6	PHEN 52 62	électrique
+#6	AnnotatorNotes T6	C0013790
+T7	ANAT 67 72	nerfs
+#7	AnnotatorNotes T7	C0027740

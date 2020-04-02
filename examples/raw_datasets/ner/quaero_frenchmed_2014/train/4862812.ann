@@ -1,0 +1,14 @@
+T1	PHYS 18 40	composition corporelle
+#1	AnnotatorNotes T1	C0005885
+T2	PHYS 18 29	composition
+#2	AnnotatorNotes T2	C0486616
+T3	ANAT 30 40	corporelle
+#3	AnnotatorNotes T3	C1268086
+T4	DISO 51 61	myasthénie
+#4	AnnotatorNotes T4	C0947912
+T5	DISO 68 87	astrophie neurogène
+#5	AnnotatorNotes T5	C1389085
+T6	DISO 68 77	astrophie
+#6	AnnotatorNotes T6	C0333641
+T7	ANAT 78 87	neurogène
+#7	AnnotatorNotes T7	C0027740

@@ -1,0 +1,14 @@
+T1	PROC 34 70	interruption volontaire de grossesse
+#1	AnnotatorNotes T1	C0156543
+T2	PHYS 61 70	grossesse
+#2	AnnotatorNotes T2	C0032961
+T3	CHEM 83 97	médicamenteuse
+#3	AnnotatorNotes T3	C0013227
+T4	PROC 172 177	étude
+#4	AnnotatorNotes T4	C2603343
+T5	LIVB 198 207	patientes
+#5	AnnotatorNotes T5	C0030705
+T6	PROC 34 97	interruption volontaire de grossesse par méthode médicamenteuse
+#6	AnnotatorNotes T6	C0000805
+T7	PROC 113 128	hospitalisation
+#7	AnnotatorNotes T7	C0019993

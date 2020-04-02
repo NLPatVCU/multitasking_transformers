@@ -1,0 +1,44 @@
+
+ Si le patient essaie d ’ initier une dose après 80 doses ou 24 heures après la première dose , le dispositif ne répondra pas ( c ’ est-à-dire pas de lumière rouge , pas de bip sonore ).. 
+ La durée maximale de traitement est de 72 heures ( 3 dispositifs ), bien que la plupart des patients n ’ auront sans doute besoin que d ’ un dispositif . 
+ Les patients ne doivent pas porter plus d ’ un dispositif à la fois . 
+ Les dispositifs usagés ne doivent pas être réutilisés . 
+ Les patients ne doivent pas mouiller le dispositif IONSYS . 
+ Un contact prolongé avec l ’ eau pourrait nuire à l ’ efficacité du dispositif et provoquer un mauvais fonctionnement ou un arrêt du dispositif . 
+ IONSYS ne doit pas être utilisé chez l ’ enfant en de moins de 18 ans compte-tenu de l ’ insuffisance de données disponibles concernant la sécurité et l ’ efficacité dans cette population . 
+ Peu de données de pharmacocinétique , de sécurité et d ’ efficacité sont disponibles concernant l ’ utilisation de IONSYS chez les patients âgés de plus de 75 ans . 
+ Il est donc nécessaire de rechercher attentivement tout signe de toxicité du fentanyl chez les personnes âgées . 
+
+ Mode d ’ application 
+ Le dispositif IONSYS ne doit pas être utilisé si le sachet n ’ est pas hermétiquement fermé . 
+ IONSYS doit être appliqué sur une peau saine , non irritée et non irradiée au niveau du torse ou de la partie supéro-externe du bras . 
+ IONSYS ne doit pas être placé sur des zones cutanées telles que cicatrices , brûlures , tatouages , etc . 
+ Les poils doivent être coupés ( ne pas raser ) au niveau du site , avant l ’ application du dispositif . 
+ IONSYS ne doit pas être appliqué sur une zone précédemment utilisée . 
+ La zone d ’ application doit être nettoyée avec un tampon imbibé d ’ alcool et il faut laisser sécher la peau complètement avant l ’ application du dispositif IONSYS . 
+ Le savon , l ’ huile , les lotions ou tout autre produit risquant d ’ irriter la peau ou d ’ en altérer les caractéristiques d ’ absorption ne doivent pas être utilisés . 
+ Le sachet contenant IONSYS doit être ouvert à partir de l ’ encoche pré-découpée , puis en déchirant soigneusement le haut du sachet . 
+ Le dispositif doit être retiré du sachet et utilisé immédiatement . 
+ L ’ absorbeur d ’ humidité doit être jeté après ouverture du sachet . 
+ Si l ’ absorbeur d ’ humidité n ’ est pas présent , ou si l ’ absorbeur d ’ humidité est endommagé , ne pas utiliser le dispositif et le retourner au fabricant . 
+ La pression doit être maintenue avec les doigts en périphérie pour assurer l ’ adhésion sur la peau pour toute la durée d ’ utilisation de 24 heures . 
+ 3 Délivrance des doses 
+ Un bouton encastré commandant l ’ administration de la dose à la demande et un voyant rouge sont situés sur le boîtier supérieur du dispositif IONSYS . 
+ Pour initier l ’ administration d ’ une dose de fentanyl , le patient doit appuyer deux fois en 3 secondes sur le bouton d ’ administration . 
+ Un bip indique le début de l ’ administration de la dose ; le voyant rouge reste allumé pendant toute la durée d ’ administration , qui est de 10 minutes . 
+ La dose suivante ne peut pas être administrée avant que le cycle d ’ administration précédent de 10 minutes ne soit terminé . 
+ Une pression sur le bouton pendant la délivrance d ’ une dose n ’ entraînera pas l ’ administration d ’ une dose supplémentaire . 
+ Le voyant rouge s ’ éteint après la délivrance de la dose ( 10 minutes ). 
+ Détermination du nombre approximatif de doses délivrées 
+ Entre les administrations , le voyant rouge clignote avec des impulsions d ’ une seconde pour indiquer le nombre approximatif de doses qui ont déjà été administrées . 
+ Chaque impulsion lumineuse d ’ une seconde correspond à l ’ administration d ’ un maximum de 5 doses . 
+ Une seule impulsion lumineuse d ’ une seconde représente donc 1 à 5 doses ; deux impulsions représentent 6 à 10 doses ; trois impulsions représentent 11 à 15 doses ; jusqu ’ à 16 impulsions représentant 76 à 80 doses délivrées . 
+ Le dispositif peut également être interrogé pendant la délivrance d ’ une dose en appuyant une fois sur le bouton . 
+ La diode rouge donnera des impulsions comme défini ci-dessus pour indiquer le nombre approximatif de doses délivrées jusque là . 
+ Cette requête n ’ aura pas d ’ influence sur la délivrance des doses . 
+ IONSYS peut être retiré à tout moment . 
+ Cependant , une fois le dispositif retiré , il ne doit pas être réutilisé . 
+ Au terme des 24 heures d ’ utilisation ou après la délivrance des 80 doses , le dispositif IONSYS doit être retiré en tirant doucement sur la bande rouge et en retirant le dispositif du site d ’ application . 
+ Si le patient a toujours besoin d ’ une analgésie ou s ’ il a besoin d ’ une analgésie supplémentaire , un nouveau dispositif pourra être appliqué sur un nouvel emplacement de la partie supéro-externe du bras ou du torse . 
+ Si l ’ on suspecte un défaut technique sur un dispositif , le personnel ou le patient doit surveiller à la fois la lumière de la diode rouge et les signaux sonores ( bips ) pendant l ’ administration de la dose suivante . 
+

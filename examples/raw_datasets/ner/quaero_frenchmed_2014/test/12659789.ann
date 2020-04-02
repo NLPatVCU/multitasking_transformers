@@ -1,0 +1,10 @@
+T1	PROC 0 4	Pose
+#1	AnnotatorNotes T1	C0441587
+T2	DEVI 11 29	ruban sous-urétral
+#2	AnnotatorNotes T2	C1721084
+T3	PROC 67 77	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 84 105	incontinence urinaire
+#4	AnnotatorNotes T4	C0042024
+T5	LIVB 106 114	féminine
+#5	AnnotatorNotes T5	C0043210

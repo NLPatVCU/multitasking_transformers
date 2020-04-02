@@ -1,0 +1,14 @@
+T1	DISO 0 16	Hygiène dentaire
+#1	AnnotatorNotes T1	C2013472
+T2	ANAT 8 16	dentaire
+#2	AnnotatorNotes T2	C1281562
+T3	PROC 20 39	éducation sanitaire
+#3	AnnotatorNotes T3	C0013627 C0018701
+T5	PROC 20 29	éducation
+#5	AnnotatorNotes T5	C0039401
+T6	LIVB 49 57	écoliers
+#6	AnnotatorNotes T6	C0260267
+T7	GEOG 64 67	ile
+#7	AnnotatorNotes T7	C0022130
+T8	GEOG 71 77	Tahiti
+#8	AnnotatorNotes T8	C0039257

@@ -1,0 +1,18 @@
+T1	PROC 0 14	Etude in vitro
+#1	AnnotatorNotes T1	C0681828
+T2	PROC 0 5	Etude
+#2	AnnotatorNotes T2	C2603343
+T3	CHEM 34 52	chlorure de sodium
+#3	AnnotatorNotes T3	C0037494
+T4	CHEM 34 42	chlorure
+#4	AnnotatorNotes T4	C0008203
+T5	CHEM 46 52	sodium
+#5	AnnotatorNotes T5	C0037473
+T6	CHEM 89 102	antibiotiques
+#6	AnnotatorNotes T6	C0003232
+T7	LIVB 117 140	bacilles à gram négatif
+#7	AnnotatorNotes T7	C0314752
+T8	LIVB 117 125	bacilles
+#8	AnnotatorNotes T8	C0004587
+T9	LIVB 128 140	gram négatif
+#9	AnnotatorNotes T9	C0018150

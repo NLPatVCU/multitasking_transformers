@@ -1,0 +1,8 @@
+T2	PHYS 22 32	maturation
+#2	AnnotatorNotes T2	C0678723
+T1	DISO 0 8	Syndrome
+#1	AnnotatorNotes T1	C0039082
+T3	PHYS 39 46	succion
+T4	PHYS 47 58	déglutition
+#3	AnnotatorNotes T4	C0011167
+#4	AnnotatorNotes T3	C0234174

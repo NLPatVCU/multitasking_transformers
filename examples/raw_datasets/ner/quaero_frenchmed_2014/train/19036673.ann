@@ -1,0 +1,10 @@
+T1	DISO 0 17	Rhabdomyosarcomes
+#1	AnnotatorNotes T1	C0035412
+T2	LIVB 46 52	enfant
+#2	AnnotatorNotes T2	C0008059
+T3	LIVB 62 72	adolescent
+#3	AnnotatorNotes T3	C0205653
+T4	DISO 114 121	cancers
+#4	AnnotatorNotes T4	C0027651
+T5	LIVB 128 134	enfant
+#5	AnnotatorNotes T5	C0008059

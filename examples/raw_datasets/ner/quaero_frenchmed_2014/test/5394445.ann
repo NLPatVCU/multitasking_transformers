@@ -1,0 +1,10 @@
+T1	DISO 0 9	Thrombose
+#1	AnnotatorNotes T1	C0040053
+T2	ANAT 16 32	artère sylvienne
+#2	AnnotatorNotes T2	C0149566
+T3	ANAT 16 22	artère
+#3	AnnotatorNotes T3	C0003842
+T4	DISO 49 58	infection
+#4	AnnotatorNotes T4	C0021311
+T5	DISO 49 91	infection par une souche néo-rickettsienne
+#5	AnnotatorNotes T5	C0035585

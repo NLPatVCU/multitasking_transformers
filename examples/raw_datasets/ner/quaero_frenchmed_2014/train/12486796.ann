@@ -1,0 +1,8 @@
+T1	PROC 0 15	Aérosolthérapie
+#1	AnnotatorNotes T1	C0013156
+T2	CHEM 16 32	anti-pyocyanique
+#2	AnnotatorNotes T2	C1955913
+T3	DISO 41 54	mucoviscidose
+#3	AnnotatorNotes T3	C0010674
+T4	CHEM 70 81	tobramycine
+#4	AnnotatorNotes T4	C0040341

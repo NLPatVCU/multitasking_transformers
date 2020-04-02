@@ -1,0 +1,21 @@
+T1	PROC 0 26	Greffe de moelle autologue
+#1	AnnotatorNotes T1	C0194037
+T2	PROC 0 6	Greffe
+#2	AnnotatorNotes T2	C0040732
+T3	ANAT 10 26	moelle autologue
+#3	AnnotatorNotes T3	C2986504
+T4	ANAT 10 16	moelle
+#4	AnnotatorNotes T4	C0376152
+T5	DISO 81 90	rémission
+#5	AnnotatorNotes T5	C0544452
+T6	DISO 81 90	rémission
+#6	AnnotatorNotes T6	C0687702
+T7	DISO 115 129	leucémie aiguë
+#7	AnnotatorNotes T7	C0085669
+T8	DISO 115 123	leucémie
+#8	AnnotatorNotes T8	C0023418
+T9	ANAT 130 144	myéloblastique
+#9	AnnotatorNotes T9	C0596995
+T10	DISO 33 40	aplasie
+T11	DISO 115 144	leucémie aiguë myéloblastique
+#10	AnnotatorNotes T11	C0023467

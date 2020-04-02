@@ -1,0 +1,18 @@
+T1	PROC 3 17	chimiothérapie
+#1	AnnotatorNotes T1	C0184613
+T2	PROC 24 38	immunothérapie
+#2	AnnotatorNotes T2	C0021083
+T3	DISO 43 64	cancers de l' estomac
+#3	AnnotatorNotes T3	C0024623
+T4	DISO 43 50	cancers
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 57 64	estomac
+#5	AnnotatorNotes T5	C0038351
+T6	DISO 43 50;67 75	cancers du colon
+#6	AnnotatorNotes T6	C0009375
+T7	ANAT 70 75	colon
+#7	AnnotatorNotes T7	C0009368
+T8	DISO 43 50;79 88	cancers du rectum
+#8	AnnotatorNotes T8	C0034885
+T9	ANAT 82 88	rectum
+#9	AnnotatorNotes T9	C0034896

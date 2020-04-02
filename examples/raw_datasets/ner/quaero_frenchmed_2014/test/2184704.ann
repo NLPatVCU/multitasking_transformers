@@ -1,0 +1,12 @@
+T1	CHEM 0 9	Clonidine
+#1	AnnotatorNotes T1	C0009014
+T2	PROC 15 25	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 32 55	hypertension artérielle
+#3	AnnotatorNotes T3	C0020538
+T4	PROC 76 86	anesthésie
+#4	AnnotatorNotes T4	C0002903
+T5	CHEM 142 151	clonidine
+#5	AnnotatorNotes T5	C009014
+T6	ANAT 45 55	artérielle
+#6	AnnotatorNotes T6	C0003842

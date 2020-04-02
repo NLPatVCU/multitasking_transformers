@@ -1,0 +1,18 @@
+T1	CHEM 4 24	émulsions lipidiques
+#1	AnnotatorNotes T1	C0304483
+T2	CHEM 4 13	émulsions
+#2	AnnotatorNotes T2	C0014020
+T3	CHEM 14 24	lipidiques
+#3	AnnotatorNotes T3	C0023779
+T4	CHEM 68 79	vitamine K1
+#4	AnnotatorNotes T4	C0031862
+T5	CHEM 68 76	vitamine
+#5	AnnotatorNotes T5	C0042890
+T6	LIVB 89 96	enfants
+#6	AnnotatorNotes T6	C0008059
+T7	PROC 100 131	nutrition parentérale exclusive
+#7	AnnotatorNotes T7	C0030548
+T8	PROC 100 121	nutrition parentérale
+#8	AnnotatorNotes T8	C0030547
+T9	LIVB 110 121	parentérale
+#9	AnnotatorNotes T9	C0030551

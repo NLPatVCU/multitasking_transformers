@@ -1,0 +1,8 @@
+T1	PROC 7 16	pronostic
+#1	AnnotatorNotes T1	C0033325
+T2	DISO 21 38	tumeurs du thymus
+#2	AnnotatorNotes T2	C0040116
+T3	DISO 21 28	tumeurs
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 32 38	thymus
+#4	AnnotatorNotes T4	C0040113

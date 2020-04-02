@@ -1,0 +1,6 @@
+T1	PROC 86 95	thérapies
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 113 120	cancers
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 124 134	col utérin
+#3	AnnotatorNotes T3	C0007874

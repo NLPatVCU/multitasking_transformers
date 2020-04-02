@@ -1,0 +1,8 @@
+T1	PROC 40 49	pronostic
+#1	AnnotatorNotes T1	C0033325
+T2	DISO 56 74	maladie de Hodgkin
+#2	AnnotatorNotes T2	C0019829
+T3	DISO 56 63	maladie
+#3	AnnotatorNotes T3	C0012634
+T4	PROC 19 36	lymphadénographie
+#4	AnnotatorNotes T4	C0024290

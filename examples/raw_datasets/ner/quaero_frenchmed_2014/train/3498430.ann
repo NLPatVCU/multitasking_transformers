@@ -1,0 +1,12 @@
+T1	PROC 0 22	Diagnostic moléculaire
+#1	AnnotatorNotes T1	C1513388
+T2	DISO 0 10	Diagnostic
+#2	AnnotatorNotes T2	C0011900
+T3	OBJC 11 22	moléculaire
+#3	AnnotatorNotes T3	C0567416
+T4	DISO 27 37	myopathies
+#4	AnnotatorNotes T4	C0026850
+T5	DISO 41 49	Duchenne
+#5	AnnotatorNotes T5	C0013264
+T6	DISO 56 62	Becker
+#6	AnnotatorNotes T6	C0917713

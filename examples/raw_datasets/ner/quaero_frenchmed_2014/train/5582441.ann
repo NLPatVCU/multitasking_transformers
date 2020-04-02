@@ -1,0 +1,10 @@
+T1	PHYS 19 46	réductase déhydroascorbique
+#1	AnnotatorNotes T1	C2248924
+T2	CHEM 19 28	réductase
+#2	AnnotatorNotes T2	C0030016
+T3	OBJC 50 60	chou-fleur
+#3	AnnotatorNotes T3	C0446302
+T4	LIVB 63 80	Brassica oleracea
+#4	AnnotatorNotes T4	C0330498
+T5	LIVB 63 71	Brassica
+#5	AnnotatorNotes T5	C0006135

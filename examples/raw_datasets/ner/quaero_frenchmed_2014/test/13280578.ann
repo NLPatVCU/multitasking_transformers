@@ -1,0 +1,6 @@
+T1	CHEM 23 33	médicament
+#1	AnnotatorNotes T1	C0013227
+T2	DISO 44 48	toux
+#2	AnnotatorNotes T2	C0010200
+T3	CHEM 55 62	gouttes
+#3	AnnotatorNotes T3	C0991568

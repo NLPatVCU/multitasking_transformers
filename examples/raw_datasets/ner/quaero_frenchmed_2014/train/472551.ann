@@ -1,0 +1,6 @@
+T1	PROC 0 23	Méthode d' enseignement
+#1	AnnotatorNotes T1	C0039403
+T2	PROC 10 23	 enseignement
+#2	AnnotatorNotes T2	C0039401
+T5	ANAT 35 48	oesophagienne
+#5	AnnotatorNotes T5	C0014876

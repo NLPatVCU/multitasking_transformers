@@ -1,0 +1,6 @@
+T1	DISO 0 34	Pathologie vasculaire malformative
+#1	AnnotatorNotes T1	C0158570
+T2	DISO 41 56	moelle épinière
+#2	AnnotatorNotes T2	C0496938
+T3	ANAT 41 56	moelle épinière
+#3	AnnotatorNotes T3	C0037925

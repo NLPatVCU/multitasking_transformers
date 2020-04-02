@@ -1,0 +1,14 @@
+T1	PROC 0 14	Essai clinique
+#1	AnnotatorNotes T1	C0008976
+T2	PROC 21 47	médicament radioprotecteur
+#2	AnnotatorNotes T2	C1318473
+T3	CHEM 21 31	médicament
+#3	AnnotatorNotes T3	C0013227
+T4	PROC 32 47	radioprotecteur
+#4	AnnotatorNotes T4	C0279038
+T5	CHEM 53 73	géranyl-hydroquinone
+#5	AnnotatorNotes T5	C0061232
+T6	PROC 86 97	traitements
+#6	AnnotatorNotes T6	C0087111
+T7	PROC 86 114	traitements radiothérapiques
+#7	AnnotatorNotes T7	C1522449

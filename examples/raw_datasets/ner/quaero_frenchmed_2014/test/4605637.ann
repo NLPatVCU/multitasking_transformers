@@ -1,0 +1,6 @@
+T1	PROC 12 38	Transplantation d' organes
+#1	AnnotatorNotes T1	C0029216
+T2	PROC 12 27	Transplantation
+#2	AnnotatorNotes T2	C0040732
+T3	ANAT 30 38	 organes
+#3	AnnotatorNotes T3	C0178784

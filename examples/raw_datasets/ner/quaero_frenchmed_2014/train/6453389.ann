@@ -1,0 +1,10 @@
+T1	PROC 3 41	réfection du ligament croisé antérieur
+#1	AnnotatorNotes T1	C0188185
+T2	PROC 3 12	réfection
+#2	AnnotatorNotes T2	C0524865
+T3	ANAT 16 41	ligament croisé antérieur
+#3	AnnotatorNotes T3	C0078960
+T4	ANAT 16 31	ligament croisé
+#4	AnnotatorNotes T4	C0835268
+T5	ANAT 16 24	ligament
+#5	AnnotatorNotes T5	C0023685

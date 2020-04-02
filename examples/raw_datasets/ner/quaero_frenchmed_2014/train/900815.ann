@@ -1,0 +1,8 @@
+T1	DISO 4 32	traumatismes de l' oesophage
+#1	AnnotatorNotes T1	C2833052
+T2	DISO 4 16	traumatismes
+#2	AnnotatorNotes T2	C0043250
+T3	ANAT 23 32	oesophage
+#3	AnnotatorNotes T3	C0014876
+T4	PROC 35 49	Etude clinique
+#4	AnnotatorNotes T4	C0008976

@@ -1,0 +1,16 @@
+T1	PHEN 12 21	ingestion
+#1	AnnotatorNotes T1	C0232478
+T2	CHEM 25 50	p-diméthylaminoazobenzène
+#2	AnnotatorNotes T2	C0012411
+T3	CHEM 53 56	DAB
+#3	AnnotatorNotes T3	C0012411
+T4	CHEM 115 118	DAB
+#4	AnnotatorNotes T4	C0012411
+T5	ANAT 142 160	microsomes de foie
+#5	AnnotatorNotes T5	C0026030
+T6	ANAT 142 152	microsomes
+#6	AnnotatorNotes T6	C0026029
+T7	ANAT 156 160	foie
+#7	AnnotatorNotes T7	C0023884
+T8	LIVB 164 167	rat
+#8	AnnotatorNotes T8	C0034721

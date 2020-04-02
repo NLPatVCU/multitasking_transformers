@@ -1,0 +1,6 @@
+T1	CHEM 55 68	dexaméthasone
+#1	AnnotatorNotes T1	C0011777
+T2	DISO 0 12	Intolérances
+#2	AnnotatorNotes T2	C0020517
+T3	DISO 28 37	accidents
+#3	AnnotatorNotes T3	C0000924

@@ -1,0 +1,18 @@
+T1	PROC 0 10	Recherches
+#1	AnnotatorNotes T1	C0035168
+T2	PROC 18 32	chimiothérapie
+#2	AnnotatorNotes T2	C0013216
+T3	PROC 33 47	anticancéreuse
+#3	AnnotatorNotes T3	C0920425
+T4	CHEM 62 74	antibiotique
+#4	AnnotatorNotes T4	C0003232
+T5	CHEM 75 88	antimitotique
+#5	AnnotatorNotes T5	C0003379
+T6	DISO 126 133	cancers
+#6	AnnotatorNotes T6	C0027651
+T7	LIVB 145 154	rat blanc
+#7	AnnotatorNotes T7	C0684072
+T8	LIVB 145 148	rat
+#8	AnnotatorNotes T8	C0034721
+T9	DISO 171 182	épithélioma
+#9	AnnotatorNotes T9	C1368683

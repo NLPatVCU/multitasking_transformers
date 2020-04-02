@@ -1,0 +1,18 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 23 35	benziodarone
+#2	AnnotatorNotes T2	C0053185
+T3	DISO 46 54	goutteux
+#3	AnnotatorNotes T3	C0018099
+T4	PHYS 66 73	diurèse
+#4	AnnotatorNotes T4	C0012797
+T5	CHEM 90 102	acide urique
+#5	AnnotatorNotes T5	C0041980
+T6	CHEM 90 95	acide
+#6	AnnotatorNotes T6	C0001128
+T7	ANAT 96 102	urique
+#7	AnnotatorNotes T7	C0042036
+T8	CHEM 109 123	acide oxalique
+#8	AnnotatorNotes T8	C0069715
+T9	CHEM 109 114	acide
+#9	AnnotatorNotes T9	C0001128

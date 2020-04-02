@@ -1,0 +1,12 @@
+T1	PROC 0 24	Ventilation artificielle
+#1	AnnotatorNotes T1	C0035205
+T2	PHEN 0 11	Ventilation
+#2	AnnotatorNotes T2	C0042491
+T3	LIVB 40 48	patients
+#3	AnnotatorNotes T3	C0030705
+T4	DISO 64 85	atteinte respiratoire
+#4	AnnotatorNotes T4	C0035204
+T5	PHYS 73 85	respiratoire
+#5	AnnotatorNotes T5	C0035203
+T6	ANAT 97 109	neurologique
+#6	AnnotatorNotes T6	C0027763

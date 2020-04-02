@@ -1,0 +1,12 @@
+T1	PROC 0 25	Transplantation cardiaque
+#1	AnnotatorNotes T1	C0018823
+T2	PROC 0 15	Transplantation
+#2	AnnotatorNotes T2	C0029216
+T3	ANAT 16 25	cardiaque
+#3	AnnotatorNotes T3	C0018787
+T4	DISO 31 50	fibrose myocardique
+#4	AnnotatorNotes T4	C0151654
+T5	DISO 31 38	fibrose
+#5	AnnotatorNotes T5	C0016059
+T6	ANAT 39 50	myocardique
+#6	AnnotatorNotes T6	C0027061

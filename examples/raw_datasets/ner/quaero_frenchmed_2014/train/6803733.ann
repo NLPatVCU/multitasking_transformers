@@ -1,0 +1,8 @@
+T1	DISO 0 24	Insuffisance gonadotrope
+#1	AnnotatorNotes T1	C1846277
+T2	CHEM 13 24	gonadotrope
+#2	AnnotatorNotes T2	C0018061
+T3	DISO 39 71	hypoplasie surrénale congénitale
+#3	AnnotatorNotes T3	C0220766
+T4	ANAT 80 93	cytomégalique
+#4	AnnotatorNotes T4	C0391864

@@ -1,0 +1,8 @@
+T1	DISO 24 53	tumeurs malignes du médiastin
+#1	AnnotatorNotes T1	C0153504
+T2	DISO 24 40	tumeurs malignes
+#2	AnnotatorNotes T2	C0006826
+T3	ANAT 44 53	médiastin
+#3	AnnotatorNotes T3	C0025066
+T4	LIVB 62 72	nourrisson
+#4	AnnotatorNotes T4	C0021289

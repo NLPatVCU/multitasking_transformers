@@ -1,0 +1,10 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	CHEM 10 14	rRNA
+#2	AnnotatorNotes T2	C0035701
+T3	LIVB 18 42	Saccharomyces cerevisiae
+#3	AnnotatorNotes T3	C0036025
+T4	LIVB 18 31	Saccharomyces
+#4	AnnotatorNotes T4	C0036024
+T5	OBJC 52 60	mélanges
+#5	AnnotatorNotes T5	C0439962

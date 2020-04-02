@@ -1,0 +1,12 @@
+T1	DISO 0 9	Leucémies
+#1	AnnotatorNotes T1	C0023418
+T2	DISO 20 35	tumeurs solides
+#2	AnnotatorNotes T2	C0280100
+T3	DISO 20 27	tumeurs
+#3	AnnotatorNotes T3	C0006826
+T4	DISO 60 78	maladie de Hodgkin
+#4	AnnotatorNotes T4	C0019829
+T5	DISO 60 67	maladie
+#5	AnnotatorNotes T5	C0012634
+T6	DISO 10 16	aiguës
+#6	AnnotatorNotes T6	C0001314

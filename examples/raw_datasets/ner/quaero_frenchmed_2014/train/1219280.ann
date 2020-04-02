@@ -1,0 +1,12 @@
+T1	DISO 0 46	Anévrysme extra-crânien de la carotide interne
+#1	AnnotatorNotes T1	C0264966
+T2	DISO 0 9	Anévrysme
+#2	AnnotatorNotes T2	C0002940
+T3	ANAT 30 46	carotide interne
+#3	AnnotatorNotes T3	C0741978
+T4	ANAT 30 38	carotide
+#4	AnnotatorNotes T4	C0741968
+T5	ANAT 82 95	base du crâne
+#5	AnnotatorNotes T5	C0149543
+T6	ANAT 90 95	crâne
+#6	AnnotatorNotes T6	C0037303

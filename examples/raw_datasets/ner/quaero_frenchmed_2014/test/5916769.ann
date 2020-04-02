@@ -1,0 +1,10 @@
+T1	PHYS 0 10	Expérience
+#1	AnnotatorNotes T1	C0596545
+T2	PROC 26 51	traitement prophylactique
+#2	AnnotatorNotes T2	C0199176
+T3	PROC 26 36	traitement
+#3	AnnotatorNotes T3	C0087111
+T4	DISO 55 79	décollement de la rétine
+#4	AnnotatorNotes T4	C0035305
+T5	ANAT 73 79	rétine
+#5	AnnotatorNotes T5	C0035298

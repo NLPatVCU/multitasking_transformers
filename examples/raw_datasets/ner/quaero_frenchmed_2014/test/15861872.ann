@@ -1,0 +1,10 @@
+T1	DISO 3 23	maladie de Newcastle
+#1	AnnotatorNotes T1	C0027983
+T2	DISO 3 10	maladie
+#2	AnnotatorNotes T2	C0012634
+T3	GEOG 34 39	Tchad
+#3	AnnotatorNotes T3	C0007928
+T4	PHEN 58 68	épidémique
+#4	AnnotatorNotes T4	C0012652
+T5	PROC 85 96	vaccination
+#5	AnnotatorNotes T5	C0042196

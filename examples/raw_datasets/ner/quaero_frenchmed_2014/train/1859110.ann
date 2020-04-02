@@ -1,0 +1,8 @@
+T1	DISO 0 20	Ischémie intestinale
+#1	AnnotatorNotes T1	C2004435
+T2	DISO 0 8	Ischémie
+#2	AnnotatorNotes T2	C0022116
+T3	ANAT 9 20	intestinale
+#3	AnnotatorNotes T3	C0021853
+T4	ANAT 43 60	aorte sous-rénale
+#4	AnnotatorNotes T4	C0226025

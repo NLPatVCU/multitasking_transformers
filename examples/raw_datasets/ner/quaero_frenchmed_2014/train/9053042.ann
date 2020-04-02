@@ -1,0 +1,10 @@
+T1	DISO 15 34	dengue hémorragique
+#1	AnnotatorNotes T1	C0019100
+T2	DISO 40 48	syndrome
+#2	AnnotatorNotes T2	C0039082
+T3	DISO 52 56	choc
+#3	AnnotatorNotes T3	C0036974
+T4	GEOG 68 78	Martinique
+#4	AnnotatorNotes T4	C0024853
+T5	DISO 40 56	syndrome de choc
+#5	AnnotatorNotes T5	C0036974

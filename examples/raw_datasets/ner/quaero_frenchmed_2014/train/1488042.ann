@@ -1,0 +1,22 @@
+T1	DISO 0 19	Paralysies faciales
+#1	AnnotatorNotes T1	C0015469
+T2	DISO 0 10	Paralysies
+#2	AnnotatorNotes T2	C0522224
+T3	ANAT 11 19	faciales
+#3	AnnotatorNotes T3	C0015450
+T4	PROC 57 68	pronostique
+#4	AnnotatorNotes T4	C0033325
+T5	PROC 75 80	étude
+#5	AnnotatorNotes T5	C2603343
+T6	PHYS 94 115	réflexe de clignement
+#6	AnnotatorNotes T6	C0596003
+T7	PHYS 94 101	réflexe
+#7	AnnotatorNotes T7	C0034929
+T8	PHYS 105 115	clignement
+#8	AnnotatorNotes T8	C0005757
+T9	ANAT 145 156	nerf facial
+#9	AnnotatorNotes T9	C0015462
+T10	ANAT 145 149	nerf
+#10	AnnotatorNotes T10	C0027740
+T11	ANAT 150 156	facial
+#11	AnnotatorNotes T11	C0015450

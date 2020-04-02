@@ -1,0 +1,282 @@
+T1	CHEM 31 43	fondaparinux
+#1	AnnotatorNotes T1	C1098510
+T2	LIVB 77 83	enfant
+#2	AnnotatorNotes T2	C0205653
+T3	PHYS 149 158	tolérance
+#3	AnnotatorNotes T3	C0231197
+T4	PHYS 191 200	Grossesse
+#4	AnnotatorNotes T4	C0032961
+T5	PHYS 204 215	allaitement
+#5	AnnotatorNotes T5	C0006147
+T6	PROC 353 359	NOTICE
+#6	AnnotatorNotes T6	C0013191
+T7	CHEM 362 370	Quixidar
+#7	AnnotatorNotes T7	C1098510
+T8	CHEM 391 410	solution injectable
+#8	AnnotatorNotes T8	C0086466
+T9	PROC 400 410	injectable
+#9	AnnotatorNotes T9	C0021485
+T10	CHEM 411 423	fondaparinux
+#10	AnnotatorNotes T10	C1098510
+T11	CHEM 424 431	sodique
+#11	AnnotatorNotes T11	C0025870
+T12	DEVI 443 463	seringue pré-remplie
+#12	AnnotatorNotes T12	C1609474
+T13	DEVI 443 451	seringue
+#13	AnnotatorNotes T13	C0039142
+T14	CHEM 498 510	fondaparinux
+#14	AnnotatorNotes T14	C1098510
+T15	CHEM 511 518	sodique
+#15	AnnotatorNotes T15	C0025870
+T16	CHEM 549 567	chlorure de sodium
+#16	AnnotatorNotes T16	C0037494
+T17	CHEM 549 557	chlorure
+#17	AnnotatorNotes T17	C0008203
+T18	CHEM 561 567	sodium
+#18	AnnotatorNotes T18	C0037473
+T19	CHEM 570 573	eau
+#19	AnnotatorNotes T19	C0043047
+T20	CHEM 579 603	préparations injectables
+#20	AnnotatorNotes T20	C0086466
+T21	PROC 592 603	injectables
+#21	AnnotatorNotes T21	C0021485
+T22	CHEM 606 625	acide chlorhydrique
+#22	AnnotatorNotes T22	C0020259
+T23	CHEM 606 611	acide
+#23	AnnotatorNotes T23	C0001128
+T24	CHEM 628 637	hydroxyde
+#24	AnnotatorNotes T24	C0020315
+T25	CHEM 641 647	sodium
+#25	AnnotatorNotes T25	C0037473
+T26	LIVB 723 730	enfants
+#26	AnnotatorNotes T26	C0008059
+T27	GEOG 814 825	Royaume-Uni
+#27	AnnotatorNotes T27	C0041700
+T28	CHEM 909 917	Quixidar
+#28	AnnotatorNotes T28	C1098510
+T29	CHEM 938 948	injectable
+#29	AnnotatorNotes T29	C0086466
+T30	CHEM 949 961	fondaparinux
+#30	AnnotatorNotes T30	C1098510
+T31	CHEM 967 975	Quixidar
+#31	AnnotatorNotes T31	C1098510
+T32	CHEM 996 1015	solution injectable
+#32	AnnotatorNotes T32	C0086466
+T33	PROC 1005 1015	injectable
+#33	AnnotatorNotes T33	C0021485
+T34	CHEM 1016 1028	fondaparinux
+#34	AnnotatorNotes T34	C1098510
+T35	CHEM 1029 1036	sodique
+#35	AnnotatorNotes T35	C0025870
+T36	DEVI 1048 1068	seringue pré-remplie
+#36	AnnotatorNotes T36	C1609474
+T37	DEVI 1048 1056	seringue
+#37	AnnotatorNotes T37	C0039142
+T38	CHEM 1103 1115	fondaparinux
+#38	AnnotatorNotes T38	C1098510
+T39	CHEM 1116 1123	sodique
+#39	AnnotatorNotes T39	C0025870
+T40	PROC 1152 1158	notice
+#40	AnnotatorNotes T40	C0013191
+T41	LIVB 1220 1227	enfants
+#41	AnnotatorNotes T41	C0008059
+T42	CHEM 1317 1325	Quixidar
+#42	AnnotatorNotes T42	C1098510
+T43	CHEM 1346 1356	injectable
+#43	AnnotatorNotes T43	C0086466
+T44	CHEM 1357 1369	fondaparinux
+#44	AnnotatorNotes T44	C1098510
+T45	CHEM 1375 1383	Quixidar
+#45	AnnotatorNotes T45	C1098510
+T46	CHEM 1400 1419	solution injectable
+#46	AnnotatorNotes T46	C0086466
+T47	PROC 1409 1419	injectable
+#47	AnnotatorNotes T47	C0021485
+T48	CHEM 1420 1432	fondaparinux
+#48	AnnotatorNotes T48	C1098510
+T49	CHEM 1433 1440	sodique
+#49	AnnotatorNotes T49	C0025870
+T50	DEVI 1453 1473	seringue pré-remplie
+#50	AnnotatorNotes T50	C1609474
+T51	DEVI 1453 1461	seringue
+#51	AnnotatorNotes T51	C0039142
+T52	CHEM 1504 1516	fondaparinux
+#52	AnnotatorNotes T52	C1098510
+T53	CHEM 1517 1524	sodique
+#53	AnnotatorNotes T53	C0025870
+T54	CHEM 1531 1539	Quixidar
+#54	AnnotatorNotes T54	C1098510
+T55	CHEM 1556 1566	injectable
+#55	AnnotatorNotes T55	C0086466
+T56	CHEM 1567 1579	fondaparinux
+#56	AnnotatorNotes T56	C1098510
+T57	CHEM 1585 1593	Quixidar
+#57	AnnotatorNotes T57	C1098510
+T58	CHEM 1614 1633	solution injectable
+#58	AnnotatorNotes T58	C0086466
+T59	PROC 1623 1633	injectable
+#59	AnnotatorNotes T59	C0021485
+T60	CHEM 1634 1646	fondaparinux
+#60	AnnotatorNotes T60	C1098510
+T61	CHEM 1647 1654	sodique
+#61	AnnotatorNotes T61	C0025870
+T62	DEVI 1667 1687	seringue pré-remplie
+#62	AnnotatorNotes T62	C1609474
+T63	DEVI 1667 1675	seringue
+#63	AnnotatorNotes T63	C0039142
+T64	CHEM 1722 1734	fondaparinux
+#64	AnnotatorNotes T64	C1098510
+T65	CHEM 1735 1742	sodique
+#65	AnnotatorNotes T65	C0025870
+T66	CHEM 1749 1757	Quixidar
+#66	AnnotatorNotes T66	C1098510
+T67	CHEM 1778 1788	injectable
+#67	AnnotatorNotes T67	C0086466
+T68	CHEM 1789 1801	fondaparinux
+#68	AnnotatorNotes T68	C1098510
+T69	CHEM 1807 1815	Quixidar
+#69	AnnotatorNotes T69	C1098510
+T70	CHEM 1833 1852	solution injectable
+#70	AnnotatorNotes T70	C0086466
+T71	PROC 1842 1852	injectable
+#71	AnnotatorNotes T71	C0021485
+T72	CHEM 1853 1865	fondaparinux
+#72	AnnotatorNotes T72	C1098510
+T73	CHEM 1866 1873	sodique
+#73	AnnotatorNotes T73	C0025870
+T74	DEVI 1886 1906	seringue pré-remplie
+#74	AnnotatorNotes T74	C1609474
+T75	DEVI 1886 1894	seringue
+#75	AnnotatorNotes T75	C0039142
+T76	CHEM 1938 1950	fondaparinux
+#76	AnnotatorNotes T76	C1098510
+T77	CHEM 1951 1958	sodique
+#77	AnnotatorNotes T77	C0025870
+T78	CHEM 1965 1973	Quixidar
+#78	AnnotatorNotes T78	C1098510
+T79	CHEM 1991 2001	injectable
+#79	AnnotatorNotes T79	C0086466
+T80	CHEM 2002 2014	fondaparinux
+#80	AnnotatorNotes T80	C1098510
+T81	CHEM 2020 2028	Quixidar
+#81	AnnotatorNotes T81	C1098510
+T82	CHEM 2049 2068	solution injectable
+#82	AnnotatorNotes T82	C0086466
+T83	PROC 2058 2068	injectable
+#83	AnnotatorNotes T83	C0021485
+T84	CHEM 2069 2081	fondaparinux
+#84	AnnotatorNotes T84	C1098510
+T85	CHEM 2082 2089	sodique
+#85	AnnotatorNotes T85	C0025870
+T86	CHEM 2108 2133	facteur de coagulation Xa
+#86	AnnotatorNotes T86	C0015520
+T87	CHEM 2108 2130	facteur de coagulation
+#87	AnnotatorNotes T87	C0005789
+T88	PHYS 2119 2130	coagulation
+#88	AnnotatorNotes T88	C1328723
+T89	ANAT 2163 2167	sang
+#89	AnnotatorNotes T89	C0005767
+T90	DISO 2204 2212	caillots
+#90	AnnotatorNotes T90	C0302148
+T91	LIVB 2238 2245	médecin
+#91	AnnotatorNotes T91	C0031831
+T92	PROC 2300 2310	traitement
+#92	AnnotatorNotes T92	C0087111
+T93	DISO 2343 2363	risque de saignement
+#93	AnnotatorNotes T93	C3251812
+T94	DISO 2353 2363	saignement
+#94	AnnotatorNotes T94	C0019080
+T95	DISO 2377 2387	hémorragie
+#95	AnnotatorNotes T95	C0019080
+T96	LIVB 2404 2411	Enfants
+#96	AnnotatorNotes T96	C0008059
+T97	CHEM 2412 2420	Quixidar
+#97	AnnotatorNotes T97	C1098510
+T98	PROC 2435 2441	étudié
+#98	AnnotatorNotes T98	C2603343
+T99	LIVB 2451 2458	enfants
+#99	AnnotatorNotes T99	C0008059
+T100	LIVB 2471 2482	adolescents
+#100	AnnotatorNotes T100	C0205653
+T101	CHEM 2523 2531	QUIXIDAR
+#101	AnnotatorNotes T101	C1098510
+T102	CHEM 2555 2563	Quixidar
+#102	AnnotatorNotes T102	C1098510
+T103	LIVB 2587 2594	médecin
+#103	AnnotatorNotes T103	C0031831
+T104	CHEM 2664 2673	injection
+#104	AnnotatorNotes T104	C0086466
+T105	CHEM 2758 2766	Quixidar
+#105	AnnotatorNotes T105	C1098510
+T106	PROC 2803 2813	traitement
+#106	AnnotatorNotes T106	C0087111
+T107	LIVB 2859 2866	médecin
+#107	AnnotatorNotes T107	C0031831
+T108	DISO 2872 2887	caillot de sang
+#108	AnnotatorNotes T108	C0302148
+T109	ANAT 2883 2887	sang
+#109	AnnotatorNotes T109	C0005767
+T110	ANAT 2912 2918	veines
+#110	AnnotatorNotes T110	C0042449
+T111	ANAT 2926 2932	jambes
+#111	AnnotatorNotes T111	C1140621
+T112	ANAT 2936 2943	poumons
+#112	AnnotatorNotes T112	C0024109
+T113	CHEM 3013 3024	m édicament
+#113	AnnotatorNotes T113	C0013227
+T114	LIVB 3044 3051	médecin
+#114	AnnotatorNotes T114	C0031831
+T115	LIVB 3061 3071	pharmacien
+#115	AnnotatorNotes T115	C0031323
+T116	CHEM 3094 3102	QUIXIDAR
+#116	AnnotatorNotes T116	C1098510
+T117	CHEM 3244 3254	médicament
+#117	AnnotatorNotes T117	C0013227
+T118	GEOG 3307 3317	Européenne
+#118	AnnotatorNotes T118	C0015176
+T119	CHEM 3321 3331	Médicament
+#119	AnnotatorNotes T119	C0013227
+T120	CHEM 3432 3442	médicament
+#120	AnnotatorNotes T120	C0013227
+T121	DEVI 3698 3706	Seringue
+#121	AnnotatorNotes T121	C0039142
+T122	CHEM 3713 3722	INJECTION
+#122	AnnotatorNotes T122	C0086466
+T123	DEVI 3725 3733	Seringue
+#123	AnnotatorNotes T123	C0039142
+T124	CHEM 3740 3749	INJECTION
+#124	AnnotatorNotes T124	C0086466
+T125	DEVI 3835 3843	seringue
+#125	AnnotatorNotes T125	C0039142
+T126	ANAT 3852 3856	main
+#126	AnnotatorNotes T126	C0018563
+T127	DEVI 4047 4055	seringue
+#127	AnnotatorNotes T127	C0039142
+T128	CHEM 4087 4095	Quixidar
+#128	AnnotatorNotes T128	C1098510
+T129	CHEM 4116 4135	solution injectable
+#129	AnnotatorNotes T129	C0086466
+T130	PROC 4125 4135	injectable
+#130	AnnotatorNotes T130	C0021485
+T131	CHEM 4136 4148	fondaparinux
+#131	AnnotatorNotes T131	C1098510
+T132	CHEM 4149 4156	sodique
+#132	AnnotatorNotes T132	C0025870
+T133	CHEM 4165 4173	Quixidar
+#133	AnnotatorNotes T133	C1098510
+T134	PROC 4188 4194	étudié
+#134	AnnotatorNotes T134	C2603343
+T135	LIVB 4204 4211	enfants
+#135	AnnotatorNotes T135	C0008059
+T136	LIVB 4224 4235	adolescents
+#136	AnnotatorNotes T136	C0205653
+T137	LIVB 4293 4300	médecin
+#137	AnnotatorNotes T137	C0031831
+T138	LIVB 4312 4322	pharmacien
+#138	AnnotatorNotes T138	C0031323
+T139	CHEM 4330 4340	médicament
+#139	AnnotatorNotes T139	C0013227
+T140	CHEM 4371 4377	sodium
+#140	AnnotatorNotes T140	C0037473
+T141	CHEM 4398 4404	sodium
+#141	AnnotatorNotes T141	C0037473

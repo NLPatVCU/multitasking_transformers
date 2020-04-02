@@ -1,0 +1,10 @@
+T1	PHYS 0 12	Odontogenèse
+#1	AnnotatorNotes T1	C0028877
+T2	ANAT 21 27	foetus
+#2	AnnotatorNotes T2	C0015965
+T3	LIVB 28 34	humain
+#3	AnnotatorNotes T3	C0086418
+T4	PROC 41 52	observation
+#4	AnnotatorNotes T4	C1964257
+T5	PROC 53 66	échographique
+#5	AnnotatorNotes T5	C0041618

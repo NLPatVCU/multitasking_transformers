@@ -1,0 +1,10 @@
+T1	DISO 3 38	détresse respiratoire du nouveau-né
+#1	AnnotatorNotes T1	C0020192
+T2	DISO 3 24	détresse respiratoire
+#2	AnnotatorNotes T2	C0476273
+T3	PHYS 3 11	détresse
+#3	AnnotatorNotes T3	C0231303
+T4	PHYS 12 24	respiratoire
+#4	AnnotatorNotes T4	C0035203
+T5	LIVB 28 38	nouveau-né
+#5	AnnotatorNotes T5	C0021289

@@ -1,0 +1,10 @@
+T1	PROC 3 12	résection
+#1	AnnotatorNotes T1	C0015252
+T2	PROC 21 31	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 36 50	tumeurs des os
+#3	AnnotatorNotes T3	C0005967
+T4	DISO 36 43	tumeurs
+#4	AnnotatorNotes T4	C0027651
+T5	ANAT 48 50	os
+#5	AnnotatorNotes T5	C0262950

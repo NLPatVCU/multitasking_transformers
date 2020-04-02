@@ -1,0 +1,10 @@
+T1	LIVB 38 45	patient
+#1	AnnotatorNotes T1	C0030705
+T2	DISO 61 86	fracture ouverte de jambe
+#2	AnnotatorNotes T2	C1533589
+T3	DISO 61 77	fracture ouverte
+#3	AnnotatorNotes T3	C0016662
+T4	ANAT 81 86	jambe
+#4	AnnotatorNotes T4	C1140621
+T5	PHEN 20 27	urgence
+#5	AnnotatorNotes T5	C0013956

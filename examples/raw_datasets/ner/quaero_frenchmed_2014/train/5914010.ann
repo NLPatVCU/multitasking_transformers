@@ -1,0 +1,8 @@
+T1	DISO 3 23	asthme professionnel
+#1	AnnotatorNotes T1	C0264423
+T2	DISO 3 9	asthme
+#2	AnnotatorNotes T2	C0004096
+T3	DISO 28 36	allergie
+#3	AnnotatorNotes T3	C0020517
+T4	CHEM 41 53	pénicillines
+#4	AnnotatorNotes T4	C0030842

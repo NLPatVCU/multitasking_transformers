@@ -1,0 +1,4 @@
+T1	PROC 0 24	Alimentation parentérale
+#1	AnnotatorNotes T1	C0030547
+T2	LIVB 13 24	parentérale
+#2	AnnotatorNotes T2	C0030551

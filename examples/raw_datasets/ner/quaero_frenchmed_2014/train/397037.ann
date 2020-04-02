@@ -1,0 +1,12 @@
+T1	PROC 18 43	étude de l' épidémiologie
+#1	AnnotatorNotes T1	C0699910
+T2	PROC 18 23	étude
+#2	AnnotatorNotes T2	C0008972
+T3	DISO 53 63	pathogénie
+#3	AnnotatorNotes T3	C0699748
+T4	DISO 70 77	maladie
+#4	AnnotatorNotes T4	C0012634
+T5	DISO 82 87	abcès
+#5	AnnotatorNotes T5	C0000833
+T6	LIVB 91 97	mouton
+#6	AnnotatorNotes T6	C0036945

@@ -1,0 +1,8 @@
+T1	PROC 3 25	traitement chirurgical
+#1	AnnotatorNotes T1	C0543467
+T2	PROC 3 13	traitement
+#2	AnnotatorNotes T2	C0087111
+T3	DISO 30 38	sténoses
+#3	AnnotatorNotes T3	C1261287
+T4	ANAT 43 58	voies biliaires
+#4	AnnotatorNotes T4	C0005423

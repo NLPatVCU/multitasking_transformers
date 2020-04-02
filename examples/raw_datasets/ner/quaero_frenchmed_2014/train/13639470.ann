@@ -1,0 +1,12 @@
+T1	CHEM 3 13	vitamine E
+#1	AnnotatorNotes T1	C0042874
+T2	PHYS 25 35	croissance
+#2	AnnotatorNotes T2	C0018270
+T3	LIVB 36 44	larvaire
+#3	AnnotatorNotes T3	C0023047
+T4	PHYS 69 81	métamorphose
+#4	AnnotatorNotes T4	C0025558
+T5	LIVB 85 103	crapaud accoucheur
+#5	AnnotatorNotes T5	C0327016
+T6	LIVB 106 125	Alytes obstetricans
+#6	AnnotatorNotes T6	C0327016

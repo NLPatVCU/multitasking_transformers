@@ -1,0 +1,8 @@
+T1	DISO 80 101	infections par le VIH
+#1	AnnotatorNotes T1	C0019693
+T2	LIVB 98 101	VIH
+#2	AnnotatorNotes T2	C0019682
+T3	PROC 124 129	étude
+#3	AnnotatorNotes T3	C2603343
+T4	GEOG 156 162	Suisse
+#4	AnnotatorNotes T4	C0039021

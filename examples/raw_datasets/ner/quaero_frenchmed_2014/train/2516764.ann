@@ -1,0 +1,6 @@
+T1	PROC 9 17	anti-VIH
+#1	AnnotatorNotes T1	C1510425
+T2	CHEM 30 52	oligodésoxynucléotides
+#2	AnnotatorNotes T2	C0028948
+T3	CHEM 53 70	phosphorothioates
+#3	AnnotatorNotes T3	C0599533

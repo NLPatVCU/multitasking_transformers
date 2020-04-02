@@ -1,0 +1,8 @@
+T1	DISO 0 9	Infarctus
+#1	AnnotatorNotes T1	C0021308
+T2	DISO 28 57	occlusion veineuse rétinienne
+#2	AnnotatorNotes T2	C0035328
+T3	ANAT 38 46	veineuse
+#3	AnnotatorNotes T3	C0042449
+T4	ANAT 47 57	rétinienne
+#4	AnnotatorNotes T4	C0035298

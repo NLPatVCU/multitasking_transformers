@@ -1,0 +1,8 @@
+T1	DEVI 22 44	laser CO2 en chirurgie
+#1	AnnotatorNotes T1	C2037802
+T2	PROC 22 27	laser
+#2	AnnotatorNotes T2	C0023087
+T3	PROC 35 44	chirurgie
+#3	AnnotatorNotes T3	C0543467
+T4	ANAT 45 59	stomatologique
+#4	AnnotatorNotes T4	C0038351

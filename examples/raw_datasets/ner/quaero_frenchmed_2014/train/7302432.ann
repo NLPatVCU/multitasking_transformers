@@ -1,0 +1,8 @@
+T1	PROC 0 9	Chirurgie
+#1	AnnotatorNotes T1	C0543467
+T2	ANAT 10 17	tubaire
+#2	AnnotatorNotes T2	C0015560
+T3	PROC 20 30	evaluation
+#3	AnnotatorNotes T3	C1261322
+T4	PROC 0 17	Chirurgie tubaire
+#4	AnnotatorNotes T4	C0195463

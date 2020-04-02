@@ -1,0 +1,14 @@
+T1	DISO 3 10	maladie
+#1	AnnotatorNotes T1	C0012634
+T2	CHEM 11 22	gélatineuse
+#2	AnnotatorNotes T2	C0017237
+T3	ANAT 26 36	péritioine
+#3	AnnotatorNotes T3	C0031153
+T4	CHEM 69 91	enzymes protéolytiques
+#4	AnnotatorNotes T4	C1947941
+T5	CHEM 69 76	enzymes
+#5	AnnotatorNotes T5	C001442
+T6	PHYS 77 91	protéolytiques
+#6	AnnotatorNotes T6	C0597304
+T7	PROC 107 119	intervention
+#7	AnnotatorNotes T7	C0543467

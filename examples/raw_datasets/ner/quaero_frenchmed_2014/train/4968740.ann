@@ -1,0 +1,24 @@
+T1	PHYS 0 11	Intéraction
+#1	AnnotatorNotes T1	C0597657
+T2	LIVB 32 54	virus du sarcome murin
+#2	AnnotatorNotes T2	C0026630
+T3	LIVB 32 37	virus
+#3	AnnotatorNotes T3	C0042776
+T4	DISO 41 48	sarcome
+#4	AnnotatorNotes T4	C1261473
+T5	LIVB 49 54	murin
+#5	AnnotatorNotes T5	C1084194
+T6	LIVB 57 66	V . M . S
+#6	AnnotatorNotes T6	C0026630
+T7	LIVB 76 103	virus de l' hépatite murine
+#7	AnnotatorNotes T7	C0019185
+T8	LIVB 76 81	virus
+#8	AnnotatorNotes T8	C0042776
+T9	DISO 88 103	hépatite murine
+#9	AnnotatorNotes T9	C0276479
+T10	DISO 88 96	hépatite
+#10	AnnotatorNotes T10	C0019158
+T11	LIVB 97 103	murine
+#11	AnnotatorNotes T11	C1084194
+T12	LIVB 106 115	V . H . M
+#12	AnnotatorNotes T12	C0019185

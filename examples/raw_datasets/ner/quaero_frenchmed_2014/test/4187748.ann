@@ -1,0 +1,24 @@
+T1	DISO 0 13	Thymome malin
+#1	AnnotatorNotes T1	C0205969
+T2	DISO 0 7	Thymome
+#2	AnnotatorNotes T2	C0040100
+T3	DISO 8 13	malin
+#3	AnnotatorNotes T3	C0006826
+T4	DISO 17 26	syndromes
+#4	AnnotatorNotes T4	C0039082
+T5	DISO 38 48	myasthénie
+#5	AnnotatorNotes T5	C0947912
+T6	DISO 51 71	carence en anticorps
+#6	AnnotatorNotes T6	C0003257
+T7	CHEM 62 71	anticorps
+#7	AnnotatorNotes T7	C0003241
+T8	DISO 74 82	syndrome
+#8	AnnotatorNotes T8	C0039082
+T9	DISO 106 114	syndrome
+#9	AnnotatorNotes T9	C0039082
+T10	PROC 148 159	observation
+#10	AnnotatorNotes T10	C0302523
+T11	DISO 74 103	syndrome d' auto-immunisation
+#11	AnnotatorNotes T11	C0004364
+T12	DISO 106 128	syndrome hématologique
+#12	AnnotatorNotes T12	C0018939

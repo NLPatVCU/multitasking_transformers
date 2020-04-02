@@ -1,0 +1,8 @@
+T1	PROC 0 12	Embolisation
+#1	AnnotatorNotes T1	C0013931
+T2	PHYS 13 25	hemostatique
+#2	AnnotatorNotes T2	C0019116
+T3	DISO 29 55	carcinome hepatocellulaire
+#3	AnnotatorNotes T3	C1512411
+T4	DISO 69 82	hemoperitoine
+#4	AnnotatorNotes T4	C0019065

@@ -1,0 +1,14 @@
+T1	DISO 0 8	Atteinte
+#1	AnnotatorNotes T1	C0012634
+T2	ANAT 9 19	médullaire
+#2	AnnotatorNotes T2	C0376152
+T3	DISO 35 55	histiocytose maligne
+#3	AnnotatorNotes T3	C0019623
+T4	DISO 35 47	histiocytose
+#4	AnnotatorNotes T4	C0019618
+T5	DISO 0 19	Atteinte médullaire
+#5	AnnotatorNotes T5	C0005956
+T6	GEOG 96 106	marocaines
+#6	AnnotatorNotes T6	C0026544
+T7	PROC 83 95	observations
+#7	AnnotatorNotes T7	C0302523

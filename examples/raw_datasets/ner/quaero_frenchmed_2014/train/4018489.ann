@@ -1,0 +1,8 @@
+T1	DISO 0 25	Reflux gastro-oesophagien
+#1	AnnotatorNotes T1	C0017168
+T2	DISO 0 6	Reflux
+#2	AnnotatorNotes T2	C0232483
+T3	ANAT 7 25	gastro-oesophagien
+#3	AnnotatorNotes T3	C0744316
+T4	PHYS 44 57	respiratoires
+#4	AnnotatorNotes T4	C0035203

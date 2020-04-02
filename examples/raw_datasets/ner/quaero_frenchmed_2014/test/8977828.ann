@@ -1,0 +1,12 @@
+T1	DISO 0 21	Infarctus du myocarde
+#1	AnnotatorNotes T1	C0027051
+T2	ANAT 13 21	myocarde
+#2	AnnotatorNotes T2	C0027061
+T3	PROC 28 37	injection
+#3	AnnotatorNotes T3	C1533685
+T4	CHEM 41 54	terlipressine
+#4	AnnotatorNotes T4	C0145185
+T5	DISO 60 80	hémorragie digestive
+#5	AnnotatorNotes T5	C0017181
+T6	ANAT 71 80	digestive
+#6	AnnotatorNotes T6	C1269565

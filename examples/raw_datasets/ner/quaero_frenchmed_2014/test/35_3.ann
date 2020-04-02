@@ -1,0 +1,224 @@
+T1	CHEM 58 66	comprimé
+#1	AnnotatorNotes T1	C0994475
+T2	CHEM 71 78	Atripla
+#2	AnnotatorNotes T2	C1724016
+T3	CHEM 103 106	eau
+#3	AnnotatorNotes T3	C0043047
+T4	CHEM 142 149	Atripla
+#4	AnnotatorNotes T4	C1724016
+T5	OBJC 188 198	nourriture
+#5	AnnotatorNotes T5	C0016452
+T6	CHEM 235 244	éfavirenz
+#6	AnnotatorNotes T6	C0674428
+T7	DISO 300 319	effets indésirables
+#7	AnnotatorNotes T7	C0559546
+T8	CHEM 396 405	éfavirenz
+#8	AnnotatorNotes T8	C0674428
+T9	DISO 420 439	effets indésirables
+#9	AnnotatorNotes T9	C0559546
+T11	ANAT 447 462	système nerveux
+#11	AnnotatorNotes T11	C2977944
+T12	CHEM 497 507	médicament
+#12	AnnotatorNotes T12	C0013227
+T13	CHEM 591 598	Atripla
+#13	AnnotatorNotes T13	C1724016
+T14	DISO 612 622	exposition
+#14	AnnotatorNotes T14	C2905623
+T15	CHEM 626 635	ténofovir
+#15	AnnotatorNotes T15	C0384228
+T16	CHEM 701 709	fumarate
+#16	AnnotatorNotes T16	C0016801
+T17	CHEM 713 733	ténofovir disoproxil
+#17	AnnotatorNotes T17	C0963398
+T18	OBJC 750 760	nourriture
+#18	AnnotatorNotes T18	C0016452
+T19	LIVB 797 805	patients
+#19	AnnotatorNotes T19	C0030705
+T20	DISO 1026 1036	exposition
+#20	AnnotatorNotes T20	C2905623
+T21	PHYS 1037 1054	pharmacocinétique
+#21	AnnotatorNotes T21	C0031327
+T22	CHEM 1074 1081	Atripla
+#22	AnnotatorNotes T22	C1724016
+T23	LIVB 1116 1122	enfant
+#23	AnnotatorNotes T23	C0205653
+T24	LIVB 1263 1278	personnes âgées
+#24	AnnotatorNotes T24	C0001792
+T25	PROC 1305 1321	études cliniques
+#25	AnnotatorNotes T25	C0008972
+T26	CHEM 1346 1353	Atripla
+#26	AnnotatorNotes T26	C1724016
+T27	LIVB 1385 1393	patients
+#27	AnnotatorNotes T27	C0030705
+T28	LIVB 1421 1429	patients
+#28	AnnotatorNotes T28	C0030705
+T29	CHEM 1502 1509	Atripla
+#29	AnnotatorNotes T29	C1724016
+T30	LIVB 1516 1531	personnes âgées
+#30	AnnotatorNotes T30	C0001792
+T31	LIVB 1516 1525	personnes
+#31	AnnotatorNotes T31	C0027361
+T32	DISO 1590 1625	diminution de la fonction hépatique
+#32	AnnotatorNotes T32	C0232744
+T33	PHYS 1607 1625	fonction hépatique
+#33	AnnotatorNotes T33	C0232741
+T34	ANAT 1616 1625	hépatique
+#34	AnnotatorNotes T34	C0023884
+T35	PHYS 1629 1635	rénale
+#35	AnnotatorNotes T35	C0232804
+T36	ANAT 1629 1635	rénale
+#36	AnnotatorNotes T36	C0022646
+T37	LIVB 1645 1653	patients
+#37	AnnotatorNotes T37	C0030705
+T38	CHEM 1696 1705	éfavirenz
+#38	AnnotatorNotes T38	C0674428
+T39	CHEM 1770 1781	rifampicine
+#39	AnnotatorNotes T39	C0035608
+T40	CHEM 1806 1813	Atripla
+#40	AnnotatorNotes T40	C1724016
+T41	PHYS 1844 1861	pharmacocinétique
+#41	AnnotatorNotes T41	C0031327
+T42	CHEM 1866 1873	Atripla
+#42	AnnotatorNotes T42	C1724016
+T43	LIVB 1905 1913	patients
+#43	AnnotatorNotes T43	C0030705
+T44	DISO 1929 1951	insuffisance hépatique
+#44	AnnotatorNotes T44	C1306571
+T45	ANAT 1942 1951	hépatique
+#45	AnnotatorNotes T45	C0023884
+T46	LIVB 1960 1968	patients
+#46	AnnotatorNotes T46	C0030705
+T47	DISO 1984 2001	maladie hépatique
+#47	AnnotatorNotes T47	C0023895
+T48	ANAT 1992 2001	hépatique
+#48	AnnotatorNotes T48	C0023884
+T49	DISO 2021 2040	Child-Pugh-Turcotte
+#49	AnnotatorNotes T49	C2242738
+T50	DISO 2043 2046	CPT
+#50	AnnotatorNotes T50	C2242738
+T51	PROC 2078 2085	traités
+#51	AnnotatorNotes T51	C0087111
+T52	CHEM 2134 2141	Atripla
+#52	AnnotatorNotes T52	C1724016
+T53	DISO 2191 2210	effets indésirables
+#53	AnnotatorNotes T53	C0559546
+T54	CHEM 2239 2248	éfavirenz
+#54	AnnotatorNotes T54	C0674428
+T55	ANAT 2262 2269	système
+#55	AnnotatorNotes T55	C0027763
+T56	DISO 2270 2277	nerveux
+#56	AnnotatorNotes T56	C0860604
+T57	LIVB 2324 2332	patients
+#57	AnnotatorNotes T57	C0030705
+T58	CHEM 2373 2380	Atripla
+#58	AnnotatorNotes T58	C1724016
+T59	LIVB 2401 2409	patients
+#59	AnnotatorNotes T59	C0030705
+T60	LIVB 2429 2432	VIH
+#60	AnnotatorNotes T60	C0019682
+T61	LIVB 2439 2442	VHB
+#61	AnnotatorNotes T61	C0019169
+T62	LIVB 2449 2457	patients
+#62	AnnotatorNotes T62	C0030705
+T63	DISO 2516 2521	signe
+#63	AnnotatorNotes T63	C0311392
+T64	DISO 2526 2538	exacerbation
+#64	AnnotatorNotes T64	C0235874
+T65	DISO 2546 2554	hépatite
+#65	AnnotatorNotes T65	C0019196
+T66	CHEM 2610 2617	Atripla
+#66	AnnotatorNotes T66	C1724016
+T67	CHEM 2704 2711	Atripla
+#67	AnnotatorNotes T67	C1724016
+T68	LIVB 2775 2783	patients
+#68	AnnotatorNotes T68	C0030705
+T69	CHEM 2915 2922	Atripla
+#69	AnnotatorNotes T69	C1724016
+T70	CHEM 3018 3027	éfavirenz
+#70	AnnotatorNotes T70	C0674428
+T71	CHEM 3034 3047	emtricitabine
+#71	AnnotatorNotes T71	C0909839
+T72	CHEM 3054 3062	fumarate
+#72	AnnotatorNotes T72	C0016801
+T73	CHEM 3066 3086	ténofovir disoproxil
+#73	AnnotatorNotes T73	C0963398
+T74	CHEM 3176 3187	médicaments
+#74	AnnotatorNotes T74	C0013227
+T75	DISO 3203 3222	arrêt du traitement
+#75	AnnotatorNotes T75	C1699848
+T76	PROC 3212 3222	traitement
+#76	AnnotatorNotes T76	C0087111
+T77	CHEM 3227 3234	Atripla
+#77	AnnotatorNotes T77	C1724016
+T78	CHEM 3287 3296	éfavirenz
+#78	AnnotatorNotes T78	C0674428
+T79	CHEM 3373 3382	ténofovir
+#79	AnnotatorNotes T79	C0384228
+T80	CHEM 3393 3406	emtricitabine
+#80	AnnotatorNotes T80	C0909839
+T81	LIVB 3611 3614	VIH
+#81	AnnotatorNotes T81	C0019682
+T82	DISO 3660 3679	arrêt du traitement
+#82	AnnotatorNotes T82	C1699848
+T83	PROC 3669 3679	traitement
+#83	AnnotatorNotes T83	C0087111
+T84	CHEM 3716 3723	Atripla
+#84	AnnotatorNotes T84	C1724016
+T85	LIVB 3756 3764	patients
+#85	AnnotatorNotes T85	C0030705
+T86	DISO 3780 3802	insuffisance hépatique
+#86	AnnotatorNotes T86	C0085605
+T87	ANAT 3793 3802	hépatique
+#87	AnnotatorNotes T87	C0023884
+T88	DISO 3812 3815	CPT
+#88	AnnotatorNotes T88	C0040509
+T89	CHEM 3859 3889	préparations à base de plantes
+#89	AnnotatorNotes T89	C0949854
+T90	LIVB 3903 3915	millepertuis
+#90	AnnotatorNotes T90	C1256259
+T91	LIVB 3918 3927	Hypericum
+#91	AnnotatorNotes T91	C1256259
+T92	CHEM 3991 3998	Atripla
+#92	AnnotatorNotes T92	C1724016
+T93	DISO 4022 4064	diminution des concentrations plasmatiques
+#93	AnnotatorNotes T93	C0858015
+T94	ANAT 4052 4064	plasmatiques
+#94	AnnotatorNotes T94	C0032105
+T95	CHEM 4115 4124	éfavirenz
+#95	AnnotatorNotes T95	C0674428
+T96	CHEM 4156 4165	éfavirenz
+#96	AnnotatorNotes T96	C0674428
+T97	ANAT 4211 4223	plasmatiques
+#97	AnnotatorNotes T97	C0032105
+T98	CHEM 4227 4239	voriconazole
+#98	AnnotatorNotes T98	C0393080
+T99	CHEM 4246 4258	voriconazole
+#99	AnnotatorNotes T99	C0393080
+T100	ANAT 4305 4317	plasmatiques
+#100	AnnotatorNotes T100	C0032105
+T101	CHEM 4325 4334	éfavirenz
+#101	AnnotatorNotes T101	C0674428
+T102	CHEM 4364 4378	médicamenteuse
+#102	AnnotatorNotes T102	C0013227
+T103	CHEM 4386 4393	Atripla
+#103	AnnotatorNotes T103	C1724016
+T104	CHEM 4441 4452	médicaments
+#104	AnnotatorNotes T104	C0013227
+T105	CHEM 4525 4534	éfavirenz
+#105	AnnotatorNotes T105	C0674428
+T106	CHEM 4541 4554	emtricitabine
+#106	AnnotatorNotes T106	C0909839
+T107	CHEM 4561 4569	fumarate
+#107	AnnotatorNotes T107	C0016801
+T108	CHEM 4573 4593	ténofovir disoproxil
+#108	AnnotatorNotes T108	C0963398
+T109	CHEM 4632 4645	emtricitabine
+#109	AnnotatorNotes T109	C0909839
+T110	CHEM 4648 4655	Atripla
+#110	AnnotatorNotes T110	C1724016
+T111	CHEM 4719 4727	cytidine
+#111	AnnotatorNotes T111	C0010715
+T112	CHEM 4742 4752	lamivudine
+#112	AnnotatorNotes T112	C0209738
+T10	PROC 3578 3607	prise en charge thérapeutique
+#10	AnnotatorNotes T10	C0087111

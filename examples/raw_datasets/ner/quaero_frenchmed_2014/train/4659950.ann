@@ -1,0 +1,10 @@
+T1	DISO 30 45	adénome du rein
+#1	AnnotatorNotes T1	C0334684
+T2	DISO 30 37	adénome
+#2	AnnotatorNotes T2	C0001430
+T3	ANAT 41 45	rein
+#3	AnnotatorNotes T3	C0022646
+T4	PROC 48 53	Etude
+#4	AnnotatorNotes T4	C2603343
+T5	PROC 54 70	artériographique
+#5	AnnotatorNotes T5	C0003844

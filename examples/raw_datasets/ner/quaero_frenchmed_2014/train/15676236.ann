@@ -1,0 +1,6 @@
+T1	DISO 0 21	Infections puerpéales
+#1	AnnotatorNotes T1	C0034041
+T2	DISO 0 10	Infections
+#2	AnnotatorNotes T2	C0021311
+T3	LIVB 34 56	Streptococcus pyogenes
+#3	AnnotatorNotes T3	C0038411

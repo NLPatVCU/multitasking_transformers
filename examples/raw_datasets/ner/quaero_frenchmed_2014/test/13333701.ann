@@ -1,0 +1,12 @@
+T1	PROC 0 10	Traitement
+#1	AnnotatorNotes T1	C0087111
+T2	DISO 22 39	kyste du pancréas
+#2	AnnotatorNotes T2	C0030283
+T3	DISO 22 27	kyste
+#3	AnnotatorNotes T3	C0010709
+T4	ANAT 31 39	pancréas
+#4	AnnotatorNotes T4	C0030274
+T5	PROC 44 54	anastomose
+#5	AnnotatorNotes T5	C0332853
+T6	ANAT 72 85	anse jéjunale
+#6	AnnotatorNotes T6	C0450184

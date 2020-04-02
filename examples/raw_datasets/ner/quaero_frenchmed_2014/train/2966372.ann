@@ -1,0 +1,10 @@
+T1	DISO 3 11	accident
+#1	AnnotatorNotes T1	C0000924
+T2	PROC 35 48	phlébographie
+#2	AnnotatorNotes T2	C0031545
+T3	DISO 63 78	nécrose cutanée
+#3	AnnotatorNotes T3	C0151799
+T4	PHYS 63 70	nécrose
+#4	AnnotatorNotes T4	C0027540
+T5	ANAT 71 78	cutanée
+#5	AnnotatorNotes T5	C1123023

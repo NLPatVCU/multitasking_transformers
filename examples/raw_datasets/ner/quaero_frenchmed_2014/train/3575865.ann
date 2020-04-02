@@ -1,0 +1,10 @@
+T1	PHEN 25 33	pression
+#1	AnnotatorNotes T1	C0033095
+T2	PHEN 36 41	débit
+#2	AnnotatorNotes T2	C0806140
+T3	PROC 45 51	volume
+#3	AnnotatorNotes T3	C2700258
+T4	PROC 55 93	exploration fonctionnelle respiratoire
+#4	AnnotatorNotes T4	C0035227
+T5	PHYS 81 93	respiratoire
+#5	AnnotatorNotes T5	C0035203

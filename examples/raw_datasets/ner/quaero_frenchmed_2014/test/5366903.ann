@@ -1,0 +1,18 @@
+T1	PROC 22 36	reintroduction
+#1	AnnotatorNotes T1	C0376495
+T2	CHEM 40 46	gluten
+#2	AnnotatorNotes T2	C2362561
+T3	ANAT 54 74	muqueuse intestinale
+#3	AnnotatorNotes T3	C0021839
+T4	ANAT 54 62	muqueuse
+#4	AnnotatorNotes T4	C0026724
+T5	ANAT 63 74	intestinale
+#5	AnnotatorNotes T5	C0021853
+T6	DISO 83 100	maladie coeliaque
+#6	AnnotatorNotes T6	C0007570
+T7	DISO 83 90	maladie
+#7	AnnotatorNotes T7	C0012634
+T8	ANAT 91 100	coeliaque
+#8	AnnotatorNotes T8	C0230168
+T9	DISO 104 113	remission
+#9	AnnotatorNotes T9	C0544452

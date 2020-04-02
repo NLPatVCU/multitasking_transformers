@@ -1,0 +1,8 @@
+T1	DISO 3 30	cancer secondaire du poumon
+#1	AnnotatorNotes T1	C0153676
+T2	DISO 3 20	cancer secondaire
+#2	AnnotatorNotes T2	C0027627
+T3	DISO 3 9	cancer
+#3	AnnotatorNotes T3	C0027651
+T4	ANAT 24 30	poumon
+#4	AnnotatorNotes T4	C0024109

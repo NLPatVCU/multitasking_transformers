@@ -1,0 +1,24 @@
+T1	PHYS 14 35	métabolisme lipidique
+#1	AnnotatorNotes T1	C0598783
+T2	PHYS 14 25	métabolisme
+#2	AnnotatorNotes T2	C0025519
+T3	CHEM 26 35	lipidique
+#3	AnnotatorNotes T3	C0023779
+T4	ANAT 42 56	hépatopancréas
+#4	AnnotatorNotes T4	C0524545
+T5	LIVB 60 83	Pachygrapsus marmoratus
+#5	AnnotatorNotes T5	C1065224
+T6	LIVB 60 72	Pachygrapsus
+#6	AnnotatorNotes T6	C1029470
+T7	LIVB 97 105	décapode
+#7	AnnotatorNotes T7	C0323856
+T8	LIVB 128 135	animaux
+#8	AnnotatorNotes T8	C0003062
+T9	ANAT 176 185	oculaires
+#9	AnnotatorNotes T9	C0015392
+T10	PHYS 201 218	cycle d' intermue
+#10	AnnotatorNotes T10	C1160618
+T11	PHYS 209 218	 intermue
+#11	AnnotatorNotes T11	C0282576
+T12	PROC 147 153	opérés
+#12	AnnotatorNotes T12	C0543467

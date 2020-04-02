@@ -1,0 +1,8 @@
+T1	PROC 0 15	Prise en charge
+#1	AnnotatorNotes T1	C0376636
+T2	DISO 22 32	hémorragie
+#2	AnnotatorNotes T2	C0019080
+T3	DISO 44 58	diverticulaire
+#3	AnnotatorNotes T3	C0742590
+T4	ANAT 44 58	diverticulaire
+#4	AnnotatorNotes T4	C0012817

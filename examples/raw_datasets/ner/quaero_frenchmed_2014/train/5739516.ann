@@ -1,0 +1,18 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	DISO 20 31	tuberculose
+#2	AnnotatorNotes T2	C0041296
+T3	LIVB 41 53	travailleurs
+#3	AnnotatorNotes T3	C1527116
+T4	LIVB 54 69	africains noirs
+#4	AnnotatorNotes T4	C0337824
+T5	LIVB 54 63	africains
+#5	AnnotatorNotes T5	C0027567
+T6	LIVB 64 69	noirs
+#6	AnnotatorNotes T6	C0005680
+T7	GEOG 108 118	parisienne
+#7	AnnotatorNotes T7	C0030561
+T8	PROC 122 129	traités
+#8	AnnotatorNotes T8	C0087111
+T9	OBJC 133 143	Sanatroium
+#9	AnnotatorNotes T9	C0871286

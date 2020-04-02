@@ -1,0 +1,10 @@
+T1	CHEM 40 54	flurbiprophène
+#1	AnnotatorNotes T1	C0016377
+T2	CHEM 81 94	indomethacine
+#2	AnnotatorNotes T2	C0021246
+T3	PROC 110 136	extraction extracapsulaire
+#3	AnnotatorNotes T3	C0441545
+T4	PROC 110 120	extraction
+#4	AnnotatorNotes T4	C0185115
+T5	DISO 143 152	cataracte
+#5	AnnotatorNotes T5	C0086543

@@ -1,0 +1,10 @@
+T1	DISO 0 7	Déficit
+#1	AnnotatorNotes T1	C0011155
+T2	CHEM 19 29	properdine
+#2	AnnotatorNotes T2	C0033452
+T3	DISO 45 55	septicémie
+#3	AnnotatorNotes T3	C0036690
+T4	LIVB 58 80	Neisseria meningitidis
+#4	AnnotatorNotes T4	C0027575
+T5	DISO 0 7;16 29	Déficit en properdine
+#5	AnnotatorNotes T5	C1839454

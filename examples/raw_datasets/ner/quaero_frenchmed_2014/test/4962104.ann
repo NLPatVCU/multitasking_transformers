@@ -1,0 +1,14 @@
+T1	PROC 0 7	Culture
+#1	AnnotatorNotes T1	C0430400
+T2	ANAT 8 21	organotypique
+#2	AnnotatorNotes T2	C0178784
+T3	ANAT 25 31	cornée
+#3	AnnotatorNotes T3	C0010031
+T4	LIVB 35 40	singe
+#4	AnnotatorNotes T4	C0026447
+T5	LIVB 50 69	Babouin cynocéphale
+#5	AnnotatorNotes T5	C0324818
+T6	LIVB 50 57	Babouin
+#6	AnnotatorNotes T6	C0030362
+T7	LIVB 58 69	cynocéphale
+#7	AnnotatorNotes T7	C1265460

@@ -1,0 +1,54 @@
+
+
+ En ce qui concerne l ’ ASC , la Cmax et le Tmax , le comprimé à 150 mg est bioéquivalent ( proportionnellement à la dose ) au comprimé à 300 mg .
+ L ’ administration de lamivudine au cours d ’ un repas entraîne un allongement de la valeur du Tmax et une diminution de la valeur de la Cmax ( diminuée de 47 %). 
+ Cependant , la quantité de lamivudine absorbée ( ASC ) n ’ est pas modifiée . 
+ Cette augmentation n ’ est pas significative en terme de tolérance et ne nécessite donc pas d ’ ajustement posologique . 
+ La demi-vie d ’ élimination observée est de 5 à 7 heures . 
+ La clairance systémique moyenne de la lamivudine est d ’ environ 0 , 32 l / h / kg , avec une élimination essentiellement rénale ( 
+ Un petit nombre d ’ observations indiquent que la lamivudine traverse la barrière hémato - méningée et diffuse dans le liquide céphalo - rachidien ( LCR ). 
+ La pénétration réelle et le bénéfice clinique de ce passage hémato - méningé ne sont pas connus . 
+ Au niveau intracellulaire , le dérivé actif de la lamivudine ( lamivudine 5 ’ - triphosphate ) a une demi-vie terminale prolongée ( 16 à 19 h ) comparativement à la demi-vie plasmatique de la lamivudine ( 5 à 7 h ). 
+ Dans une étude réalisée chez 60 volontaires sains adultes , une équivalence pharmacocinétique entre Epivir 300 mg x 1 / jour et Epivir 150 mg x 2 / jour a été démontrée à l ’ état d ’ équilibre pour les valeurs de l ’ ASC24h et de la Cmax du dérivé triphosphaté intracellulaire . 
+ La lamivudine est essentiellement éliminée par excrétion rénale sous forme inchangée . 
+ La possibilité d ’ interactions métaboliques entre la lamivudine et d ’ autres médicaments est faible en raison d ’ un métabolisme hépatique limité ( 5 - 10 %) et d ’ une faible liaison aux protéines plasmatiques . 
+ Elimination : 
+ La posologie recommandée pour les patients ayant une clairance de la créatinine inférieure à 50 ml / min est décrite au paragraphe 4 . 2 . 
+ L ’ administration concomitante de triméthoprime , composant du cotrimoxazole , augmente l ’ exposition à la lamivudine de 40 % aux doses thérapeutiques . 
+ Ceci ne nécessite pas d ’ ajustement posologique , sauf en cas d ’ insuffisance rénale ( voir rubriques 4 . 5 et 4 . 2 ). 
+ L ’ administration concomitante de cotrimoxazole et de lamivudine doit être envisagée avec prudence en cas d ’ insuffisance rénale . 
+ En général , la pharmacocinétique de la lamivudine chez l ’ enfant est comparable à celle de l ’ adulte . 
+ Les données de pharmacocinétique chez l ’ enfant de moins de 3 mois sont limitées . 
+ Chez le nouveau-né âgé d ’ une semaine , la clairance orale de la lamivudine est réduite comparativement à celle mesurée chez les enfants plus âgés . 
+ Pour obtenir une imprégnation similaire à celle de l ’ adulte et des enfants plus âgés , la posologie conseillée pour le nouveau-né est donc de 4 mg / kg / jour . 
+ Après administration orale , la pharmacocinétique de la lamivudine en fin de grossesse est comparable à celle des femmes non enceintes . 
+ Les seuls effets cliniquement pertinents étaient une diminution du nombre de globules rouges et une neutropénie . 
+ Cependant , comme avec la plupart des analogues nucléosidiques , une activité mutagène a été observée dans un test de cytogénicité in vitro ainsi que dans le test du lymphome de souris . 
+ Les résultats des études de carcinogénicité à long terme réalisées chez le rat et la souris n 
+ Hypromellose ( E464 ) Dioxyde de titane ( E171 ) Macrogol Polysorbate 80 
+ Boîte contenant 60 comprimés , conditionnés en flacons HDPE avec fermeture de sécurité pour enfant ou sous plaquettes thermoformées en PVC / aluminium . 
+ 8 août 1996 Date du dernier renouvellement : 
+ Des informations détaillées sur ce médicament sont disponibles sur le site internet de l ’ agence européenne du médicament ( EMEA ): http : / / www . emea . europa . eu 
+ Chaque ml de solution buvable contient 10 mg de lamivudine . 
+ Sucrose 20 % ( 3 g / 15 ml ) Parahydroxybenzoate de méthyle Parahydroxybenzoate de propyle 
+ Solution limpide , incolore à jaune pâle . 
+ Cette dose peut être administrée soit en deux prises journalières de 150 mg ( 15 ml ) chacune , soit en une prise journalière unique de 300 mg ( 30 ml ) ( voir rubrique 4 . 4 ). 
+ Les patients préférant une prise unique le soir devront , le jour du changement de posologie uniquement , prendre 150 mg ( 15 ml ) le matin , puis 300 mg ( 30 ml ) le même soir . 
+ Enfants : 
+ La posologie recommandée d ’ Epivir est de 4 mg / kg , 2 fois / jour , sans dépasser la dose journalière de 300 mg . 
+ Epivir est également disponible sous forme de comprimé . 
+ La posologie doit donc être adaptée ( cf . tableaux ci-dessous ): 
+ Recommandations posologiques - Adultes et adolescents de plus de 12 ans : 
+ Dose initiale 150 mg ( 15ml ) 150 mg ( 15ml ) 150 mg ( 15ml ) 150 mg ( 15ml ) 50 mg ( 5ml ) 
+ Dose d ’ entretien 150 mg ( 15 ml ), deux fois par jour 150 mg ( 15 ml ), une fois par jour 100 mg ( 10 ml ), une fois par jour 50 mg ( 5 ml ), une fois par jour 25 mg ( 2 , 5 ml ), une fois par jour 
+ Recommandations posologiques - Enfants de 3 mois à 12 ans : 
+ Chez les patients infectés par le VIH et présentant un déficit immunitaire sévère au moment de l ’ instauration du traitement par association d ’ antirétroviraux , une réaction inflammatoire à des infections opportunistes asymptomatiques ou résiduelles peut apparaître et entraîner des manifestations cliniques graves ou une aggravation des symptômes . 
+ Les patients diabétiques doivent être informés que chaque dose ( 150 mg = 15 ml ) contient 3 g de saccharose . 
+ Les patients ayant un problème héréditaire rare d ’ intolérance au fructose , de malabsorption glucose - galactose ou une insuffisance sucrase-isomaltase ne doivent pas prendre ce médicament . 
+ Epivir contient du parahydroxybenzoate de méthyle et du parahydroxybenzoate de propyle . 
+ Des cas d ’ ostéonécrose ont été rapportés , en particulier chez des patients présentant des facteurs de risque connus , un stade avancé de la maladie liée au VIH ou un traitement par association d ’ antirétroviraux au long cours . 
+ L ’ administration concomitante de triméthoprime , composant du cotrimoxazole , augmente l ’ exposition à la lamivudine de 40 % aux doses thérapeutiques . 
+ Pharmacocinétique chez l ’ enfant : 
+ Saccharose 20 % ( 3 g / 15 ml ) Parahydroxybenzoate de méthyle Parahydroxybenzoate de propyle Acide citrique anhydre Propylène glycol Citrate de sodium Arôme artificiel fraise Arôme artificiel banane Eau purifiée 
+
+

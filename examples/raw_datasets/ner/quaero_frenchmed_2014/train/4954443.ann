@@ -1,0 +1,8 @@
+T1	PROC 11 17	dosage
+#1	AnnotatorNotes T1	C0005507
+T3	DISO 76 95	néoplasies malignes
+#3	AnnotatorNotes T3	C0006826
+T4	DISO 76 86	néoplasies
+#4	AnnotatorNotes T4	C0027651
+T2	PROC 50 60	diagnostic
+#2	AnnotatorNotes T2	C0430022

@@ -1,0 +1,10 @@
+T1	DISO 3 23	cancer du col utérin
+#1	AnnotatorNotes T1	C0302592
+T2	DISO 3 9	cancer
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 13 23	col utérin
+#3	AnnotatorNotes T3	C0007874
+T4	LIVB 30 35	femme
+#4	AnnotatorNotes T4	C0043210
+T5	LIVB 30 41	femme jeune
+#5	AnnotatorNotes T5	C0238598

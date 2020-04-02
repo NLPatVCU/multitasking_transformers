@@ -1,0 +1,12 @@
+T1	DISO 0 23	Tumeur phyllode maligne
+#1	AnnotatorNotes T1	C0600066
+T2	DISO 0 6	Tumeur
+#2	AnnotatorNotes T2	C0006826
+T3	ANAT 27 31	sein
+#3	AnnotatorNotes T3	C0006141
+T4	ANAT 37 53	cellules géantes
+#4	AnnotatorNotes T4	C0017526
+T5	ANAT 37 45	cellules
+#5	AnnotatorNotes T5	C0007634
+T6	DISO 62 76	ostéoclastique
+#6	AnnotatorNotes T6	C0185451

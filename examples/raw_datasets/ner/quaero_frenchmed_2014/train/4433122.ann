@@ -1,0 +1,24 @@
+T1	PROC 0 7	Analyse
+#1	AnnotatorNotes T1	C0936012
+T2	CHEM 12 20	pommades
+#2	AnnotatorNotes T2	C0028912
+T3	CHEM 27 33	huiles
+#3	AnnotatorNotes T3	C0028908
+T4	CHEM 41 46	cires
+#4	AnnotatorNotes T4	C0043076
+T5	PHEN 57 77	Composition chimique
+#5	AnnotatorNotes T5	C0243176
+T6	PHYS 57 68	Composition
+#6	AnnotatorNotes T6	C0486616
+T7	CHEM 69 77	chimique
+#7	AnnotatorNotes T7	C0220806
+T8	CHEM 84 92	lanoline
+#8	AnnotatorNotes T8	C0023024
+T9	PROC 102 107	Etude
+#9	AnnotatorNotes T9	C2603343
+T10	CHEM 112 132	alcools alipathiques
+#10	AnnotatorNotes T10	C0682929
+T11	CHEM 112 119	alcools
+#11	AnnotatorNotes T11	C0001975
+T12	CHEM 139 147	lanoline
+#12	AnnotatorNotes T12	C0023024

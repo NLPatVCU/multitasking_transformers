@@ -1,0 +1,14 @@
+T1	ANAT 48 59	corps jaune
+#1	AnnotatorNotes T1	C0010092
+T2	ANAT 48 53	corps
+#2	AnnotatorNotes T2	C0227813
+T3	PHYS 67 77	croissance
+#3	AnnotatorNotes T3	C0018270
+T4	ANAT 78 90	folliculaire
+#4	AnnotatorNotes T4	C1571705
+T5	PHYS 103 116	cycle oestral
+#5	AnnotatorNotes T5	C0950151
+T6	PHYS 109 116	oestral
+#6	AnnotatorNotes T6	C0014948
+T7	LIVB 125 131	cobaye
+#7	AnnotatorNotes T7	C0085979

@@ -1,0 +1,18 @@
+T1	PHYS 18 29	nécrotiques
+#1	AnnotatorNotes T1	C0027540
+T2	DISO 32 60	Lésions cutanées nécrotiques
+#2	AnnotatorNotes T2	C0241110
+T3	DISO 32 48	Lésions cutanées
+#3	AnnotatorNotes T3	C0037284
+T4	DISO 32 39	Lésions
+#4	AnnotatorNotes T4	C0221198
+T5	ANAT 40 48	cutanées
+#5	AnnotatorNotes T5	C1123023
+T6	PHYS 49 60	nécrotiques
+#6	AnnotatorNotes T6	C0027540
+T7	ANAT 65 83	membres inférieurs
+#7	AnnotatorNotes T7	C1140621
+T8	DISO 95 108	athéromateuse
+#8	AnnotatorNotes T8	C0264956
+T9	PROC 126 138	observations
+#9	AnnotatorNotes T9	C0302523

@@ -1,0 +1,12 @@
+T1	PHEN 16 27	stimulation
+#1	AnnotatorNotes T1	C1948023
+T2	ANAT 32 37	nerfs
+#2	AnnotatorNotes T2	C0027740
+T3	ANAT 80 88	soléaire
+#3	AnnotatorNotes T3	C0242694
+T4	PHYS 95 114	réflexe de Hoffmann
+#4	AnnotatorNotes T4	C0870653
+T5	PHYS 95 102	réflexe
+#5	AnnotatorNotes T5	C0034929
+T6	LIVB 123 128	homme
+#6	AnnotatorNotes T6	C0086418

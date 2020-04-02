@@ -1,0 +1,10 @@
+T1	CHEM 20 29	urokinase
+#1	AnnotatorNotes T1	C0042071
+T2	DISO 69 88	thrombose coronaire
+#2	AnnotatorNotes T2	C0010072
+T3	DISO 69 78	thrombose
+#3	AnnotatorNotes T3	C0040053
+T4	ANAT 79 88	coronaire
+#4	AnnotatorNotes T4	C0018787
+T5	PROC 105 117	angioplastie
+#5	AnnotatorNotes T5	C0162577

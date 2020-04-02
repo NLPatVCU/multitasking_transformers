@@ -1,0 +1,10 @@
+T1	DISO 16 36	aspects séquellaires
+#1	AnnotatorNotes T1	C0243088
+T2	DISO 53 74	traumatismes craniens
+#2	AnnotatorNotes T2	C0018674
+T3	DISO 53 65	traumatismes
+#3	AnnotatorNotes T3	C0175677
+T4	ANAT 66 74	craniens
+#4	AnnotatorNotes T4	C0018670
+T5	LIVB 81 87	adulte
+#5	AnnotatorNotes T5	C0001675

@@ -1,0 +1,16 @@
+T1	DISO 0 46	Malformation congénitale adénomatoïde kystique
+#1	AnnotatorNotes T1	C1262208
+T2	DISO 0 12	Malformation
+#2	AnnotatorNotes T2	C0000768
+T3	DISO 38 46	kystique
+#3	AnnotatorNotes T3	C0010709
+T4	ANAT 50 56	poumon
+#4	AnnotatorNotes T4	C0024109
+T5	ANAT 72 78	rénale
+#5	AnnotatorNotes T5	C0022646
+T6	PROC 97 108	observation
+#6	AnnotatorNotes T6	C0302523
+T7	ANAT 117 123	foetus
+#7	AnnotatorNotes T7	C0015965
+T8	DISO 60 78	polykystose rénale
+#8	AnnotatorNotes T8	C0431718

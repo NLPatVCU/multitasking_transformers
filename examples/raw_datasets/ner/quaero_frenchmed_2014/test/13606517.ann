@@ -1,0 +1,6 @@
+T1	PROC 5 17	observations
+#1	AnnotatorNotes T1	C0302523
+T2	DISO 31 43	intoxication
+#2	AnnotatorNotes T2	C0032343
+T3	CHEM 47 55	thallium
+#3	AnnotatorNotes T3	C0039738

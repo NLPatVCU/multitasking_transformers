@@ -1,0 +1,6 @@
+T1	PHYS 66 78	respiratoire
+#1	AnnotatorNotes T1	C0035203
+T2	PROC 86 98	observations
+#2	AnnotatorNotes T2	C0302523
+T3	DISO 55 78	pathologie respiratoire
+#3	AnnotatorNotes T3	C0035204

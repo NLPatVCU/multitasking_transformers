@@ -1,0 +1,14 @@
+T1	PROC 26 37	exploration
+#1	AnnotatorNotes T1	C1280903
+T2	PHYS 44 63	sécrétion gastrique
+#2	AnnotatorNotes T2	C0232539
+T3	PHEN 44 53	sécrétion
+#3	AnnotatorNotes T3	C0036536
+T4	ANAT 54 63	gastrique
+#4	AnnotatorNotes T4	C0038351
+T5	DISO 79 97	ulcère du duodénum
+#5	AnnotatorNotes T5	C0013295
+T6	DISO 79 85	ulcère
+#6	AnnotatorNotes T6	C0041582
+T7	ANAT 89 97	duodénum
+#7	AnnotatorNotes T7	C0013303

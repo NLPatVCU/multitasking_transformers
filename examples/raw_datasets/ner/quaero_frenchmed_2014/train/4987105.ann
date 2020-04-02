@@ -1,0 +1,18 @@
+T1	DISO 0 16	Rhabdomyosarcome
+#1	AnnotatorNotes T1	C0035412
+T2	ANAT 32 45	valve mitrale
+#2	AnnotatorNotes T2	C0026264
+T3	ANAT 32 37	valve
+#3	AnnotatorNotes T3	C1186983
+T4	PROC 46 52	traité
+#4	AnnotatorNotes T4	C0087111
+T5	PROC 53 69	chirurgicalement
+#5	AnnotatorNotes T5	C0543467
+T6	PROC 74 82	ablation
+#6	AnnotatorNotes T6	C0015252
+T7	PROC 86 121	remplacement par une valve de Starr
+#7	AnnotatorNotes T7	C1579653
+T8	PROC 86 98	remplacement
+#8	AnnotatorNotes T8	C0035139
+T9	DEVI 107 112	valve
+#9	AnnotatorNotes T9	C0184252

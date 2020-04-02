@@ -1,0 +1,20 @@
+T1	PROC 0 23	Examen génital masculin
+#1	AnnotatorNotes T1	C0562236
+T2	ANAT 7 14	génital
+#2	AnnotatorNotes T2	C0559552
+T3	PHYS 15 23	masculin
+#3	AnnotatorNotes T3	C0229991
+T4	PROC 43 53	péniscopie
+#4	AnnotatorNotes T4	C0869881
+T5	PROC 60 64	test
+#5	AnnotatorNotes T5	C0022885
+T6	CHEM 70 83	acid acétique
+#6	AnnotatorNotes T6	C000983
+T7	CHEM 70 74	acid
+#7	AnnotatorNotes T7	C0001128
+T8	PROC 92 101	dépistage
+#8	AnnotatorNotes T8	C1511790
+T9	DISO 106 113	lésions
+#9	AnnotatorNotes T9	C0221198
+T10	LIVB 116 130	papillomavirus
+#10	AnnotatorNotes T10	C0030358

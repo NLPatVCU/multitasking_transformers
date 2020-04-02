@@ -1,0 +1,10 @@
+T1	CHEM 14 22	citrates
+#1	AnnotatorNotes T1	C0008857
+T2	DISO 30 45	lithiase rénale
+#2	AnnotatorNotes T2	C0392525
+T3	DISO 30 38	lithiase
+#3	AnnotatorNotes T3	C0023869
+T4	ANAT 39 45	rénale
+#4	AnnotatorNotes T4	C0022646
+T5	CHEM 51 66	éthylène-glycol
+#5	AnnotatorNotes T5	C0015083

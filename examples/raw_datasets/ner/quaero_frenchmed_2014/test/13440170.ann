@@ -1,0 +1,6 @@
+T1	DISO 0 12	Pneumopathie
+#1	AnnotatorNotes T1	C0024115
+T3	LIVB 35 45	nourrisson
+#3	AnnotatorNotes T3	C0021270
+T4	DISO 0 21	Pneumopathie bulleuse
+#4	AnnotatorNotes T4	C0746101

@@ -1,0 +1,6 @@
+T1	DISO 0 18	Infection urinaire
+#1	AnnotatorNotes T1	C0042029
+T2	DISO 0 9	Infection
+#2	AnnotatorNotes T2	C0021311
+T3	ANAT 10 18	urinaire
+#3	AnnotatorNotes T3	C0042027

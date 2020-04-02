@@ -1,0 +1,12 @@
+T1	PHYS 17 49	activité de l' adénylate-cyclase
+#1	AnnotatorNotes T1	C1151015
+T2	CHEM 32 49	adénylate-cyclase
+#2	AnnotatorNotes T2	C0001492
+T3	ANAT 54 65	cellules KB
+#3	AnnotatorNotes T3	C0022539
+T4	ANAT 54 62	cellules
+#4	AnnotatorNotes T4	C0007634
+T5	DISO 81 90	infection
+#5	AnnotatorNotes T5	C0021311
+T6	LIVB 98 103	virus
+#6	AnnotatorNotes T6	C0042776

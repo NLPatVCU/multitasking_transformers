@@ -1,0 +1,14 @@
+T1	DISO 12 25	mégalérythème
+#1	AnnotatorNotes T1	C1403698
+T2	DISO 26 36	infectieux
+#2	AnnotatorNotes T2	C0021311
+T3	PHEN 37 47	épidémique
+#3	AnnotatorNotes T3	C0014499
+T4	DISO 51 79	origine virale vraisemblable
+#4	AnnotatorNotes T4	C0276634
+T5	LIVB 59 65	virale
+#5	AnnotatorNotes T5	C0042776
+T6	LIVB 82 101	arbovirose à Tahyna
+#6	AnnotatorNotes T6	C0039258
+T7	LIVB 82 92	arbovirose
+#7	AnnotatorNotes T7	C0003725

@@ -1,0 +1,6 @@
+T1	PROC 3 24	recherche biomédicale
+#1	AnnotatorNotes T1	C0005540
+T2	PROC 3 12	recherche
+#2	AnnotatorNotes T2	C0035168
+T3	GEOG 28 34	France
+#3	AnnotatorNotes T3	C0016674

@@ -1,0 +1,8 @@
+T1	PROC 19 40	methode trans-cutanee
+#1	AnnotatorNotes T1	C0443325
+T2	PROC 44 55	prelevement
+#2	AnnotatorNotes T2	C0441621
+T3	PROC 56 65	biopsique
+#3	AnnotatorNotes T3	C0005558
+T4	ANAT 66 79	ganglionnaire
+#4	AnnotatorNotes T4	C0024204

@@ -1,0 +1,6 @@
+T1	PROC 35 59	dosage biologique direct
+#1	AnnotatorNotes T1	C1441554
+T2	PROC 35 52	dosage biologique
+#2	AnnotatorNotes T2	C0005507
+T3	CHEM 64 72	réagines
+#3	AnnotatorNotes T3	C0034761

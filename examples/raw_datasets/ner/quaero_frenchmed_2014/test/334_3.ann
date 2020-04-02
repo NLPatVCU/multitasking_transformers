@@ -1,0 +1,316 @@
+T1	PHYS 56 67	élimination
+#1	AnnotatorNotes T1	C0221102
+T2	LIVB 115 123	patients
+#2	AnnotatorNotes T2	C0030705
+T3	DISO 124 143	insuffisants rénaux
+#3	AnnotatorNotes T3	C1565489
+T4	ANAT 137 143	rénaux
+#4	AnnotatorNotes T4	C0022646
+T5	PHYS 167 181	Poids corporel
+#5	AnnotatorNotes T5	C0005910
+T6	ANAT 173 181	corporel
+#6	AnnotatorNotes T6	C0460148
+T7	PHYS 187 196	clairance
+#7	AnnotatorNotes T7	C0025515
+T8	ANAT 197 208	plasmatique
+#8	AnnotatorNotes T8	C0032105
+T9	CHEM 212 224	fondaparinux
+#9	AnnotatorNotes T9	C1098510
+T10	PHYS 242 247	poids
+#10	AnnotatorNotes T10	C0005910
+T11	PHYS 267 272	poids
+#11	AnnotatorNotes T11	C0005910
+T12	PROC 318 324	études
+#12	AnnotatorNotes T12	C2603343
+T13	PROC 394 400	études
+#13	AnnotatorNotes T13	C2603343
+T14	DISO 443 450	risques
+#14	AnnotatorNotes T14	C0184544
+T15	LIVB 590 598	animales
+#15	AnnotatorNotes T15	C0003062
+T16	CHEM 619 629	excipients
+#16	AnnotatorNotes T16	C0015237
+T17	CHEM 632 650	Chlorure de sodium
+#17	AnnotatorNotes T17	C0037494
+T18	CHEM 632 640	Chlorure
+#18	AnnotatorNotes T18	C0008203
+T19	CHEM 644 650	sodium
+#19	AnnotatorNotes T19	C0037473
+T20	CHEM 651 654	Eau
+#20	AnnotatorNotes T20	C0043047
+T21	CHEM 660 684	préparations injectables
+#21	AnnotatorNotes T21	C0086466
+T22	PROC 673 684	injectables
+#22	AnnotatorNotes T22	C0021485
+T23	CHEM 685 704	Acide chlorhydrique
+#23	AnnotatorNotes T23	C0020259
+T24	CHEM 685 690	Acide
+#24	AnnotatorNotes T24	C0001128
+T25	CHEM 705 724	Hydroxyde de sodium
+#25	AnnotatorNotes T25	C0037517
+T26	CHEM 705 714	Hydroxyde
+#26	AnnotatorNotes T26	C0020315
+T27	CHEM 718 724	sodium
+#27	AnnotatorNotes T27	C0037473
+T28	OBJC 796 801	verre
+#28	AnnotatorNotes T28	C0017596
+T29	CHEM 830 838	Quixidar
+#29	AnnotatorNotes T29	C1098510
+T30	DEVI 899 921	seringues pré-remplies
+#30	AnnotatorNotes T30	C1609474
+T31	DEVI 899 908	seringues
+#31	AnnotatorNotes T31	C0039142
+T32	CHEM 974 983	injection
+#32	AnnotatorNotes T32	C0086466
+T33	DEVI 1041 1049	seringue
+#33	AnnotatorNotes T33	C0039142
+T34	OBJC 1071 1080	solutions
+#34	AnnotatorNotes T34	C0037633
+T35	PHYS 1117 1129	visuellement
+#35	AnnotatorNotes T35	C0042789
+T36	PROC 1136 1150	administration
+#36	AnnotatorNotes T36	C1533734
+T37	CHEM 1182 1192	particules
+#37	AnnotatorNotes T37	C0597177
+T38	PROC 1244 1263	auto-administration
+#38	AnnotatorNotes T38	C0036589
+T39	PROC 1288 1294	notice
+#39	AnnotatorNotes T39	C0013191
+T40	CHEM 1398 1408	médicament
+#40	AnnotatorNotes T40	C0013227
+T41	GEOG 1461 1471	européenne
+#41	AnnotatorNotes T41	C0015176
+T42	CHEM 1475 1485	médicament
+#42	AnnotatorNotes T42	C0013227
+T43	CHEM 1531 1539	Quixidar
+#43	AnnotatorNotes T43	C1098510
+T44	CHEM 1560 1579	solution injectable
+#44	AnnotatorNotes T44	C0086466
+T45	PROC 1569 1579	injectable
+#45	AnnotatorNotes T45	C0021485
+T46	DEVI 1585 1605	seringue pré-remplie
+#46	AnnotatorNotes T46	C1609474
+T47	DEVI 1585 1593	seringue
+#47	AnnotatorNotes T47	C0039142
+T48	DEVI 1617 1637	seringue pré-remplie
+#48	AnnotatorNotes T48	C1609474
+T49	DEVI 1617 1625	seringue
+#49	AnnotatorNotes T49	C0039142
+T50	CHEM 1659 1671	fondaparinux
+#50	AnnotatorNotes T50	C1098510
+T51	CHEM 1672 1679	sodique
+#51	AnnotatorNotes T51	C0025870
+T52	OBJC 1699 1707	solution
+#52	AnnotatorNotes T52	C0037633
+T53	CHEM 1713 1722	injection
+#53	AnnotatorNotes T53	C0086466
+T54	CHEM 1761 1771	excipients
+#54	AnnotatorNotes T54	C0015237
+T55	CHEM 1801 1820	solution injectable
+#55	AnnotatorNotes T55	C0086466
+T56	PROC 1810 1820	injectable
+#56	AnnotatorNotes T56	C0021485
+T57	OBJC 1828 1836	solution
+#57	AnnotatorNotes T57	C0037633
+T58	CHEM 1913 1925	fondaparinux
+#58	AnnotatorNotes T58	C1098510
+T59	LIVB 1959 1984	enfant de moins de 17 ans
+#59	AnnotatorNotes T59	C0008059
+T60	PHYS 2031 2040	tolérance
+#60	AnnotatorNotes T60	C0231197
+T61	LIVB 2063 2071	patients
+#61	AnnotatorNotes T61	C0030705
+T62	PROC 2098 2123	intervention chirurgicale
+#62	AnnotatorNotes T62	C0543467
+T63	DISO 2284 2306	Insuffisance hépatique
+#63	AnnotatorNotes T63	C1306571
+T64	ANAT 2297 2306	hépatique
+#64	AnnotatorNotes T64	C0205054
+T65	CHEM 2333 2345	fondaparinux
+#65	AnnotatorNotes T65	C1098510
+T66	CHEM 2418 2426	antidote
+#66	AnnotatorNotes T66	C0003295
+T67	CHEM 2436 2448	fondaparinux
+#67	AnnotatorNotes T67	C1098510
+T68	CHEM 2456 2468	fondaparinux
+#68	AnnotatorNotes T68	C1098510
+T69	CHEM 2489 2498	thrombine
+#69	AnnotatorNotes T69	C0040018
+T70	CHEM 2501 2511	Facteur II
+#70	AnnotatorNotes T70	C0033706
+T71	ANAT 2552 2562	plaquettes
+#71	AnnotatorNotes T71	C0005821
+T72	PHYS 2591 2607	réaction croisée
+#72	AnnotatorNotes T72	C0010357
+T73	CHEM 2617 2629	fondaparinux
+#73	AnnotatorNotes T73	C1098510
+T74	ANAT 2636 2641	sérum
+#74	AnnotatorNotes T74	C0229671
+T75	LIVB 2646 2654	patients
+#75	AnnotatorNotes T75	C0030705
+T76	DISO 2665 2677	thrombopénie
+#76	AnnotatorNotes T76	C0040034
+T77	CHEM 2694 2702	héparine
+#77	AnnotatorNotes T77	C0019134
+T78	CHEM 2707 2719	fondaparinux
+#78	AnnotatorNotes T78	C1098510
+T79	CHEM 2744 2755	enoxaparine
+#79	AnnotatorNotes T79	C0206460
+T80	PROC 2813 2823	Traitement
+#80	AnnotatorNotes T80	C0087111
+T81	DISO 2828 2848	embolies pulmonaires
+#81	AnnotatorNotes T81	C0034065
+T82	DISO 2828 2836	embolies
+#82	AnnotatorNotes T82	C0013922
+T83	ANAT 2837 2848	pulmonaires
+#83	AnnotatorNotes T83	C0024109
+T84	PROC 2852 2876	essai clinique randomisé
+#84	AnnotatorNotes T84	C0206034
+T85	PROC 2852 2866	essai clinique
+#85	AnnotatorNotes T85	C2603343
+T86	PROC 2867 2876	randomisé
+#86	AnnotatorNotes T86	C0034656
+T87	LIVB 2911 2919	patients
+#87	AnnotatorNotes T87	C0030705
+T88	DISO 2930 2948	embolie pulmonaire
+#88	AnnotatorNotes T88	C0034065
+T89	DISO 2930 2937	embolie
+#89	AnnotatorNotes T89	C0013922
+T90	ANAT 2938 2948	pulmonaire
+#90	AnnotatorNotes T90	C0024109
+T91	DISO 2956 2966	diagnostic
+#91	AnnotatorNotes T91	C0011900
+T92	PROC 3008 3015	scanner
+#92	AnnotatorNotes T92	C0034606
+T93	ANAT 3016 3026	pulmonaire
+#93	AnnotatorNotes T93	C0024109
+T94	PROC 3029 3041	angiographie
+#94	AnnotatorNotes T94	C0002978
+T95	ANAT 3042 3052	pulmonaire
+#95	AnnotatorNotes T95	C0024109
+T96	PROC 3056 3085	tomodensitométrie hélicoïdale
+#96	AnnotatorNotes T96	C0860888
+T97	PROC 3056 3073	tomodensitométrie
+#97	AnnotatorNotes T97	C0034606
+T98	LIVB 3095 3103	patients
+#98	AnnotatorNotes T98	C0030705
+T99	PHYS 3120 3131	thrombolyse
+#99	AnnotatorNotes T99	C0520997
+T100	PROC 3138 3150	embolectomie
+#100	AnnotatorNotes T100	C0162575
+T101	DEVI 3180 3191	filtre cave
+#101	AnnotatorNotes T101	C0080306
+T102	DEVI 3180 3186	filtre
+#102	AnnotatorNotes T102	C1875155
+T103	PROC 3240 3250	traitement
+#103	AnnotatorNotes T103	C0087111
+T104	DISO 3257 3268	saignements
+#104	AnnotatorNotes T104	C0019080
+T105	LIVB 3311 3319	patients
+#105	AnnotatorNotes T105	C0030705
+T106	PROC 3320 3327	traités
+#106	AnnotatorNotes T106	C0087111
+T107	CHEM 3335 3347	fondaparinux
+#107	AnnotatorNotes T107	C1098510
+T108	PROC 3367 3374	traités
+#108	AnnotatorNotes T108	C0087111
+T109	CHEM 3383 3391	héparine
+#109	AnnotatorNotes T109	C0019134
+T110	PHEN 3413 3423	Absorption
+#110	AnnotatorNotes T110	C0000854
+T111	PROC 3430 3444	administration
+#111	AnnotatorNotes T111	C1533734
+T112	CHEM 3463 3475	fondaparinux
+#112	AnnotatorNotes T112	C1098510
+T113	PHEN 3506 3513	absorbé
+#113	AnnotatorNotes T113	C0000854
+T114	CHEM 3554 3566	fondaparinux
+#114	AnnotatorNotes T114	C1098510
+T115	CHEM 3610 3632	protéines plasmatiques
+#115	AnnotatorNotes T115	C0032120
+T116	CHEM 3610 3619	protéines
+#116	AnnotatorNotes T116	C0033684
+T117	ANAT 3620 3632	plasmatiques
+#117	AnnotatorNotes T117	C0032105
+T118	CHEM 3648 3670	facteur plaquettaire 4
+#118	AnnotatorNotes T118	C0032183
+T119	PHYS 3682 3691	Excrétion
+#119	AnnotatorNotes T119	C0221102
+T120	PHYS 3694 3705	élimination
+#120	AnnotatorNotes T120	C0221102
+T121	PHYS 3729 3740	élimination
+#121	AnnotatorNotes T121	C0221102
+T122	LIVB 3776 3782	sujets
+#122	AnnotatorNotes T122	C0027361
+T123	LIVB 3789 3795	jeunes
+#123	AnnotatorNotes T123	C0238598
+T124	LIVB 3832 3838	sujets
+#124	AnnotatorNotes T124	C0027361
+T125	LIVB 3845 3849	âgés
+#125	AnnotatorNotes T125	C0001795
+T126	PHYS 3854 3868	Poids corporel
+#126	AnnotatorNotes T126	C0005910
+T127	ANAT 3860 3868	corporel
+#127	AnnotatorNotes T127	C0460148
+T128	PHYS 3874 3883	clairance
+#128	AnnotatorNotes T128	C0025515
+T129	ANAT 3884 3895	plasmatique
+#129	AnnotatorNotes T129	C0032105
+T130	CHEM 3899 3911	fondaparinux
+#130	AnnotatorNotes T130	C1098510
+T131	PHYS 3929 3934	poids
+#131	AnnotatorNotes T131	C0005910
+T132	PHYS 3954 3959	poids
+#132	AnnotatorNotes T132	C0005910
+T133	DISO 3971 3993	Insuffisance hépatique
+#133	AnnotatorNotes T133	C1306571
+T134	ANAT 3984 3993	hépatique
+#134	AnnotatorNotes T134	C0205054
+T135	CHEM 4020 4032	fondaparinux
+#135	AnnotatorNotes T135	C1098510
+T136	LIVB 4063 4070	patient
+#136	AnnotatorNotes T136	C0030705
+T137	DISO 4071 4092	insuffisant hépatique
+#137	AnnotatorNotes T137	C1306571
+T138	ANAT 4083 4092	hépatique
+#138	AnnotatorNotes T138	C0023884
+T139	CHEM 4101 4110	injection
+#139	AnnotatorNotes T139	C0086466
+T140	DEVI 4168 4176	seringue
+#140	AnnotatorNotes T140	C0039142
+T141	DEVI 4218 4240	seringues pré-remplies
+#141	AnnotatorNotes T141	C1609474
+T142	DEVI 4218 4227	seringues
+#142	AnnotatorNotes T142	C0039142
+T143	CHEM 4244 4252	Quixidar
+#143	AnnotatorNotes T143	C1098510
+T144	DISO 4328 4335	piqûres
+#144	AnnotatorNotes T144	C0038340
+T145	DISO 4336 4349	accidentelles
+#145	AnnotatorNotes T145	C0000924
+T146	CHEM 4356 4365	injection
+#146	AnnotatorNotes T146	C0086466
+T147	CHEM 4372 4380	Quixidar
+#147	AnnotatorNotes T147	C1098510
+T148	CHEM 4398 4417	solution injectable
+#148	AnnotatorNotes T148	C0086466
+T149	PROC 4407 4417	injectable
+#149	AnnotatorNotes T149	C0021485
+T150	DEVI 4423 4443	seringue pré-remplie
+#150	AnnotatorNotes T150	C1609474
+T151	DEVI 4423 4431	seringue
+#151	AnnotatorNotes T151	C0039142
+T152	DEVI 4455 4475	seringue pré-remplie
+#152	AnnotatorNotes T152	C1609474
+T153	DEVI 4455 4463	seringue
+#153	AnnotatorNotes T153	C0039142
+T154	CHEM 4494 4506	fondaparinux
+#154	AnnotatorNotes T154	C1098510
+T155	CHEM 4507 4514	sodique
+#155	AnnotatorNotes T155	C0025870
+T156	OBJC 4534 4542	solution
+#156	AnnotatorNotes T156	C0037633
+T157	CHEM 4548 4557	injection
+#157	AnnotatorNotes T157	C0086466
+T158	LIVB 1959 1984	enfant de moins de 17 ans
+#158	AnnotatorNotes T158	C0205653

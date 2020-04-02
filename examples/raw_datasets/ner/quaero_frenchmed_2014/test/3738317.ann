@@ -1,0 +1,10 @@
+T1	DISO 0 11	Hémoptysies
+#1	AnnotatorNotes T1	C0549099
+T2	PROC 34 66	cathétérisme artériel pulmonaire
+#2	AnnotatorNotes T2	C0190658
+T3	PROC 34 46	cathétérisme
+#3	AnnotatorNotes T3	C0007430
+T4	ANAT 47 55	artériel
+#4	AnnotatorNotes T4	C0003842
+T5	ANAT 56 66	pulmonaire
+#5	AnnotatorNotes T5	C0024109

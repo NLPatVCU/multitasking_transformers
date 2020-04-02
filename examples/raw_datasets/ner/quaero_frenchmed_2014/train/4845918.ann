@@ -1,0 +1,8 @@
+T1	DISO 3 20	maladie de Behcet
+#1	AnnotatorNotes T1	C0004943
+T2	DISO 3 10	maladie
+#2	AnnotatorNotes T2	C0012634
+T3	DISO 39 67	manifestations neurologiques
+#3	AnnotatorNotes T3	C0027854
+T4	ANAT 54 67	neurologiques
+#4	AnnotatorNotes T4	C0027763

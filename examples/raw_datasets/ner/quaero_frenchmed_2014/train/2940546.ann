@@ -1,0 +1,18 @@
+T1	DISO 0 15	Cancers du sein
+#1	AnnotatorNotes T1	C0006142
+T2	DISO 0 7	Cancers
+#2	AnnotatorNotes T2	C0027651
+T3	ANAT 11 15	sein
+#3	AnnotatorNotes T3	C0006141
+T4	PROC 16 23	traités
+#4	AnnotatorNotes T4	C0087111
+T5	PROC 29 50	conservation mammaire
+#5	AnnotatorNotes T5	C0024887
+T6	ANAT 42 50	mammaire
+#6	AnnotatorNotes T6	C0006141
+T7	DISO 68 81	envahissement
+#7	AnnotatorNotes T7	C0920779
+T8	ANAT 82 95	ganglionnaire
+#8	AnnotatorNotes T8	C0024204
+T9	ANAT 96 105	axillaire
+#9	AnnotatorNotes T9	C0004454

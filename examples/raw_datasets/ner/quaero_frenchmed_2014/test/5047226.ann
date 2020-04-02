@@ -1,0 +1,8 @@
+T1	CHEM 22 33	médications
+#1	AnnotatorNotes T1	C0013227
+T3	PHYS 60 66	visuel
+#3	AnnotatorNotes T3	C0042789
+T4	CHEM 73 86	antigoutteaux
+#4	AnnotatorNotes T4	C0018100
+T5	ANAT 51 66	appareil visuel
+#5	AnnotatorNotes T5	C0150933

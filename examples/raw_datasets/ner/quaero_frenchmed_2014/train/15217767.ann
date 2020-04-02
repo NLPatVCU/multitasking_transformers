@@ -1,0 +1,6 @@
+T1	PROC 3 18	bilan lipidique
+#1	AnnotatorNotes T1	C0850354
+T2	PROC 3 8	bilan
+#2	AnnotatorNotes T2	C1979963
+T3	CHEM 9 18	lipidique
+#3	AnnotatorNotes T3	C0023779

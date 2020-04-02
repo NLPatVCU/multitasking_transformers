@@ -1,0 +1,12 @@
+T1	CHEM 13 32	hormone somatotrope
+#1	AnnotatorNotes T1	C0037663
+T2	CHEM 13 20	hormone
+#2	AnnotatorNotes T2	C0019932
+T3	CHEM 21 32	somatotrope
+#3	AnnotatorNotes T3	C0169964
+T4	PHYS 40 52	embryogenèse
+#4	AnnotatorNotes T4	C0013936
+T5	ANAT 53 61	mammaire
+#5	AnnotatorNotes T5	C0006141
+T6	LIVB 68 74	souris
+#6	AnnotatorNotes T6	C0025929

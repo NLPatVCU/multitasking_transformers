@@ -1,0 +1,12 @@
+T1	PROC 0 20	Perfusion pulmonaire
+#1	AnnotatorNotes T1	C0412350
+T2	ANAT 10 20	pulmonaire
+#2	AnnotatorNotes T2	C0024109
+T3	DISO 52 86	hypertension artérielle pulmonaire
+#3	AnnotatorNotes T3	C2973725
+T4	DISO 52 64	hypertension
+#4	AnnotatorNotes T4	C0020538
+T5	ANAT 65 75	artérielle
+#5	AnnotatorNotes T5	C0003842
+T6	ANAT 76 86	pulmonaire
+#6	AnnotatorNotes T6	C0024109

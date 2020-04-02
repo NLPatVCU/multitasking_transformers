@@ -1,0 +1,6 @@
+T1	PROC 0 10	Recherches
+#1	AnnotatorNotes T1	C0035168
+T2	DISO 55 64	toxicoses
+#2	AnnotatorNotes T2	C0032343
+T3	LIVB 68 78	nourrisson
+#3	AnnotatorNotes T3	C0021270

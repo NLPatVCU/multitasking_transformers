@@ -1,0 +1,8 @@
+T1	PROC 0 12	Cystoplastie
+#1	AnnotatorNotes T1	C0194475
+T2	PROC 32 44	cathétérisme
+#2	AnnotatorNotes T2	C0007430
+T3	DISO 67 85	vessies neurogènes
+#3	AnnotatorNotes T3	C0005697
+T4	ANAT 67 74	vessies
+#4	AnnotatorNotes T4	C0005682

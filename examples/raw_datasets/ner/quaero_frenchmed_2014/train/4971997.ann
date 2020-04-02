@@ -1,0 +1,12 @@
+T1	PROC 0 5	Etude
+#1	AnnotatorNotes T1	C2603343
+T2	PHYS 6 19	hémodynamique
+#2	AnnotatorNotes T2	C0019010
+T3	PROC 23 43	angiocardiographique
+#3	AnnotatorNotes T3	C0002971
+T4	DISO 47 64	ventricule unique
+#4	AnnotatorNotes T4	C0152424
+T5	ANAT 47 57	ventricule
+#5	AnnotatorNotes T5	C0018827
+T6	LIVB 73 83	nourrisson
+#6	AnnotatorNotes T6	C0021270

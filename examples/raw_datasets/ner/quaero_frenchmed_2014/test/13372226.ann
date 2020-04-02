@@ -1,0 +1,10 @@
+T1	DISO 4 13	fractures
+#1	AnnotatorNotes T1	C0016658
+T2	ANAT 17 26	calcanéum
+#2	AnnotatorNotes T2	C0006655
+T3	DISO 44 56	observations
+#3	AnnotatorNotes T3	C0302523
+T4	PROC 97 108	tomographie
+#4	AnnotatorNotes T4	C0040395
+T5	DISO 4 26	fractures du calcanéum
+#5	AnnotatorNotes T5	C0159888

@@ -1,0 +1,10 @@
+T1	DISO 14 30	tumeurs malignes
+#1	AnnotatorNotes T1	C0006826
+T2	DISO 33 42	hépatomes
+#2	AnnotatorNotes T2	C0023903
+T3	PROC 59 69	injections
+#3	AnnotatorNotes T3	C0021485
+T4	CHEM 91 104	or radioactif
+#4	AnnotatorNotes T4	C0018035
+T5	LIVB 113 116	rat
+#5	AnnotatorNotes T5	C0034721
