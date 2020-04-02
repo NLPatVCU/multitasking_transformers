@@ -498,8 +498,8 @@ def load_quaero_frenchmed(partition='train'):
                         char_span = doc.char_span(span[0]+5, span[1]+5)
 
                 if char_span is None:
-                    print(str(doc)[span[0]- 20:span[1] + 20])
-                    print(id, span, str(doc)[span[0]:span[1]])
+                    # print(str(doc)[span[0]- 20:span[1] + 20])
+                    # print(id, span, str(doc)[span[0]:span[1]])
                     continue
                     # raise RuntimeError(
                     #     'Could not load mention span from %s as it does not align with tokenization. Add \'%s\' to tokenization exceptions.'
