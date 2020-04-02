@@ -247,12 +247,9 @@ def load_i2b2_2014(partition='train'):
                 if char_span is None:
                     # for token in doc:
                     #     print(token)
-                    print(str(doc)[span[0]- 20:span[1] + 20])
-                    print(id, span, str(doc)[span[0]:span[1]])
+                    # print(str(doc)[span[0]- 20:span[1] + 20])
+                    # print(id, span, str(doc)[span[0]:span[1]])
                     continue
-                    # raise RuntimeError(
-                    #     'Could not load mention span from %s as it does not align with tokenization. Add \'%s\' to tokenization exceptions.'
-                    #     % (id, str(doc)[int(span[0]):int(span[1])]))
 
                 #checks if this span overlaps with any other
                 overlapping = False
