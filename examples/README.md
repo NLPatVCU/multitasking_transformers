@@ -7,6 +7,8 @@ Fortunately, two datasets are under no PHI license and so are included in the th
 1) [quaero-2014](https://quaerofrenchmed.limsi.fr/)
 2) [med-rqe](https://github.com/abachaa/MEDIQA2019/tree/master/MEDIQA_Task2_RQE)
 
+To run `preprocess_datasets.py`, you will need to set the directory of your installed BERT model (or alternatively a
+transformers library compatible alias). Set this by updating `bert_weight_directory` in `preprocess_datasets.py`.
 Running `preprocess_datasets.py` with
 the included datasets will work and you will be able to multitask train on the the two tasks (quaero_2014 and med_rqe).
 

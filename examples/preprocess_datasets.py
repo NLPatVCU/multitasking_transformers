@@ -12,6 +12,8 @@ if csfp not in sys.path:
 
 bert_weight_directory = '/home/aymulyar/models/biobert_pretrain_output_all_notes_150000'
 #bert_weight_directory = '/media/andriy/Samsung_T5/research/clinical/models/bert/biobert_pretrain_output_all_notes_150000'
+if not os.path.exists(bert_weight_directory):
+    raise FileNotFoundError(f"Did you update the `bert_weight_directory` variable in `preprocess_datasets`? Could not find {bert_weight_directory}")
 
 N2C2_2018_NER_TRAIN_PATH = os.path.join(os.getcwd(), 'data', 'n2c2_2018', 'ner', 'train')
 N2C2_2018_NER_TEST_PATH = os.path.join(os.getcwd(), 'data', 'n2c2_2018','ner', 'test')
