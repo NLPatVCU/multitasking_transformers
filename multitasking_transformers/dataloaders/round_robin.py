@@ -1,6 +1,6 @@
 from typing import List, Tuple
 from torch.utils.data import DataLoader
-from multi_tasking_transformers.heads import TransformerHead, MaskedLMHead
+from multitasking_transformers.heads import TransformerHead, MaskedLMHead
 import torch
 
 class RoundRobinDataLoader():
