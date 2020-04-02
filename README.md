@@ -19,12 +19,6 @@ More [examples](/examples).
 # Replication
 See the directory [/examples/clinical/mt](/examples/clinical/mt).
 
-# Notes
-- For training you will need a GPU.
-- For bulk inference where speed is not of concern lots of available memory and CPU cores will likely work.
-- Model downloads are cached in `~/.cache/torch/bert_document_classification/`. Try clearing this folder if you have issues.
-
-
 
 # Acknowledgement
 Implementation, development and training in this project were supported by funding from McInnes NLP Lab at Virginia Commonwealth University.
