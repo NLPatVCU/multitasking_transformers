@@ -80,7 +80,7 @@ TASKS = {
     'nli': { }
 }
 
-def get_clinical_configured_tasks(preprocessed_directory=os.path.join(os.getcwd(), '..', '..', 'data')):
+def load_clinical_configured_tasks(preprocessed_directory=os.path.join(os.getcwd(), '..', '..', 'data')):
 
     for dataset in clinical_ner:
         if os.path.exists(f"{preprocessed_directory}/{dataset}/ner/train"):
@@ -143,10 +143,13 @@ def train(experiment_name,
           ):
 
     log.info(gin.config_str())
-    print("MT training with the following tasks:")
-    pprint(TASKS)
+
     torch.random.manual_seed(seed)
     heads_and_datasets = []
+    load_clinical_configured_tasks()
+
+    print("MT training with the following tasks:")
+    pprint(TASKS)
 
     for task in TASKS:
         for dataset in TASKS[task]:
