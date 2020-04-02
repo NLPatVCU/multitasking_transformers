@@ -50,21 +50,27 @@ MEDNLI_2018_NLI_TEST_PATH = os.path.join(os.getcwd(), 'data', 'mednli_2018', 'nl
 #START N2C2 2018 NER
 from raw_datasets.ner import load_n2c2_2018
 
-save_dir = N2C2_2018_NER_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving N2C2 2018 NER Train: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_n2c2_2018(partition='train')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
-save_dir = N2C2_2018_NER_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving N2C2 2018 NER Test: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_n2c2_2018(partition='test')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
+try:
+    save_dir = N2C2_2018_NER_TRAIN_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving N2C2 2018 NER Train: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_n2c2_2018(partition='train')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 
+try:
+    save_dir = N2C2_2018_NER_TEST_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving N2C2 2018 NER Test: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_n2c2_2018(partition='test')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 #END N2C2 2018 NER
 
 # #START TAC 2018 NER
@@ -133,121 +139,155 @@ if not os.path.isdir(save_dir):
 #START I2b2 2014 NER
 from raw_datasets.ner import load_i2b2_2014
 
-save_dir = I2B2_2014_NER_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving I2B2 2014 Train: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='train')),
-                                           BertTokenizer.from_pretrained(bert_weight_directory),
-                                           save_directory=save_dir)
+try:
+    save_dir = I2B2_2014_NER_TRAIN_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving I2B2 2014 Train: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='train')),
+                                               BertTokenizer.from_pretrained(bert_weight_directory),
+                                               save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 
-save_dir = I2B2_2014_NER_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving I2B2 2014 NER Test: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='test')),
-                                           BertTokenizer.from_pretrained(bert_weight_directory),
-                                           save_directory=save_dir)
+try:
+    save_dir = I2B2_2014_NER_TEST_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving I2B2 2014 NER Test: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_i2b2_2014(partition='test')),
+                                               BertTokenizer.from_pretrained(bert_weight_directory),
+                                               save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 #END I2b2 2014 NER
 
 # #START I2b2 2012 NER
 from raw_datasets.ner import load_i2b2_2012
 
-save_dir = I2B2_2012_NER_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving I2B2 2012 Train: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='train')),
-                                           BertTokenizer.from_pretrained(bert_weight_directory),
-                                           save_directory=save_dir)
+try:
+    save_dir = I2B2_2012_NER_TRAIN_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving I2B2 2012 Train: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='train')),
+                                               BertTokenizer.from_pretrained(bert_weight_directory),
+                                               save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 
-save_dir = I2B2_2012_NER_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving I2B2 2012 NER Test: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='test')),
-                                           BertTokenizer.from_pretrained(bert_weight_directory),
-                                           save_directory=save_dir)
+try:
+    save_dir = I2B2_2012_NER_TEST_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving I2B2 2012 NER Test: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_i2b2_2012(partition='test')),
+                                               BertTokenizer.from_pretrained(bert_weight_directory),
+                                               save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 # #END I2b2 2012 NER
 #
 #
 # #START FRENCH  NER
 from raw_datasets.ner import load_quaero_frenchmed
 
-save_dir = QUAERO_2014_NER_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving QUAERO 2014 Train: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='train')),
-                                           BertTokenizer.from_pretrained(bert_weight_directory),
-                                           save_directory=save_dir)
-
-save_dir = QUAERO_2014_NER_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving QUAERO 2014 NER Test: {save_dir}")
-    os.makedirs(save_dir)
-    inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='test')),
-                                           BertTokenizer.from_pretrained(bert_weight_directory),
-                                           save_directory=save_dir)
+try:
+    save_dir = QUAERO_2014_NER_TRAIN_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving QUAERO 2014 Train: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='train')),
+                                               BertTokenizer.from_pretrained(bert_weight_directory),
+                                               save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
+try:
+    save_dir = QUAERO_2014_NER_TEST_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving QUAERO 2014 NER Test: {save_dir}")
+        os.makedirs(save_dir)
+        inputs = NERDataset.create_ner_dataset(list(load_quaero_frenchmed(partition='test')),
+                                               BertTokenizer.from_pretrained(bert_weight_directory),
+                                               save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 # #END French NER
 #
 #
 # #START N2C2 2019 Similarity
 from raw_datasets.similarity import load_n2c2_2019
 
-save_dir = N2C2_2019_SIMILARITY_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving N2C2 2019 Similarity Train Data: {save_dir}")
-    os.makedirs(save_dir)
-    bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='train')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
-save_dir = N2C2_2019_SIMILARITY_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving N2C2 2019 Similarity Test Data: {save_dir}")
-    os.makedirs(save_dir)
-    bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='test')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
-
+try:
+    save_dir = N2C2_2019_SIMILARITY_TRAIN_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving N2C2 2019 Similarity Train Data: {save_dir}")
+        os.makedirs(save_dir)
+        bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='train')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
+try:
+    save_dir = N2C2_2019_SIMILARITY_TEST_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving N2C2 2019 Similarity Test Data: {save_dir}")
+        os.makedirs(save_dir)
+        bert_inputs, labels = SentencePairRegressionDataset.create_sentence_pair_dataset(list(load_n2c2_2019(partition='test')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 # #END N2C2 2019 Similarity
 #
 # #START MEDRQE 2016 Entailment
 from raw_datasets.nli import load_medrqe_2016
 
-save_dir = MEDRQE_2016_ENTAILMENT_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving MedRQE 2016 Entailment Train Data: {save_dir}")
-    os.makedirs(save_dir)
-    bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_medrqe_2016(partition='train')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
-save_dir = MEDRQE_2016_ENTAILMENT_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving MedRQE 2016 Entailment Test Data: {save_dir}")
-    os.makedirs(save_dir)
-    bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_medrqe_2016(partition='test')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
+try:
+    save_dir = MEDRQE_2016_ENTAILMENT_TRAIN_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving MedRQE 2016 Entailment Train Data: {save_dir}")
+        os.makedirs(save_dir)
+        bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_medrqe_2016(partition='train')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
+try:
+    save_dir = MEDRQE_2016_ENTAILMENT_TEST_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving MedRQE 2016 Entailment Test Data: {save_dir}")
+        os.makedirs(save_dir)
+        bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_medrqe_2016(partition='test')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 # #END MEDRQE 2016 Entailment
 
 #START MEDNLI 2018 NLI
 from raw_datasets.nli import load_mednli_2018
 
-save_dir = MEDNLI_2018_NLI_TRAIN_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving MedNLI 2018 NLI Train Data: {save_dir}")
-    os.makedirs(save_dir)
-    bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_mednli_2018(partition='train')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
-save_dir = MEDNLI_2018_NLI_TEST_PATH
-if not os.path.isdir(save_dir):
-    print(f"Saving MedNLI 2018 NLI Test Data: {save_dir}")
-    os.makedirs(save_dir)
-    bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_mednli_2018(partition='test')),
-                                                       BertTokenizer.from_pretrained(bert_weight_directory),
-                                                       save_directory=save_dir)
+try:
+    save_dir = MEDNLI_2018_NLI_TRAIN_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving MedNLI 2018 NLI Train Data: {save_dir}")
+        os.makedirs(save_dir)
+        bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_mednli_2018(partition='train')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
+try:
+    save_dir = MEDNLI_2018_NLI_TEST_PATH
+    if not os.path.isdir(save_dir):
+        print(f"Saving MedNLI 2018 NLI Test Data: {save_dir}")
+        os.makedirs(save_dir)
+        bert_inputs, labels, class_labels = SentencePairClassificationDataset.create_sentence_pair_dataset(list(load_mednli_2018(partition='test')),
+                                                           BertTokenizer.from_pretrained(bert_weight_directory),
+                                                           save_directory=save_dir)
+except FileNotFoundError as e:
+    print(f"Could not find raw files for {save_dir}")
 # #END MEDNLI 2018 NLI
 #
 #
