@@ -5,9 +5,10 @@ the data distributor and caches the tensors required to train our multitasking m
 
 Fortunately, two datasets are under no PHI license and so are included in the the package:
 1) [quaero-2014](https://quaerofrenchmed.limsi.fr/)
-2) [med-rqe]()
+2) [med-rqe](https://github.com/abachaa/MEDIQA2019/tree/master/MEDIQA_Task2_RQE)
 
-3) 
+Med-NLI can be found here:
+3) [med-nli](https://physionet.org/content/mednli-bionlp19/1.0.1/)
 
 The rest of the datasets can be found at the [DBMI Data Portal](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/).
 

@@ -113,3 +113,4 @@ examples/raw_datasets/ner/i2b2_2014/*
 examples/raw_datasets/ner/n2c2_2018/*
 examples/raw_datasets/ner/i2b2_2012/*
 examples/raw_datasets/similarity/n2c2_2019/*
+examples/raw_datasets/nli/mednli_2018/*
