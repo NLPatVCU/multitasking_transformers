@@ -4,7 +4,7 @@ from multitasking_transformers.heads import TransformerHead, SubwordClassificati
 from multitasking_transformers.multitaskers import MultiTaskingBert
 from multitasking_transformers.dataloaders import RoundRobinDataLoader
 from torch.utils.data import DataLoader
-import gin, logging, os, torch, socket, time, shutil, mlflow, atexit
+import logging, os, torch, socket, time
 from pprint import pprint
 
 log = logging.getLogger('root')
@@ -17,17 +17,9 @@ def setup_logger():
     #Set run specific envirorment configurations
     timestamp = time.strftime("run_%Y_%m_%d_%H_%M_%S") + "_{machine}".format(machine=socket.gethostname())
 
-    gin.bind_parameter('multi_tasking_train.model_storage_directory',
-                       os.path.join(gin.query_parameter('multi_tasking_train.model_storage_directory'), timestamp))
-
-    os.makedirs(gin.query_parameter('multi_tasking_train.model_storage_directory'), exist_ok=True)
 
     log.handlers.clear()
     formatter = logging.Formatter('%(message)s')
-    fh = logging.FileHandler(os.path.join(gin.query_parameter('multi_tasking_train.model_storage_directory'), "log.txt"))
-    fh.setLevel(logging.INFO)
-    fh.setFormatter(formatter)
-    log.addHandler(fh)
 
     ch = logging.StreamHandler()
     ch.setLevel(logging.INFO)
@@ -36,23 +28,23 @@ def setup_logger():
     log.addHandler(ch)
 
     #Set global GPU state
-    if torch.cuda.is_available() and gin.query_parameter('multi_tasking_train.device') == 'cuda':
-        log.info("Using CUDA device:{0}".format(torch.cuda.current_device()))
-    else:
-        if gin.query_parameter('multi_tasking_train.device') == 'cpu':
-            log.info("Utilizing CPU")
-        else:
-            raise Exception(f"Unrecognized device: {gin.query_parameter('multi_tasking_train.device')}")
+    # if torch.cuda.is_available() and gin.query_parameter('multi_tasking_train.device') == 'cuda':
+    #     log.info("Using CUDA device:{0}".format(torch.cuda.current_device()))
+    # else:
+    #     if gin.query_parameter('multi_tasking_train.device') == 'cpu':
+    #         log.info("Utilizing CPU")
+    #     else:
+    #         raise Exception(f"Unrecognized device: {gin.query_parameter('multi_tasking_train.device')}")
 
     #ML-Flow
-    mlflow.set_tracking_uri(f"{gin.query_parameter('multi_tasking_train.ml_flow_directory')}")
-    mlflow.set_experiment(f"/{gin.query_parameter('multi_tasking_train.experiment_name')}")
+    # mlflow.set_tracking_uri(f"{gin.query_parameter('multi_tasking_train.ml_flow_directory')}")
+    # mlflow.set_experiment(f"/{gin.query_parameter('multi_tasking_train.experiment_name')}")
 
-    mlflow.start_run()
-    gin_parameters = gin.config._CONFIG.get(list(gin.config._CONFIG.keys())[0])
+    # mlflow.start_run()
+    # gin_parameters = gin.config._CONFIG.get(list(gin.config._CONFIG.keys())[0])
     #gin_parameters['tasks'] = TASKS
 
-    mlflow.log_params(gin_parameters)
+    # mlflow.log_params(gin_parameters)
 
 
 HEADS = {
@@ -123,32 +115,25 @@ def load_clinical_configured_tasks(preprocessed_directory=os.path.join(os.getcwd
     return TASKS
 
 
-
-@gin.configurable('multi_tasking_train')
-def train(experiment_name,
-          ml_flow_directory,
-          transformer_weights,
-          model_storage_directory,
-          device,
-          repeat_in_epoch_sampling,
-          learning_rate,
-          seed,
-          evaluation_interval=1,
-          checkpoint_interval=1,
+def predict(
+          transformer_weights='mt_clinical_bert_8_tasks',
+          model_storage_directory='',
+          device='cpu',
+          learning_rate=5e-5,
+          seed=5,
           shuffle=True,
           num_workers=1,
-          num_epochs=1,
           transformer_hidden_size = 768,
           transformer_dropout_prob = .1
           ):
 
-    log.info(gin.config_str())
+    # log.info(gin.config_str())
 
     torch.random.manual_seed(seed)
     heads_and_datasets = []
     load_clinical_configured_tasks()
 
-    print("MT training with the following tasks:")
+    print("MT Prediction over the following tasks:")
     pprint(TASKS)
 
     for task in TASKS:
@@ -172,10 +157,6 @@ def train(experiment_name,
                 else:
                     head.config.evaluate_biluo = False
             heads_and_datasets.append((head,
-                                       DataLoader(train_dataset,
-                                                  batch_size = TASKS[task][dataset]['batch_size'],
-                                                  num_workers = num_workers
-                                                  ),
                                        DataLoader(test_dataset,
                                                   batch_size = TASKS[task][dataset]['batch_size'],
                                                   shuffle = shuffle,
@@ -186,31 +167,23 @@ def train(experiment_name,
 
 
 
-    heads = [head for head, _,_ in heads_and_datasets]
-    mlflow.set_tag('number_tasks', str(len(heads)))
+    heads = [head for head, _ in heads_and_datasets]
+    # mlflow.set_tag('number_tasks', str(len(heads)))
     mtb = MultiTaskingBert(heads,
                            model_storage_directory=model_storage_directory,
                            transformer_weights=transformer_weights,
                            device=device,
                            learning_rate=learning_rate
                            )
-    mtb.fit(heads_and_datasets,
-            num_epochs=num_epochs,
-            evaluation_interval=evaluation_interval,
-            checkpoint_interval=checkpoint_interval,
-            repeat_in_epoch_sampling=repeat_in_epoch_sampling)
+
+    mtb.predict(heads_and_datasets)
+
 
 
 if __name__ == "__main__":
-    gin.parse_config_file('train_config.gin')
     setup_logger()
-    train()
-    mlflow.end_run()
-
-@atexit.register
-def cleanup_on_kill():
-    log.info("Training was abruptly killed.")
-    mlflow.end_run()
+    predict()
+    # mlflow.end_run()
 
 
 

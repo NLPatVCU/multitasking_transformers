@@ -19,11 +19,11 @@ More [examples](/examples).
 
 
 # Replication
-See the directory [/examples/clinical/mt](/examples/clinical/mt).
+See the directory [/examples/clinical](/examples/clinical).
 
 
 # Acknowledgement
-Implementation, development and training in this project were supported by funding from McInnes NLP Lab at Virginia Commonwealth University.
+Implementation, development and training in this project were supported by funding from the McInnes NLP Lab at Virginia Commonwealth University.
 
 
 -------------

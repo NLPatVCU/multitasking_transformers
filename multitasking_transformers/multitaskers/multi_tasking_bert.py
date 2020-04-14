@@ -1,4 +1,4 @@
-import gin, os, torch, logging, mlflow, numpy as np
+import os, torch, logging, mlflow, numpy as np
 from typing import List, Tuple
 from transformers import BertModel, BertConfig, BertTokenizer, CONFIG_NAME, WEIGHTS_NAME
 from multitasking_transformers.dataloaders import RoundRobinDataLoader
@@ -6,6 +6,7 @@ from multitasking_transformers.heads import TransformerHead, SubwordClassificati
     CLSRegressionHead, CLSClassificationHead
 
 from multitasking_transformers.evaluation import evaluate_ner, evaluate_sts, evaluate_classification
+from .util import get_model_path
 from torch.utils.data import DataLoader
 
 log = logging.getLogger('root')
@@ -16,9 +17,7 @@ class MultiTaskingBert():
                  heads: List[TransformerHead],
                  transformer_weights: str,
                  model_storage_directory=None,
-                 evaluation_interval=1,
-                 checkpoint_interval=1,
-                 device='cuda',
+                 device='cpu',
                  learning_rate=5e-5,
                  transformer_layers=12,
                  use_pretrained_heads=True):
@@ -26,7 +25,7 @@ class MultiTaskingBert():
         
         :param model_directory: a directory path to the multi-tasking model. This contains bert weights and head weights.
         """
-        self.transformer_weights = transformer_weights
+        self.transformer_weights = get_model_path(transformer_weights)
         self.heads = heads
         self.model_storage_directory = model_storage_directory
         self.transformer_layers = transformer_layers
@@ -231,7 +230,7 @@ class MultiTaskingBert():
                                                      attention_mask=bert_attention_masks,
                                                      token_type_ids=bert_token_type_ids
                                                      )
-
+                        print("Here")
                         subword_scores = head(all_hidden[self.transformer_layers])[0]
                         batch_sequence_predictions = subword_scores.max(2)[1] #subword predictions
 

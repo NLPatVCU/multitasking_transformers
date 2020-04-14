@@ -82,7 +82,10 @@ class TransformerHead(Module):
         assert loaded_config.head_task == self.config.head_task
 
         self.config.update(loaded_config.__dict__)
-        self.load_state_dict(torch.load(weight_filepath))
+        if torch.cuda.is_available():
+            self.load_state_dict(torch.load(weight_filepath))
+        else:
+            self.load_state_dict(torch.load(weight_filepath, map_location=torch.device('cpu')))
         return True
 
     def save(self, head_directory: str):
