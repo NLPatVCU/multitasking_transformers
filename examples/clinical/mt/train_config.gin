@@ -6,9 +6,9 @@ multi_tasking_train.ml_flow_directory = "/home/aymulyar/results/multitasking_tra
 multi_tasking_train.experiment_name = "all_clinical_tasks"
 
 # Training
-multi_tasking_train.seed = 0
+multi_tasking_train.seed = 5
 multi_tasking_train.learning_rate = 5e-5
-multi_tasking_train.num_epochs = 20
+multi_tasking_train.num_epochs = 6
 multi_tasking_train.evaluation_interval = 1
 multi_tasking_train.checkpoint_interval = 5
 multi_tasking_train.repeat_in_epoch_sampling = True
