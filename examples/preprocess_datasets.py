@@ -1,6 +1,7 @@
 import os, torch, sys
 from multitasking_transformers.data import NERDataset, \
     SentencePairRegressionDataset, SentencePairClassificationDataset
+from multitasking_transformers.multitaskers.util import get_model_path
 from transformers import BertTokenizer
 
 #import from non-standard path module, do not remove.
@@ -8,10 +9,10 @@ csfp = os.path.abspath(os.path.join(os.path.dirname(__file__), "raw_datasets"))
 if csfp not in sys.path:
     sys.path.insert(0, csfp)
 
-#bert_weight_directory = '/home/rodriguezne2/models/biobert_large'
 
-bert_weight_directory = '/home/aymulyar/models/biobert_pretrain_output_all_notes_150000'
-#bert_weight_directory = '/media/andriy/Samsung_T5/research/clinical/models/bert/biobert_pretrain_output_all_notes_150000'
+#This model shares the same vocab as bert-base-uncased.
+bert_weight_directory = get_model_path('mt_clinical_bert_8_tasks')
+
 if not os.path.exists(bert_weight_directory):
     raise FileNotFoundError(f"Did you update the `bert_weight_directory` variable in `preprocess_datasets`? Could not find {bert_weight_directory}")
 
