@@ -208,6 +208,9 @@ class MultiTaskingBert():
 
         self.bert.eval()
         self.bert.to(device=self.device)
+        for head in self.heads:
+            head.to(device=self.device)
+            head.eval()
 
         for head in self.heads:
             head.eval()
