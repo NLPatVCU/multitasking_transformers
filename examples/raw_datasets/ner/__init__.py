@@ -1,1 +1,1 @@
-from .data import load_n2c2_2018, load_i2b2_2014, load_i2b2_2012, load_quaero_frenchmed
+from .data import load_n2c2_2018, load_i2b2_2014, load_i2b2_2012, load_i2b2_2010, load_quaero_frenchmed

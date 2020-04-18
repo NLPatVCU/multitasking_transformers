@@ -270,6 +270,138 @@ def load_i2b2_2014(partition='train'):
         doc._.id = id
         yield doc, fixed_annotation
 
+def load_i2b2_2010(partition='train'):
+    assert partition in ['train', 'test']
+    language = get_language()
+
+    if partition == 'train':
+        annotation_dir = [os.path.join(base_path, 'ner', 'i2b2_2010', 'concept_assertion_relation_training_data', 'beth', 'concept'),
+                          os.path.join(base_path, 'ner', 'i2b2_2010', 'concept_assertion_relation_training_data','partners', 'concept')
+                          ]
+    else:
+        annotation_dir = [os.path.join(base_path, 'ner', 'i2b2_2010', 'reference_standard_for_test_data', 'concepts')]
+
+    file_list = [file for dir in annotation_dir for file in os.listdir(dir) if file.endswith('con')]
+    file_ids = sorted(set(file[:-4] for file in file_list))  # remove ending to get unique files
+
+
+    annotations = []
+    raw_text_files = []
+    unique_entity_labels = set()
+
+
+
+    for id in file_ids:
+        annotation = {
+            'entities': {
+
+            },
+            'relations': []
+        }
+        if partition == 'train':
+            if os.path.exists(os.path.join(annotation_dir[0], '..', 'txt', f'{id}.txt')):
+                raw_text_files.append(open(os.path.join(annotation_dir[0], '..', 'txt', f'{id}.txt'), 'r').read().strip())
+                annotation_file = open(os.path.join(annotation_dir[0], f'{id}.con'), 'r').read().strip()
+            else:
+                raw_text_files.append(open(os.path.join(annotation_dir[1], '..', 'txt', f'{id}.txt'), 'r').read().strip())
+                annotation_file = open(os.path.join(annotation_dir[1], f'{id}.con'), 'r').read().strip()
+        else:
+            raw_file = os.path.join(annotation_dir[0], '..', '..', 'test_data')
+            raw_text_files.append(open(os.path.join(raw_file, f'{id}.txt'), 'r').read().strip())
+            annotation_file = open(os.path.join(annotation_dir[0], f'{id}.con'), 'r').read().strip()
+
+        raw_text = raw_text_files[-1]
+        #print(id)
+        #print(raw_text)
+        for idx, line in enumerate(annotation_file.split('\n')):
+            if not line:
+                continue
+            span_start, span_end = line.split('||')[0].split(' ')[-2], line.split('||')[0].split(' ')[-1]
+
+
+            #compute character span offsets from token offsets
+
+
+            def con_to_ann(raw_text, span_start, span_end):
+                span_start_character = 0
+                span_end_character = 0
+                for i, raw_line in enumerate(raw_text.split('\n')):
+                    if i < int(span_start.split(':')[0])-1:
+                        span_start_character += len(raw_line)+1
+                    else:
+                        line_tokens = raw_line.split(' ')
+                        line_start_character = span_start_character
+                        span_start_character += len(' '.join(line_tokens[0:int(span_start.split(':')[1])+1]))
+                        span_end_character = line_start_character + len(
+                            ' '.join(line_tokens[0:int(span_end.split(':')[1]) + 1]))
+                        return (span_start_character, span_end_character)
+
+            start_char, end_char = con_to_ann(raw_text, span_start, span_end)
+            annotation['entities'][f'T{idx}'] = [tuple((start_char, end_char, line.split('||')[1].split('"')[1] ) )]
+        annotations.append(annotation)
+
+    raw_text_files = list(language.pipe(raw_text_files, batch_size=50))
+
+
+    print(len(raw_text_files))
+
+    # Assures that the annotated dataset labels align with the tokenization.
+    for idx, (id, doc, annotation) in enumerate(zip(file_ids, raw_text_files, annotations)):
+        # doc = language(raw_text)
+
+        fixed_annotation = {
+            'entities': {
+
+            },
+            'relations': annotation['relations']
+        }
+
+        for idx, key in enumerate(annotation['entities']):
+            instance = annotation['entities'][key]
+            fixed_annotation['entities'][key] = []
+            for span in instance:
+                char_span = doc.char_span(span[0], span[1])
+                if char_span is None:
+                    if doc.char_span(span[0] - 1, span[1]) is not None:
+                        char_span = doc.char_span(span[0] - 1, span[1])
+                    elif doc.char_span(span[0] - 1, span[1] - 1) is not None:
+                        char_span = doc.char_span(span[0] - 1, span[1] - 1)
+                    elif doc.char_span(span[0], span[1] + 1) is not None:
+                        char_span = doc.char_span(span[0], span[1] + 1)
+                    elif doc.char_span(span[0] + 5, span[1] + 5) is not None:
+                        char_span = doc.char_span(span[0] + 5, span[1] + 5)
+
+                if char_span is None:
+                    for token in doc:
+                        print(token)
+                    print(str(doc)[span[0] - 20:span[1] + 20])
+                    print(id, span, str(doc)[span[0]:span[1]])
+                    raise RuntimeError(
+                        'Could not load mention span from %s as it does not align with tokenization. Add \'%s\' to tokenization exceptions.'
+                        % (id, str(doc)[int(span[0]):int(span[1])]))
+
+                # checks if this span overlaps with any other
+                overlapping = False
+                for idx2, key2 in enumerate(annotation['entities']):
+                    for s2 in annotation['entities'][key2]:
+                        if char_span.start_char <= s2[1] and s2[0] <= char_span.end_char:
+                            if idx == idx2:
+                                pass
+                            else:
+                                # overlapping span, ignore the occurence.
+                                overlapping = True
+                if not overlapping:
+                    fixed_annotation['entities'][key].append(tuple((char_span.start_char, char_span.end_char, span[2])))
+
+        fixed_annotation['entity_labels'] = I2B2_2010_NER_LABELS
+        fixed_annotation['relation_labels'] = I2B2_2010_RELATION_LABELS
+
+        doc._.id = id
+        yield doc, fixed_annotation
+
+
+
+
 def load_i2b2_2012(partition='train'):
     assert partition in ['train', 'test']
     language = get_language()
@@ -414,17 +546,13 @@ def load_quaero_frenchmed(partition='train'):
 
         raw_text_files.append(open(os.path.join(annotation_dir, f'{id}.txt'), 'r').read().strip())
         annotation_file = open(os.path.join(annotation_dir, f'{id}.ann'), 'r').read().strip()
-        # raw_text_files.append(
-        #     resource_string('clinical_data', 'ner/quaero_frenchmed_2014/%s/%s.txt' % (partition, id)).decode('utf-8'))
-        #
-        # annotation_file = resource_string('clinical_data', 'ner/quaero_frenchmed_2014/%s/%s.ann' % (partition, id)).decode(
-        #     'utf-8').strip()
         annotation = {
             'entities': {
 
             },
             'relations': []
         }
+        #convert con format in character spans w.r.t. document.
         for line in annotation_file.strip().split('\n'):
 
             line = line.split('\t')
