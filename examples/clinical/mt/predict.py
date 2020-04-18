@@ -118,7 +118,7 @@ def load_clinical_configured_tasks(preprocessed_directory=os.path.join(os.getcwd
 def predict(
           transformer_weights='mt_clinical_bert_8_tasks',
           model_storage_directory='',
-          device='cpu',
+          device='cuda',
           learning_rate=5e-5,
           seed=5,
           shuffle=True,
