@@ -332,8 +332,7 @@ def load_i2b2_2010(partition='train'):
                         line_tokens = raw_line.split(' ')
                         line_start_character = span_start_character
                         span_start_character += len(' '.join(line_tokens[0:int(span_start.split(':')[1])+1]))
-                        span_end_character = line_start_character + len(
-                            ' '.join(line_tokens[0:int(span_end.split(':')[1]) + 1]))
+                        span_end_character = line_start_character + len(' '.join(line_tokens[0:int(span_end.split(':')[1]) + 1]))
                         return (span_start_character, span_end_character)
 
             start_char, end_char = con_to_ann(raw_text, span_start, span_end)

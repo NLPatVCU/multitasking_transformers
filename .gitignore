@@ -107,10 +107,10 @@ venv.bak/
 experiments/
 
 #datasets
-examples/data/*
-examples/raw_datasets/ner/i2b2_2010/*
-examples/raw_datasets/ner/i2b2_2014/*
-examples/raw_datasets/ner/n2c2_2018/*
-examples/raw_datasets/ner/i2b2_2012/*
-examples/raw_datasets/similarity/n2c2_2019/*
-examples/raw_datasets/nli/med_nli/*
+examples/experiment_replication/data/*
+examples/experiment_replication/raw_datasets/ner/i2b2_2010/*
+examples/experiment_replication/raw_datasets/ner/i2b2_2014/*
+examples/experiment_replication/raw_datasets/ner/n2c2_2018/*
+examples/experiment_replication/raw_datasets/ner/i2b2_2012/*
+examples/experiment_replication/raw_datasets/similarity/n2c2_2019/*
+examples/experiment_replication/raw_datasets/nli/med_nli/*
