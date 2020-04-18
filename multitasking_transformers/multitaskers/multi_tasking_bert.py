@@ -207,6 +207,8 @@ class MultiTaskingBert():
         """
 
         self.bert.eval()
+        self.bert.to(device=self.device)
+
         for head in self.heads:
             head.eval()
         with torch.no_grad():
@@ -217,7 +219,7 @@ class MultiTaskingBert():
                     for idx, batch in enumerate(dataloader):
                         bert_input_ids, bert_token_type_ids, bert_attention_masks,\
                         bert_sequence_lengths, correct_bert_labels, correct_spacy_labels, alignments, _ = batch
-
+                        print("Here")
                         bert_input_ids = bert_input_ids.to(device=self.device)
                         bert_attention_masks = bert_attention_masks.to(device=self.device)
 
@@ -230,7 +232,7 @@ class MultiTaskingBert():
                                                      attention_mask=bert_attention_masks,
                                                      token_type_ids=bert_token_type_ids
                                                      )
-                        print("Here")
+
                         subword_scores = head(all_hidden[self.transformer_layers])[0]
                         batch_sequence_predictions = subword_scores.max(2)[1] #subword predictions
 
