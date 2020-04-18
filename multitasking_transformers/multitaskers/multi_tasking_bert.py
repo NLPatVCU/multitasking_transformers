@@ -222,7 +222,7 @@ class MultiTaskingBert():
                     for idx, batch in enumerate(dataloader):
                         bert_input_ids, bert_token_type_ids, bert_attention_masks,\
                         bert_sequence_lengths, correct_bert_labels, correct_spacy_labels, alignments, _ = batch
-                        print("Here")
+
                         bert_input_ids = bert_input_ids.to(device=self.device)
                         bert_attention_masks = bert_attention_masks.to(device=self.device)
 
