@@ -20,7 +20,6 @@ Running the script [predict_ner.py](/examples/predict_ner.py) will automatically
 download a pre-trained clinical note multi-tasking model, run the model through a de-identified
 clinical note snippet and display the entity tags in your browser with displacy.
 
-
 # Replication
 See the directory [/examples/experiment_replication](/examples/experiment_replication).
 
