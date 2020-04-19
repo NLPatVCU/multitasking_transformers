@@ -18,7 +18,7 @@ pip install git+https://github.com/AndriyMulyar/multitasking_transformers
 
 Running the script [predict_ner.py](/examples/predict_ner.py) will automatically
 download a pre-trained clinical note multi-tasking model, run the model through a de-identified
-clinical note snippet and display the results in browser.
+clinical note snippet and display the entity tags in your browser with displacy.
 
 
 # Replication
