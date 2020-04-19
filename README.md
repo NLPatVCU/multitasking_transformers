@@ -14,12 +14,15 @@ pip install git+https://github.com/AndriyMulyar/multitasking_transformers
 ```
 
 # Use
-The current state of this codebase only supports training and validation. Check back later for open-ended prediction.
-More [examples](/examples).
+[Examples](/examples) are available for training, evaluation and text prediction.
+
+Running the script [predict_ner.py](/examples/predict_ner.py) will automatically
+download a pre-trained clinical note multi-tasking model, run the model through a de-identified
+clinical note snippet and display the results in browser.
 
 
 # Replication
-See the directory [/examples/clinical](/examples/clinical).
+See the directory [/examples/experiment_replication](/examples/experiment_replication).
 
 
 # Acknowledgement
@@ -28,8 +31,8 @@ Implementation, development and training in this project were supported by fundi
 
 -------------
 Todo:
-- [ ] Individual finetuning training example.
-- [ ] Finish MT replication README.
-- [ ] Uploaded pre-trained models.
-- [ ] Incorporate non-preprocessing prediction code.
+- [x] Individual finetuning training example.
+- [x] Finish MT replication README.
+- [ ] Upload single task finetuned pre-trained models.
+- [x] Incorporate non-preprocessing prediction code.
 - [ ] Wrap in API and release API in docker container.
