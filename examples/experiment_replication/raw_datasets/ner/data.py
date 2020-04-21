@@ -340,9 +340,6 @@ def load_i2b2_2010(partition='train'):
 
     raw_text_files = list(language.pipe(raw_text_files, batch_size=50))
 
-
-    print(len(raw_text_files))
-
     # Assures that the annotated dataset labels align with the tokenization.
     for idx, (id, doc, annotation) in enumerate(zip(file_ids, raw_text_files, annotations)):
         # doc = language(raw_text)
@@ -372,24 +369,25 @@ def load_i2b2_2010(partition='train'):
                 if char_span is None:
                     for token in doc:
                         print(token)
-                    # print(str(doc)[span[0] - 20:span[1] + 20])
+                    print(str(doc)[span[0] - 20:span[1] + 20])
                     print(id, span, str(doc)[span[0]:span[1]])
+                    continue
                     # raise RuntimeError(
                     #     'Could not load mention span from %s as it does not align with tokenization. Add \'%s\' to tokenization exceptions.'
                     #     % (id, str(doc)[int(span[0]):int(span[1])]))
 
                 # checks if this span overlaps with any other
-                # overlapping = False
-                # for idx2, key2 in enumerate(annotation['entities']):
-                #     for s2 in annotation['entities'][key2]:
-                #         if char_span.start_char <= s2[1] and s2[0] <= char_span.end_char:
-                #             if idx == idx2:
-                #                 pass
-                #             else:
-                #                 # overlapping span, ignore the occurence.
-                #                 overlapping = True
-                # if not overlapping:
-                #     fixed_annotation['entities'][key].append(tuple((char_span.start_char, char_span.end_char, span[2])))
+                overlapping = False
+                for idx2, key2 in enumerate(annotation['entities']):
+                    for s2 in annotation['entities'][key2]:
+                        if char_span.start_char <= s2[1] and s2[0] <= char_span.end_char:
+                            if idx == idx2:
+                                pass
+                            else:
+                                # overlapping span, ignore the occurence.
+                                overlapping = True
+                if not overlapping:
+                    fixed_annotation['entities'][key].append(tuple((char_span.start_char, char_span.end_char, span[2])))
 
         fixed_annotation['entity_labels'] = I2B2_2010_NER_LABELS
         fixed_annotation['relation_labels'] = I2B2_2010_RELATION_LABELS
