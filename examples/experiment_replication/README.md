@@ -15,8 +15,18 @@ the included datasets will work and you will be able to multitask train on the t
 To fully replicate the MT-Clinical-BERT training, you must download the remaining dataset's yourself.
 Med-NLI can be found here: [med-nli](https://physionet.org/content/mednli-bionlp19/1.0.1/) and the rest of the datasets can be found at the [DBMI Data Portal](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/).
 
+
 Datasets should be un-zipped into the appropriate sub-directory of raw_datasets. Once un-zipped in the
-correct directory, `preprocess_datasets.py` will handle the rest.
+correct directory, `preprocess_datasets.py` will handle the rest except for the i2b2-2010 dataset.
+For i2b2-2010, combine the extracted raw text files with the respective 'concept' sub-folders for both training
+and testing data. Then run the included con_to_brat.py file. You will need to run it three times - once for each training
+sub-set and then also on the testing set.
+
+```bash
+python con_to_brat.py ner/i2b2_2010/concept_assertion_relation_training_data/beth/concept ner/i2b2_2010/concept_assertion_relation_training_data/beth/concept
+python con_to_brat.py ner/i2b2_2010/concept_assertion_relation_training_data/partners/concept ner/i2b2_2010/concept_assertion_relation_training_data/partners/concept
+python con_to_brat.py ner/i2b2_2010/reference_standard_for_test_data/concepts/ ner/i2b2_2010/reference_standard_for_test_data/concepts/
+```
 
 For reference, your `raw_datasets` directory should look roughly like this:
 
