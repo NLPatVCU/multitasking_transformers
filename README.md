@@ -30,8 +30,5 @@ Implementation, development and training in this project were supported by fundi
 
 -------------
 Todo:
-- [x] Individual finetuning training example.
-- [x] Finish MT replication README.
 - [ ] Upload single task finetuned pre-trained models.
-- [x] Incorporate non-preprocessing prediction code.
 - [ ] Wrap in API and release API in docker container.
