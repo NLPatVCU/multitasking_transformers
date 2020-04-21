@@ -369,7 +369,7 @@ def load_i2b2_2010(partition='train'):
                 if char_span is None:
                     for token in doc:
                         print(token)
-                    print(str(doc)[span[0] - 20:span[1] + 20])
+                    # print(str(doc)[span[0] - 20:span[1] + 20])
                     print(id, span, str(doc)[span[0]:span[1]])
                     continue
                     # raise RuntimeError(
