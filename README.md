@@ -23,6 +23,8 @@ clinical note snippet and display the entity tags in your browser with displacy.
 # Replication
 See the directory [/examples/experiment_replication](/examples/experiment_replication).
 
+# Preprint
+https://arxiv.org/abs/2004.10220
 
 # Acknowledgement
 Implementation, development and training in this project were supported by funding from the McInnes NLP Lab at Virginia Commonwealth University.
