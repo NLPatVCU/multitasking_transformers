@@ -58,7 +58,7 @@ setup(
         'spacy==2.2.3',
         'scispacy',
         'tokenization',
-        'en_core_sci_sm @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.0/en_core_sci_sm-0.2.0.tar.gz'
+        'en_core_sci_sm @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.4/en_core_sci_sm-0.2.4.tar.gz'
     ],
     tests_require=["pytest"],
     cmdclass={"pytest": PyTest},
