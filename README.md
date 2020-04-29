@@ -10,6 +10,9 @@ for details.
 Install with
 
 ```
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.0/en_core_sci_sm-0.2.0.tar.gz
+```
+```
 pip install git+https://github.com/AndriyMulyar/multitasking_transformers
 ```
 
