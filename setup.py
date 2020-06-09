@@ -57,7 +57,7 @@ setup(
         'gin-config',
         'spacy==2.2.3',
         'scispacy',
-        'tokenization',
+        'tokenizers',
         'en_core_sci_sm @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.0/en_core_sci_sm-0.2.0.tar.gz'
     ],
     tests_require=["pytest"],
