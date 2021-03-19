@@ -3,7 +3,7 @@ training nlp models that can perform multiple tasks with the same set of represe
 
 pre-trained models are currently available that multitask over eight clinical note tasks.
 
-This codebase can be utilized to replicate results for a currently in-review AMIA paper. See the Replication section
+This codebase can be utilized to replicate results for our paper. See the Replication section
 for details.
 # Installation
 
