@@ -31,9 +31,3 @@ https://arxiv.org/abs/2004.10220
 
 # Acknowledgement
 Implementation, development and training in this project were supported by funding from the McInnes NLP Lab at Virginia Commonwealth University.
-
-
--------------
-Todo:
-- [ ] Upload single task finetuned pre-trained models.
-- [ ] Wrap in API and release API in docker container.
